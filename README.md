@@ -13,12 +13,12 @@ We create such OSS package analysis files and make them available for download u
 The OSS package analysis file are generated following the process described below:
 
 * Obtain the component in source code form
-	** download the component from the official web site / check the hashes
-	** the component is provided by a third party
+	* download the component from the official web site / check the hashes
+	* the component is provided by a third party
 * Issue a license and copyright analysis with the GPL-2.0 licensed tool FOSSology. FOSSology searches in files for the following information:
-** License relevant text phrases
-** Copyright strings
-** Keywords for ECC (Export, Control and Customs)
+	* License relevant text phrases
+	* Copyright strings
+	* Keywords for ECC (Export, Control and Customs)
 * A licensing expert person will review and analyze the FOSSology result. The expert person is not necessarily a lawyer, but has several years of experience in license compliance activities.
 * Result is reviewed by a person who has more experience in license compliance activities than the author.
 * The final result is made available in form of a Debian copyright file or a SPDX document or another "machine & human friendly" format.

@@ -7,6 +7,10 @@ Sharing creates value targets the first perception and strive for the goal to lo
 Another objective of Sharing creates value is a very close collaboration with the OSS community in order to fix detected "bugs" in licensing as well as introducing the information needed for license compliance activities in the Open Source projects, i.e. provide our analysis work to the OSS projects.
 Last but not least we support tools which will help you to automate and reduce you effort in component management, license identification, OSS license compliance activities.
 
+## OSS package analysis file
+One of the tasks in OSS compliance work is the analysis of OSS packages in order to identify the licenses and copyright holders. Although tools are available which support the analysis, it is still the task which causes effort.
+We believe that is does not make any sense that everyone doing checks of packages again and again. This is redundant effort in our opinion which could be much better invested in OSS development. In other words: we think increasing the code base is much better instead of spending effort for license compliance checks which are done thousand fold today in many different organizations.
+
 ## Process we follow in order to create a OSS package analysis file
 We create such OSS package analysis files and make them available for download under the terms of the Creative Commons Public Domain Dedication [CC0 1.0]  (https://creativecommons.org/publicdomain/zero/1.0/). We know that the content we produce is somehow delicate. Due to this it is important to disclose how we create such content. Since we represent an Open Source project everything is transparent. The following points describe the procedure we follow in creating the "OSS package analysis file" as we call it. 
 

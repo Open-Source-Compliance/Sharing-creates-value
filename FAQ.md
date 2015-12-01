@@ -1,4 +1,4 @@
-What to contribute?
+## What to contribute?
 Everybody is invited to contribute any material, which will ease and / or reduce the efoort of OSS license compliance activities. a contribution can be a Debian copyright file, a SPDX document or any other "machine & human friendly" format of an OSS package analysis file.
 Furhter contributions can be:
 1. A license text found in the internetwhich is not yet part of FOSSology

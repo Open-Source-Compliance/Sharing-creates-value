@@ -10,4 +10,7 @@ Furhter contributions can be:
 * Export Control and Customs (ECC) classifications, license exception TSU (Technology and Software Unrestricted)
 * and any other material which makes live in OSS compliance easier.
 If you represent a company and you do consider to contribute material, we do not interpret the material which is contributed as an indicator of the maturity of the established processes.
+
 ## How to contribute?
+Like any other state of the art OSS project, we need a prove that all information / tools / documents /or any other contributions are contributed with the right and allowance to do so.
+We need a Certificate of Origin. This does not imply relevant additional efforts; for example, every Linux kernel developer is familiar with this approach. Please understand that we cannot accept and make any contribution available via our sites which are not accompanied by the certificate of origin.

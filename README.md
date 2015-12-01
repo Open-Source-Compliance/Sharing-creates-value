@@ -6,6 +6,13 @@ Free and Open Source Software development has a long and successful history. Its
 Sharing creates value targets the first perception and strive for the goal to lower the required effort for all who want to make use of OSS in a license compliant way. To achieve this we will develop, share and improve the artifacts needed to fulfill the requirements of the different Free and Open Source Software licenses by applying the Open Source Software development principles. This will turn Open Source license compliance into a straight forward task. As a consequence, it will increase the adoption of Free and Open Source Software tremendously.
 Another objective of Sharing creates value is a very close collaboration with the OSS community in order to fix detected "bugs" in licensing as well as introducing the information needed for license compliance activities in the Open Source projects, i.e. provide our analysis work to the OSS projects.
 Last but not least we support tools which will help you to automate and reduce you effort in component management, license identification, OSS license compliance activities.
+## Our areas of work 
+* OSS package analysis files
+* OSS disclosure documents
+* Licenses found in the internet, which are not yet part of FOSSology
+* License analysis (rights, restrictions, obligation)
+* Tools
+* any other material which ease the OSS license compliance activities
 
 ## OSS package analysis file
 One of the tasks in OSS compliance work is the analysis of OSS packages in order to identify the licenses and copyright holders. Although tools are available which support the analysis, it is still the task which causes effort.

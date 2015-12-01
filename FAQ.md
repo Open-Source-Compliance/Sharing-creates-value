@@ -9,3 +9,5 @@ Furhter contributions can be:
 * Software or tools, such as SPDX comparison or analysis tools
 * Export Control and Customs (ECC) classifications, license exception TSU (Technology and Software Unrestricted)
 * and any other material which makes live in OSS compliance easier.
+If you represent a company and you do consider to contribute material, we do not interpret the material which is contributed as an indicator of the maturity of the established processes.
+## How to contribute?

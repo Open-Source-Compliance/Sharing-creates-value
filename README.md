@@ -41,5 +41,5 @@ The OSS package analysis file are generated following the process described belo
 * Result is reviewed by a person who has more experience in license compliance activities than the author.
 * The final result is made available in form of a Debian copyright file or a SPDX document or another "machine & human friendly" format.
 * For the analysis of the OSS packages we currently use [FOSSology version 3.0] (http://www.fossology.org/projects/fossology)
-* Our work instance can be found [here] (http://52.89.71.213/repo/) 
+* Our work instance can be found [here] (http://52.26.97.143/repo/) 
 

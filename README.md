@@ -46,9 +46,9 @@ The OSS package analysis file are generated following the process described belo
 ## Quality assurance process we follow when we recieve OSS package analysis files as a contribution
 
 Here we distinguish two cases:
-### initial contribution
+### Initial contribution
 This means a complete package analysis file is contributed of a package which is not contained here already.
-We inspect the package with FOSSology and do a plausibility test of the content of the document based on the FOSSology information.
-We will make the information available what we compared during the plausibility check
-### update / bug fix 
-In this case we will verified the bug fix; i.e. check the information of the file of the package whether the bug report / fix is correct
+* We inspect the package with FOSSology and do a plausibility test of the content of the document based on the FOSSology information.
+* We will make the information available what we compared during the plausibility check
+### Update / bug fix 
+In this case we will verify the bug fix; i.e. check the information of the file of the package whether the bug report / fix is correct

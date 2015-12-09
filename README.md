@@ -14,12 +14,15 @@ Another objective of Sharing creates value is a very close collaboration with th
 
 Last but not least we support tools which will help you to automate and reduce you effort in component management, license identification, OSS license compliance activities.
 ## Our areas of work 
+* Best practises in the area of OSS license compliance
 * OSS package analysis files
 * OSS disclosure documents
 * Licenses found in the internet, which are not yet part of FOSSology
 * License analysis (rights, restrictions, obligation)
-* Tools
+* Descriptions of OSS license compliance processes
 * any other material which ease the OSS license compliance activities
+
+We want to be the platform, which provides all information and artifacts for OSS license compliance. We think that there are a lot good things already available and we want to serve as a place where this information can be shared. Everybody is invited to contribute whatever he/she wants to contribute, for more details please see the FAQs.
 
 ## OSS package analysis file
 One of the tasks in OSS compliance work is the analysis of OSS packages in order to identify the licenses and copyright holders. Although tools are available which support the analysis, it is still the task which causes effort.

@@ -68,7 +68,9 @@ for being not disclosed add a line saying
 	Signed-off-by - no name disclosure: Random J Developer <random@developer.example.org>
 
 
-A review of the contribution will take place, and when the contribution is accepted it will be integrated into our asset pool and thus made available to the public. If we ask to rework  your contirbution be persistent and resubmit after making the changes.
+A review of the contribution will take place, and when the contribution is accepted it will be integrated into our asset pool and thus made available to the public. If we ask to rework  your contribution be persistent and resubmit after making the changes.
+
+If you are still uncertain how and what to conntribute or if you want to make a contribution, without being disclosed as contributor, sent [me] (mailto:ofendt@googlemail.com) an email 
 
 
 

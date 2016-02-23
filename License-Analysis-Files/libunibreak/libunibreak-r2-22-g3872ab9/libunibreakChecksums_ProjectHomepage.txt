@@ -1,0 +1,14 @@
+Project homepage: https://luapower.com/libunibreak
+
+Source package version: r2-22-g3872ab9
+source code download location https://luapower.com/libunibreak/download
+
+Checksums downloaded from -- no checksums available on the project homepage for checking the package 
+
+MD5 checksums:
+292f435e9258cf937feabb0169e52743  libunibreak-master.zip
+
+License analysis files:
+DEB5 file:
+MD5 checksums:
+e783eee42bfc9ad958851709256f2b12   DEP5_libunibreak-r2-22-g3872ab9_1456228378.txt

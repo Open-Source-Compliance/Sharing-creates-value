@@ -1,0 +1,18 @@
+Project homepage: http://www.mr511.de/software/english.html
+
+Source package version: 0.8.13
+source code download location http://www.mr511.de/software/libelf-0.8.13.tar.gz
+
+Checksums: self generated
+
+MD5 checksums:
+4136d7b4c04df68b686570afa26988ac	  libelf-0.8.13.tar.gz
+
+License analysis files:
+SPDX-2 RDF-file:
+MD5 checksums:
+f1e0b446b913146dc833e8984f3c11bb    SPDX2_libelf-0.8.13.tar.gz_1453470009.rdf
+
+DEB5 file:
+MD5 checksums:
+db7ef0e87a14ebba71d844f28d2ca86b    DEP5_libelf-0.8.13.tar.gz_1456175599.txt

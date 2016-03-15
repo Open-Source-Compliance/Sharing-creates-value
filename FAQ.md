@@ -84,6 +84,20 @@ These documents are so to say a donation. For donations there is liability only 
 This question depends on your point of view, whether you trust this project and whether you think that the way how the files are generated is suited to provide accurate and reliable information.
 We think that the process is defined in a way that following it will result in high quality information; nevertheless there is always the possibility that a used tool misses information or the person who processes the tool output makes a mistake. If you identify an error we are happy if you file an issue so that we are able to fix it.
 
-## What is the naming convention of the content in the package analysis directory?
+## What is the naming convention of the content in the OSS package analysis files directory?
 the naming convention is straight forward, it is like this
+OSS-package-analysis-files 
+	|
+	|
+	--- Vendor
+		|
+		|
+		--- Product
+			|
+			|
+			--- Version_1
+			--- Version_2
+			--- Version_n
+In case the Vendor is a foundation like the Apache Software Foundation the convention is to write Apache_Software_Foundation. 
+In case the vendor is an individual the convention is to right Name_Surname, e.g. John_Doe
 

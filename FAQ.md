@@ -86,6 +86,7 @@ We think that the process is defined in a way that following it will result in h
 
 ## What is the naming convention of the content in the OSS package analysis files directory?
 the naming convention is straight forward, it is like this
+
 OSS-package-analysis-files 
 
 	|
@@ -109,4 +110,18 @@ OSS-package-analysis-files
 			
 In case the Vendor is a foundation like the Apache Software Foundation the convention is to write Apache_Software_Foundation. 
 In case the vendor is an individual the convention is to right Name_Surname, e.g. John_Doe
+
+Example:
+
+		Apache_Software_Foundation
+			
+			httpcomponents-client
+				
+				4.5.1
+
+		Micheal_Riepe
+		
+			libelf
+			
+				0.8.13
 

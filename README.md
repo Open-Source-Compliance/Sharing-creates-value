@@ -6,7 +6,7 @@ Free and Open Source Software development has a long and successful history. Its
 ## Objective
 Sharing creates value targets the first perception and strive for the goal to lower the required effort for all who want to make use of OSS in a license compliant way. 
 
-To achieve this we will develop, share and improve the artifacts commonly used to fulfill the requirements of the different Free and Open Source Software licenses by applying the Open Source Software development principles. This will turn Open Source license compliance into a straight forward task. 
+To achieve this we will develop, share and improve the artifacts commonly used to fulfill the requirements of the different Free and Open Source Software licenses by applying the Open Source Software development principles. This may turn Open Source license compliance into a straight forward task. 
 
 As a consequence, it will increase the adoption of Free and Open Source Software tremendously.
 Another objective of Sharing creates value is a very close collaboration with the OSS community in order to fix detected "bugs" in licensing as well as introducing the information needed for license compliance activities in the Open Source projects, i.e. provide our analysis work to the OSS projects.
@@ -17,7 +17,7 @@ Last but not least we support tools which will help you to automate and reduce y
 * Best practises in the area of OSS license compliance
 * OSS package analysis files
 * OSS disclosure documents
-* Licenses found in the internet, which are not yet part of FOSSology
+* Licenses found in the internet, in order to improve the efficiecy of recognizing licenses of a tool as well as havin a colletion of license texts available (it is not ment to be a competition to the SPDX licnese list)
 * License analysis (rights, restrictions, obligation)
 * Descriptions of OSS license compliance processes
 * any other material which ease the OSS license compliance activities

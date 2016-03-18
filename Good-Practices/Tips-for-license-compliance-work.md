@@ -19,7 +19,7 @@ For some reason it is necessary for me to use the library under the terms of LGP
 How can I do this?
 
 
-Answer / Solution:
+One way to go:
 ------------------
 1. In case of LGPL / GPL licensed files, check whether all relevant files carry a statement whether you are allowed to use a later version of the license (like the standard header above).
 Assuming that the result of the check is that all relevant files carry such a statement, proceed like follows:

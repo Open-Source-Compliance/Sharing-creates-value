@@ -87,7 +87,7 @@ We think that the process is defined in a way that following it will result in h
 ## What is the naming convention of the content in the OSS package analysis files directory?
 the naming convention is straight forward, it is like this
 
-OSS-package-analysis-files 
+OSS-Package-Analysis-Files 
 
 	|
 	|
@@ -119,7 +119,7 @@ Example:
 				
 				4.5.1
 
-		Micheal_Riepe
+		Michael_Riepe
 		
 			libelf
 			

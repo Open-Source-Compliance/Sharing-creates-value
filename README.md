@@ -17,9 +17,9 @@ Last but not least we support tools which will help you to automate and reduce y
 * OSS package analysis files
 * OSS disclosure documents
 * Licenses found in the internet, in order to improve the efficiecy of recognizing licenses of a tool as well as havin a colletion of license texts available (it is not ment to be a competition to the SPDX licnese list)
-* License analysis (rights, restrictions, obligation)
+* License analysis (rights, restrictions, obligations)
 * Descriptions of OSS license compliance processes
-* any other material which ease the OSS license compliance activities
+* any other material which eases the OSS license compliance activities
 
 We want to be the platform, which provides all information and artifacts for OSS license compliance. We think that there are a lot good things already available and we want to serve as a place where this information can be shared. Everybody is invited to contribute whatever he/she wants to contribute, for more details please see the FAQs.
 

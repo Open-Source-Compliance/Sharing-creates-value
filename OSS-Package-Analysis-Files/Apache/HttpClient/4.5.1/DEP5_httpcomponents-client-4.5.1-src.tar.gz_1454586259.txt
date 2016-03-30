@@ -4,8 +4,17 @@ Source: http://www.eu.apache.org/dist//httpcomponents/httpclient/source/httpcomp
 Disclaimer: This file is licensed under CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 Copyright: Copyright: Copyright 1999-2015 The Apache Software Foundation
 License: Apache-2.0 
-Comment:  created on 2016-02-04T11:44:20Z with FOSSology
-		 The MPL licensed list which is mentioned in the file LICENSE.txt is downloaded and incorporated during runtime of the component. This is done in the Class "PublicSuffixMatcherLoader", the file is in httpcomponents-client-4.5.1-src.tar.gz/httpcomponents-client-4.5.1-src.tar/httpcomponents-client-4.5.1/httpclient/src/main/java/org/apache/http/conn/util
+Comment: This is version 1.0 of the DEB5 file of httpcomponents-client source package version 4.5.1 
+		 created on 2016-02-04T11:44:20Z with FOSSology
+		 The FOSology results were reviewed by Oliver Fendt		
+		Checksums: self generated
+			MD5 checksum of the source package:
+			274eabf741ea50184fd0a86f93ec69d7  httpcomponents-client-4.5.1-src.tar.gz
+		Explanations regarding the package analysis: 
+		 - The MPL licensed list which is mentioned in the file LICENSE.txt is downloaded and incorporated during runtime of the component. 
+		   This is done in the Class "PublicSuffixMatcherLoader", the file is in httpcomponents-client-4.5.1/httpclient/src/main/java/org/apache/http/conn/util
+		End of explanations regarding the package analysis   
+		 
 
 
 Files: httpcomponents-client-4.5.1-src.tar.gz/httpcomponents-client-4.5.1-src.tar/httpcomponents-client-4.5.1/LICENSE.txt

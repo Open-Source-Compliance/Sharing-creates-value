@@ -5,8 +5,12 @@ Source: https://luapower.com/libunibreak/download
 Disclaimer: This file is licensed under CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 Copyright: Tom Hacohen, Wu Yongwei
 License: ZLib
-Comment:  created on 2016-02-23T11:52:58Z with FOSSology
-
+Comment:This is version 1.0 of the DEB5 file of libunibreak source package version r2-22-g3872ab9
+		Created on 2016-02-23T11:52:58Z with FOSSology	
+		The FOSology results were reviewed by Oliver Fendt		
+		Checksums: self generated
+			MD5 checksum of the source package:
+			f4d275adacf989ca9fbc0a705a7d78b5  libunibreak-r2-22-g3872ab9.zip
 
 Files: libunibreak-master.zip/libunibreak-master/csrc/libunibreak/linebreak.c
        libunibreak-master.zip/libunibreak-master/csrc/libunibreak/LICENCE

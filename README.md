@@ -24,6 +24,10 @@ Last but not least we support tools which will help you to automate and reduce y
 We want to be the platform, which provides all information and artifacts for OSS license compliance. We think that there are a lot good things already available and we want to serve as a place where this information can be shared. Everybody is invited to contribute whatever he/she wants to contribute, for more details please see the FAQs.
 
 ## What is the difference to other OSS license compliance activities
+There exist already some projects / activities which deal with OSS license comliance like
+* OpenChain
+* Open Compliance Program
+* Copyleft.org
 
 The main difference is that this is an effort for everybody providing real know how how things in the area of OSS compliance can be done.
 OpenChain is currently more focusing on training and assessment, but the topic "how do I xyz to be license compliant" is not touched at all. As far as I know the answer to the question is a "legal interpretation of a certain screnario" and OpenChain does not want to do legal interpretations. The same applies for the Open Compliance Program of the Linux Foundation. Copyleft.org provides practical tipps but it does not provide any license information and copyright notices of OSS packages, and this is a major objective of this project to provide such kind of information - ready to use for everybody under a very relaxed license. Thus making OSS compliance for everybody a low effort and easy task.

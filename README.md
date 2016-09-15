@@ -25,7 +25,7 @@ We want to be the platform, which provides all information and artifacts for OSS
 
 ## What is the difference to other OSS license compliance activities
 There exist already some projects / activities which deal with OSS license comliance like
-* OpenChain
+* [OpenChain] (https://compliance.linuxfoundation.org/)
 * Open Compliance Program
 * Copyleft.org
 

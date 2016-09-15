@@ -24,7 +24,7 @@ Last but not least we support tools which will help you to automate and reduce y
 We want to be the platform, which provides all information and artifacts for OSS license compliance. We think that there are a lot good things already available and we want to serve as a place where this information can be shared. Everybody is invited to contribute whatever he/she wants to contribute, for more details please see the FAQs.
 
 ## What is the difference to other OSS license compliance activities
-There exist already some projects / activities which deal with OSS license comliance like
+There exist already some projects / activities which deal with OSS license compliance like
 * [OpenChain] (https://wiki.linuxfoundation.org/openchain/start) 
 * [Open Compliance Program] (https://compliance.linuxfoundation.org/)
 * [Copyleft.org] (https://copyleft.org/)

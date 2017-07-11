@@ -1,6 +1,6 @@
 ## What to contribute?
-Everybody is invited to contribute any material, which will ease and / or reduce the efoort of OSS license compliance activities. a contribution can be a Debian copyright file, a SPDX document or any other "machine & human friendly" format of an OSS package analysis file.
-Furhter contributions can be:
+Everybody is invited to contribute any material, which will ease and / or reduce the effort of OSS license compliance activities. A contribution can be a Debian copyright file, an SPDX document or any other "machine & human friendly" format of an OSS package analysis file.
+Further contributions can be:
 * A license text found in the internet which is not yet part of any official license text repo like the SPDX(R) license list
 * A license analysis (rights / restrictions / obligations)
 * Clarifications with OSS projects 
@@ -8,7 +8,7 @@ Furhter contributions can be:
 * Further material, e.g. "OSS disclosure documents"
 * Software or tools, such as SPDX comparison or analysis tools
 * Export Control and Customs (ECC) classifications, license exception TSU (Technology and Software Unrestricted)
-* and any other material which makes live in OSS compliance easier.
+* and any other material which makes life in OSS compliance easier.
 If you represent a company and you do consider to contribute material, we do not interpret the material which is contributed as an indicator of the maturity of the established processes.
 
 ## How to contribute?
@@ -16,7 +16,7 @@ Like any other state of the art OSS project, we need a prove that all informatio
 We need a Certificate of Origin. This does not imply relevant additional efforts; for example, every Linux kernel developer is familiar with this approach. Please understand that we cannot accept and make any contribution available via our sites which are not accompanied by the certificate of origin.
 
 ## What is the procedure to indicate the origin and to "sign" the certificate of origin?
-Sharing creates value use a very similiar procedure like it is implemented for the Linux kernel development, because we think that this procedure is proven that it functions and that it is not a hurdle which hinders contributions. If you want to check how the Linux Kernel handles it, it is described at "Sign Off" for [Linux kernel developement] (https://www.kernel.org/doc/Documentation/SubmittingPatches no 11).
+Sharing creates value use a very similar procedure like it is implemented for the Linux kernel development, because we think that this procedure is proven that it functions and that it is not a hurdle which hinders contributions. If you want to check how the Linux Kernel handles it, it is described at "Sign Off" for [Linux kernel development] (https://www.kernel.org/doc/Documentation/SubmittingPatches no 11).
 Although we need a certificate of origin, contributors can request that their contributions will be made available in an “anonymous way", i.e.the contributors are not visible anymore. We will keep the certificate private and do not disclose it (we need this only for our records that we have a prove that the contribution was done in  a correct legal way). The anonymous contribution way might motivate companies to share any material listed in without being afraid that they are exposed in a matter they do not want to be.  In order to "make use of this option" please read option "e" in the certificate of origin.
 The procedure we have the following procedure defined:
 For license hygiene we require all contributions to be licensed under Creative Commons Public Domain Dedication (CC0 1.0) https://creativecommons.org/publicdomain/zero/1.0/

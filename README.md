@@ -16,7 +16,7 @@ Last but not least we support tools which will help you to automate and reduce y
 * Best practises in the area of OSS license compliance
 * OSS package analysis files
 * OSS disclosure documents
-* Licenses found in the internet, in order to improve the efficiecy of recognizing licenses of a tool as well as havin a colletion of license texts available (it is not ment to be a competition to the SPDX licnese list)
+* Licenses found in the internet, in order to improve the efficiecy of recognizing licenses of a tool as well as having a collection of license texts available (it is not meant to be a competition to the SPDX license list)
 * License analysis (rights, restrictions, obligations)
 * Descriptions of OSS license compliance processes
 * any other material which eases the OSS license compliance activities

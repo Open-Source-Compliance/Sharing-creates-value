@@ -79,6 +79,7 @@ One of the main questions or concerns which might hinder either the use or the c
 In order to answer this fundamental question we asked for legal advice. The following is the summary of the legal advice in our words:
 Assuming that those files are protected by copyright they need to be licensed so that they can be used. We license the files under CC0 1.0 which is very near to "public domain" to make the use to them as easy as possible. Furthermore, the files can be downloaded and used ‘free of charge’.
 These documents are so to say a donation. For donations there is liability only in case of willfulness or in a case of gross negligence. The process how the files are generated and which tools are used is described. Therefore, it can be reviewed and the tools can be evaluated. Moreover, the persons who process the tool output do have several years of experience in this area. We think that the risk of being liable is very little.
+As any other OSS project, we also have implemented the common approach how to improve and to ensure quaility. If you have doubts about the correctness of the content of the  OSS package analysis files you simply can file an issue and we will look at it, analyse it, provide feedback and in case there is an error in such a file we will correct it in a timely manner.
 
 ## Can I rely on the content of the license analysis files?
 This question depends on your point of view, whether you trust this project and whether you think that the way how the files are generated is suited to provide accurate and reliable information.

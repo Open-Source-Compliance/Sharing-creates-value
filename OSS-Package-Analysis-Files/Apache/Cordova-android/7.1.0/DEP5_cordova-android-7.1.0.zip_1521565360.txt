@@ -1,8 +1,8 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/       
+﻿Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/       
 Upstream-Name: https://github.com/apache/cordova-android
 Upstream-Contact: http://cordova.apache.org/
 Source: https://github.com/apache/cordova-android/releases/tag/7.1.0
-Disclaimer: This file is licensed under CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+Disclaimer: This file is licensed under CC0-1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 Copyright: Oliver Fendt
 Comment:  created on 2018-03-20T17:02:40Z with FOSSology
 		  Some files are dual licensed LGPL-3.0+ OR MIT and GPL-2.0+ OR MIT

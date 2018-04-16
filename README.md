@@ -25,9 +25,9 @@ We want to be the platform, which provides all information and artifacts for OSS
 
 ## What is the difference to other OSS license compliance activities
 There exist already some projects / activities which deal with OSS license compliance like
-* [OpenChain] (https://wiki.linuxfoundation.org/openchain/start) 
-* [Open Compliance Program] (https://compliance.linuxfoundation.org/)
-* [Copyleft.org] (https://copyleft.org/)
+* [OpenChain](https://wiki.linuxfoundation.org/openchain/start) 
+* [Open Compliance Program](https://compliance.linuxfoundation.org/)
+* [Copyleft.org](https://copyleft.org/)
 
 The main difference is that this is an effort for everybody providing real know how how things in the area of OSS compliance can be done.
 OpenChain is currently more focusing on training and assessment, but the topic "how do I xyz to be license compliant" is not touched at all. As far as I know the answer to the question is a "legal interpretation of a certain screnario" and OpenChain does not want to do legal interpretations. The same applies for the Open Compliance Program of the Linux Foundation. Copyleft.org provides practical tipps but it does not provide any license information and copyright notices of OSS packages, and this is a major objective of this project to provide such kind of information - ready to use for everybody under a very relaxed license. Thus making OSS compliance for everybody a low effort and easy task.
@@ -37,7 +37,7 @@ One of the tasks in OSS compliance work is the analysis of OSS packages in order
 We believe that is does not make any sense that everyone doing checks of packages again and again. This is redundant effort in our opinion which could be much better invested in OSS development. In other words: we think increasing the code base is much better instead of spending effort for license compliance checks which are done thousand fold today in many different organizations.
 
 ## Process we follow in order to create a OSS package analysis file
-We create such OSS package analysis files and make them available for download under the terms of the Creative Commons Public Domain Dedication [CC0 1.0]  (https://creativecommons.org/publicdomain/zero/1.0/). We know that the content we produce is somehow delicate. Due to this it is important to disclose how we create such content. Since we represent an Open Source project everything is transparent. The following points describe the procedure we follow in creating the "OSS package analysis file" as we call it. 
+We create such OSS package analysis files and make them available for download under the terms of the Creative Commons Public Domain Dedication [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). We know that the content we produce is somehow delicate. Due to this it is important to disclose how we create such content. Since we represent an Open Source project everything is transparent. The following points describe the procedure we follow in creating the "OSS package analysis file" as we call it. 
 
 The OSS package analysis file are generated following the process described below:
 
@@ -51,8 +51,8 @@ The OSS package analysis file are generated following the process described belo
 * A licensing expert person will review and analyze the FOSSology result. The expert person is not necessarily a lawyer, but has several years of experience in license compliance activities.
 * Result is reviewed by a person who has more experience in license compliance activities than the author.
 * The final result is made available in form of a Debian copyright file or a SPDX document or another "machine & human friendly" format.
-* For the analysis of the OSS packages we currently use [FOSSology version 3.0] (http://www.fossology.org/projects/fossology)
-* Our work instance can be found [here] (http://54.69.38.215/repo/) 
+* For the analysis of the OSS packages we currently use [FOSSology version 3.2.0 ](http://www.fossology.org/projects/fossology)
+* Our work instance can be found [here](http://54.69.38.215/repo/)
 
 ## Quality assurance process we follow when we recieve OSS package analysis files as a contribution
 

@@ -64,3 +64,38 @@ This means a complete package analysis file is contributed of a package which is
 
 ### Update / bug fix 
 In this case we will verify the bug fix; i.e. check the information of the file of the package whether the bug report / fix is correct
+
+## Review of an OSS package analysis file
+
+To do a good review is similar to the license analysis itself. This document shall provide tipps and good practises of how to do a "good" review. It is not meant to be complete and will be enhanced, whenever I see new topics to be covered.
+
+### What is needed to do a "good" review:
+1. the component source code
+2. a license analysis tool, were you can review the license decisions like FOSSology. A simple license scanner without review capabilities  wont do the job.
+3. the report to be reviewed
+4. a certain level of know how
+
+### Topics to be checked / verified during the review
+
+The following list provides topics a reviewer shall check:
+1. is a main license assigned?
+2. are all copyright strings "cleaned", i.e. contain no garbage like "licensed und BSD" this is for the copyright string garbage?
+3. is there ECC relevant information and is this represented somewhere?
+4. do the license texts contain garbage, like comment characers ( e.g. *, //, dnl,...)?
+5. do the license texts contain the "correct license text"? 
+	e.g. in FOSSology the BSD-3-Clause license is the template license of the SPDX license list. This is useless the individual license text has to be there.
+	the Public-domain license in FOSSology is an explanation what "public domain" is. For the license compliance document this is useless
+6. for every particular license check whether it is really the license text the scanner has identified or not. 
+	is it the license itself or only a reference to the license?
+	Especially when the scanner identifies  BSD-x-Clause check also for the wording in the disclaimer
+	In case the scanner has identified ISC check also for the correct wordin in the disclaimer
+7. is every from the scanner identified license concluded by a reviewer?
+8. do the analysis file contain strange or unknown license names as concluded licenses?
+
+	License "names" like Apache-possibility, zlib-possibiliy, GPL without version number, Apache without  version number, LGPL without version number, BSD, unclassified license, see file, see doc other, etc. shall no appear as concluded license
+9. are the licenses classified correctly? if you are using risk levels check whether all conluded licenses are correct classified
+10. if there are acknowledgements required by one or more licenses, are the relevant acknowledgements with all required elements contained in the OSS package analysis file?
+
+	For example the CC licenses have other requirements concerning the content of the acknowledgement than Apach-2.0
+11. in case you are working with the license obilgation feature of FOssology are all obligations of all concluded licenses covered?
+12. are un obvious license conclusions explained that others can reiterate the decision? This is especially important for license refernces which are internet links?

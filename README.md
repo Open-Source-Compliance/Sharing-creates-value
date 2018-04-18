@@ -28,9 +28,21 @@ There exist already some projects / activities which deal with OSS license compl
 * [OpenChain](https://wiki.linuxfoundation.org/openchain/start) 
 * [Open Compliance Program](https://compliance.linuxfoundation.org/)
 * [Copyleft.org](https://copyleft.org/)
+* [Open Source License Checklists by OSADL eG](https://www.osadl.org/Open-Source-License-Checklists.oss-compliance-lists.0.html)
+* [ClearlyDefined](https://docs.clearlydefined.io/)
 
-The main difference is that this is an effort for everybody providing real know how how things in the area of OSS compliance can be done.
-OpenChain is currently more focusing on training and assessment, but the topic "how do I xyz to be license compliant" is not touched at all. As far as I know the answer to the question is a "legal interpretation of a certain screnario" and OpenChain does not want to do legal interpretations. The same applies for the Open Compliance Program of the Linux Foundation. Copyleft.org provides practical tipps but it does not provide any license information and copyright notices of OSS packages, and this is a major objective of this project to provide such kind of information - ready to use for everybody under a very relaxed license. Thus making OSS compliance for everybody a low effort and easy task.
+Another initiative, which is very helpful for the topic license compliance is the [Reuse](https://reuse.software/) project run by the [Free Software Foundation Europe](https://fsfe.org/)
+
+
+OpenChain is currently more focusing on training and assessment, but the topic "how do I xyz to be license compliant" is not touched. As far as I know the answer to the question is a "legal interpretation of a certain screnario" and OpenChain does not want to do legal interpretations. 
+
+Copyleft.org provides practical tipps but it does not provide any license information and copyright notices of OSS packages. 
+
+Once published the Open Source License Checklists will be the first publicly available resource for learning "what do I have to do, if I incorporate software licensed under xyz in my software depending on he use case?"
+
+A major objective of this project to provide reviewed license and copyright information of OSS packages - ready to use for everybody under a very relaxed license. Thus making OSS compliance for everybody a low effort and easy task. We are aware that the best approach will be to upstream this information, but before one is able to upstream anything there is the task to create the information to be contributed upstream. This is one focus of this project.
+
+It seems that ClearlyDefined targets this to a certain extend, too.
 
 ## OSS package analysis file
 One of the tasks in OSS compliance work is the analysis of OSS packages in order to identify the licenses and copyright holders. Although tools are available which support the analysis, it is still the task which causes effort.
@@ -59,7 +71,7 @@ The OSS package analysis file are generated following the process described belo
 Here we distinguish two cases:
 ### Initial contribution
 This means a complete package analysis file is contributed of a package which is not contained here already.
-* We inspect the package with FOSSology and do a plausibility test of the content of the document based on the FOSSology information.
+* We inspect the package with FOSSology and do a plausibility test of the content of the document based on the FOSSology information. So we will do a review (see below)
 * We will make the information available what we compared during the plausibility check
 
 ### Update / bug fix 
@@ -71,7 +83,7 @@ To do a good review is similar to the license analysis itself. This document sha
 
 ### What is needed to do a "good" review:
 1. the component source code
-2. a license analysis tool, were you can review the license decisions like FOSSology. A simple license scanner without review capabilities  wont do the job.
+2. a license analysis tool, were you can review the license decisions like FOSSology. A simple license scanner without review capabilities  won't do the job.
 3. the report to be reviewed
 4. a certain level of know how
 
@@ -79,7 +91,7 @@ To do a good review is similar to the license analysis itself. This document sha
 
 The following list provides topics a reviewer shall check:
 1. is a main license assigned?
-2. are all copyright strings "cleaned", i.e. contain no garbage like "licensed und BSD" this is for the copyright string garbage?
+2. are all copyright strings "cleaned", i.e. contain no garbage ( e.g. *, //, dnl,...) this is for the copyright string garbage?
 3. is there ECC relevant information and is this represented somewhere?
 4. do the license texts contain garbage, like comment characers ( e.g. *, //, dnl,...)?
 5. do the license texts contain the "correct license text"? 
@@ -88,7 +100,7 @@ The following list provides topics a reviewer shall check:
 6. for every particular license check whether it is really the license text the scanner has identified or not. 
 	is it the license itself or only a reference to the license?
 	Especially when the scanner identifies  BSD-x-Clause check also for the wording in the disclaimer
-	In case the scanner has identified ISC check also for the correct wordin in the disclaimer
+	In case the scanner has identified ISC check also for the correct wording in the disclaimer
 7. is every from the scanner identified license concluded by a reviewer?
 8. do the analysis file contain strange or unknown license names as concluded licenses?
 

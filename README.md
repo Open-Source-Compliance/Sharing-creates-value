@@ -1,8 +1,8 @@
 # while(sharing()){value++;}
 ## Sharing-creates-value
-This repo realizes the idea that OSS compliance activities will be less expensive by applying OSS principles
+This repo realizes the idea that Open Source Software (OSS) compliance activities will be less expensive by applying OSS principles
 ## Introduction
-Free and Open Source Software development has a long and successful history. Its success is based on transparency, sharing, collaboration and appreciation. Open Source Software is _the_ success story of the last 30 years. 
+Free and OSS development has a long and successful history. Its success is based on transparency, sharing, collaboration and appreciation. Open Source Software is _the_ success story of the last 30 years. 
 
 ## Objective
 Sharing creates value targets the first perception and strive for the goal to lower the required effort for all who want to make use of OSS in a license compliant way. 

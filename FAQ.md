@@ -2,7 +2,6 @@
 Everybody is invited to contribute any material, which will ease and / or reduce the effort of OSS license compliance activities. A contribution can be a Debian copyright file, an SPDX document or any other "machine & human friendly" format of an OSS package analysis file.
 Further contributions can be:
 * A license text found in the internet which is not yet part of any official license text repo like the SPDX(R) license list
-* A license analysis (rights / restrictions / obligations)
 * Clarifications with OSS projects 
 * Collaboration with OSS projects to "ease" SS license compliance
 * Further material, e.g. "OSS disclosure documents"

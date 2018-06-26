@@ -3,7 +3,7 @@ Everybody is invited to contribute any material, which will ease and / or reduce
 Further contributions can be:
 * A license text found in the internet which is not yet part of any official license text repo like the SPDX(R) license list
 * Clarifications with OSS projects 
-* Collaboration with OSS projects to "ease" SS license compliance
+* Collaboration with OSS projects to "ease" OSS license compliance
 * Further material, e.g. "OSS disclosure documents"
 * Software or tools, such as SPDX comparison or analysis tools
 * Export Control and Customs (ECC) classifications, license exception TSU (Technology and Software Unrestricted)

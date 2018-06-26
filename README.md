@@ -77,7 +77,7 @@ In this case we will verify the bug fix; i.e. check the information of the file 
 
 ## Review of an OSS package analysis file
 
-To do a good review is similar to the license analysis itself. This document shall provide tipps and good practises of how to do a "good" review. It is not meant to be complete and will be enhanced, whenever I see new topics to be covered.
+To do a good review is similar to the license analysis itself. Here we will provide tipps and good practises of how to do a "good" review. It is not meant to be complete and will be enhanced, whenever I see new topics to be covered.
 
 ### What is needed to do a "good" review:
 1. the component source code
@@ -90,7 +90,6 @@ To do a good review is similar to the license analysis itself. This document sha
 The following list provides topics a reviewer shall check:
 1. is a main license assigned?
 2. are all copyright strings "cleaned", i.e. contain no garbage ( e.g. *, //, dnl,...) ?
-3. is there ECC relevant information and is this represented somewhere?
 4. do the license texts contain garbage, like comment characers ( e.g. *, //, dnl,...)?
 5. do the license texts contain the "correct license text"? 
 	e.g. in FOSSology the BSD-3-Clause license is the template license of the SPDX license list. This is useless the individual license text has to be there.

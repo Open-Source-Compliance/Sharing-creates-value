@@ -5,27 +5,17 @@
 ### Source Code Repository
 Systems or services that provide source code. This is typically a version control system. The compliance tooling obtains the source code of 3rd party dependencies, i.e., FOSS components from such repositories
 
-Example: Github
-
 ### (Build) Artifact Repository
 Systems or services that provides (binary) software artifacts and metadata stored in a defined directory structure which is used to retrieve artifacts during a build process. Software artifacts may be of type proprietary, commercial, FOSS. The Artifact repository may also be used to store the source code of FOSS components besides the binary artifact for usage within the compliance process, e.g., for starting a license scan or creating the source code bundle to be delivered with the product.
-
-Example: Maven Central, NPM
 
 ### Security Vulnerability Database
 Systems or services that provide information about publicly known security vulnerabilities of software artifacts.
 
-Example: CVE list
-
 ### Public License Master Database
 Publicly available information about Open Source licenses (e.g. commonly accepted license identifiers). It could furthermore provide (potentially machine readable) data about the corresponding obligations and prohibitions of a license.
 
-Example: SPDX license master list
-
 ### FOSS Metadatabase
 Systems or services that provide descriptive data of software artifacts (mainly FOSS). Data could be: the declared license for a component, the source location (e.g., Git commit) for a version, details to be included in attributions (e.g., copyright holders in a Notices file), etc.
-
-Example: Clearly Defined
 
 ## Company Internal
 
@@ -59,10 +49,10 @@ Dedicated tools and services which provide license information for source code a
 ### (Build) Artifact Repository
 A system or service providing (binary) software artifacts and metadata stored in a defined directory structure which is used to retrieve artifacts during a build process. This is used as a cache for the external Artifact Repository to ensure the availability of all components used within the company, it is also the storage for the build software artifacts of the company, used in the Continuous Integration Infrastructure to store the buidl results.
 
-~~ ### Security Scanning
+### Security Scanning
 Dedicated tools which scan source code and/or binaries to detect code vulnerabilities, both in proprietary as well as in FOSS components.
 
-Comment Lars: This is a general quality issue, not a Open Source issue, from my point of view. Part of compliance tooling should be the identification of components for which CVEs are publicly available, so that a build can give appropriate feedback. This Security Scanning here is a standard static code analysis and therefore out of scope. ~~
+Comment Lars: This is a general quality issue, not an Open Source issue, from my point of view. Part of compliance tooling should be the identification of components for which CVEs are publicly available, so that a build can give appropriate feedback. This Security Scanning here is a standard static code analysis and therefore out of scope.
 
 ### Product Catalog
 Software products and most software components are built from other software components. Therefore, a software product can be viewed as a graph of interconnected software components and fragments. The Product Catalog contains the information on this graph to enable the management of dependencies over the life cycle of the software, e.g., to ensure that a new vulnerability in a FOSS component can be evaluated and actions toward updating software in the field can be initiated.

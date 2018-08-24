@@ -9,13 +9,13 @@ Systems or services that provide source code. This is typically a version contro
 Systems or services that provides (binary) software artifacts and metadata stored in a defined directory structure which is used to retrieve artifacts during a build process. Software artifacts may be of type proprietary, commercial, FOSS. The Artifact repository may also be used to store the source code of FOSS components besides the binary artifact for usage within the compliance process, e.g., for starting a license scan or creating the source code bundle to be delivered with the product.
 
 ### Security Vulnerability Database
-Systems or services that provide information about publicly known security vulnerabilities of software artifacts.
+Systems or services that provide information about publicly known security vulnerabilities of software artefacts.
 
 ### Public License Master Database
 Publicly available information about Open Source licenses (e.g. commonly accepted license identifiers). It could furthermore provide (potentially machine readable) data about the corresponding obligations and prohibitions of a license.
 
 ### FOSS Metadatabase
-Systems or services that provide descriptive data of software artifacts (mainly FOSS). Data could be: the declared license for a component, the source location (e.g., Git commit) for a version, details to be included in attributions (e.g., copyright holders in a Notices file), etc.
+Systems or services that provide descriptive data of software artefacts (mainly FOSS). Data could be: the declared license for a component, the source location (e.g., Git commit) for a version, details to be included in attributions (e.g., copyright holders in a Notices file), etc.
 
 ## Company Internal
 
@@ -54,7 +54,7 @@ Dedicated tools which scan source code and/or binaries to detect code vulnerabil
 
 Comment Lars: This is a general quality issue, not an Open Source issue, from my point of view. Part of compliance tooling should be the identification of components for which CVEs are publicly available, so that a build can give appropriate feedback. This Security Scanning here is a standard static code analysis and therefore out of scope.
 
-### Product Catalog
+### Product and Component Catalog
 Software products and most software components are built from other software components. Therefore, a software product can be viewed as a graph of interconnected software components and fragments. The Product Catalog contains the information on this graph to enable the management of dependencies over the life cycle of the software, e.g., to ensure that a new vulnerability in a FOSS component can be evaluated and actions toward updating software in the field can be initiated.
 
 ### Component Catalog
@@ -62,7 +62,7 @@ A system or service that stores metadata to used 3rd party, especially FOSS comp
 
 #### ECCN Classifications
 The Export Control Classification Number (ECCN) is an alpha-numeric code that identifies the level of export control for articles, technology and software that are exported from the United States or the European Union. The code is used for any kind of goods, incl. software.
-The component “ECCN Classifications” hosts both the tooling to conduct ECCN classification for every software artifact, as well as the resulting ECCN number. Assumption: Close connection to Code Architecture Model. 
+The component “ECCN Classifications” hosts both the tooling to conduct ECCN classification for every software artefact, as well as the resulting ECCN number. Assumption: Close connection to Product and Component Catalogue. 
 
 ### License Catalog
 A list of all FOSS (and commercial?) licenses in use within an organization with all necessary metadata like implied obligations. It may use a Public License Master Database for basic information enriched by the company for internal use.

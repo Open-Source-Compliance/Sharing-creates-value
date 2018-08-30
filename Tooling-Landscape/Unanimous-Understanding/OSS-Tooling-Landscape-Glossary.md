@@ -11,10 +11,13 @@ Systems or services that provides (binary) software artifacts and metadata store
 ### Security Vulnerability Database
 Systems or services that provide information about publicly known security vulnerabilities of software artefacts.
 
+### License Obligations Database
+Systems or services that provide Data about obligations and prohibitions of (FOSS) licenses.
+
 ### Public License Master Database
 Publicly available information about Open Source licenses (e.g. commonly accepted license identifiers). It could furthermore provide (potentially machine readable) data about the corresponding obligations and prohibitions of a license.
 
-### FOSS Metadatabase
+### FOSS Metadata Database
 Systems or services that provide descriptive data of software artefacts (mainly FOSS). Data could be: the declared license for a component, the source location (e.g., Git commit) for a version, details to be included in attributions (e.g., copyright holders in a Notices file), etc.
 
 ## Company Internal
@@ -25,11 +28,8 @@ Systems or services that provide source code. This is typically a version contro
 ### Continuous Integration Infrastructure
 Systems or services that orchestrate the build process for a software project and executes workflows triggered by different kind of events. The CI infrastructure typically runs software builds and executes further build steps like the compliance tooling
 
-### Build Technology
-A system that builds a software project and creates the binaries and executables for the software. During this process, the build technology has a technology dependent way to identify and provide dependencies needed to build and run the software. This information is needed during the compliance tooling workflow to run the compliance check on the project.
-
-### Compliance Tooling
-A set of systems or services that are executed on the source code of a project to identify third party software, especially FOSS components, to provide the metadata for the identified components and to run a compliance check according to defined criteria, such as license compatibility, use if software with security violations.
+### License Scanner
+A set of systems or services that are executed on the source code and/or binaries of a project to identify third party software, especially FOSS components, to provide the metadata for the identified components and to run a compliance check according to defined criteria, such as license compatibility, use if software with security violations.
 
 #### Dependency Identifier
 A tool to identify the dependencies referenced by a software project. It is deeply embedded into the build technology and uses the means of the technology to identify the dependent components. The result of the dependency identification is stored in the Product Catalog for further traceability of the software project.
@@ -52,17 +52,15 @@ A system or service providing (binary) software artifacts and metadata stored in
 ### Security Scanning
 Dedicated tools which scan source code and/or binaries to detect code vulnerabilities, both in proprietary as well as in FOSS components.
 
-Comment Lars: This is a general quality issue, not an Open Source issue, from my point of view. Part of compliance tooling should be the identification of components for which CVEs are publicly available, so that a build can give appropriate feedback. This Security Scanning here is a standard static code analysis and therefore out of scope.
-
-### Product and Component Catalog
+### Product Catalog
 Software products and most software components are built from other software components. Therefore, a software product can be viewed as a graph of interconnected software components and fragments. The Product Catalog contains the information on this graph to enable the management of dependencies over the life cycle of the software, e.g., to ensure that a new vulnerability in a FOSS component can be evaluated and actions toward updating software in the field can be initiated.
 
 ### Component Catalog
-A system or service that stores metadata to used 3rd party, especially FOSS components. This includes licenses, copyrights, known vulnerabilitites and ECCN classifications. The information is used within the compliance tooling to aquire the metadata for the identified components, to assess the compilation of dependent components and to provide the information for the creation of the FOSS bundle (i.e., the artifacts needed for the distribution of a software). The Component Catalog can be linked to an external FOSS Metadatabase to retrieve commonly known information and make it usable within the organization. Also the Security Vulnerability Database and other sources for e.g. ECCN classifications are linked to retrieve the necessary information and to make it available within the company.
+A system or service that stores metadata to used 3rd party, especially FOSS components. This includes licenses, copyrights, known vulnerabilitites and ECCN classifications. The information is used within the compliance tooling to aquire the metadata for the identified components, to assess the compilation of dependent components and to provide the information for the creation of the FOSS bundle (i.e., the artifacts needed for the distribution of a software). The Component Catalog can be linked to an external FOSS Metadata Database to retrieve commonly known information and make it usable within the organization. Also the Security Vulnerability Database and other sources for e.g. ECCN classifications are linked to retrieve the necessary information and to make it available within the company.
 
 #### ECCN Classifications
 The Export Control Classification Number (ECCN) is an alpha-numeric code that identifies the level of export control for articles, technology and software that are exported from the United States or the European Union. The code is used for any kind of goods, incl. software.
 The component “ECCN Classifications” hosts both the tooling to conduct ECCN classification for every software artefact, as well as the resulting ECCN number. Assumption: Close connection to Product and Component Catalogue. 
 
-### License Catalog
+### License Master Database
 A list of all FOSS (and commercial?) licenses in use within an organization with all necessary metadata like implied obligations. It may use a Public License Master Database for basic information enriched by the company for internal use.

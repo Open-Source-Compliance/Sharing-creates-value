@@ -5,7 +5,7 @@
 ### Source Code Repository
 Systems or services that provide source code. This is typically a version control system. The compliance tooling obtains the source code of 3rd party dependencies, i.e., FOSS components from such repositories
 
-### (Build) Artifact Repository
+### Artifact Repository
 Systems or services that provides (binary) software artifacts and metadata stored in a defined directory structure which is used to retrieve artifacts during a build process. Software artifacts may be of type proprietary, commercial, FOSS. The Artifact repository may also be used to store the source code of FOSS components besides the binary artifact for usage within the compliance process, e.g., for starting a license scan or creating the source code bundle to be delivered with the product.
 
 ### Security Vulnerability Database
@@ -34,13 +34,13 @@ A system that builds a software project and creates the binaries and executables
 ### Compliance Checker
 A set of systems or services that are executed on the identified dependenciesof a project to provide the metadata for the identified components and to run a compliance check according to defined criteria, such as license compatibility, known security violations, company policies.
 
-### FOSS bundle generator
+### FOSS Bundle Generator
 A tool that creates all the necessary documentation needed for the distribution of a software, such as a legal document with all used components there licenses and copyrights, or a source code bundle with all the FOSS sources used in the project. The FOSS bundle is the artifact to be bundled with the delivered product to fulfil most of the license obligations found in FOSS licenses.
 
 ### Component Clearing
 Dedicated tools and services which provide license information for source code and/or binaries. The tools used follow different approaches. Some get the information by looking it up in a database. Some do source code scans for copyright and license information in comments. Others scan the source code concerning copyrighted snippets. The clearing also contains a step in which the results are approved according to company criteria. 
 
-### (Build) Artifact Repository
+### Artifact Repository
 A system or service providing (binary) software artifacts and metadata stored in a defined directory structure which is used to retrieve artifacts during a build process. This is used as a cache for the external Artifact Repository to ensure the availability of all components used within the company, it is also the storage for the build software artifacts of the company, used in the Continuous Integration Infrastructure to store the build results.
 
 ### Security Assessment

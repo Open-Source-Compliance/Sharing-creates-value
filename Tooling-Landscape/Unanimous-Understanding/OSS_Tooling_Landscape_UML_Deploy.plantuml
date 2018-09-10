@@ -11,64 +11,25 @@
 ' Elements: What is public in the Internet
 '
 
-rectangle Public <<Internet>> {
+skinparam componentStyle uml2
 
-top to bottom direction
+node "Company External" <<Internet>> {
 
-node publicsource [
-Source Code Repository
-----
-Public
-====
-Repository
-]
+    component [Source Code Repository] as publicsource <<Public Repository>> 
 
-node publicartifacts [
-Build Artifacts
-----
-Public
-====
-Repository
-]
+    component [Artifact Repository] as publicartifacts <<Public Repository>>
 
-node publicvulnerabilities [
-Security Vulnerabilities
-----
-Public
-====
-Repository
-]
+    component [Security Vulnerability Database] as publicvulnerabilities <<Public Repository>> 
 
-rectangle PublicSoftware <<Master Datata>> {
+    node "Public Master Data" {
 
-top to bottom direction
+        component [License Obligations Database] as publicobligations <<Public Repository>> 
 
+        component [Public License Master Database] as publiclicenses <<Public Repository>> 
 
-database publicobligtions [
-Internal License Obligations
-----
-Public
-====
-Repository
-]
+        component [FOSS Metadata Database] as publicmetadata <<Public Repository>> 
 
-database publiclicenses [
-Internal License Master Data 
-----
-Public
-====
-Repository
-]
-
-database publicmetadata [
-Internal FOSS Metadata
-----
-Public
-====
-Repository
-]
-
-}
+    }
 
 }
 
@@ -76,76 +37,39 @@ Repository
 ' Elements: What is inside organisation or comapny
 '
 
-rectangle Internal <<Organisation Network>> {
+node "Company Internal" <<Company Network>> {
 
-node buildsystem [
-Build System
-----
-Internal
-====
-Service
-]
+    component [Continuous Integration Infrastructure] as cicd <<Internal Service>>
 
-node internalsource [
-Source Code 
-----
-Internal
-====
-Repository
-]
+    component [Build Tool] as buildsystem <<Internal Service>>
 
-node internalartifacts [
-Build Artifacts
-----
-Internal
-====
-Repository
-]
+    component [Compliance Checker] as compliancechecker <<Internal Service>>
 
-node licensescanning [
-License Scanning
-----
-Internal
-====
-Service
-]
+    component [FOSS Bundle Generator] as fossbundlegenerator <<Internal Service>>
 
-node securityscanning [
-Security Scanning
-----
-Internal
-====
-Service
-]
+    component [Source Code Repository] as internalsource <<Internal Repository>> 
 
+    component [Artifact Repository] as internalartifacts <<Internal Repository>> 
 
-rectangle InternalSoftware <<Master Datata>> {
+    component [Component Clearing] as componentclearing <<Internal Service>>
 
-database inventory [
-Product & Component Inventory
-----
-Internal
-====
-Repository
-]
+    component [Security Assessment] as securityassessment <<Internal Service>>
 
-database ecc [
-ECC Metadata
-----
-Internal
-====
-Repository
-]
+    node "Internal Master Data" {
 
-database licenses [
-License Master Data 
-----
-Internal
-====
-Repository
-]
+        component [Product Metadata Repository] as productinventory <<Internal Repository>>
 
-}
+        package "Component Metadata" {
+
+            component [Component Metadata Repository] as componentinventory <<Internal Repository>> 
+
+            component [ECCN Classifications] as ecc <<Internal Repository>> 
+    
+        }
+
+        component [License Metadata Repository] as licenses <<Internal Repository>> 
+
+    }
 
 }
 
@@ -156,10 +80,10 @@ Repository
 publicsource -0)- buildsystem
 publicartifacts -0)- buildsystem
 internalsource -up0)- buildsystem
-licensescanning -up0)- buildsystem
-securityscanning -up0)- buildsystem
+componentclearing -up0)- buildsystem
+securityassessment -up0)- buildsystem
 internalartifacts -up0)- buildsystem
-publicvulnerabilities -up0)- securityscanning
+publicvulnerabilities -up0)- securityassessment
 
 ' 
 ' hidden relations to force layout ...
@@ -167,196 +91,15 @@ publicvulnerabilities -up0)- securityscanning
 
 publicsource -[hidden]--> publicartifacts
 publicartifacts -[hidden]--> publicvulnerabilities
-publicvulnerabilities -[hidden]--> PublicSoftware
+publicvulnerabilities -[hidden]--> publicobligations
 
-publicobligtions -[hidden]--> publiclicenses
+publicobligations -[hidden]--> publiclicenses
 publiclicenses -[hidden]--> publicmetadata
 
-buildsystem -[hidden]--> InternalSoftware
+buildsystem -[hidden]--> productinventory
 
-inventory -[hidden]--> ecc
-ecc -[hidden]--> licenses
-
-@enduml
-
-||||||| merged common ancestors
-=======
-@startuml
-
-'
-' SPDX-License-Identifier: CC-BY-SA-4.0
-'
-' Showing the tooling landscape as UML deployement diagram
-' This is meant to be a big picture, not listing all details
-'
-
-'
-' Elements: What is public in the Internet
-'
-
-rectangle Public <<Internet>> {
-
-top to bottom direction
-
-node publicsource [
-Source Code Repository
-----
-Public
-====
-Server
-]
-
-node publicartifacts [
-Build Artifacts
-----
-Public
-====
-Server
-]
-
-node publicvulnerabilities [
-Security Vulnerabilities
-----
-Public
-====
-Server
-]
-
-rectangle PublicSoftware <<Master Datata>> {
-
-top to bottom direction
-
-
-database publicobligtions [
-Internal License Obligations
-----
-Public
-====
-Database
-]
-
-database publiclicenses [
-Internal License Master Data 
-----
-Public
-====
-Database
-]
-
-database publicmetadata [
-Internal FOSS Metadata
-----
-Public
-====
-Database
-]
-
-}
-
-}
-
-'
-' Elements: What is inside organisation or comapny
-'
-
-rectangle Internal <<Organisation Network>> {
-
-node buildsystem [
-Build System
-----
-Internal
-====
-Server
-]
-
-node internalsource [
-Source Code 
-----
-Internal
-====
-Server
-]
-
-node licensescanning [
-License Scanning
-----
-Internal
-====
-Server
-]
-
-node securityscanning [
-Security Scanning
-----
-Internal
-====
-Server
-]
-
-node internalartifacts [
-Build Artifacts
-----
-Internal
-====
-Server
-]
-
-rectangle InternalSoftware <<Master Datata>> {
-
-database inventory [
-Product & Component Inventory
-----
-Internal
-====
-Database
-]
-
-database ecc [
-ECC Metadata
-----
-Internal
-====
-Database
-]
-
-database licenses [
-License Master Data 
-----
-Internal
-====
-Database
-]
-
-}
-
-}
-
-' 
-' relations section
-'
-
-publicsource -0)- buildsystem
-publicartifacts -0)- buildsystem
-internalsource -up0)- buildsystem
-licensescanning -up0)- buildsystem
-securityscanning -up0)- buildsystem
-internalartifacts -up0)- buildsystem
-publicvulnerabilities -up0)- securityscanning
-
-' 
-' hidden relations to force layout ...
-' 
-
-publicsource -[hidden]--> publicartifacts
-publicartifacts -[hidden]--> publicvulnerabilities
-publicvulnerabilities -[hidden]--> PublicSoftware
-
-publicobligtions -[hidden]--> publiclicenses
-publiclicenses -[hidden]--> publicmetadata
-
-buildsystem -[hidden]--> InternalSoftware
-
-inventory -[hidden]--> ecc
+productinventory -[hidden]--> componentinventory
+componentinventory -[hidden]--> ecc
 ecc -[hidden]--> licenses
 
 @enduml

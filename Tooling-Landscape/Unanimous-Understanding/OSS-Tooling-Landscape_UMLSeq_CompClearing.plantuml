@@ -1,0 +1,31 @@
+@startuml
+
+control "Component Clearing" as compclearing
+participant "External Source\nCode Repository" as extscm
+participant "Artifact Repository" as artifactrepo
+participant "FOSS Metadata\nDatabase" as extcomprepo
+participant "Public License\nMaster Database" as extlicenserepo
+participant "License Obligations\nDatabase" as extlicobligrepo
+participant "Security Assessment" as secassess
+participant "Security Vulnerability\nDatabase" as vuldatabase
+participant "Component Metadata\nRepository" as comprepo
+participant "License Metadata\nRepository" as licenserepo
+
+compclearing -> extscm : Retrieve source code\nfor new component version
+extscm -> compclearing : Component sources
+compclearing -> artifactrepo : Store sources for component
+compclearing -> extcomprepo : Retrieve known metadata for component
+extcomprepo -> compclearing : Known metadata
+compclearing -> extlicenserepo : Retrieve license information if license unknown
+extlicenserepo -> compclearing : License information
+compclearing -> extlicobligrepo : Retrieve license obligation information if license unknown
+extlicobligrepo -> compclearing : License obligation information
+compclearing -> compclearing : Research missing metadata
+compclearing -> secassess : Retrieve vulnerability information for component
+secassess -> vuldatabase : Get known vulnerabilities\nfor component
+vuldatabase -> secassess : Known vulnerabilities
+secassess -> compclearing : Known vulnerabilities
+compclearing -> compclearing : Final assessment of component
+compclearing -> comprepo : Store component assessment and metadata
+compclearing -> licenserepo : Update license and obligations information
+@enduml

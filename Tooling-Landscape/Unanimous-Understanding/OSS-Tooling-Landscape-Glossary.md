@@ -4,7 +4,7 @@
 
 ### Source Code Repository
 Systems or services that provide source code. This is typically (also) a version control system. The compliance tooling obtains the source code of 3rd party dependencies, i.e., FOSS components from such repositories.
-Examples: Github, Gitlab, [Software Heritage](https://www.softwareheritage.org/)
+Examples: [Software Heritage](https://www.softwareheritage.org/)
 
 ### Artifact Repository
 Systems or services that provides (binary) software artifacts and metadata stored in a defined directory structure which is used to retrieve artifacts during a build process. Software artifacts may be of type proprietary, commercial, FOSS. The Artifact repository may also be used to store the source code of FOSS components besides the binary artifact for usage within the compliance process, e.g., for starting a license scan or creating the source code bundle to be delivered with the product.

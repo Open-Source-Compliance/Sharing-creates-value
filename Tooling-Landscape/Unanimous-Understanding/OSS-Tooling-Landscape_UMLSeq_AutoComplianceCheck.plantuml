@@ -5,27 +5,17 @@ participant "Build Tool" as buildtool
 participant "Source Code Repository" as scm
 participant "Compliance Checker" as compliancechecker
 participant "Component Metadata\nRepository" as comprepo
-'participant "Security Assessment" as secassess
-'participant "External Source Code Repository" as extscm
-'participant "FOSS Metadata Database" as extcomprepo
-'participant "External\nArtifact Repository" as extartrepo
 participant "Product Metadata\nRepository" as prodrepo
-participant "FOSS Bundle Generator" as fossbundle
+participant "FOSS Compliance\nBundle Generator" as fossbundle
 participant "Artifact Repository" as artifactrepo
 participant "License Metadata Repository" as licenserepo
-'participant "License Obligations Database" as extlicobligrepo
-'participant "Public License Master Database" as extlicenserepo
-'participant "Security Vulnerability Database" as vuldatabase
-participant "Component Clearing" as compclearing
+participant "Component\nAnalysis Service" as compclearing
 
 ci -> scm : Check out project source revision
 scm -> ci : Project sources
 ci -> buildtool : Run Building
 buildtool -> buildtool : Identify dependencies
 buildtool -> artifactrepo : Download dependencies
-'artifactrepo -> artifactrepo : Identify unknown components
-'artifactrepo -> extartrepo : Download unknown components
-'extartrepo -> artifactrepo : Requested components
 artifactrepo -> buildtool : Requested components
 buildtool -> buildtool : Build software
 buildtool -> compliancechecker : Run OSM check on dependencies
@@ -46,22 +36,4 @@ fossbundle --> compliancechecker : Done
 compliancechecker -> compclearing : Retrieve and check FOSS metadata for unknown component
 compliancechecker --> buildtool : Done
 buildtool --> ci : Done
-
-'compclearing -> extscm : Retrieve source code for new component version
-'extscm -> compclearing : Component sources
-'compclearing -> artifactrepo : Store sources for component
-'compclearing -> extcomprepo : Retrieve known metadata for component
-'extcomprepo -> compclearing : Known metadata
-'compclearing -> extlicenserepo : Retrieve license information if license unknown
-'extlicenserepo -> compclearing : License information
-'compclearing -> extlicobligrepo : Retrieve license obligation information if license unknown
-'extlicobligrepo -> compclearing : License obligation information
-'compclearing -> compclearing : Research missing metadata
-'compclearing -> secassess : Retrieve vulnerability information for component
-'secassess -> vuldatabase : Get known vulnerabilities for component
-'vuldatabase -> secassess : Known vulnerabilities
-'secassess -> compclearing : Known vulnerabilities
-'compclearing -> compclearing : Final assessment of component
-'compclearing -> comprepo : Store component assessment and metadata
-'compclearing -> licenserepo : Update license and obligations information
 @enduml

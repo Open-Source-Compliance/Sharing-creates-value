@@ -43,15 +43,17 @@ node "Company Internal" <<Company Network>> {
 
     component [Build Tool] as buildsystem <<Internal Service>>
 
-    component [Compliance Checker] as compliancechecker <<Internal Service>>
-
-    component [FOSS Bundle Generator] as fossbundlegenerator <<Internal Service>>
-
     component [Source Code Repository] as internalsource <<Internal Repository>> 
 
     component [Artifact Repository] as internalartifacts <<Internal Repository>> 
 
-    component [Component Clearing] as componentclearing <<Internal Service>>
+    component [Compliance Checker] as compliancechecker <<Internal Service>>
+
+    component [FOSS Compliance Bundle Generator] as fossbundlegenerator <<Internal Service>>
+
+    component [Component Analysis Service] as componentanalysis <<Internal Service>>
+
+    component [License & Copyright Scanner] as licensescanner <<Internal Service>>
 
     component [Security Assessment] as securityassessment <<Internal Service>>
 
@@ -59,13 +61,7 @@ node "Company Internal" <<Company Network>> {
 
         component [Product Metadata Repository] as productinventory <<Internal Repository>>
 
-        package "Component Metadata" {
-
-            component [Component Metadata Repository] as componentinventory <<Internal Repository>> 
-
-            component [ECCN Classifications] as ecc <<Internal Repository>> 
-    
-        }
+        component [Component Metadata Repository] as componentinventory <<Internal Repository>> 
 
         component [License Metadata Repository] as licenses <<Internal Repository>> 
 
@@ -74,32 +70,25 @@ node "Company Internal" <<Company Network>> {
 }
 
 ' 
-' relations section
-'
-
-publicsource -0)- buildsystem
-publicartifacts -0)- buildsystem
-internalsource -up0)- buildsystem
-componentclearing -up0)- buildsystem
-securityassessment -up0)- buildsystem
-internalartifacts -up0)- buildsystem
-publicvulnerabilities -up0)- securityassessment
-
-' 
 ' hidden relations to force layout ...
 ' 
 
-publicsource -[hidden]--> publicartifacts
-publicartifacts -[hidden]--> publicvulnerabilities
-publicvulnerabilities -[hidden]--> publicobligations
+publicsource -[hidden]-> publicartifacts
+publicartifacts -[hidden]-> publicvulnerabilities
+publicvulnerabilities -[hidden]-> publicobligations
 
-publicobligations -[hidden]--> publiclicenses
-publiclicenses -[hidden]--> publicmetadata
+publicobligations -[hidden]-> publiclicenses
+publiclicenses -[hidden]-> publicmetadata
 
-buildsystem -[hidden]--> productinventory
+cicd -[hidden]-> internalsource
+buildsystem -[hidden]-> internalartifacts
+internalsource -[hidden]-> compliancechecker
+internalartifacts -[hidden]-> fossbundlegenerator
+compliancechecker -[hidden]-> componentanalysis
+fossbundlegenerator -[hidden]-> securityassessment
+componentanalysis -[hidden]-> licensescanner
 
-productinventory -[hidden]--> componentinventory
-componentinventory -[hidden]--> ecc
-ecc -[hidden]--> licenses
+productinventory -[hidden]-> componentinventory
+componentinventory -[hidden]-> licenses
 
 @enduml

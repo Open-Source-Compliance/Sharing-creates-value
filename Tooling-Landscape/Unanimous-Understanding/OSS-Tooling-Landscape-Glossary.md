@@ -38,15 +38,19 @@ A system that builds a software project and creates the binaries and executables
 ### Compliance Checker
 A set of systems or services that are executed on the identified dependencies of a project to provide the metadata for the identified components and to run a compliance check according to defined criteria, such as license compatibility, known security violations, company policies.
 
-### FOSS Bundle Generator
+### FOSS Compliance Bundle Generator
 A tool that creates all the necessary documentation needed for the distribution of a software, such a document with all used components there licenses and copyrights, or a source code bundle with all the FOSS sources used in the project. The FOSS bundle is the artifact to be bundled with the delivered product to fulfill license obligations found in FOSS licenses.
 
-### Component Clearing
-Dedicated tools and services which provide license information for source code and/or binaries. The tools used follow different approaches. Some get the information by looking it up in a database. Some do source code scans for copyright and license information in comments. Others scan the source code concerning copyrighted snippets. The clearing also contains a step in which the results are approved according to company criteria. 
+### Component Analysis Service
+Dedicated tools and services which provide license information for source code and/or binaries. The tools used follow different approaches. Some get the information by looking it up in a database. Some do source code scans for copyright and license information in comments. Others scan the source code concerning copyrighted snippets. The clearing also contains a step in which the results are approved according to company criteria.
+
+### License & Copyright Scanner
+A tool that analyses source code to identify license and copyright information.
+Example: [Fossology](https://www.fossology.org/), [Scancode Toolkit](https://github.com/nexB/scancode-toolkit)
 
 ### Artifact Repository
 A system or service providing (binary) software artifacts and metadata stored in a defined directory structure which is used to retrieve artifacts during a build process. This is used as a cache for the external Artifact Repository to ensure the availability of all components used within the company, it is also the storage for the build software artifacts of the company, used in the Continuous Integration Infrastructure to store the build results.
-Example: [Nexus](https://www.sonatype.com/nexus-repository-oss)
+Example: [Archiva](https://archiva.apache.org/index.cgi)
 
 ### Security Vulnerability Assessment
 A set of tools and services which map known vulnerabilities from an external database to components used in products and assess the relevance and exploitability of the vulnerability concerning the usage pattern of the component in question.
@@ -57,10 +61,8 @@ Example: [Eclipse SW360](https://projects.eclipse.org/proposals/sw360)
 
 ### Component Metadata Repository
 A system or service that stores metadata about used software components (esp. FOSS). This includes licenses, copyrights, known vulnerabilitites and information, that is needed to do export classifications (ECCN), such as information about the contained cryptographic functionality. The information is used within the compliance checker to aquire the metadata for the identified components, to assess the compilation of dependent components and to provide the information for the creation of the FOSS bundle (i.e., the artifacts needed for the distribution of a software). The Component Metadata Repository can be linked to an external FOSS Metadata Database to retrieve commonly known information and make it usable within the organization. Also Security Vulnerability Database and other sources for e.g. export classification-relevant data, can be linked to retrieve the necessary information and to make it available within the company.
-
-#### ECCN Classifications
-The Export Control Classification Number (ECCN) is an alpha-numeric code that identifies the level of export control for articles, technology and software that are exported from the United States or the European Union. The code is used for any kind of goods, incl. software.
-The component “ECCN Classifications” hosts both the tooling to conduct ECCN classification for every software artifact, as well as the resulting ECCN number. Assumption: Close connection to Product and Component Catalogue. 
+Example: [Eclipse SW360](https://projects.eclipse.org/proposals/sw360)
 
 ### License Metadata Repository
 A list of all FOSS (and commercial?) licenses in use within an organization with all necessary metadata like implied obligations. It may use a Public License Master Database and a License Obligation Database for basic information enriched by the company for internal use.
+Example: [Eclipse SW360](https://projects.eclipse.org/proposals/sw360)

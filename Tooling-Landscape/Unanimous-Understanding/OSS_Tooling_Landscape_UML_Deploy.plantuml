@@ -39,7 +39,7 @@ node "Company External" <<Internet>> {
 
 node "Company Internal" <<Company Network>> {
 
-    component [Continuous Integration Infrastructure] as cicd <<Internal Service>>
+    component [Continuous Integration/\nDeployment Infrastructure] as cicd <<Internal Service>>
 
     component [Build Tool] as buildsystem <<Internal Service>>
 
@@ -55,7 +55,7 @@ node "Company Internal" <<Company Network>> {
 
     component [License & Copyright Scanner] as licensescanner <<Internal Service>>
 
-    component [Security Assessment] as securityassessment <<Internal Service>>
+    component [Security Vulnerability Assessment] as securityassessment <<Internal Service>>
 
     node "Internal Master Data" {
 

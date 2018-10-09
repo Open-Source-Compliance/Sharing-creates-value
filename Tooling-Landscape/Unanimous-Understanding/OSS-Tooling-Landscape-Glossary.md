@@ -29,7 +29,7 @@ Example: [ClearlyDefined](https://clearlydefined.io/)
 ### Source Code Repository
 Systems or services that provide source code. This is typically (also) a version control system. For the compliance tooling, typically the source code is needed as a folder on a file share, i.e., the source code is already checked out by, e.g., the Continuous Integration infrastructure. 
 
-### Continuous Integration / Continuous Deployment Infrastructure (CI/CD)
+### Continuous Integration/Deployment Infrastructure (CI/CD)
 Systems or services that orchestrate the build and deployment process for a software project and executes workflows triggered by different kind of events. The CI/CD infrastructure typically runs software builds and executes further build steps like testing and the compliance checks
 
 ### Build Tool

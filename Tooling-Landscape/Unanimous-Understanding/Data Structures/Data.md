@@ -7,6 +7,7 @@ Sometimes a description of the build environment, which was used to build the so
 #### Name
 String
 #### Version
+String
 #### Unique Identifier 
 String (e.g. SHA Hash)
 #### Text
@@ -14,14 +15,14 @@ textfield (the description itself)
 
 
 ## Constraint 
-Contraints are requirements that have to be fulfilled. These are for example the obligations a license defines or constrains that products have to fulfill when they integrate other products. The design of an contstraint shall be in a way that a contraint can be defined in a specific company environment in accordance to the company specific poliy. On the other hand a constraint can also be made available via a publicly available resource
+Contraints are requirements that have to be fulfilled. These are for example the obligations a license defines or constrains that products have to fulfill when they integrate other products. The design of an contstraint shall be in a way that a constraint can be defined in a specific company environment in accordance to the company specific poliy. On the other hand a constraint can also be made available via a publicly available resource
 ### Definition
 #### Type
 Enumeration { Exception, Obligation, Permission Resctriction, Risk, Other }
 #### Unique Identifier 
-string (e.g. SHA Hash)
+String (e.g. SHA Hash)
 #### Name
-string
+String
 #### Description
 textfield 
 #### Scope
@@ -31,21 +32,33 @@ enumeration {distribution, modifications, usage, other}
 ### Examples
 #### Example 1:
 Type:Restriction 
+
 UniqueIdentifier: SHA1
+
 Name: restricted use
+
 Description: cannot be used in nuclear facilities
+
 Scope: usage
 #### Example 2:
 Type:Obligation 
+
 UniqueIdentifier: SHA1
+
 Name: disclosure document
+
 Description: provide OSS disclosure document
+
 Scope: distribution
-##### Example 3:
-Type:Other 
+#### Example 3:
+Type:Other
+
 UniqueIdentifier: SHA1
+
 Name: Jurisdiction
-Description: license determines the jurisdiction – US
+
+Description: license determines the jurisdiction â€“ US
+
 Scope: other
 
 ## Data model meta information
@@ -66,21 +79,29 @@ String
 #### Version
 String
 #### Unique Identifier 
-string (e.g. SHA Hash)
+String (e.g. SHA Hash)
 #### Text
 textfield (the content of the document)
 #### Contact Data
 textfield (in case a contact for any request, like source code is present)
 #### Integrated 3rd party artifacts
-set of
-	Integrated 3rd party software.Name
-	Integrated 3rd party software.Version
-	set of 
-		License.Name
-		License.SPDX short Identifier
-		License.Acknowledgement
-		License.Text
-	Integrated 3rd party software.Copyright information
+
+	set of
+	
+		Integrated 3rd party software.Name
+	
+		Integrated 3rd party software.Version
+	
+		set of 
+			License.Name
+		
+			License.SPDX short Identifier
+		
+			License.Acknowledgement
+		
+			License.Text
+		
+		Integrated 3rd party software.Copyright information
 		
 
 ## License
@@ -114,18 +135,30 @@ textfield
 ### Examples
 #### Example 1:
 Name: GPL-2.0 
+
 UniqueIdentifier: SHA1
+
 SPDX short identifier: GPL-2.0
+
 Risk level: 3
+
 Cathegory: strong-copyleft
+
 OSI-approved: yes
+
 Text: GPL-2.0 text
+
 Characteristics:
+
 contstraint1; constraint2; constraint3
+
 Notes: any company or public available information
+
 References:
 https://www.gnu.org/licenses/old-licenses/gpl-2.0.de.html
+
 Standard-header:
+
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation; either version 2 of the License, or
@@ -160,7 +193,7 @@ textfield
 #### Constraints to be handled by the using/integrating project
 set of Constraint
 #### integrated artifacts
-set of artifact
+set of Integrated 3rd party software
 
 
 ## Integrated 3rd party software 
@@ -169,9 +202,9 @@ Integrated 3rd party software shall not to be taken literally. An integrated 3rd
 #### Type
 Enumeration { commercial, internal, oss, service, Other }
 #### Unique Identifier 
-string (e.g. SHA Hash)
+String (e.g. SHA Hash)
 #### Name
-string
+String
 #### Version
 String
 #### Unique Identifier Source (e.g. SHA Hash)

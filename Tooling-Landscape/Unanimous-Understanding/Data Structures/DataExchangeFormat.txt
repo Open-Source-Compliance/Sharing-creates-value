@@ -1,0 +1,73 @@
+@startuml
+class BuildEnvDescription {
+   String name
+   String version
+   String uniqueIdentifier
+   Text description
+}
+class Constraint {
+   Enum type
+   String uniqueIdentifier
+   String name
+   Text description
+   Enum scope
+}
+class CopyrightECCInformation {
+   Enum type
+   String content
+}
+class DataModelMetaInformation {
+  
+  String name
+  String version
+  String uniqueIdentifier
+
+}
+class DisclosureDocument {
+  
+  String name
+  String version
+  String uniqueIdentifier
+  Text legalWording    
+  Text contactData
+}
+class Integrated3rdPartySoftware {
+  Enum type
+  String uniqueIdentifier
+  String name
+  String version
+  String uniqueIdentifierSource
+  Archive sourceCodePackage
+  String uniqueIdentifierBinary
+  Archive binaryPackage
+  Text generalLicenseAssessment 
+}
+class License {
+  String name
+  String uniqueIdentifier
+  String spdxShortIdentifier
+  Enum riskLevel
+  Enum cathegory
+  String acknowledgement
+  Enum osiApproved
+  String text
+  Text notes
+  Text standardHeader
+    
+}
+
+class ProductInformation {
+   String name
+   Strin version
+   String uniqueIdentifier
+   Text descpription
+   Enum distributionModel
+   Text developmentDetails
+}
+Integrated3rdPartySoftware o-- License
+Integrated3rdPartySoftware o-- CopyrightECCInformation
+License o-- Constraint
+ProductInformation o-- Constraint
+ProductInformation o-- Integrated3rdPartySoftware
+DisclosureDocument - Integrated3rdPartySoftware : readsDataFrom >
+@enduml

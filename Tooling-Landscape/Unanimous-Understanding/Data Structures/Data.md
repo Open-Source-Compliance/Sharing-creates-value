@@ -19,7 +19,7 @@ Type := Enumeration { binary, other, source}
 
 UniqueIdentifier := String
 
-Artifact := Arcive 
+Artifact := Archive 
 
 This is the "real" piece of "software"
 
@@ -34,7 +34,7 @@ Name := String
 
 Description := textfield 
 
-Scope := enumeration {distribution, modifications, usage, other}
+Scope := Enumeration {distribution, modifications, usage, other}
 
 This defines the context of the constraint. E.g. in case a certain information is required when doing modifications of the software 
 

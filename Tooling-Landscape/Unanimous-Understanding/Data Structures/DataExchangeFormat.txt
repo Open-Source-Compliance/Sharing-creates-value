@@ -5,6 +5,13 @@ class BuildEnvDescription {
    String uniqueIdentifier
    Text description
 }
+
+class Content{
+	Enum type
+	String uniqueIdentifier
+	Archive artifact
+}	
+
 class Constraint {
    Enum type
    String uniqueIdentifier
@@ -23,6 +30,17 @@ class DataModelMetaInformation {
   String uniqueIdentifier
 
 }
+class Deliverable{
+   Enum type
+   String uniqueIdentifier
+   String name
+   String version
+   Text description
+   Enum distributionModel
+   Enum licensingModel
+   Enum riskExpsoure
+   
+}
 class DisclosureDocument {
   
   String name
@@ -31,17 +49,16 @@ class DisclosureDocument {
   Text legalWording    
   Text contactData
 }
-class Integrated3rdPartySoftware {
+
+class DigitalArtifact {
   Enum type
   String uniqueIdentifier
   String name
   String version
-  String uniqueIdentifierSource
-  Archive sourceCodePackage
-  String uniqueIdentifierBinary
-  Archive binaryPackage
+  BOOLEAN isModified
   Text generalLicenseAssessment 
 }
+
 class License {
   String name
   String uniqueIdentifier
@@ -61,13 +78,25 @@ class ProductInformation {
    Strin version
    String uniqueIdentifier
    Text descpription
-   Enum distributionModel
+   Enum criticality
    Text developmentDetails
 }
-Integrated3rdPartySoftware o-- License
-Integrated3rdPartySoftware o-- CopyrightECCInformation
-License o-- Constraint
-ProductInformation o-- Constraint
-ProductInformation o-- Integrated3rdPartySoftware
-DisclosureDocument - Integrated3rdPartySoftware : readsDataFrom >
+class SwBundle{
+Enum type
+}
+
+License "1..*" -- "1..*" DigitalArtifact
+License "0..*" - "0..*" Constraint
+Constraint "0..*" - "0..*" ProductInformation
+CopyrightECCInformation "0..*" -- DigitalArtifact 
+Deliverable - SwBundle 
+Deliverable -- DisclosureDocument 
+(Deliverable, SwBundle) .. BuildEnvDescription
+Content "0..*" -- DigitalArtifact 
+DigitalArtifact "1..*" -o "1..*" Deliverable
+Content "1..*" -- SwBundle
+ProductInformation -- "1..*" CopyrightECCInformation
+ProductInformation -- "1..*" Deliverable
+ProductInformation *- "0..*" ProductInformation
+DigitalArtifact -- DisclosureDocument : readsDataFrom <
 @enduml

@@ -250,6 +250,8 @@ Development details := textfield
 
 Constraints to be handled by the using/integrating project := set of Constraint
 
+Criticality := Enumeration {0,1,2,3,4,5}
+
 Integrated DigitalArtifacts := set of DigitalArtifacts
 
 ECC qualification := set of CopyrightECCInformation

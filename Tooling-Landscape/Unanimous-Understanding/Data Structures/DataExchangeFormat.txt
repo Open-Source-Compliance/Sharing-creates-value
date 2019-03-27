@@ -38,7 +38,7 @@ class Deliverable{
    Text description
    Enum distributionModel
    Enum licensingModel
-   Enum riskExpsoure
+   Enum riskExposure
    
 }
 class DisclosureDocument {
@@ -64,7 +64,7 @@ class License {
   String uniqueIdentifier
   String spdxShortIdentifier
   Enum riskLevel
-  Enum cathegory
+  Enum category
   String acknowledgement
   Enum osiApproved
   String text
@@ -77,8 +77,8 @@ class ProductInformation {
    String name
    Strin version
    String uniqueIdentifier
-   Text descpription
-   Enum criticality
+   Text description 
+   Enum criticality 
    Text developmentDetails
 }
 class SwBundle{

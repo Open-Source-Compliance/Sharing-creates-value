@@ -176,7 +176,7 @@ SPDX short Identifier := String
 
 Risk level := Enumeration { 1,2,3,4,5}
 
-Cathegory := Enumeration {commercial, other, permissive, limited-copyleft, restrictive, strong-copyleft, ultra-strong-copyleft} 
+Category := Enumeration {commercial, other, permissive, limited-copyleft, restrictive, strong-copyleft, ultra-strong-copyleft} 
 
 Acknowledgement := String
 
@@ -257,6 +257,8 @@ Integrated DigitalArtifacts := set of DigitalArtifacts
 ECC qualification := set of CopyrightECCInformation
 
 Deliverables := set of Deliverable
+
+IntegratedProducts := set of ProductInformation
 
 ## SwBundle
 This represents the real item which is made available to 3rd parties,e.g. it is the executable, which is made available to 3rd parties.

@@ -27,27 +27,30 @@ There exist already some projects / activities which deal with OSS license compl
 * [Open Compliance Program](https://compliance.linuxfoundation.org/)
 * [Copyleft.org](https://copyleft.org/)
 * [Open Source License Checklists by OSADL eG](https://www.osadl.org/Open-Source-License-Checklists.oss-compliance-lists.0.html)
+* [Open Source License Compliance Handbook](https://github.com/finos-osr/OSLC-handbook) provided by [FINOS Foundation}(https://www.finos.org/)
 * [ClearlyDefined](https://docs.clearlydefined.io/)
 
 Another initiative, which is very helpful for the topic license compliance is the [Reuse](https://reuse.software/) project run by the [Free Software Foundation Europe](https://fsfe.org/)
 
 
-OpenChain is currently more focusing on training and assessment, but the topic "how do I xyz to be license compliant" is not touched. As far as I know the answer to the question is a "legal interpretation of a certain screnario" and OpenChain does not want to do legal interpretations. 
+OpenChain identifies the key requirements of a quality open source compliance program in its specification. The OpenChain Curriculum supports this process by providing extensive reference material for effective open source training and management. OpenChain Conformance allows organizations to show they meet these requirements. The topic "how do I comply with a specific license" is not addressed. 
 
-Copyleft.org provides practical tipps but it does not provide any license information and copyright notices of OSS packages. 
+Copyleft.org provides practical tips for complying with GNU licesnes. It does not provide any license information and copyright notices of OSS packages. 
 
-Once published the Open Source License Checklists will be the first publicly available resource for learning "what do I have to do, if I incorporate software licensed under xyz in my software depending on he use case?"
+The Open Source License Checklists was launched with the goal to create generally accepted checklists of the obligations of commonly used Open Source software that are accepted by distributors and copyright holders and trusted by all members of the distribution chain.
+
+The Open Source License Compliance Handbook provides information on how to comply with some of the more common open source licenses under a specific set of use-cases in both a machine-readable and human-readable format. The goal here is to provide developers and engineers with some "self-serve" information to facilitate the end goal of open source license compliance, as well as identifying some of the more complex open source license compliance aspects for which consultation with open source counsel may be recommended.
 
 A major objective of this project to provide reviewed license and copyright information of OSS packages - ready to use for everybody under a very relaxed license. Thus making OSS compliance for everybody a low effort and easy task. We are aware that the best approach will be to upstream this information, but before one is able to upstream anything there is the task to create the information to be contributed upstream. This is one focus of this project.
 
-It seems that ClearlyDefined targets this to a certain extend, too.
+It seems that ClearlyDefined targets this to a certain extent, too.
 
 ## OSS package analysis file
 One of the tasks in OSS compliance work is the analysis of OSS packages in order to identify the licenses and copyright holders. Although tools are available which support the analysis, it is still the task which causes effort.
 We believe that is does not make any sense that everyone doing checks of packages again and again. This is redundant effort in our opinion which could be much better invested in OSS development. In other words: we think increasing the code base is much better instead of spending effort for license compliance checks which are done thousand fold today in many different organizations.
 
 ## Process we follow in order to create a OSS package analysis file
-We create such OSS package analysis files and make them available for download under the terms of the Creative Commons Public Domain Dedication [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). We know that the content we produce is somehow delicate. Due to this it is important to disclose how we create such content. Since we represent an Open Source project everything is transparent. The following points describe the procedure we follow in creating the "OSS package analysis file" as we call it. 
+We create such OSS package analysis files and make them available for download under the terms of the Creative Commons Public Domain Dedication [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/). We know that the content we produce is somewhat delicate. Due to this it is important to disclose how we create such content. Since we represent an Open Source project everything is transparent. The following points describe the procedure we follow in creating the "OSS package analysis file" as we call it. 
 
 The OSS package analysis file are generated following the process described below:
 

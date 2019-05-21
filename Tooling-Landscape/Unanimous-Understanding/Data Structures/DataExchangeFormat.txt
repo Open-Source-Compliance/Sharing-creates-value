@@ -10,7 +10,9 @@ class Content{
 	Enum type
 	String uniqueIdentifier
 	Archive artifact
-}	
+  String hash
+  URL[] contentSource
+}
 
 class Constraint {
    Enum type
@@ -24,7 +26,7 @@ class CopyrightECCInformation {
    String content
 }
 class DataModelMetaInformation {
-  
+
   String name
   String version
   String uniqueIdentifier
@@ -39,24 +41,42 @@ class Deliverable{
    Enum distributionModel
    Enum licensingModel
    Enum riskExposure
-   
+
 }
 class DisclosureDocument {
-  
+
   String name
   String version
   String uniqueIdentifier
-  Text legalWording    
+  Text legalWording
   Text contactData
 }
+
+
 
 class DigitalArtifact {
   Enum type
   String uniqueIdentifier
   String name
   String version
+  String[] coordinates
+  URL homepage
+  SPDXLicenseExpression declaredLicenses
+  SPDXLicenseExpression observedLicenses
+  SPDXLicenseExpression effectiveLicenses
   BOOLEAN isModified
-  Text generalLicenseAssessment 
+  Text generalLicenseAssessment
+}
+note left: In SPDX this is called a Package
+
+note as license_ref
+  License Link embedded in
+  spdxLicenseExpressions
+  no extra field
+end note
+
+class LicenseSelector {
+  SPDXLicenseExpression usedLicenses
 }
 
 class License {
@@ -70,15 +90,14 @@ class License {
   String text
   Text notes
   Text standardHeader
-    
 }
 
 class ProductInformation {
    String name
    Strin version
    String uniqueIdentifier
-   Text description 
-   Enum criticality 
+   Text description
+   Enum criticality
    Text developmentDetails
 }
 class SwBundle{
@@ -86,14 +105,16 @@ Enum type
 }
 
 License "1..*" -- "1..*" DigitalArtifact
+(License, DigitalArtifact) .. license_ref
 License "0..*" - "0..*" Constraint
 Constraint "0..*" - "0..*" ProductInformation
-CopyrightECCInformation "0..*" -- DigitalArtifact 
-Deliverable - SwBundle 
-Deliverable -- DisclosureDocument 
+CopyrightECCInformation "0..*" -- DigitalArtifact
+Deliverable - SwBundle
+Deliverable -- DisclosureDocument
 (Deliverable, SwBundle) .. BuildEnvDescription
-Content "0..*" -- DigitalArtifact 
+Content "0..*" -- DigitalArtifact
 DigitalArtifact "1..*" -o "1..*" Deliverable
+(DigitalArtifact, Deliverable) .. LicenseSelector
 Content "1..*" -- SwBundle
 ProductInformation -- "1..*" CopyrightECCInformation
 ProductInformation -- "1..*" Deliverable

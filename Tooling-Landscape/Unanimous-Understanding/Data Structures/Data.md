@@ -3,7 +3,7 @@ This data collection shall define all required data to implement a software comp
 
 ## Build environment description
 Sometimes a description of the build environment, which was used to build the software product, is required. This data type implements this. It is assumed that the description of the build environment qualifies a distinct deliverable. Like an embedded firmware image or a container(s) or simply a certain executable
-### Defintion 
+### Defintion
 Name := String
 
 Version := String
@@ -19,11 +19,15 @@ Type := Enumeration { binary, other, source}
 
 UniqueIdentifier := String
 
-Artifact := Archive 
+Artifact := Archive
+
+Hash := String (Hash code of the artifact, to identify it uniquely)
+
+ContentSource := set of URL (Reference to the source repo tag, the software heritage tag, the binary download link, etc.)
 
 This is the "real" piece of "software"
 
-## Constraint 
+## Constraint
 Contraints are requirements that have to be fulfilled. These are for example the obligations a license defines or constrains that products have to fulfill when they integrate other products. The design of an contstraint shall be in a way that a constraint can be defined in a specific company environment in accordance to the company specific poliy. On the other hand a constraint can also be made available via a publicly available resource. Besides a license or a product also ECC qualitication can define a certain constraint.
 ### Definition
 Type := Enumeration { Exception, Obligation, Permission Resctriction, Risk, Other }
@@ -32,16 +36,16 @@ Unique Identifier := String (e.g. SHA Hash)
 
 Name := String
 
-Description := textfield 
+Description := textfield
 
 Scope := Enumeration {distribution, modifications, usage, other}
 
-This defines the context of the constraint. E.g. in case a certain information is required when doing modifications of the software 
+This defines the context of the constraint. E.g. in case a certain information is required when doing modifications of the software
 
 
 ### Examples
 #### Example 1:
-Type:Restriction 
+Type:Restriction
 
 UniqueIdentifier: SHA1
 
@@ -52,7 +56,7 @@ Description: cannot be used in nuclear facilities
 Scope: usage
 
 #### Example 2:
-Type:Obligation 
+Type:Obligation
 
 UniqueIdentifier: SHA1
 
@@ -103,7 +107,7 @@ RiskExposure := Enumeration
 
 DeliveredItem := SwBundle
 
-## Digital Artifact 
+## Digital Artifact
 A digital artifact represents an distinct identifiable part of a product, i.e. an element of the bill of material. It can be an OSS pacakge, a commercial library, a cerain font, an icon, a picture, a called 3rd party service. Especially in case of mobile apps these artifacts have to be taken into account.
 ### Definition
 Type := Enumeration{ commercial, icon, internal, font, graphic, oss, service, other }
@@ -114,7 +118,9 @@ Name := String
 
 Version := String
 
-Unique Identifier Source (e.g. SHA Hash) := String
+Homepage := URL (e.g. Project Homepage)
+
+Coordinates := set of String (Unique references in different technologies, e.g., Maven coordinates)
 
 isModified := Boolean
 
@@ -124,7 +130,11 @@ Binary package := set of Content
 
 General license assessment := textfield (this textfield is foreseen to provide an overview about the license situation of the package, like an executive summary)
 
-Licenses := set of License
+Effective Licenses := spdxLicenseExpression (With references to licenses)
+
+Declared Licenses := spdxLicenseExpression (With references to licenses)
+
+Observed Licenses := spdxLicenseExpression (With references to licenses)
 
 Copyright information := set of CopyrightECCInformation
 
@@ -148,22 +158,22 @@ ContactData := textfield (in case a contact for any request, like source code is
 Integrated 3rd party artifacts :=
 
 	set of
-	
+
 		DigitalArtifact.Name
-	
+
 		DigitalArtifact.Version
-	
-		set of 
+
+		set of
 			License.Name
-		
+
 			License.SPDX short Identifier
-		
+
 			License.Acknowledgement
-		
+
 			License.Text
-		
+
 		DigitalArtifact.CopyrightECCInformation
-		
+
 
 ## License
 The license data model is based on the current SPDX definition of a license, the SPDX specification itself is licensed und CC-BY-3.0. The SPDX license definiton lacks from a compliance process point of view some data which are important to implement an integrated compliance workflow taking care of company specific requirements. This defintion has the purpose to provide such abbtional data.
@@ -176,7 +186,7 @@ SPDX short Identifier := String
 
 Risk level := Enumeration { 1,2,3,4,5}
 
-Category := Enumeration {commercial, other, permissive, limited-copyleft, restrictive, strong-copyleft, ultra-strong-copyleft} 
+Category := Enumeration {commercial, other, permissive, limited-copyleft, restrictive, strong-copyleft, ultra-strong-copyleft}
 
 Acknowledgement := String
 
@@ -194,7 +204,7 @@ Standard-header := textfield
 
 ### Examples
 #### Example 1:
-Name: GPL-2.0 
+Name: GPL-2.0
 
 UniqueIdentifier: SHA1
 
@@ -266,8 +276,3 @@ This represents the real item which is made available to 3rd parties,e.g. it is 
 Type := Enumeration
 
 Items := set of Content
-
-
-
-
-

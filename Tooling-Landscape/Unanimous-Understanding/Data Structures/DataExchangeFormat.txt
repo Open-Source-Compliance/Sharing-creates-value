@@ -104,8 +104,8 @@ class SwBundle{
 }
 
 LicenseExpression "0..1" -- DigitalArtifact : declaredLicenses
-LicenseExpression "0..1" -- DigitalArtifact : observedLicenses
-LicenseExpression "0..1" -- DigitalArtifact : effectiveLicenses
+LicenseExpression "0..1" -- DigitalArtifact : foundLicenses
+LicenseExpression "0..1" -- DigitalArtifact : concludedLicenses
 LicenseExpression "1" -- LicenseSelector : usedLicenses
 License "1..*" -- "1..*" LicenseExpression
 License "0..*" - "0..*" Constraint

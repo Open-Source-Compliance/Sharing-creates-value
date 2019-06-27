@@ -201,9 +201,9 @@ standardHeader := Textfield
 #### Example 1:
 name: GPL-2.0
 
-uniqueIdentifier: SHA1
+uniqueIdentifier: SHA256
 
-spdxShortIdentifier: GPL-2.0
+spdxShortIdentifier: GPL-2.0-only
 
 riskLevel: 3
 

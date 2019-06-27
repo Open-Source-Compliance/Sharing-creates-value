@@ -1,4 +1,5 @@
 @startuml
+
 class BuildEnvDescription {
    String name
    String version
@@ -10,8 +11,9 @@ class Content{
 	Enum type
 	String uniqueIdentifier
 	Archive artifact
-  String hash
-  URL[] contentSource
+  URL externalSource
+  URL internalSource
+  URL softwareHeritageSource
 }
 
 class Constraint {
@@ -21,17 +23,18 @@ class Constraint {
    Text description
    Enum scope
 }
+
 class CopyrightECCInformation {
    Enum type
-   String content
+   Text content
 }
-class DataModelMetaInformation {
 
+class DataModelMetaInformation {
   String name
   String version
   String uniqueIdentifier
-
 }
+
 class Deliverable{
    Enum type
    String uniqueIdentifier
@@ -41,10 +44,9 @@ class Deliverable{
    Enum distributionModel
    Enum licensingModel
    Enum riskExposure
-
 }
-class DisclosureDocument {
 
+class DisclosureDocument {
   String name
   String version
   String uniqueIdentifier
@@ -52,31 +54,26 @@ class DisclosureDocument {
   Text contactData
 }
 
-
-
 class DigitalArtifact {
   Enum type
   String uniqueIdentifier
   String name
   String version
-  String[] coordinates
   URL homepage
-  SPDXLicenseExpression declaredLicenses
-  SPDXLicenseExpression observedLicenses
-  SPDXLicenseExpression effectiveLicenses
   BOOLEAN isModified
   Text generalLicenseAssessment
 }
-note left: In SPDX this is called a Package
 
-note as license_ref
-  License Link embedded in
-  spdxLicenseExpressions
-  no extra field
-end note
+class Coordinate {
+  String coordinate
+}
+
+class LicenseExpression {
+  String UniqueIdentifier
+  String licenseExpression
+}
 
 class LicenseSelector {
-  SPDXLicenseExpression usedLicenses
 }
 
 class License {
@@ -89,35 +86,50 @@ class License {
   Enum osiApproved
   String text
   Text notes
+  URL[] references
   Text standardHeader
 }
 
 class ProductInformation {
-   String name
-   Strin version
-   String uniqueIdentifier
-   Text description
-   Enum criticality
-   Text developmentDetails
-}
-class SwBundle{
-Enum type
+  String name
+  String version
+  String uniqueIdentifier
+  Text description
+  Enum criticality
+  Text developmentDetails
 }
 
-License "1..*" -- "1..*" DigitalArtifact
-(License, DigitalArtifact) .. license_ref
+class SwBundle{
+  Enum type
+}
+
+LicenseExpression "0..1" -- DigitalArtifact : declaredLicenses
+LicenseExpression "0..1" -- DigitalArtifact : observedLicenses
+LicenseExpression "0..1" -- DigitalArtifact : effectiveLicenses
+LicenseExpression "1" -- LicenseSelector : usedLicenses
+License "1..*" -- "1..*" LicenseExpression
 License "0..*" - "0..*" Constraint
 Constraint "0..*" - "0..*" ProductInformation
-CopyrightECCInformation "0..*" -- DigitalArtifact
-Deliverable - SwBundle
+CopyrightECCInformation "0..*" -- DigitalArtifact : copyrightInformation
+CopyrightECCInformation "0..*" -- DigitalArtifact : eccInformation
+Coordinate "1..*" -- DigitalArtifact
+Deliverable - SwBundle : deliveredItem
 Deliverable -- DisclosureDocument
 (Deliverable, SwBundle) .. BuildEnvDescription
 Content "0..*" -- DigitalArtifact
 DigitalArtifact "1..*" -o "1..*" Deliverable
-(DigitalArtifact, Deliverable) .. LicenseSelector
+(DigitalArtifact, Deliverable) .. "0..1" LicenseSelector
 Content "1..*" -- SwBundle
 ProductInformation -- "1..*" CopyrightECCInformation
 ProductInformation -- "1..*" Deliverable
 ProductInformation *- "0..*" ProductInformation
 DigitalArtifact -- DisclosureDocument : readsDataFrom <
+
+'Formatting
+DigitalArtifact -[hidden]- Coordinate
+DigitalArtifact -[hidden]- Content
+LicenseSelector -[hidden]- Deliverable
+LicenseExpression -[hidden]- LicenseSelector
+LicenseSelector -[hidden]- DigitalArtifact
+
 @enduml

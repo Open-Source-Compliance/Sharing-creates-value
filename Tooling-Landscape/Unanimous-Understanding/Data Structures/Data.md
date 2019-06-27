@@ -3,231 +3,221 @@ This data collection shall define all required data to implement a software comp
 
 ## Build environment description
 Sometimes a description of the build environment, which was used to build the software product, is required. This data type implements this. It is assumed that the description of the build environment qualifies a distinct deliverable. Like an embedded firmware image or a container(s) or simply a certain executable
+
 ### Defintion
-Name := String
+name := String
 
-Version := String
+version := String
 
-Unique Identifier := String (e.g. SHA Hash)
+uniqueIdentifier := String (e.g. SHA Hash)
 
-Text := textfield (the description itself)
+text := Textfield (the description itself)
 
 ## Content
 This class is the representation of a certain piece of "software". It can be a binary package or a source package.
+
 ### Definition
-Type := Enumeration { binary, other, source}
+type := Enumeration { binary, other, source}
 
-UniqueIdentifier := String
+uniqueIdentifier := String (Typically the hash code of the artifact, to identify it uniquely)
 
-Artifact := Archive
+artifact := Archive (E.g. a Jar-File containing the content)
 
-Hash := String (Hash code of the artifact, to identify it uniquely)
+externalSource := URL (Link to the external artifact source)
 
-ContentSource := set of URL (Reference to the source repo tag, the software heritage tag, the binary download link, etc.)
+internalSource := URL (Link to the internal storage of the artifact)
+
+softwareHeritageSource := URL (Link to the tag basis of the content in Software Heritage)
 
 This is the "real" piece of "software"
 
 ## Constraint
 Contraints are requirements that have to be fulfilled. These are for example the obligations a license defines or constrains that products have to fulfill when they integrate other products. The design of an contstraint shall be in a way that a constraint can be defined in a specific company environment in accordance to the company specific poliy. On the other hand a constraint can also be made available via a publicly available resource. Besides a license or a product also ECC qualitication can define a certain constraint.
+
 ### Definition
-Type := Enumeration { Exception, Obligation, Permission Resctriction, Risk, Other }
+type := Enumeration { Exception, Obligation, Permission Resctriction, Risk, Other }
 
-Unique Identifier := String (e.g. SHA Hash)
+uniqueIdentifier := String (e.g. SHA Hash)
 
-Name := String
+name := String
 
-Description := textfield
+description := Textfield
 
-Scope := Enumeration {distribution, modifications, usage, other}
+scope := Enumeration {distribution, modifications, usage, other}
 
 This defines the context of the constraint. E.g. in case a certain information is required when doing modifications of the software
 
-
 ### Examples
+
 #### Example 1:
-Type:Restriction
+type:Restriction
 
-UniqueIdentifier: SHA1
+uniqueIdentifier: SHA1
 
-Name: restricted use
+name: restricted use
 
-Description: cannot be used in nuclear facilities
+description: cannot be used in nuclear facilities
 
-Scope: usage
+scope: usage
 
 #### Example 2:
-Type:Obligation
+type:Obligation
 
-UniqueIdentifier: SHA1
+uniqueIdentifier: SHA1
 
-Name: disclosure document
+name: disclosure document
 
-Description: provide OSS disclosure document
+description: provide OSS disclosure document
 
-Scope: distribution
+scope: distribution
 
 #### Example 3:
-Type:Other
+type:Other
 
-UniqueIdentifier: SHA1
+uniqueIdentifier: SHA1
 
-Name: Jurisdiction
+name: Jurisdiction
 
-Description: license determines the jurisdiction – US
+description: license determines the jurisdiction – US
 
-Scope: other
+scope: other
 
-## Data model meta information
+## CopyrightECCInformation
+
+This is a representation of additional information like copyrights or ecc information
+### Definition
+type := Enumeration { copyright, ecc }
+
+content := Textfield
+
+## DataModelMetaInformation
 This is the meta information of the model itself, like name, version, etc.
+
 ### Defintion
-Name := String
+name := String
 
-Version := String
+version := String
 
-Unique Identifier := String (e.g. SHA hash)
+uniqueIdentifier := String (e.g. SHA hash)
 
 ## Deliverable
-A deliverable implements a real deliverable of a product. A product can be made available in different formats, like as container(s), an executable, an image etc. The different options are modelled as deliverable
+A deliverable implements a real deliverable of a product. A product can be made available in different formats, like as container(s), an executable, an image etc. The different options are modeled as deliverable
+
 ### Definition
-Type := Enumeration {app, container, executable, firmware, image, other, service}
+type := Enumeration {app, container, executable, firmware, image, other, service}
 
-UniqueIdentifier := String
+uniqueIdentifier := String
 
-Name := String
+name := String
 
-Version := String
+version := String
 
-Description := textfield
+description := Textfield
 
-DistributionModel := Enumeration
+distributionModel := Enumeration
 
-LicensingModel := Enumeration
+licensingModel := Enumeration
 
-RiskExposure := Enumeration
+riskExposure := Enumeration
 
-DeliveredItem := SwBundle
+## Disclosure document
+The disclosure document is often named as OSS declaration or OSS disclosure document or ReadME_OSS
+
+### Definition
+name := String
+
+version := String
+
+uniqueIdentifier := String (e.g. SHA Hash)
+
+legalWording := Textfield
+
+contactData := Textfield (in case a contact for any request, like source code is present)
 
 ## Digital Artifact
-A digital artifact represents an distinct identifiable part of a product, i.e. an element of the bill of material. It can be an OSS pacakge, a commercial library, a cerain font, an icon, a picture, a called 3rd party service. Especially in case of mobile apps these artifacts have to be taken into account.
+A digital artifact represents an distinct identifiable part of a product, i.e. an element of the bill of material. It can be an OSS pacakge, a commercial library, a cerain font, an icon, a picture, a called 3rd party service. Especially in case of mobile apps these artifacts have to be taken into account. In SPDX this is called a Package.
+
 ### Definition
-Type := Enumeration{ commercial, icon, internal, font, graphic, oss, service, other }
+type := Enumeration{ commercial, icon, internal, font, graphic, oss, service, other }
 
-Unique Identifier := String (e.g. SHA Hash)
+uniqueIdentifier := String (e.g. SHA Hash)
 
-Name := String
+name := String
 
-Version := String
+version := String
 
-Homepage := URL (e.g. Project Homepage)
-
-Coordinates := set of String (Unique references in different technologies, e.g., Maven coordinates)
+homepage := URL (e.g. Project Homepage)
 
 isModified := Boolean
 
-Source Code package := set of Content
+generalLicenseAssessment := Textfield (this textfield is foreseen to provide an overview about the license situation of the package, like an executive summary)
 
-Binary package := set of Content
+## Coordinates
+This class represents the coordinates of a DigitalArtifact in a certain technology, i.e., the typical reference of a unique component version in this technology. E.g., maven coordinates for a component on maven central.
 
-General license assessment := textfield (this textfield is foreseen to provide an overview about the license situation of the package, like an executive summary)
-
-Effective Licenses := spdxLicenseExpression (With references to licenses)
-
-Declared Licenses := spdxLicenseExpression (With references to licenses)
-
-Observed Licenses := spdxLicenseExpression (With references to licenses)
-
-Copyright information := set of CopyrightECCInformation
-
-ECC information := set of CopyrightECCInformation
-
-
-
-## Disclosure document
-The disclosure document is often named as OSS delcaration or OSS disclosure document or ReadME_OSS
 ### Definition
-Name := String
+coordinate := String
 
-Version := String
+## LicenseExpression
+Representation of a SPDX license expression that combines a set of licenses to the licenses expression attached to a DigitalArtifact
 
-Unique Identifier := String (e.g. SHA Hash)
+### Definition
+uniqueIdentified := String
 
-LegalWording := textfield
+licenseExpression := String (An SPDX licenses expression stored as String, uses the SPDX short identifier to reference a license)
 
-ContactData := textfield (in case a contact for any request, like source code is present)
+## LicenseSelector
+Property of the usage of a DigitalArtifact in a Deliverable, used to express the used licenses in cases where a DigitalArtifact allows license selection.
 
-Integrated 3rd party artifacts :=
-
-	set of
-
-		DigitalArtifact.Name
-
-		DigitalArtifact.Version
-
-		set of
-			License.Name
-
-			License.SPDX short Identifier
-
-			License.Acknowledgement
-
-			License.Text
-
-		DigitalArtifact.CopyrightECCInformation
-
+### Definition
 
 ## License
-The license data model is based on the current SPDX definition of a license, the SPDX specification itself is licensed und CC-BY-3.0. The SPDX license definiton lacks from a compliance process point of view some data which are important to implement an integrated compliance workflow taking care of company specific requirements. This defintion has the purpose to provide such abbtional data.
+The license data model is based on the current SPDX definition of a license, the SPDX specification itself is licensed und CC-BY-3.0. The SPDX license definiton lacks from a compliance process point of view some data which are important to implement an integrated compliance workflow taking care of company specific requirements. This definition has the purpose to provide such abbtional data.
+
 ### Definition
-Name := String
+name := String
 
-Unique Identifier :=String (e.g. SHA hash)
+uniqueIdentifier :=String (e.g. SHA hash)
 
-SPDX short Identifier := String
+spdxShortIdentifier := String
 
-Risk level := Enumeration { 1,2,3,4,5}
+Risk level := Enumeration { 1,2,3,4,5 }
 
-Category := Enumeration {commercial, other, permissive, limited-copyleft, restrictive, strong-copyleft, ultra-strong-copyleft}
+category := Enumeration {commercial, other, permissive, limited-copyleft, restrictive, strong-copyleft, ultra-strong-copyleft}
 
-Acknowledgement := String
+acknowledgement := String
 
-OSI-approved := Enumeration {yes, no, unknown}
+osiApproved := Enumeration {yes, no, unknown}
 
-Text := textfield (this is the text of the license)
+text := Textfield (this is the text of the license)
 
-Characteristics := set of Constraint
+notes := Textfield
 
-Notes := textfield
+references := set of URLs
 
-References := set of URLs
-
-Standard-header := textfield
+standardHeader := Textfield
 
 ### Examples
 #### Example 1:
-Name: GPL-2.0
+name: GPL-2.0
 
-UniqueIdentifier: SHA1
+uniqueIdentifier: SHA1
 
-SPDX short identifier: GPL-2.0
+spdxShortIdentifier: GPL-2.0
 
-Risk level: 3
+riskLevel: 3
 
-Cathegory: strong-copyleft
+category: strong-copyleft
 
-OSI-approved: yes
+osiApproved: yes
 
-Text: GPL-2.0 text
+text: GPL-2.0 text
 
-Characteristics:
+notes: any company or public available information
 
-contstraint1; constraint2; constraint3
+references: [https://www.gnu.org/licenses/old-licenses/gpl-2.0.de.html]
 
-Notes: any company or public available information
-
-References:
-https://www.gnu.org/licenses/old-licenses/gpl-2.0.de.html
-
-Standard-header:
+standardHeader:
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -243,36 +233,26 @@ Standard-header:
     with this program; if not, write to the Free Software Foundation, Inc.,
     51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
-
-
-## Productinformation
+## ProductInformation
 This data type defines is the meta information of a specific product. A product in this context can be everything a company makes available to 3rd parties. Note that a product can consist of other products, which may introduce certain constraints to the integrating product.
+
 ### Definition
-Name := String
+name := String
 
-Version := String
+version := String
 
-Unique Identifier := String (e.g. SHA Hash)
+uniqueIdentifier := String (e.g. SHA Hash)
 
-Description := textfield (short description of the product itself)
+description := Textfield (short description of the product itself)
 
-Development details := textfield
+criticality := Enumeration {0,1,2,3,4,5}
 
-Constraints to be handled by the using/integrating project := set of Constraint
-
-Criticality := Enumeration {0,1,2,3,4,5}
-
-Integrated DigitalArtifacts := set of DigitalArtifacts
-
-ECC qualification := set of CopyrightECCInformation
-
-Deliverables := set of Deliverable
-
-IntegratedProducts := set of ProductInformation
+developmentDetails := Textfield
 
 ## SwBundle
 This represents the real item which is made available to 3rd parties,e.g. it is the executable, which is made available to 3rd parties.
+
 ### Definition
-Type := Enumeration
+type := Enumeration
 
 Items := set of Content

@@ -1,6 +1,6 @@
 # Tooling Landscape
 ## Introduction
-This directory is the main directory for all information about our work on an highly autmoated end to end OSS compliance toolchain consisting of OSS tools.  
+This directory is the main directory for all information about our work on an highly automated end to end OSS compliance toolchain consisting of OSS tools.  
 ## Overview
 The use of OSS in products, services and other offerings is increasing exponentially, additionally the release cycles of products and services become shorter and shorter. To cope with this situation an as much as possible automated compliance toolchain needs to exist.
 

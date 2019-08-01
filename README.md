@@ -8,4 +8,9 @@ This work group is focused on reducing resource costs and improving the quality 
 * We plan to work with existing projects to make this happen
 (FOSSology, Software Heritage, SPDX, sw360, ClearlyDefined)
 
+This activity is part of the OpenChain Project. Here is a brief description of the hierarchy of what we do:
+* The OpenChain Project (www.openchainproject.org) is the standard for open source compliance in the supply chain
+* * The OpenChain Project has various Global Work Groups where volunteers work on specific compliance challenges
+* * * The OpenChain Project Tooling Work Group is using the Sharing Creates Value GitHub Repository and OSS Compliance Tooling mailing list to coordinate activity around open source compliance tooling. 
+
 You can learn more on our [wiki]( https://github.com/Open-Source-Compliance/Sharing-creates-value/wiki)

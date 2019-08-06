@@ -6,7 +6,7 @@ This work group is focused on reducing resource costs and improving the quality 
 * We are making turn-key Open Source tooling for Open Source Compliance
 * We are considering what open data database(s) can support this
 * We plan to work with existing projects to make this happen
-(FOSSology, ScanCode, Software Heritage, SPDX, sw360, ClearlyDefined)
+(Bang, FOSSology, ORT, ScanCode, Software Heritage, SPDX, sw360, ClearlyDefined)
 
 This activity is part of the OpenChain Project. Here is a brief description of the hierarchy:
 *  The OpenChain Project (www.openchainproject.org) maintains the standard for open source compliance in the supply chain. It also provides reference material and collaborative activities in this field.

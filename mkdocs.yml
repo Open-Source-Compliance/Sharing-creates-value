@@ -4,8 +4,6 @@ site_description: Open Source applied to Open Source License Compliance
 site_author: Oliver Fendt
 site_url: 'https://'
 
-repo_name: Open-Source-Compliance/Sharing-creates-value
-repo_url: https://github.com/Open-Source-Compliance/Sharing-creates-value
 
 copyright: 'Copyright &copy; The Tooling Group. <br>The Content is licensed under CC-BY-SA-4.0 <br>
                 Credits to David Delvalle for the design of our Logo'

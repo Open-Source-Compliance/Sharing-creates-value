@@ -1,7 +1,3 @@
-
-<br>
-<br>
-
 # Open Source Tooling for Open Source Compliance
 
 ## A Single Focus

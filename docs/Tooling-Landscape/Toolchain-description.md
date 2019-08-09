@@ -1,6 +1,3 @@
-
-<br>
-<br>
 # Identified Parts of the Toolchain
 
 ![abstract-toolchain](../img/OSS-Compliance-Toolchain-Big-Picture.jfif)

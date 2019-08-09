@@ -1,5 +1,3 @@
-<br>
-<br>
 # Overview
 The use of OSS in products, services and other offerings is increasing exponentially, additionally the release cycles of products and services become shorter and shorter. To cope with this situation an as much as possible automated compliance toolchain needs to exist.
 

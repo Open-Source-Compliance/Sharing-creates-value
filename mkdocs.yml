@@ -20,5 +20,7 @@ nav:
   
 theme: 
     name: 'flatly'
-
+    
+extra_css: 
+    - css/tweaks.css
 

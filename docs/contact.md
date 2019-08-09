@@ -1,8 +1,4 @@
-<br>
-<br>
 # Contact
-
-![logo](img/logo.png)
 
 ## Register to our mailing list
 We use our mailing list for discussions, announcements of meeting and distribution of news. If you want to be part of the mailing list please go to our 

@@ -1,0 +1,16 @@
+@startuml
+
+control "Security Assessment" as secassess
+participant "Security Vulnerability\nDatabase" as vuldatabase
+participant "Component Metadata\nRepository" as comprepo
+actor "Company Projects" as compprojects
+
+secassess -> vuldatabase : Get vulnerability updates
+vuldatabase -> secassess : New vulnerabilities
+secassess -> comprepo : Get list of known components
+comprepo -> secassess : Known components
+secassess -> secassess : Map new vulerabilities\nto known components
+secassess -> comprepo : Update component information regarding vulnerabilities
+secassess -> compprojects : Trigger reevaluation of project dependencies
+secassess -> secassess : Set timeout trigger\nfor next security assessment
+@enduml

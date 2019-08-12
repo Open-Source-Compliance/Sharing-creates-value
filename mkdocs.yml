@@ -1,0 +1,26 @@
+site_name: sharing-creates-value
+
+site_description: Open Source applied to Open Source License Compliance
+site_author: Oliver Fendt
+site_url: 'https://'
+
+
+
+copyright: 'Copyright &copy; The Tooling Group. <br>The Content is licensed under CC-BY-SA-4.0 <br>
+                Credits to David Delvalle for the design of our Logo'
+
+nav:
+- Home:
+  - 'Introduction':      'index.md'
+- Tooling Landscape:
+  - 'Overview':          'Tooling-Landscape\README.md'
+  - 'Toolchain Elements Description':   'Tooling-Landscape\Toolchain-description.md'
+  - 'Toolchain Data Model': 'Tooling-Landscape\DataModel.md'
+- About:
+  - 'Contact':          'contact.md'
+  
+theme: 
+    name: 'flatly'
+
+extra_css: 
+    - css/tweaks.css

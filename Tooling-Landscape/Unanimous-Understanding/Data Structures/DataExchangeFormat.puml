@@ -1,0 +1,135 @@
+@startuml
+
+class BuildEnvDescription {
+   String name
+   String version
+   String uniqueIdentifier
+   Text description
+}
+
+class Content{
+	Enum type
+	String uniqueIdentifier
+	Archive artifact
+  URL externalSource
+  URL internalSource
+  URL softwareHeritageSource
+}
+
+class Constraint {
+   Enum type
+   String uniqueIdentifier
+   String name
+   Text description
+   Enum scope
+}
+
+class CopyrightECCInformation {
+   Enum type
+   Text content
+}
+
+class DataModelMetaInformation {
+  String name
+  String version
+  String uniqueIdentifier
+}
+
+class Deliverable{
+   Enum type
+   String uniqueIdentifier
+   String name
+   String version
+   Text description
+   Enum distributionModel
+   Enum licensingModel
+   Enum riskExposure
+}
+
+class DisclosureDocument {
+  String name
+  String version
+  String uniqueIdentifier
+  Text legalWording
+  Text contactData
+}
+
+class DigitalArtifact {
+  Enum type
+  String uniqueIdentifier
+  String name
+  String version
+  URL homepage
+  BOOLEAN isModified
+  Text generalLicenseAssessment
+}
+
+class Coordinate {
+  String coordinate
+}
+
+class LicenseExpression {
+  String UniqueIdentifier
+  String licenseExpression
+}
+
+class LicenseSelector {
+}
+
+class License {
+  String name
+  String uniqueIdentifier
+  String spdxShortIdentifier
+  Enum riskLevel
+  Enum category
+  String acknowledgement
+  Enum osiApproved
+  String text
+  Text notes
+  URL[] references
+  Text standardHeader
+}
+
+class ProductInformation {
+  String name
+  String version
+  String uniqueIdentifier
+  Text description
+  Enum criticality
+  Text developmentDetails
+}
+
+class SwBundle{
+  Enum type
+}
+
+LicenseExpression "0..1" -- DigitalArtifact : declaredLicenses
+LicenseExpression "0..1" -- DigitalArtifact : foundLicenses
+LicenseExpression "0..1" -- DigitalArtifact : concludedLicenses
+LicenseExpression "1" -- LicenseSelector : usedLicenses
+License "1..*" -- "1..*" LicenseExpression
+License "0..*" - "0..*" Constraint
+Constraint "0..*" - "0..*" ProductInformation
+CopyrightECCInformation "0..*" -- DigitalArtifact : copyrightInformation
+CopyrightECCInformation "0..*" -- DigitalArtifact : eccInformation
+Coordinate "1..*" -- DigitalArtifact
+Deliverable - SwBundle : deliveredItem
+Deliverable -- DisclosureDocument
+(Deliverable, SwBundle) .. BuildEnvDescription
+Content "0..*" -- DigitalArtifact
+DigitalArtifact "1..*" -o "1..*" Deliverable
+(DigitalArtifact, Deliverable) .. "0..1" LicenseSelector
+Content "1..*" -- SwBundle
+ProductInformation -- "1..*" CopyrightECCInformation
+ProductInformation -- "1..*" Deliverable
+ProductInformation *- "0..*" ProductInformation
+DigitalArtifact -- DisclosureDocument : readsDataFrom <
+
+'Formatting
+DigitalArtifact -[hidden]- Coordinate
+DigitalArtifact -[hidden]- Content
+LicenseSelector -[hidden]- Deliverable
+LicenseExpression -[hidden]- LicenseSelector
+LicenseSelector -[hidden]- DigitalArtifact
+
+@enduml

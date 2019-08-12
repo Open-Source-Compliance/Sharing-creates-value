@@ -1,0 +1,39 @@
+@startuml
+
+control "CI Infrastructure" as ci
+participant "Build Tool" as buildtool
+participant "Source Code Repository" as scm
+participant "Compliance Checker" as compliancechecker
+participant "Component Metadata\nRepository" as comprepo
+participant "Product Metadata\nRepository" as prodrepo
+participant "FOSS Compliance\nBundle Generator" as fossbundle
+participant "Artifact Repository" as artifactrepo
+participant "License Metadata Repository" as licenserepo
+participant "Component\nAnalysis Service" as compclearing
+
+ci -> scm : Check out project source revision
+scm -> ci : Project sources
+ci -> buildtool : Run Building
+buildtool -> buildtool : Identify dependencies
+buildtool -> artifactrepo : Download dependencies
+artifactrepo -> buildtool : Requested components
+buildtool -> buildtool : Build software
+buildtool -> compliancechecker : Run OSM check on dependencies
+compliancechecker -> comprepo : Get metadata for dependencies
+comprepo -> compliancechecker : Metadata for known dependencies
+comprepo -> compliancechecker : List of unknown dependencies
+compliancechecker -> compliancechecker : Run policy check on\nknown component metadata\nand the composition\nE.g., compliance issues, security issues,\neccn compatibility
+compliancechecker -> prodrepo : Store product with identified dependencies
+compliancechecker -> fossbundle : Generate FOSS bundle and list obligations
+fossbundle -> artifactrepo : Retrieve source code for FOSS components
+artifactrepo -> fossbundle : Component sources
+fossbundle -> licenserepo : Get licenses texts\nand obligations\nfor all referenced licenses
+licenserepo -> fossbundle : License texts and Obligations
+fossbundle -> fossbundle : Create product legal information\nwith warning if\ninformation is missing
+fossbundle -> fossbundle : Create source code bundle
+fossbundle -> fossbundle : Identify obligations\nnot automatically\nfulfilled and create\nreport for those
+fossbundle --> compliancechecker : Done
+compliancechecker -> compclearing : Retrieve and check FOSS metadata for unknown component
+compliancechecker --> buildtool : Done
+buildtool --> ci : Done
+@enduml

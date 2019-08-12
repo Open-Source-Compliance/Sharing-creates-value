@@ -6,6 +6,9 @@ subscription page: https://groups.io/g/oss-based-compliance-tooling
 
 The email address is: oss-based-compliance-tooling@groups.io
 
+## Join our slack channel
+https://join.slack.com/t/ossbasedcompl-bhx9742/shared_invite/enQtNzA5OTc3OTAwMjExLWNhYWVkZDk2Y2RlNDI4ODI2NzQyNDU5ZWE4ODRmZWI1ZmM1MzA4ZTc2MTdkZGFhMzc2NmUyODRhNDZjNWI5Njc
+
 
 ## Address
 The Tooling Group

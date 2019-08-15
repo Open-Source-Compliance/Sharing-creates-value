@@ -1,8 +1,9 @@
-site_name: sharing-creates-value
+site_name: 'sharing-creates-value'
+
 
 site_description: Open Source applied to Open Source License Compliance
 site_author: Oliver Fendt
-site_url: 'https://'
+site_url: 'https://open-source-compliance.github.io/Sharing-creates-value/'
 
 
 
@@ -14,6 +15,7 @@ nav:
   - 'Introduction':      'index.md'
 - Tooling Landscape:
   - 'Overview':          'Tooling-Landscape\README.md'
+  - 'Existing OSS Tools': 'Tooling-Landscape\OSS-Based-License-Compliance-Tools.md'
   - 'Toolchain Elements Description':   'Tooling-Landscape\Toolchain-description.md'
   - 'Toolchain Data Model': 'Tooling-Landscape\DataModel.md'
 - About:
@@ -21,6 +23,8 @@ nav:
   
 theme: 
     name: 'flatly'
+    favicon: 'docs/img/favicon.ico'
+
 
 extra_css: 
     - css/tweaks.css

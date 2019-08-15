@@ -2,7 +2,7 @@
 # Identified Parts of the Toolchain
 
 ![abstract-toolchain](../img/OSS-Compliance-Toolchain-Big-Picture.jfif)
-*Abstract Toolchain*
+
 
 In the big picture the main functional building blocks are listed that will be required to integrate and automate an end to end compliance toolchain. These blocks do not represent concrete OSS tools, but depict logical functionalities that are required. However, concrete OSS tools and initiatives can be integrated into the landscape to. This is exactly what this project aims to achieve.
 Please note that the picture above does not list all the company external available data sources. The purpose of the big picture is to provide an easy to understand overview what this entire project is all about. 

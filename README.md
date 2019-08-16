@@ -1,5 +1,7 @@
 # Open Source Tooling for Open Source Compliance
 
+![tooling-group-logo](./docs/img/logo.png)
+
 ## A Single Focus
 This work group is focused on reducing resource costs and improving the quality of results around open source compliance activities. The work group uses open source principles to accomplish this. It is a meritocracy producing real world solutions for real world challenges and it shares results to all interested parties.
 

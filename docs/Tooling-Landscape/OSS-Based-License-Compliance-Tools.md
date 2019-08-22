@@ -209,7 +209,7 @@ OSS Attribution Builder is a website that helps teams create attribution documen
 OSSPolice is a risk assessment service for developers that can quickly identify potential free software license violations and known n-day security vulnerabilities in their apps. 
 
 
-### Tern
+## Tern
 **Website:**
 [Tern](https://github.com/vmware/tern)<br>
 **Main License:**
@@ -222,7 +222,7 @@ Tern is a software package inspection tool for containers written in Python. Ter
 3. With that information as a base, it continues to iterate over step 1 and 2 for the rest of the layers in the container image
 4. Once done, it generates a report in different formats. The default report is a verbose explanation of what layers brought in what software components. If a Dockerfile is provided then it will also provide what lines in the Dockerfile was used to create the layers.
 
-### SPDX Tools
+## SPDX Tools
 **Website:**
 [SPDX Tools](https://spdx.org/tools)<br>
 **Main License:**
@@ -244,7 +244,7 @@ The following functions are available:
 * CompareSpdxDocs - Compare two SPDX documents (in either tag/value or RDF format)
 * GenerateVerificationCode - Geneinkrate a Verification Code from a directory of files.
 
-### SPDX Maven Plugin
+## SPDX Maven Plugin
 **Website:**
 [SPDX Maven Plugin](https://github.com/spdx/spdx-maven-plugin)<br>
 **Main License:**

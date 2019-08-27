@@ -2,7 +2,6 @@
 
 ![logo](./img/Tooling-Group-Logo-Transparent.png)
 
-You can reach us on different communication channels.
 
 ## Register to our mailing list
 We use our mailing list for discussions, announcements of meeting and distribution of news. If you want to be part of the mailing list please go to our 
@@ -14,7 +13,8 @@ You are also welcome to join our [slack channel](https://join.slack.com/t/ossbas
 
 Of course you simple can write an issue at our project space and/or contribute to the project
 
-## Our website is called [oss-compliance-tooling](https://oss-compliance-tooling.org/)
+## Website 
+Our webiste is called [oss-compliance-tooling](https://oss-compliance-tooling.org/)
 
 ## Address
 The Tooling Group

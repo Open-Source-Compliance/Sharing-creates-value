@@ -11,7 +11,7 @@ This work group is focused on reducing resource costs and improving the quality 
 
 This activity is part of the OpenChain Project. Here is a brief description of the hierarchy:
 
-* The [OpenChain Project](www.openchainproject.org) maintains the standard for open source compliance in the supply chain. It also provides reference material and collaborative activities in this field.
+* The [OpenChain Project](https://www.openchainproject.org) maintains the standard for open source compliance in the supply chain. It also provides reference material and collaborative activities in this field.
 
 * The OpenChain Project has various Work Groups where volunteers work on specific compliance challenges. Some Work Groups like Automotive and Tooling are global, some like the Japan Work Group are local.
 

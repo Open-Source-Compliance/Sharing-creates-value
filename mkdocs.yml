@@ -7,7 +7,7 @@ site_url: 'https://open-source-compliance.github.io/Sharing-creates-value/'
 
 
 
-copyright: 'Copyright &copy; 2019 The Tooling Group. <br>The Content is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) <br>
+copyright: 'Copyright &copy; 2019 The Tooling Group. <br>The Content is licensed under <a href=https://creativecommons.org/licenses/by-sa/4.0/>CC-BY-SA-4.0</a> <br>
                 Credits to David Delvalle for the design of our Logo'
 
 nav:

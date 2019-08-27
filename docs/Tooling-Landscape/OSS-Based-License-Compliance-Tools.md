@@ -146,8 +146,7 @@ Check npm dependencies' package.json for license compatibility based on SPDX sta
 Quartermaster is a suite of command line tools and build system extensions that instruments software builds to create FOSS compliance documentation and support compliance decisions. Quartermaster runs adjacent to a software build process. A master process collects information about the software that is build. Once the build is complete, the master executes a number of analysis tools, and finally a number of reporters. All modules are executed in the context of the master, not the build machine. The master ships all dependencies of the modules without affecting the build clients file system (it runs in a container).
 
 ## Apache Rat
-**Website:**
-http://creadur.apache.org/rat/ <br>
+**Website:** [Apache Rat](http://creadur.apache.org/rat/) <br>
 **Main License:**
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
 **Summary:**<br>

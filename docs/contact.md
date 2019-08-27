@@ -1,6 +1,6 @@
 ## Contact
 
-![logo](./img/Logo.png)
+![logo](./img/Tooling-Group-Logo-Transparent.png)
 
 You can reach us on different communication channels.
 
@@ -13,6 +13,8 @@ The email address is: oss-based-compliance-tooling@groups.io
 You are also welcome to join our [slack channel](https://join.slack.com/t/ossbasedcompl-bhx9742/shared_invite/enQtNzA5OTc3OTAwMjExLWNhYWVkZDk2Y2RlNDI4ODI2NzQyNDU5ZWE4ODRmZWI1ZmM1MzA4ZTc2MTdkZGFhMzc2NmUyODRhNDZjNWI5Njc)
 
 Of course you simple can write an issue at our project space and/or contribute to the project
+
+## Our website is called [oss-compliance-tooling](https://oss-compliance-tooling.org/)
 
 ## Address
 The Tooling Group

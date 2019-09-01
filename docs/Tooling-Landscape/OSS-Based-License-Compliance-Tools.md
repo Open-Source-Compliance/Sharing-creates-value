@@ -22,6 +22,12 @@ This report is part of the first work package in the Double Open project. See [d
 **Summary:** <br>
 Binary Analysis Next Generation, or BANG, is a tool for analyzing binary files. Currently its main goal is to very quickly find out the contents of binary files, such as firmware updates, and making information extracted from the contents available for further analysis, such as license compliance, security research or composition analysis. It has support for around 130 different file formats, which can be detected, unpacked and labeled.
 
+## CLA Assistant
+**Website:**        [CLA Assistant](https://github.com/cla-assistant/cla-assistant)<br>
+**Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>
+**Summary:**<br>
+CLA Assistant helps to handle the legal side of contributions to a repository by enabling contributors to sign Contributor License Agreements (CLAs) from within a pull request. The CLA can be stored as a GitHub Gist file and then linked with the repository/organisation in CLA Assistant. Repository owners can review a list of users who signed the CLA for each version of it.  
+
 ## Fossology
 **Website:**[Fossology](https://www.fossology.org/ )<br>
 **Main License:**
@@ -251,4 +257,8 @@ The following functions are available:
 **Summary:**<br>
 SPDX Maven Plugin is a plugin to Maven which produces Software Package Data Exchange (SPDX) documents for artifacts described in the POM file. 
  
-
+## Vulnerability Assessment Tool
+**Website:**        [Vulnerability Assessment Tool](https://github.com/SAP/vulnerability-assessment-tool)<br>
+**Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>
+**Summary:**<br>
+The open-source vulnerability assessment tool supports software development organizations in regards to the secure use of open-source components during application development. The tool analyzes Java and Python applications in order to detect whether they depend on open-source components with known vulnerabilities, collect evidence regarding the execution of vulnerable code in a given application context (through the combination of static and dynamic analysis techniques), and support developers in the mitigation of such dependencies. As such, it addresses the OWASP Top 10 security risk A9, Using Components with Known Vulnerabilities, which is often the root cause of data breaches.

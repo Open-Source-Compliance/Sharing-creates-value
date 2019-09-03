@@ -55,8 +55,8 @@ Example: [Archiva](https://archiva.apache.org/index.cgi)
 ### Security Vulnerability Assessment
 A set of tools and services which map known vulnerabilities from an external database to components used in products and assess the relevance and exploitability of the vulnerability concerning the usage pattern of the component in question.
 
-### Product Metadata Repository
-Software products and most software components are built from other software components. The Product Metadata Repository contains this relationship information to enable the management of dependencies over the life cycle of the software.
+### Component Relationship Repository
+Software products and most software components are built from other software components. The *Component Relationship Repository* contains this relationship information, aka. *bill of materials* to enable the management of dependencies over the life cycle of the software.
 Example: [Eclipse SW360](https://projects.eclipse.org/proposals/sw360)
 
 ### Component Metadata Repository

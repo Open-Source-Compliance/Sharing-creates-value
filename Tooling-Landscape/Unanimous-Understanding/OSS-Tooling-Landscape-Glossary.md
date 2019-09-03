@@ -15,7 +15,7 @@ Systems or services that provide information about publicly known security vulne
 Example: [NVD](https://nvd.nist.gov/)
 
 ### License Obligations Database
-Systems or services that provide Data about obligations and prohibitions of (FOSS) licenses.
+Systems or services that provide Data about obligations and prohibitions of (FOSS) licenses. Example: [OSADL License Checklists](https://www.osadl.org/Open-Source-License-Checklists.oss-compliance-lists.0.html)
 
 ### Public License Master Database
 Publicly available information about Open Source licenses (e.g. commonly accepted license identifiers).

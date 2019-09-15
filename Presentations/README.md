@@ -1,8 +1,8 @@
-# This folder cntains presentations about the Open Source Tooling Group, its work and its objectives
+# This directory contains presentations about the Open Source Tooling Group, its work and its objectives
 
-the structure of the descriptions is organized as a stack - the most recent presentation is the presentation at the top.
+The structure of the directory is organized as a stack - the most recent presentation is the presentation at the top.
 
-## [OpenChain Tooling Work Group - Overveiw](./Global Tooling Group - Overview.pdf)
+## [OpenChain Tooling Work Group - Overview](./Global Tooling Group - Overview.pdf)
 Author: Arun Azhakesan, Siemens Healthineers
 
 Date: 7th of Sept 2019

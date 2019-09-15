@@ -2,7 +2,8 @@
 
 The structure of the directory is organized as a stack - the most recent presentation is the presentation at the top.
 
-## [OpenChain Tooling Work Group - Overview](./Global Tooling Group - Overview.pdf)
+## [OpenChain Tooling Work Group - Overview](./Global-Tooling-Group-Overview.pdf)
+
 Author: Arun Azhakesan, Siemens Healthineers
 
 Date: 7th of Sept 2019

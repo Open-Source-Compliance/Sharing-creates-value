@@ -2,6 +2,14 @@
 
 The structure of the directory is organized as a stack - the most recent presentation is the presentation at the top.
 
+## [OpenChain Tooling Work Group - Overview](./AK-OSS-Bitkom-tooling-working-group-overview.pdf)
+
+Author: Oliver Fendt, Siemens AG
+
+Date: 16th of Sept 2019
+
+Event: OSS work group meeting of the german BITKOM e.V. 
+
 ## [OpenChain Tooling Work Group - Overview](./Global-Tooling-Group-Overview.pdf)
 
 Author: Arun Azhakesan, Siemens Healthineers

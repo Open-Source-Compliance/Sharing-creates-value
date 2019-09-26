@@ -1,5 +1,5 @@
 ## Software Architect Epic
-This epic describes briefly the role, responsibilites, tasks and how the software achritect interacts with the toolchain in order to accomplish his tasks in an efficient way.
+This epic describes briefly the role, responsibilites, tasks and how the software architect interacts with the toolchain in order to accomplish his tasks in an efficient way.
 
 ## Responsibilites, Tasks and Role
 As a software architect I am responsible for the overall architecture of the software (sub)system. I decide on the to be used technology, the subsystems, the composition of the subsystems, their interfaces and the orchestration of them. I also oversee the selection and integration of OSS and other 3rd party components with the objective that they are inline with the company and product specific policies, whether they are suited for the specific product or service and whether the licenses of those components define additional requirements.

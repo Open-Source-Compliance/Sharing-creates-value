@@ -1,5 +1,5 @@
 ## User Stories
-This directory contains the user stories of all different users an their roles interacting with the functional blocks of the compliance toolchain
+This directory contains the user stories of all different users and their roles interacting with the functional blocks of the compliance toolchain
 
 
 ## Structure

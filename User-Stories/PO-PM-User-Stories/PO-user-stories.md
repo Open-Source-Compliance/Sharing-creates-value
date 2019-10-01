@@ -1,7 +1,7 @@
 #Product Owner (PO) / Project Manager (PM) user stories
 We assume this role as a principal role compared to a developer. Thus this player has the right to task the developer (agent) and influences the priotization of the agents work. Typically such a role is a team lead or project manager or in modern words a product owner. For ease of read, we will title the role PO, konwing that this simplification will not cover all details associated with the different role models. But from a compliance perspective the models can be treated as equivalent.
 
-## Responsibilites, Tasks and Role
+##Responsibilites, tasks and role
 The ```primary goal``` of this role is to deliver a software solution while minimizing all related risks. This may comprise security, export controls or the incompliance with obligations resulting from the application of open source components. 
 
 Thus this role will be ```accountable``` for:
@@ -9,7 +9,7 @@ Thus this role will be ```accountable``` for:
 * Arrange and provide all relevnat tasks to cope with resulting obligations
 * Completeness of files/data/code to be assessed and delivered within the scope of this project
 
-This typically results in the follwing tasks:
+This typically results in the follwing ```tasks```:
 * Ensure code is scanned on a regular basis - optimally as part of the CI/CD-chain
 * Ensure that _all_ components _and_ resources comprised within the solution will be captured/covered by the scans (incl. runtime components)
 * Initiate appropriate measures to cope with obligations and provide associated documentation
@@ -17,7 +17,7 @@ This typically results in the follwing tasks:
 * Initiate approval requests
 * Escalate questionnable components/licenses to Compliance Manager/OS board
 
-Therefor the most critical success factors of theis role are:
+Therefor the most ```critical success factors``` of theis role are:
 * Understanding of the Open Source Policy
 * Willingness to provide a proper and sound documentation
 * Determine the legal circumstances to correctly interpret the legal obligations resulting from open source usage

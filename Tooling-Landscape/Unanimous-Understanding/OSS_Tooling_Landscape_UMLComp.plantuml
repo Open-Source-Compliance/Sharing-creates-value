@@ -59,9 +59,9 @@ node "Company Internal" <<Company Network>> {
 
     node "Internal Master Data" {
 
-        component [Product Metadata Repository] as productinventory <<Internal Repository>>
+        component [Component Relationship Repository] as componentrelationships <<Internal Repository>>
 
-        component [Component Metadata Repository] as componentinventory <<Internal Repository>> 
+        component [Component Metadata Repository] as componentmetadata <<Internal Repository>> 
 
         component [License Metadata Repository] as licenses <<Internal Repository>> 
 
@@ -88,7 +88,7 @@ compliancechecker -[hidden]-> componentanalysis
 fossbundlegenerator -[hidden]-> securityassessment
 componentanalysis -[hidden]-> licensescanner
 
-productinventory -[hidden]-> componentinventory
-componentinventory -[hidden]-> licenses
+componentrelationships -[hidden]-> componentmetadata
+componentmetadata -[hidden]-> licenses
 
 @enduml

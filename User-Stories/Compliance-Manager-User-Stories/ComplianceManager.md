@@ -16,7 +16,7 @@ Typically this will result in the following kind of ```tasks```:
 * Support teams in open sourcing their own components
 * Review compliance applications and provide approvals, respectively suitable guidance
 
-A Compliance Manager will ```escalate```to the Open Source Board or the Senior Management Sponsor.
+A Compliance Manager will ```escalate```to the Open Source Board or the Senior Sponsor.
 
 A strong dependency esists to the toolchain used.
 

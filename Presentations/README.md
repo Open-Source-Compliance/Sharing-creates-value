@@ -8,6 +8,30 @@ Besides the overview presentation the structure of the directory is organized as
 
 Date: 7th of Oct 2019
 
+## [OpenChain Tooling Work Group - Overview](./SPDX-Mini-Summit-OSS-Tooling-Work-Group-2019.pptx)
+
+Author: Oliver Fendt, Siemens AG
+
+Date: 31th of Oct 2019
+
+Event: SPDX mini summit
+
+## [OSS Review Toolkit: Using FOSS Tools for FOSS Reviews in CI/CD World](./OSS-Review-Toolkit-Using-FOSS-tools-for-FOSS-reviews-in-CI-CD-world.pdf)
+
+Author: Thomas Steenbergen, Here Technologies
+
+Date: 30th of Oct 2019
+
+Event: OSS Summit Europe 2019
+
+## [COMPLIANCE PUZZLE](./Compliance-Puzzle.pdf)
+
+Author: Sebastian Schuberth, BOSCH Software Innovations
+
+Date: 29th of Oct 2019
+
+Event: OSS Summit Europe 2019
+
 ## [OpenChain Tooling Work Group - Overview](./AK-OSS-Bitkom-tooling-working-group-overview.pdf)
 
 Author: Oliver Fendt, Siemens AG

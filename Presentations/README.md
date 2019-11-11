@@ -16,6 +16,14 @@ Date: 31th of Oct 2019
 
 Event: SPDX mini summit
 
+## [Automating OSS Compliance with Fossology, SW360 and SPDX](./OSS-EU-Lyon19.pdf)
+
+Author: Anupam Ghosh, Siemens Technology and Services Private Limited
+
+Date: 30th of Oct 2019
+
+Event: OSS Summit Europe 2019
+
 ## [OSS Review Toolkit: Using FOSS Tools for FOSS Reviews in CI/CD World](./OSS-Review-Toolkit-Using-FOSS-tools-for-FOSS-reviews-in-CI-CD-world.pdf)
 
 Author: Thomas Steenbergen, Here Technologies
@@ -29,6 +37,14 @@ Event: OSS Summit Europe 2019
 Author: Sebastian Schuberth, BOSCH Software Innovations
 
 Date: 29th of Oct 2019
+
+Event: OSS Summit Europe 2019
+
+## [FOSSology: News and Advances from the Project](./OSSEU2019-SESSION-FOSSology-news-presentation.pdf)
+
+Author: Michael C. Jaeger, Siemens AG & Maximilian Huber, TNG Consulting GmbH
+
+Date: 28th of Oct 2019
 
 Event: OSS Summit Europe 2019
 

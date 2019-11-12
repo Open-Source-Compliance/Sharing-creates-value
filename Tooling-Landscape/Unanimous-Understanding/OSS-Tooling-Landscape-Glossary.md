@@ -3,31 +3,31 @@
 ## Company External
 
 ### Source Code Repository
-Systems or services that provide source code. This is typically (also) a version control system. The compliance tooling obtains the source code of 3rd party dependencies, i.e., FOSS components from such repositories.
+A system or service that provides source code. This is typically (also) a version control system. The compliance tooling obtains the source code of 3rd party dependencies, i.e., FOSS components from such repositories.
 Examples: [Software Heritage](https://www.softwareheritage.org/)
 
 ### Artefact Repository
-Systems or services that provides (binary) software artefacts and metadata stored in a defined directory structure which is used to retrieve artefacts during a build process. Software artefacts may be of type proprietary, commercial, FOSS. The artefact repository may also be used to store the source code of FOSS components besides the binary artefact for usage within the compliance process, e.g., for starting a license scan or creating the source code bundle to be delivered with the product.
+A system or service that provides (binary) software artefacts and metadata stored in a defined directory structure which is used to retrieve artefacts during a build process. Software artefacts may be of type proprietary, commercial, FOSS. The artefact repository may also be used to store the source code of FOSS components besides the binary artefact for usage within the compliance process, e.g., for starting a license scan or creating the source code bundle to be delivered with the product.
 Examples: [Maven central](https://mvnrepository.com/repos/central), [npm](https://www.npmjs.com/), [PyPI](https://pypi.org/)
 
 ### Security Vulnerability Database
-Systems or services that provide information about publicly known security vulnerabilities of software artefacts.
+A system or service that provides information about publicly known security vulnerabilities of software artefacts.
 Example: [NVD](https://nvd.nist.gov/)
 
 ### License Obligations Database
-Systems or services that provide Data about obligations and prohibitions of (FOSS) licenses. Example: [OSADL License Checklists](https://www.osadl.org/Open-Source-License-Checklists.oss-compliance-lists.0.html)
+A system or service that provides information about obligations and prohibitions of (FOSS) licenses. Example: [OSADL License Checklists](https://www.osadl.org/Open-Source-License-Checklists.oss-compliance-lists.0.html)
 
 ### Public License Master Database
 Publicly available information about Open Source licenses (e.g. commonly accepted license identifiers).
 
 ### FOSS Metadata Database
-Systems or services that provide descriptive data of software artefacts (mainly FOSS). Data could be: the declared license for a component, the source location (e.g., Git commit) for a version, details to be included in attributions (e.g., copyright holders in a Notices file), etc.
+A system or service that provides descriptive data of software artefacts (mainly FOSS). Data could be: the declared license for a component, the source location (e.g., Git commit) for a version, details to be included in attributions (e.g., copyright holders in a Notices file), etc.
 Example: [ClearlyDefined](https://clearlydefined.io/)
 
 ## Company Internal
 
 ### Artefact Repository
-A system or service providing (binary) software artefacts and metadata stored in a defined directory structure which is used to retrieve artefacts during a build process. This is used as a cache for the external artefact Repository to ensure the availability of all components used within the company, it is also the storage for the build software artefacts of the company, used in the Continuous Integration Infrastructure to store the build results.
+A system or service that provides (binary) software artefacts and metadata stored in a defined directory structure which is used to retrieve artefacts during a build process. This is used as a cache for the external artefact repository to ensure the availability of all components used within the company, it is also the storage for the build software artefacts of the company, used in the Continuous Integration Infrastructure to store the build results.
 Example: [Archiva](https://archiva.apache.org/index.cgi)
 
 ### Black-/Whitelist
@@ -72,5 +72,4 @@ Example: [Eclipse SW360](https://projects.eclipse.org/proposals/sw360)
 A set of tools and services which map known vulnerabilities from an external database to components used in products and assess the relevance and exploitability of the vulnerability concerning the usage pattern of the component in question.
 
 ### Source Code Repository
-Systems or services that provide source code. This is typically (also) a version control system. For the compliance tooling, typically the source code is needed as a folder on a file share, i.e., the source code is already checked out by, e.g., the Continuous Integration infrastructure. 
-
+A system or service that provides source code. This is typically (also) a version control system. For the compliance tooling, typically the source code is needed as a folder on a file share, i.e., the source code is already checked out by, e.g., the Continuous Integration infrastructure. As a sub function, a source code repository typically contains a source code downloader.

@@ -17,7 +17,7 @@ node "Company External" <<Internet>> {
 
     component [Source Code Repository] as publicsource <<Public Repository>> 
 
-    component [Artifact Repository] as publicartifacts <<Public Repository>>
+    component [Artefact Repository] as publicartefacts <<Public Repository>>
 
     component [Security Vulnerability Database] as publicvulnerabilities <<Public Repository>> 
 
@@ -45,11 +45,13 @@ node "Company Internal" <<Company Network>> {
 
     component [Source Code Repository] as internalsource <<Internal Repository>> 
 
-    component [Artifact Repository] as internalartifacts <<Internal Repository>> 
+    component [Artefact Repository] as internalartefacts <<Internal Repository>> 
 
     component [Compliance Checker] as compliancechecker <<Internal Service>>
 
-    component [FOSS Compliance Bundle Generator] as fossbundlegenerator <<Internal Service>>
+    component [Dependency Resolver] as dependencyresolver <<Internal Service>>
+
+    component [FOSS Compliance Artefact Generator] as fossartefactgenerator <<Internal Service>>
 
     component [Component Analysis Service] as componentanalysis <<Internal Service>>
 
@@ -73,7 +75,7 @@ node "Company Internal" <<Company Network>> {
 ' hidden relations to force layout ...
 ' 
 
-publicsource -[hidden]-> publicartifacts
+publicsource -[hidden]-> publicartefacts
 publicartifacts -[hidden]-> publicvulnerabilities
 publicvulnerabilities -[hidden]-> publicobligations
 
@@ -81,9 +83,9 @@ publicobligations -[hidden]-> publiclicenses
 publiclicenses -[hidden]-> publicmetadata
 
 cicd -[hidden]-> internalsource
-buildsystem -[hidden]-> internalartifacts
+buildsystem -[hidden]-> internalartefacts
 internalsource -[hidden]-> compliancechecker
-internalartifacts -[hidden]-> fossbundlegenerator
+internalartifacts -[hidden]-> fossatrefactgenerator
 compliancechecker -[hidden]-> componentanalysis
 fossbundlegenerator -[hidden]-> securityassessment
 componentanalysis -[hidden]-> licensescanner

@@ -49,6 +49,10 @@ Example: [Eclipse SW360](https://projects.eclipse.org/proposals/sw360)
 ### Continuous Integration/Deployment Infrastructure (CI/CD)
 Systems or services that orchestrate the build and deployment process for a software project and executes workflows triggered by different kind of events. The CI/CD infrastructure typically runs software builds and executes further build steps like testing and the compliance checks
 
+### Dependency Resolver
+A tool that determines the dependencies of a software project. How dependencies are expressed is specific to the used technologies and package managers. Thus there need to be dedicated functionality for the different package managers and technologies in use. Here, the term dependency resolver is used as an umbrella or abstraction for such specialized tools. The dependency resolver ensures that all dependencies are resolved recursively and that the output is a technology and package manager neutral complete list of dependencies.
+Example: [ORT Analyzer](https://github.com/heremaps/oss-review-toolkit#analyzer)
+
 ### FOSS Compliance Bundle Generator
 A tool that creates all the necessary documentation needed for the distribution of a software, such a document with all used components there licenses and copyrights, or a source code bundle with all the FOSS sources used in the project. The FOSS bundle is the artifact to be bundled with the delivered product to fulfill license obligations found in FOSS licenses.
 

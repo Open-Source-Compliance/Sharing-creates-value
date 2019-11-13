@@ -77,3 +77,11 @@ Author: Takuma Ueba, Fujitsu Computer Technologies Limited
 Date: 29th of October 2018
 
 Event: OpenChain Workshop, Open Source Summit Europe - 23rd of October 
+
+## [Ensuring Open Source Compliance with Eclipse Foundation Technology](./2019_10_22_EclipseConEurope_EnsuringOpenSourceCompliance.pdf)
+
+Author: Lars Geyer-Blaumeiser, Bosch Software Innovations GmbH
+
+Date: 22nd of Oct 2019
+
+Event: Eclipse Con Europe 2019

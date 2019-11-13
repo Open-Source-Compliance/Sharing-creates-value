@@ -76,7 +76,7 @@ node "Company Internal" <<Company Network>> {
 ' 
 
 publicsource -[hidden]-> publicartefacts
-publicartifacts -[hidden]-> publicvulnerabilities
+publicartefacts -[hidden]-> publicvulnerabilities
 publicvulnerabilities -[hidden]-> publicobligations
 
 publicobligations -[hidden]-> publiclicenses
@@ -84,11 +84,12 @@ publiclicenses -[hidden]-> publicmetadata
 
 cicd -[hidden]-> internalsource
 buildsystem -[hidden]-> internalartefacts
+buildsystem -[hidden]-> dependencyresolver
 internalsource -[hidden]-> compliancechecker
-internalartifacts -[hidden]-> fossatrefactgenerator
+internalartefacts -[hidden]-> securityassessment
 compliancechecker -[hidden]-> componentanalysis
-fossbundlegenerator -[hidden]-> securityassessment
-componentanalysis -[hidden]-> licensescanner
+securityassessment -[hidden]-> fossartefactgenerator
+licenses -[hidden]-> licensescanner
 
 componentrelationships -[hidden]-> componentmetadata
 componentmetadata -[hidden]-> licenses

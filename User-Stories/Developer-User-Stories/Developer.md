@@ -1,7 +1,7 @@
-#Developer
+# Developer
 The developer represents actually all participants who are primaryly interested in the compliance topic from the (IT) technical perspective. This must not necesarily be a developer role but might also be a designer or writer. 
 
-##Responsibilities, tasks and role
+## Responsibilities, tasks and role
 The ```primary goal``` of this role should be to provide software at a minimum technical and legal risk. 
 
 Thus this role will be ```accountable``` for:

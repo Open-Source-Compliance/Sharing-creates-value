@@ -8,3 +8,11 @@ Date: 6th of Nov 2019
 
 Author: Kalle Soranko, Verifa
 
+## [Digging for license information with FOSSology](https://lwn.net/Articles/803725/)
+
+Date: 6th of Nov 2019
+
+Author: Jake Edge
+
+Published at: [LWN.net](https://lwn.net/)
+

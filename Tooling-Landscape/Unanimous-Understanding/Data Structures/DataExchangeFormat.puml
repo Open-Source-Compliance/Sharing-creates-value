@@ -7,6 +7,19 @@ class BuildEnvDescription {
    Text description
 }
 
+class ComplianceArtifact{
+	Enum kind
+	String uniqueIdentifier
+	File artifact
+	URL internalSource
+	String name
+	String uniqueIdentifier
+	URL  downloadLink
+	Date createdOn
+	String createdBy
+	String additionalInfo
+}
+
 class Content{
 	Enum type
 	String uniqueIdentifier

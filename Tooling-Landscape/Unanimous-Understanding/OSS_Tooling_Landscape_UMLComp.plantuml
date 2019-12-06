@@ -1,4 +1,4 @@
-@startuml
+@startuml OSS_Tooling_Component_Diagram
 
 '
 ' SPDX-License-Identifier: CC-BY-SA-4.0
@@ -58,6 +58,8 @@ node "Company Internal" <<Company Network>> {
     component [License & Copyright Scanner] as licensescanner <<Internal Service>>
 
     component [Security Vulnerability Assessment] as securityassessment <<Internal Service>>
+
+    component [Forensic Code Analyzer] as forensiccodeanalyzer <<Internal Service>>
 
     node "Internal Master Data" {
 

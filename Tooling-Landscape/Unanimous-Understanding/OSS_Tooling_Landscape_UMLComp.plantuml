@@ -61,6 +61,8 @@ node "Company Internal" <<Company Network>> {
 
     component [Forensic Code Analyzer] as forensiccodeanalyzer <<Internal Service>>
 
+    component [Obligation Fulfillment Management] as obligationfulfillmentmgmt <<Internal Service>>
+
     node "Internal Master Data" {
 
         component [Component Relationship Repository] as componentrelationships <<Internal Repository>>

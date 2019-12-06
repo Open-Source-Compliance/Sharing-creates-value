@@ -91,6 +91,10 @@ Example: [Fossology](https://www.fossology.org/), [Scancode Toolkit](https://git
 A list of all FOSS (and commercial?) licenses in use within an organization with all necessary metadata like implied obligations. It may use a Public License Master Database and a License Obligation Database for basic information enriched by the company for internal use.
 Example: [Eclipse SW360](https://projects.eclipse.org/proposals/sw360)
 
+### Obligation Fulfillment Management
+
+A process and/or tool set that supports the fulfillment of license obligations. This comprises company-extzernal obligations that are imposed by law as well as company-internal obligations originating in company-specific policies or processes. Typically, it utilizes Compliance Checkers and FOSS Compliance Artefact Generators.
+
 ### Security Vulnerability Assessment
 
 A set of tools and services which map known vulnerabilities from an external database to components used in products and assess the relevance and exploitability of the vulnerability concerning the usage pattern of the component in question.

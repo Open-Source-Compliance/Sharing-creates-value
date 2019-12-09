@@ -93,7 +93,7 @@ Example: [Eclipse SW360](https://projects.eclipse.org/proposals/sw360)
 
 ### Obligation Fulfillment Management
 
-A process and/or tool set that supports the fulfillment of license obligations. This comprises company-extzernal obligations that are imposed by law as well as company-internal obligations originating in company-specific policies or processes. Typically, it utilizes Compliance Checkers and FOSS Compliance Artefact Generators.
+A process and/or tool set that supports the fulfillment of license obligations. This comprises company-external obligations that are imposed by law as well as company-internal obligations originating in company-specific policies or processes. Typically, it utilizes Compliance Checkers and FOSS Compliance Artefact Generators.
 
 ### Security Vulnerability Assessment
 

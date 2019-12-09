@@ -62,6 +62,9 @@ node "Company Internal" <<Company Network>> {
     component [Forensic Code Analyzer] as forensiccodeanalyzer <<Internal Service>>
 
     component [Obligation Fulfillment Management] as obligationfulfillmentmgmt <<Internal Service>>
+    
+    obligationfulfillmentmgmt ..> forensiccodeanalyzer : use
+    obligationfulfillmentmgmt ..> compliancechecker : use
 
     node "Internal Master Data" {
 

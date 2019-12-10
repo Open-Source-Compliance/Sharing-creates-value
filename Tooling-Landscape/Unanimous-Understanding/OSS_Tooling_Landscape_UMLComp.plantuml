@@ -63,9 +63,6 @@ node "Company Internal" <<Company Network>> {
 
     component [Obligation Fulfillment Management] as obligationfulfillmentmgmt <<Internal Service>>
     
-    obligationfulfillmentmgmt ..> forensiccodeanalyzer : use
-    obligationfulfillmentmgmt ..> compliancechecker : use
-
     node "Internal Master Data" {
 
         component [Component Relationship Repository] as componentrelationships <<Internal Repository>>
@@ -77,6 +74,14 @@ node "Company Internal" <<Company Network>> {
     }
 
 }
+
+' relations of services using tool categories
+
+componentanalysis ..> licensescanner : use
+componentanalysis ..> forensiccodeanalyzer : use
+
+obligationfulfillmentmgmt ..> fossartefactgenerator : use
+obligationfulfillmentmgmt ..> compliancechecker : use
 
 ' 
 ' hidden relations to force layout ...
@@ -92,11 +97,9 @@ publiclicenses -[hidden]-> publicmetadata
 cicd -[hidden]-> internalsource
 buildsystem -[hidden]-> internalartefacts
 buildsystem -[hidden]-> dependencyresolver
-internalsource -[hidden]-> compliancechecker
-internalartefacts -[hidden]-> securityassessment
-compliancechecker -[hidden]-> componentanalysis
-securityassessment -[hidden]-> fossartefactgenerator
-licenses -[hidden]-> licensescanner
+dependencyresolver -[hidden]-> obligationfulfillmentmgmt
+internalartefacts -[hidden]-> componentanalysis
+internalsource -[hidden]-> securityassessment
 
 componentrelationships -[hidden]-> componentmetadata
 componentmetadata -[hidden]-> licenses

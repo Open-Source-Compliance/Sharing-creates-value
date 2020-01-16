@@ -8,6 +8,14 @@ Besides the overview presentation the structure of the directory is organized as
 
 Date: 7th of Oct 2019
 
+## [Keynote on OpenChain Tooling Work Group - Overview](./OpenChain-Reference-Tooling-Work-Group-2019.pdf)
+
+Author: Oliver Fendt, Siemens AG
+
+Date: 17th of Dec 2019
+
+Event: Open Compliance summit Japan
+
 ## [OpenChain Tooling Work Group - Overview](./SPDX-Mini-Summit-OSS-Tooling-Work-Group-2019.pptx)
 
 Author: Oliver Fendt, Siemens AG

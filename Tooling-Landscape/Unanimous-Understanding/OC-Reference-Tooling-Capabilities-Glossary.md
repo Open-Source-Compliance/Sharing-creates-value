@@ -8,9 +8,10 @@ Relationships and data flows between capabilities are captured in a UML *diagram
 - TODO: Create proper mapping of components to capabilities (current state in stripped MD glossary document of components: OC-Reference-Tooling-Components-Glossary.md)
 - TODO: Migrate PowerPoint capability overview diagram into PlantUML diagram
 - TODO: Harmonise capability names with one-page picture from Oliver
+- TODO: Harmonise terms with OC terminology (e.g. "supplied software" instead of "product"?)
 
 The identified capabilities have different scope and responsibilities:
-- **Core Capabilities** are typically required in the context of the compliance process, and are the reponsibility of the compliance tooling.
+- **Compliance Capabilities** are typically required in the context of the compliance process, and are the reponsibility of the compliance tooling.
 - **Provided Capabilities** are typically required to perform the compliance process, but are not the responsibility of the compliance tooling. Rather they may exist already and can be integrated with the compliance process in order to provide a complete solution. A typical example of a provided capability is the [Source Code Repository](#source-code-repository), which is typically under the responsibility of the organisation's development teams.
 - **Security Capabilities** address security concerns and allow including security vulnerability  management into the overall picture. They are however a special form of provided capabilities, and shown here only to provide the context. As such, they are not in scope of the compliance tooling.
 
@@ -18,9 +19,9 @@ The identified capabilities have different scope and responsibilities:
 
 - **Component**: any software element that is treated as a uniquely identifiable entity within the compliance process (e.g. proprietary, commercial, or FOSS component)
 - **Product**: a piece of software that is analysed by the compliance process for purposes of distribution
-- **Case Data**: the information defining the situation and circumstances of a foreseen distribution of a *product*, including the distribution license, any export related information, the foreseen audience (e.g. customers, partners, Open Source, regional constraints), etc.
+- **Business Context**: the information defining the situation and circumstances of a foreseen distribution of a *product*, including the distribution license, distribution channel, any export related information, the foreseen audience (e.g. customers, partners, Open Source, regional constraints), etc.
 
-## Core Capabilities
+## Compliance Capabilities
 
 ### Approval Flow<a name="approval-flow"/>
 **Mission: To help decentralising compliance work through approval**
@@ -44,10 +45,10 @@ The *Approval Flow* allows inclusion of responsible staff into the flow of appro
 - *Examples*
   - N/A
 
-### Case Data Repository<a name="case-data-repository"/>
-**Mission: To manage all compliance relevant information of a product distribution case**
+### Business Context Repository<a name="business-context-repository"/>
+**Mission: To manage all compliance relevant context information of a product distribution case**
 
-The *Case Data Repository* collects all information about a product distribution case (distribution license, situation, constraints, circumstances, compliance status, etc.). It focuses on the case data only, and references the [Component Metadata Repository](#component-metadata-repository) for all data related directly to the product (source code location, binary location, product structure such as contained components, dependencies, etc.).
+The *Business Context Repository* collects all information about a product distribution case (distribution license, situation, constraints, circumstances, compliance status, etc.). It focuses on the business context only, and references the [Component Metadata Repository](#component-metadata-repository) for all data related directly to the product (source code location, binary location, product structure such as contained components, dependencies, etc.).
 - *Responsibilities* 
   - Provide single source of truth for a product distribution case
   - Ensure completeness of product compliance documentation
@@ -179,10 +180,12 @@ Also, a [Security Vulnerability Database](#security-vulnerability-database) as w
   - Optional: relate known security vulnerability information
 - *Comments*
   - The *Component Metadata Repository* does not store the actual source code or binary artefacts of the managed components. Rather this information is only referenced/linked from here, and stored in the [Source Code Repository](#source-code-repository) and/or [Artefact Repository](#artefact-repository).
+  - It is possible to use public repositories or services as additional source of information, such as a *FOSS Metadata Database*, providing descriptive data of software artefacts (mainly FOSS), such as the declared license for a component, the source location (e.g. Git commit) for a version, details to be included in attributions (e.g. copyright holders in a Notices file), etc.
   - TODO: Clarify role of repository in relation to the archive function. SW360 comes as archive, which actually could also be served by Git or any binary repository (see comment above). Thus adding an archive function here might just duplicate the code.
   - TODO: Clarify how to uniquely identify OSS components (Package URL, ...?), harmonise the chosen mechanism with the [Dependency Analyzer](#dependency-analyzer).
 - *Examples*
   - [Eclipse SW360](https://projects.eclipse.org/proposals/sw360)
+  - [ClearlyDefined](https://clearlydefined.io/)
 
 ### Dependency Analyzer<a name="dependency-analyzer"/>
 **Mission: To provide the complete set of component dependencies**
@@ -242,10 +245,10 @@ Snippet scanners or binary analyzers are such tools, for example.
 - *Examples*
   - [Binary Analysis Next Generation](https://github.com/armijnhemel/binaryanalysis-ng)
 
-### Legal Solver<a name="legal-solver"/>
-**Mission: To determine legal rights and obligations resulting from the usage of the listed components within the product and case context**
+### Legal Obligations Resolver<a name="legal-obligations-resolver"/>
+**Mission: To determine legal rights and obligations resulting from the usage of the listed components within the product and business context**
 
-The *Legal Solver* is a process and/or tool set that supports the fulfillment of license obligations. This comprises organisation external obligations that are imposed by law as well as organisation internal obligations originating in organisation specific policies or processes. Typically, it utilizes [Compliance Checkers](#compliance-checker) and [Compliance Artefact Generators](#compliance-artefact-generator).
+The *Legal Obligations Resolver* is a process and/or tool set that supports the fulfillment of license obligations. This comprises organisation external obligations that are imposed by law as well as organisation internal obligations originating in organisation specific policies or processes. Typically, it utilizes [Compliance Checkers](#compliance-checker) and [Compliance Artefact Generators](#compliance-artefact-generator).
 - *Responsibilities* 
   - Provide compliance requirements
 - *Typical Tasks*
@@ -300,9 +303,11 @@ The *License Repository* captures all FOSS (and proprietary and commercial?) lic
 - *Outputs*
   - License data (updated)
 - *Comments*
+  - It is possible to use public repositories or services as additional source of information, such as a a *License Obligations Database* or a *Public License Master Database*, providing for example information about obligations and prohibitions of (FOSS) licenses or commonly accepted license identifiers. 
   - TODO Should we also capture proprietary and commercial licenses here?
 - *Examples*
   - [Eclipse SW360](https://projects.eclipse.org/proposals/sw360)
+  - [OSADL License Checklists](https://www.osadl.org/Open-Source-License-Checklists.oss-compliance-lists.0.html)
   
 ### Policies & Rules Repository<a name="policies-rules-repository"/>
 **Mission: To document context and evolution of the context of a product**
@@ -577,3 +582,4 @@ The *Capability Name* ...
   - N/A
 - *Examples*
   - [Title](http://link.to.example)
+

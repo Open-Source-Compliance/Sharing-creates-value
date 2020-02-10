@@ -27,8 +27,9 @@ It is our belief that Open Source license compliance toolchains has to be Open S
 
 The most easiest way is to join one or more of our communication channels:
 * Mailing list: oss-based-compliance-tooling@groups.io
-* (Mailing list subscription page)[https://groups.io/g/oss-based-compliance-tooling]
-* (Slack channel)[https://join.slack.com/t/ossbasedcompl-bhx9742/shared_invite/enQtODE2MTMxNzUyNDY1LWQyNWVlNzkyMjhhOWUyNDdjNDJlMzk0YzU0NDUwNzQ2YzY0Mzc1N2Y2NjhhZGEyN2JmNDE0ZTg2MTBjYmM3MWI]
+* [Mailing list subscription page](https://groups.io/g/oss-based-compliance-tooling)
+* [Slack channel](https://join.slack.com/t/ossbasedcompl-bhx9742/shared_invite/enQtODE2MTMxNzUyNDY1LWQyNWVlNzkyMjhhOWUyNDdjNDJlMzk0YzU0NDUwNzQ2YzY0Mzc1N2Y2NjhhZGEyN2JmNDE0ZTg2MTBjYmM3MWI)
 * Online meetings : Bi-weekly - Invitations are sent to the mailing list
 * In person meetings : 3-4 times a year - Announcements are sent to the mailing list
+
 Please read also our charter and contribution guideline.

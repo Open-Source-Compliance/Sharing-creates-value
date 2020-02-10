@@ -10,6 +10,7 @@ We are building an end-to-end automated open source compliance toolchain ecosyst
 * develop the concepts to ensure easy interoperability and integration in existing environments
 * define together with the tooling projects the required API specifications and data model which are required to orchestrate the tools to form an end to end toolchain
 * develop glue code and test cases to combine the tools to end-to-end toolchains
+
 Although the current focus is on license compliance we are also considering:
 * Security
 * ECC (Export Control and Customs)

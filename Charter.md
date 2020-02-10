@@ -3,8 +3,8 @@
 
  Sharing creates value operates much like a meritocratic, consensus-based community project. Anyone with an interest in the project is encouraged join the community, contribute to the project, and participate in the decision making process. This document describes how that participation takes place and how to set about earning merit within the project community.
  Please also check our:
- [Code of conduct](./CODE_OF_CONDUCT.md)
- [Contribution policy](./CONTRIBUTING.md)
+ * [Code of conduct](./CODE_OF_CONDUCT.md)
+ * [Contribution policy](./CONTRIBUTING.md)
  
  ## Structure
  Everybody is welcome to join the community of this project. Anyone can use the artifacts developed in this project in accordance to the licenses which are valid to the particular artifact, there are no other constraints.

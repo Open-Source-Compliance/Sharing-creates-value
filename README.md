@@ -33,4 +33,4 @@ The most easiest way is to join one or more of our communication channels:
 * Online meetings : Bi-weekly - Invitations are sent to the mailing list
 * In person meetings : 3-4 times a year - Announcements are sent to the mailing list
 
-Please read also our charter and contribution guideline.
+Please read also our charter and [contribution guideline](./CONTRIBUTING.md).

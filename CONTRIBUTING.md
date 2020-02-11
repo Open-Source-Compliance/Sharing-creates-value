@@ -27,5 +27,6 @@ We have defined only very few rules how your commits shall look like and how the
   * Provide meaningful commit messages
   * Describe your changes well and in imperative
   * To resolve conflicts, rebase pull request branches onto their target branch 
+  * please make sure that your contributions are [REUSE](https://reuse.software/) conformant
  
 If you want to learn more the git project provides very good documentation about [how to submit patches](https://github.com/git/git/blob/master/Documentation/SubmittingPatches)

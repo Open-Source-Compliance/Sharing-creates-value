@@ -34,3 +34,14 @@ The most easiest way is to join one or more of our communication channels:
 * In person meetings : 3-4 times a year - Announcements are sent to the mailing list
 
 Please read also our [charter](./Charter.md), [code of conduct](./CODE_OF_CONDUCT.md)  and [contribution guideline](./CONTRIBUTING.md).
+
+## Projects we align with
+
+* [ACT](https://www.linuxfoundation.org/press-release/2019/12/the-linux-foundations-automated-compliance-work-garners-new-funding-advances-tools-development/) 
+* [ClearlyDefined](https://docs.clearlydefined.io/)
+* [Double open](https://www.doubleopen.org/)
+* [OpenChain](https://wiki.linuxfoundation.org/openchain/start) 
+* [Open Compliance Program](https://compliance.linuxfoundation.org/)
+* [Open Source License Checklists by OSADL eG](https://www.osadl.org/Access-to-raw-data.oss-compliance-raw-data-access.0.html)
+* [Open Source License Compliance Handbook](https://github.com/finos-osr/OSLC-handbook) provided by [FINOS Foundation](https://www.finos.org/)
+* [Reuse](https://reuse.software/) project run by the [Free Software Foundation Europe](https://fsfe.org/)

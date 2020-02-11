@@ -1,5 +1,10 @@
 # Code of Conduct
 
+## Introduction
+We expect this code of conduct to be honored by everyone who participates in sharing creates value formally or informally in any role.
+
+This code is not exhaustive or complete. It serves to distill our common understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in the letter, so that it can enrich all of us and the technical communities in which we participate.
+
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
@@ -74,3 +79,5 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
+
+It is also inspired by the [Apache foundation code of conduct](https://www.apache.org/foundation/policies/conduct)

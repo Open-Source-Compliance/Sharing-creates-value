@@ -8,7 +8,7 @@ In order to be clear - we will not accept any pull request which deals with prop
 
 ## Signing each Commit
 
-We do not require a CLA to be signed by, you we follow the more lightweight DCO (Developer Certificate of Origin) approach. A DCO is a way for a contributor to confirm that he/she wrote or otherwise has the right to submit code or documentation to a project. Simply add `Signed-off-by` as shown in the example below to indicate that you agree with the DCO. Only signed off PRs will be accepted
+We do not require a CLA to be signed by you, we follow the more lightweight DCO (Developer Certificate of Origin) approach. A DCO is a way for a contributor to confirm that he/she wrote or otherwise has the right to submit code or documentation to a project. Simply add `Signed-off-by` as shown in the example below to indicate that you agree with the DCO. Only signed off PRs will be accepted
 
 You can find the text of the [DCO here](https://developercertificate.org/ ) 
 

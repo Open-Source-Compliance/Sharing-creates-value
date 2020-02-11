@@ -25,9 +25,11 @@ There is only one thing you shall be aware of the overall purpose of this projec
 
  
  ## Decisions
- Decisions about the future of the project are made with the Developers through discussion with all members of the team who wish to participate in the discussion, from the newest Developers to the most experienced one. All project management discussion takes place in team meetings and on the oss-based-compliance-tooling@groups.io mailing list.
+Decisions about the future of the project are made with the Developers through discussion with all members of the team who wish to participate in the discussion, from the newest Developers to the most experienced one. All project management discussion takes place in team meetings and on the oss-based-compliance-tooling@groups.io mailing list.
 In order to ensure that the project is not blocked by endless discussion and continual voting, the project operates a policy of lazy consensus. This allows the majority of decisions to be made without resorting to a formal vote.
 
  
- ## License policy
- We follow a simple and clear approach in regard to licensing. All artifacts which are documentation are to be licensed under CC-BY-SA-4.0. All artifacts which are code (including tests) are licensed under MIT.
+## License policy
+We follow a simple and clear approach in regard to licensing. All artifacts which are documentation are per default licensed under CC-BY-SA-4.0, we also accept contributions under CC0-1.0
+
+All artifacts which are code (including tests) are licensed under MIT.

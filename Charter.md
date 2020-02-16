@@ -79,7 +79,7 @@ If you object you must support your objection and provide an alternative course 
 ## License policy
 We follow a simple and clear approach in regard to licensing. All artifacts which are documentation are per default licensed under CC-BY-SA-4.0, we also accept contributions under CC0-1.0
 
-All artifacts which are code (including tests) are licensed under MIT.
+All artifacts which are code (including tests) are licensed under MIT or under its original license (for already existing code that shall be contributed).
 
 
 ## Attribution

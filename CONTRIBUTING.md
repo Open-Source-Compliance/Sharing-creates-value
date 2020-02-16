@@ -29,4 +29,11 @@ We have defined only very few rules how your commits shall look like and how the
   * To resolve conflicts, rebase pull request branches onto their target branch 
   * please make sure that your contributions are [REUSE](https://reuse.software/) conformant
  
+For reuse conformance please provide the following information in every new file you intend to contribute:
+```
+# SPDX-FileCopyrightText: 2020 name of Copright owner
+# SPDX-License-Identifier: License you have chosen
+```
+In case you contribute binaries, like pictures etc., check for the reuse best practice for binaries.
+ 
 If you want to learn more the git project provides very good documentation about [how to submit patches](https://github.com/git/git/blob/master/Documentation/SubmittingPatches)

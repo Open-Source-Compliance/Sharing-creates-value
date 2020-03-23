@@ -17,9 +17,9 @@ Like for the "traditional" development the compliance process for containers sha
 * Use pinning by taking advantage of the sha256 hash and digest e.g. FROM abc:2.1.0@sha256:06ebd9b1879057e24c1e87db508ba9fd0dd7f766bbf55665652d3148737793
 * Always "install" the minimal required set of packages, bear in mind that everything which will be published has to undergo the license compliance process
 * If you use multi stage builds make sure, that you:
-** Copy any build sources or artifacts from the build container to a host machine (for later inventorying).
-** Copy build artifacts into the release container.
-** Record build information in the release container. Use LABELs to help with this.
+	* Copy any build sources or artifacts from the build container to a host machine (for later inventorying).
+	* Copy build artifacts into the release container.
+	* Record build information in the release container. Use LABELs to help with this.
 * Use the package manager to install dependencies when possible. Avoid wget or curl to copy in dependencies.
 
 ### Don'ts for the docker file

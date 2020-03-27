@@ -71,17 +71,17 @@ There are usually three types of container-related deliveries.
 
 ### Dockerfiles
 
-You will need to ensure that your Dockerfile scripts are security reviewed, that they fetch current versions of software securely from trusted sources, and that you have mechanisms in place to update them as needed if for example it becomes necessary to use new versions of packages due to security errors.
+You will need to ensure that your Dockerfile scripts are security reviewed, that they fetch specified versions of software securely from trusted sources, and that you have mechanisms in place to update them as needed if for example it becomes necessary to use new versions of packages due to security errors.
 
 As far as possible you should pull packages from the base distribution itself using the distribution installation tools (e.g., apt, dnf, yum or swupd etc.). Where you cannot do this, you should pull from a trusted source, e.g., an internal build that already has approval. That pull should be via https:// or similar mechanisms and if appropriate also check signatures.
 
-You must list your Dockerfile (in the created/modified components table), along with any software that your Dockerfile copies or installs into your layers (in the unmodified libraries table).
+In your approval request, you must list your Dockerfile as a created/modified components, along with any software that your Dockerfile copies or installs into your layers (as an unmodified component).
 
 Ensure that your Dockerfile has a license.
 
 ### Container Images (layers) pushed to a registry
 
-To get approval for layers (that is, all layers you have generated from your Dockerfile on top of your base/FROM layer), you must have an appropriate SDL or whitelisting in place for each package or component that is present within your layers as well as your own code. You will need to have a process whereby you update your layers whenever there is a security need, and to track the packages within your layers for security problems.
+To get approval for layers (that is, all layers you have generated from your Dockerfile on top of your base/FROM layer), you must have an appropriate security approval in place for each package or component that is present within your layers as well as your own code. You will need to have a process whereby you update your layers whenever there is a security need, and to track the packages within your layers for security problems.
 
 You will also need to follow any source code or credit requirements in the packages that are within your layers. You must list your Dockerfile, along with any software that your Dockerfile copies or installs into your layers. You will need to explain how you are fulfilling any source code distribution requirements. 
 
@@ -97,7 +97,7 @@ You will need all the packages you ship to be on the security whitelist, or if i
 You will need to fulfill all software licence obligations for everything in the tarball.
 There are certain special cases where it may be possible or feasible; for example if your image is a base (scratch) image and contains nothing but some kind of tool, base system libraries and perhaps BusyBox.
 
-You must list everything contained in the distribution (all layers), and all of it will need to be whitelisted or have gone through SDL. 
+You must list everything contained in the distribution (all layers), and all of it will need to have obtained a security approval.
 
 If you do have a business need to ship an image with a full Linux distribution please contact your OSPO first.
 

@@ -4,7 +4,7 @@
 
 Did you create your DockerFile from scratch, or did you reference or copy an existing DockerFile?
 
-If you referenced or copied an existing DockerFile, did that DockerFile container a licence? 
+If you referenced or copied an existing DockerFile, did that DockerFile contain a licence? 
 
 Ensure you know the provenance of your DockerFile contents.
 
@@ -43,9 +43,9 @@ Ensure if you download code into your layers, you use a secure channel to downlo
 
 ## (4) Importing code from inside
 
-Ensure you understand if all the imported code is from your project, or imported from other parts of intel as well.
+Ensure you understand if all the imported code is from your project, or imported from other parts of your organization as well.
 
-Ensure all of the code appears in your approval request slide deck, as appropriate.
+Ensure all of the code appears in your approval request, as appropriate.
 
 If you are importing code from another project, ensure that project already has an approval, or be prepared to roll that code into your project for approval.
 
@@ -54,7 +54,7 @@ If you are importing code from another project, ensure that project already has 
 
 Are you shipping your DockerFile (for instance, by pushing to GitHub, or supplying to end users via any other method such as email, ftp etc.)?
 
-Ensure your DockerFile containers a license.
+Ensure your DockerFile contains a license.
 
 If you imported or copied any of your Dockerfile from elsewhere (see (1)), ensure that your (re)license is compatible with all such artifacts.
 
@@ -96,14 +96,14 @@ Ensure you meet any legal obligations that come with these layers.
 
 ## (9) Customer imports your image
 
-When a customer imports your image (as created in (8)), they will import all data for all layers will have come from you.
+When an external recipient imports your image (as created in (8)), they will import all data from all layers that will have come from you.
 
 Ensure all obligations in (8) have been met.
 
 
 ## (10) Customer uses your DockerFile
 
-When a customer obtains your DockerFile (no matter where from), and creates their local layers/image, their local build will re-create these from the original sources and layers.
+When an external recipient obtains your DockerFile (no matter where from), and creates their local layers/image, their local build will re-create these from the original sources and layers.
 
 As per (5):
 

@@ -1,5 +1,5 @@
 ## Compliance Assistant Epic
-This epic describes briefly the role, responsibilites, tasks and how the compliance assistant interacts with the toolchain in order to accomplish his tasks in an efficient way.
+This epic describes briefly the role, responsibilities, tasks and how the compliance assistant interacts with the toolchain in order to accomplish his tasks in an efficient way.
 
 ## Responsibilites, Tasks and Role
 As a compliance assistant I am responsible for the clearing of integrated 3rd software components in a specific application. I am further in charge of the clearing of an entire application. 

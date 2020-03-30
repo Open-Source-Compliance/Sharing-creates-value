@@ -1,5 +1,5 @@
 ## Software Developer Epic
-This epic describes briefly the role, responsibilites, tasks and how the software developer interacts with the toolchain in order to accomplish his tasks in an efficient way.
+This epic describes briefly the role, responsibilities, tasks and how the software developer interacts with the toolchain in order to accomplish his tasks in an efficient way.
 
 ## Responsibilites, Tasks and Role
 As a software developer I am responsible for the developement of the software (sub)system. Based on the overall architecture given by the Software architect I decide on the the design in the sub system I am in charge of. In order to do my tasks in an efficient way I integrate OSS and other 3rd party compoments. Per default I am searching in the internet for components which provide functionality that I need. I do not care about the dependencies of the components since I do not have the time to do so. I want to write easy to maintain modular code. I develop the software on feature branches, which I test before I do a PR for the main branch. 

@@ -43,7 +43,7 @@ Some of best practices for docker layers have to be implemented in the docker fi
 * Do the same check with the source code docker image
 
 ### Don'ts for the docker image
-In general it is strongly recommended to not attempt to build or [deliver for full container tarfile images](#Guiding Principles). There are multiple reasons for this:
+In general it is strongly recommended to not attempt to build or [deliver for full container tarfile images](#Guiding). There are multiple reasons for this:
 
 * Many popular distributions of Linux (such as Centos or Ubuntu) do not allow you to use their trademarks with a modified image. Thus to produce a full image it is necessary to strip the marks out of the software, rebuild and QA everything.
 * You will need to ensure all the binaries you have are trustworthy, and that usually means building them all within your organization, as well as being able to do all the security updates.

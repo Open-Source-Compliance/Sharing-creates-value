@@ -17,7 +17,7 @@ An instantiation of an Image via a container orchestration stack or runtime such
 A text file that defines the steps needed to form the layers of an Image. It contains all instructions needed to build a certain docker image. It can be seen as the makefile for a docker image
 
 ### Hub
-See ['Registry'](#layer)
+See ['Registry'](#Registry)
 
 ### Image
 A set of directories or files composited from one or more Layers overlaid on top of each other. The definition of an Images layers is derived from its Dockerfile. An image is a file consisting of a stack of layers. It can be viewed like an software image for e.g. an embedded device. Each layer consists of one or more binary packages, config files, environment variables etc.. 

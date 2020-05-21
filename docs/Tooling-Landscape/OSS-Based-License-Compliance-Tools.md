@@ -263,8 +263,8 @@ SPDX Maven Plugin is a plugin to Maven which produces Software Package Data Exch
 **Summary:**<br>
 The open-source vulnerability assessment tool supports software development organizations in regards to the secure use of open-source components during application development. The tool analyzes Java and Python applications in order to detect whether they depend on open-source components with known vulnerabilities, collect evidence regarding the execution of vulnerable code in a given application context (through the combination of static and dynamic analysis techniques), and support developers in the mitigation of such dependencies. As such, it addresses the OWASP Top 10 security risk A9, Using Components with Known Vulnerabilities, which is often the root cause of data breaches.
 
-## Barista Open Source License and Vulnerability Management Tool
-**Website:**        [barista](https://optum.github.io/barista/)<br>
+## Barista
+**Website:**        [Barista  Open Source License and Vulnerability Management Tool](https://optum.github.io/barista/)<br>
 **Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>
 **Summary:**<br>
 _Developer Focused_<br>

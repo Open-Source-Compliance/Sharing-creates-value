@@ -9,7 +9,7 @@ The overview of the tools is a derived work from [doubleOpen's Overview](https:/
 
 Open source software has eaten the world, but organizations are still struggling with effective compliance. Open source software is heterogenous and re-used, which, while positive for software development, creates a challenge for compliance. Compliance requires multiple tools and these should be ideally combined into a workflow that supports a number of business and developer requirements. One of the requirements is ease of use in a modern development environment where code development cycles are getting ever shorter and new development results are pushed to operations ever faster. For this to work, open source compliance tools likely need to integrate with development tooling.
 
-In the following report some of these tools are listed with information of their main license, website and a summary of their features, based on accounts by the projects. The report has been crafted to map out the wide range of open source tools that one might use to help keep their open source software compliant. However, this report, ever so comprehensive, is not exhaustive. The report includes FOSS tools as well as a few commercial tools. It also has a section for Open Source Initiatives and Development Environments, as these are  also important on a way towards automated open compliance with open tooling and open data.
+In the following report some of these tools are listed with information of their main license, website and a summary of their features, based on accounts by the projects. The report has been crafted to map out the wide range of open source tools that one might use to help keep their open source software compliant. However, this report, ever so comprehensive, is not exhaustive. The report includes FOSS tools as well as a few commercial tools. It also has a section for Open Source Initiatives and Development Environments, as these are  also important on a way towards automated open compliance with open tooling and open data. 
 
 This report will be complemented based on an ecosystem survey and on practical testing of the most popular open source tools.
 
@@ -57,9 +57,9 @@ The AboutCode Toolkit and ABOUT files provide a simple way to document the origi
 **Main License:**
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
 **Summary:**<br>
-DeltaCode allows you to easily compare ScanCode scans for two versions of a package, component, codebase or product in order to quickly identify possible changes with a focus on identifying license changes. DeltaCode reports matching files with a score and a list of factors that contribute to that score.
+DeltaCode allows you to easily compare ScanCode scans for two versions of a package, component, codebase or product in order to quickly identify possible changes with a focus on identifying license changes. DeltaCode reports matching files with a score and a list of factors that contribute to that score. 
 
-You can use DeltaCode with ScanCode to identify and track license and related changes in open source or third party software packages or components from release to release.
+You can use DeltaCode with ScanCode to identify and track license and related changes in open source or third party software packages or components from release to release. 
 
 ## AboutCode Manager
 **Website:**
@@ -67,7 +67,7 @@ You can use DeltaCode with ScanCode to identify and track license and related ch
 **Main License:**
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
 **Summary:**<br>
-AboutCode Manager provides an advanced visual UI to help you quickly evaluate license and other notices identified by ScanCode and record your conclusion about the effective license(s) for a component.
+AboutCode Manager provides an advanced visual UI to help you quickly evaluate license and other notices identified by ScanCode and record your conclusion about the effective license(s) for a component. 
 
 AboutCode Manager is based on Electron and is the primary desktop/GUI tool for using nexB’s AboutCode tools.
 
@@ -77,7 +77,7 @@ AboutCode Manager is based on Electron and is the primary desktop/GUI tool for u
 **Main License:**
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
 **Summary:**<br>
-TraceCode Toolkit helps you determine which components are actually distributed or deployed for your product. This is essential information for determining your open source license obligations because many are only triggered by distribution or deployment.
+TraceCode Toolkit helps you determine which components are actually distributed or deployed for your product. This is essential information for determining your open source license obligations because many are only triggered by distribution or deployment. 
 
 TraceCode Toolkit is a tool to analyze the traced execution of a build, so you can learn which files are built into binaries and ultimately deployed in your distributed software.
 
@@ -133,7 +133,7 @@ for your project.
 **Main License:**
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
 **Summary:**<br>
-Verifies free and open source software license compliance by checking source code and dependencies. It works by analyzing the source code for dependencies, downloading the source code of the dependencies, scanning all source code for license information, and summarizing the results. The different tools that make up ORT are designed as libraries (for programmatic use) with a minimal command line interface (for scripted use). Currently the report formats are Excel sheet, NOTICE file, static HTML and Web App.
+Verifies free and open source software license compliance by checking source code and dependencies. It works by analyzing the source code for dependencies, downloading the source code of the dependencies, scanning all source code for license information, and summarizing the results. The different tools that make up ORT are designed as libraries (for programmatic use) with a minimal command line interface (for scripted use). Currently the report formats are Excel sheet, NOTICE file, static HTML and Web App. 
 
 ## License Compatibility Checker
 **Website:**
@@ -173,7 +173,7 @@ Apache Tentacles helps the reviewer by automating interactions with the reposito
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
 **Summary:**<br>
 Apache Whisker assists assembled applications maintain correct legal documentation.
-Whisker can
+Whisker can 
 
 * verify - checking meta-data quality against a distribution
 * generate - legal documents from meta-data
@@ -194,7 +194,7 @@ Cregit identifies the contributors of source code. The cregit version of a sourc
     * Its git-author (the value of the Author field of the commit)
     * Its git-author-date (the value of the field Author Date of the commit)
     * Summary log of the commit
-
+	
 * Left-click on a token will open a new window with the details of the commit (in github). You can keep this window open and it will keep reloading the files.
 
 ## OSS Attribution Builder
@@ -203,7 +203,7 @@ Cregit identifies the contributors of source code. The cregit version of a sourc
 **Main License:**
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
 **Summary:**
-OSS Attribution Builder is a website that helps teams create attribution documents for software products.
+OSS Attribution Builder is a website that helps teams create attribution documents for software products. 
 
 ## OSSPolice
 **Website:**
@@ -211,7 +211,7 @@ OSS Attribution Builder is a website that helps teams create attribution documen
 **Main License:**
 [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)<br>
 **Summary:**<br>
-OSSPolice is a risk assessment service for developers that can quickly identify potential free software license violations and known n-day security vulnerabilities in their apps.
+OSSPolice is a risk assessment service for developers that can quickly identify potential free software license violations and known n-day security vulnerabilities in their apps. 
 
 
 ## Tern
@@ -255,8 +255,8 @@ The following functions are available:
 **Main License:**
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)<br>
 **Summary:**<br>
-SPDX Maven Plugin is a plugin to Maven which produces Software Package Data Exchange (SPDX) documents for artifacts described in the POM file.
-
+SPDX Maven Plugin is a plugin to Maven which produces Software Package Data Exchange (SPDX) documents for artifacts described in the POM file. 
+ 
 ## Vulnerability Assessment Tool
 **Website:**        [Vulnerability Assessment Tool](https://github.com/SAP/vulnerability-assessment-tool)<br>
 **Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>

@@ -80,9 +80,9 @@ Violations of the Code of Conduct can occur in any setting, even those unrelated
 
 ## Enforcement
 
-If the ownwer of this repository receives a report alleging a violation of the Code of Conduct, he will notify the accused of the report, and provide them an opportunity to discuss the report before a sanction is issued. The owner of this repository will do his utmost to keep the reporter anonymous. If the act is ongoing (such as someone engaging in harassment), or involves a threat to anyone's safety (e.g. threats of violence), the owner of the repository may issue sanctions without notice.
+If the owner of this repository receives a report alleging a violation of the Code of Conduct, he will notify the accused of the report, and provide them an opportunity to discuss the report before a sanction is issued. The owner of this repository will do his utmost to keep the reporter anonymous. If the act is ongoing (such as someone engaging in harassment), or involves a threat to anyone's safety (e.g. threats of violence), the owner of the repository may issue sanctions without notice.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership
+Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
 ## Attribution
 

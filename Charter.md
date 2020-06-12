@@ -86,14 +86,16 @@ All artifacts which are code (including tests) are licensed under MIT or under i
 You can use our logo unchanged when the following conditions apply:
 * You do a presentation about Open Source compliance tools which are licensed under an Open Source compliant license. Please note if the presentation is about a mixture of OSS tools and commercial tools the usage of our logo is prohibited
 * You do a presentation or a workshop or something similar to introduce, promote this project
-* You want to promote a certain tool which is licensed under an Open Source compliant license. Please note that in case there is a commercial tool which provides an "Open Source" connector or API (aka open core model inversed) the usage of our logo is prohibited.
+* You want to promote a certain tool which is licensed under an Open Source compliant license. Please note that in case there is a commercial tool which provides an "Open Source" connectors or APIs (aka open core model inversed) the usage of our logo is prohibited.
 * You want to promote (paid) services you offer in the context of this effort. Like you offer development and consulting services to integrate tools licensed under an Open Source compliant license in a specific IT infrastructure.
 
 Using our logo under other conditions is per se not allowed. In case you have doubts whether you can use our logo please write to our [mailing list](mailto:oss-based-compliance-tooling@groups.io) explaining the context where you want to use our logo.
-Changing our logo in a way that it can be mixed with our original is not allowed. The following list shall serve as an example and does not aim form completeness:
+Changing our logo in a way that it can be mixed with our original is not allowed. The following list shall serve as an example and does not aim for completeness:
 
 * Do not alter or manipulate our logo in any way. 
-* Do not attempt to use a different typeface or color. Do not add any decorations to our logo. Do not remove anything from our logo
+* Do not attempt to use a different typeface or color. 
+* Do not add any decorations to our logo. 
+* Do not remove anything from our logo
 * Do not skew the logo at an angle, stretch or compress our logo.
 
 

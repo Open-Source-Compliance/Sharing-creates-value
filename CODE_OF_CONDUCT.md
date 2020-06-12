@@ -12,7 +12,7 @@ contributors and maintainers pledge to make participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
 size, disability, ethnicity, sex characteristics, gender identity and expression,
 level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+appearance, race, religion or sexual identity and orientation.
 
 ## Our Standards
 
@@ -27,14 +27,11 @@ include:
 
 Examples of unacceptable behavior by participants include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
-  advances
+* The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
-* Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+* Publishing others' private information, such as a physical or electronic address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Our Responsibilities
 
@@ -57,18 +54,35 @@ project e-mail address, posting via an official social media account, or acting
 as an appointed representative at an online or offline event. Representation of
 a project may be further defined and clarified by project maintainers.
 
+## Conflict Resolution
+
+Conflicts in an open source project can take many forms, from someone having a bad day and using harsh and hurtful language in the issue queue, to more serious instances such as sexist/racist statements or threats of violence, and everything in between.
+
+If the behavior is threatening or harassing, or for other reasons requires immediate escalation, please see below.
+
+However, for the vast majority of issues, we aim to empower individuals to first resolve conflicts themselves, asking for help when needed, and only after that fails to escalate further. This approach gives people more control over the outcome of their dispute. 
+
+If you are experiencing or witnessing conflict, we ask you to use the following escalation strategy to address the conflict:
+
+1.  Address the perceived conflict directly with those involved, preferably in a
+    real-time medium.
+2.  If this fails, get a third party (e.g. a mutual friend, and/or someone with
+    background on the issue, but not involved in the conflict) to intercede.
+3.  If you are still unable to resolve the conflict, and you believe it rises to
+    harassment or another code of conduct violation, report it.
+
+## Reporting Violations
+
+Violations of the Code of Conduct can be reported to the owner of this repository (ofendt@googlemail.com). All complaints will be reviewed, investigated and will be determined whether the Code of Conduct was violated. In case the Code of Conduct was violated we will issue an appropriate sanction, possibly including a written warning or expulsion from the project, project sponsored spaces. We ask that you make a good-faith effort to resolve your conflict via the conflict resolution policy before submitting a report.
+
+Violations of the Code of Conduct can occur in any setting, even those unrelated to the project. We will only consider complaints have occurred within one year of the report.
+
+
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the owner of this repository (ofendt@googlemail.com). All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+If the ownwer of this repository receives a report alleging a violation of the Code of Conduct, he will notify the accused of the report, and provide them an opportunity to discuss the report before a sanction is issued. The owner of this repository will do his utmost to keep the reporter anonymous. If the act is ongoing (such as someone engaging in harassment), or involves a threat to anyone's safety (e.g. threats of violence), the owner of the repository may issue sanctions without notice.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership
 
 ## Attribution
 
@@ -80,4 +94,6 @@ available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.ht
 For answers to common questions about this code of conduct, see
 https://www.contributor-covenant.org/faq
 
-It is also inspired by the [Apache foundation code of conduct](https://www.apache.org/foundation/policies/conduct)
+It is also inspired by the following code of conducts
+* [Apache foundation code of conduct](https://www.apache.org/foundation/policies/conduct)
+* [TensorFlow code of conduct](https://github.com/tensorflow/tensorflow/blob/master/CODE_OF_CONDUCT.md)

@@ -7,7 +7,7 @@ Please also check our:
  * [Contribution policy](./CONTRIBUTING.md)
  
 ## Structure
-The most important thing about engaging with Sharing creates value is that everyone is equal. We welcome everybody to join the community of this project and to contribute to the project. Anyone can use the artifacts developed in this project in accordance to the licenses which are valid to the particular artifact.
+The most important thing about engaging with sharing creates value is that everyone is equal. We welcome everybody to join the community of this project and to contribute to the project. Anyone can use the artifacts developed in this project in accordance to the licenses which are valid to the particular artifact.
  
 ## Contributions
 Contributions are the essential element of an open source project. No open source project will be successfull without contributions. Since contributions are fundamental we welcome contributions from all. We are happy to receive contributions to
@@ -19,11 +19,11 @@ Contributions are the essential element of an open source project. No open sourc
 * code and test cases
 * website content
  
-There is only one thing you shall be aware of the overall purpose of this project is to build an OSS compliance toolchain with open source tools. This means that we will not accept contributions, which might put a non open source tool into the toolchain.
+There is only one thing you shall be aware of the overall purpose of this project is to build an OSS compliance toolchain with open source tools. This means that we will not accept contributions, which might put a non open source tool into the toolchain or similar
 
  
 ## Decisions
-Decisions about the future of the project are made with the community through discussion with all members ho wish to participate in the discussion, from the newest Developers to the most experienced one. All project management discussion takes place in meetings and on the oss-based-compliance-tooling@groups.io mailing list. The meeting invitations are send to the mailing list.
+Decisions about the future of the project are made with the community through discussion with all members ho wish to participate in the discussion, from the newest developers to the most experienced one. All project management discussion takes place in meetings and on the oss-based-compliance-tooling@groups.io mailing list. The meeting invitations are send to the mailing list.
 
 ### How Decisions are taken
 
@@ -58,6 +58,7 @@ Once there is a clear consensus members of the community can proceed with the wo
 
 #### Votings
 ##### Preparing for a Vote
+
 Before calling a vote it is important to ensure that the community is given time to discuss the upcoming vote. This will be done by posting an email to the list indicating the intention to call a vote and the options available. By the time a vote is called there should already be consensus in the community. The vote itself is, normally, a formality.
 
 ##### Calling a Vote
@@ -80,6 +81,20 @@ If you object you must support your objection and provide an alternative course 
 We follow a simple and clear approach in regard to licensing. All artifacts which are documentation are per default licensed under CC-BY-SA-4.0, we also accept contributions under CC0-1.0
 
 All artifacts which are code (including tests) are licensed under MIT or under its original license (for already existing code that shall be contributed).
+
+## Logo usage
+You can use our logo unchanged when the following conditions apply:
+* You do a presentation about Open Source compliance tools which are licensed under an Open Source compliant license. Please note if the presentation is about a mixture of OSS tools and commercial tools the usage of our logo is prohibited
+* You do a presentation or a workshop or something similar to introduce, promote this project
+* You want to promote a certain tool which is licensed under an Open Source compliant license. Please note that in case there is a commercial tool which provides an "Open Source" connector or API (aka open core model inversed) the usage of our logo is prohibited.
+* You want to promote (paid) services you offer in the context of this effort. Like you offer development and consulting services to integrate tools licensed under an Open Source compliant license in a specific IT infrastructure.
+
+Using our logo under other conditions is per se not allowed. In case you have doubts whether you can use our logo please write to our [mailing list](mailto:oss-based-compliance-tooling@groups.io) explaining the context where you want to use our logo.
+Changing our logo in a way that it can be mixed with our original is not allowed. The following list shall serve as an example and does not aim form completeness:
+
+* Do not alter or manipulate our logo in any way. 
+* Do not attempt to use a different typeface or color. Do not add any decorations to our logo. Do not remove anything from our logo
+* Do not skew the logo at an angle, stretch or compress our logo.
 
 
 ## Attribution

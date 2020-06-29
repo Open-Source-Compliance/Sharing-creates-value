@@ -8,6 +8,15 @@ Besides the overview presentation the structure of the directory is organized as
 
 Date: 7th of Oct 2019
 
+## [Efficient OSS component analysis with FOSSology](./Efficient-Component-Analysis-with-FOSSology-1.0.pdf)
+
+Author: Oliver Fendt, Siemens AG
+
+Date: 24th of June 2020
+
+Event: OSADL Networking Week 2020
+
+
 ## [Keynote on OpenChain Tooling Work Group - Overview](./OpenChain-Reference-Tooling-Work-Group-2019.pdf)
 
 Author: Oliver Fendt, Siemens AG

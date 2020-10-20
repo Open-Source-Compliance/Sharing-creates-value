@@ -275,3 +275,10 @@ Barista admins determine which obligation(s) are associated with each license de
 
 _Cloud Native Architecture_<br>
 Barista is designed for cloud native deployment environments allowing hosting flexibility and scalability on demand.
+
+## SCANOSS
+**Website**: [scanoss.com](https://www.scanoss.com)<br>
+**Main License**: [GPL-2.0-or-later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+**Summary:**<br>
+SCANOSS is the first free and open source SCA platform and open-data OSS knowledgebase. It performs SBOM generation in SPDX and CycloneDX and detects presence of Open Source at snippet, file and component levels. The central component is a RESTful API based on OpenAPI standards. Reference code is provided for different languages and integration with other tools.
+With SCANOSS you can enable component, file and snippet matching into any tool. The Public Knowledgebase is called OSSKB and is available at osskb.org. Scanning can be performed securely and anonymously.

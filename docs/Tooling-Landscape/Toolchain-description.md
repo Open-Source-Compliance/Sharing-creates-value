@@ -53,6 +53,8 @@ The complaince artifact consistency checks whether these three artifacts are con
 ## Component Analysis Service
 Dedicated tools and services which scan the source code concerning intergated 3rd party code snippets and aim to provide license information about the origin and applicable license of the  source code snippets. These kind of tools or services are often called **scanner for plagiarism**.
 
+Example: [ScanOSS](https://www.scanoss.com/)
+
 ## Component inventory (Metadata Repository)
 A system or service that stores metadata about used software components. This includes meta data like ids of the components in other systems, licenses, copyrights, known vulnerabilitites and information, that is needed to do export classifications (ECCN), such as information about the contained cryptographic functionality. The Component Metadata Repository can be linked to an external FOSS Metadata Database to retrieve commonly known information and make it usable within the organization. Also Security Vulnerability Database and other sources for e.g. export classification-relevant data, can be linked to retrieve the necessary information and to make it available within the company.
 Example: [Eclipse SW360](https://projects.eclipse.org/projects/technology.sw360)

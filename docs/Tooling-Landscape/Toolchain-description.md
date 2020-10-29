@@ -114,6 +114,8 @@ Examples for a data base storing and using such data: [Eclipse SW360](https://pr
 ## Obligation fulfillment
 A system or service where all the obligations resulting from the integrated OSS compontents are agregated. How theses obligations are fulfilled for da certain deliverable is documented and made avialable to provide an audit trail that a certain deliverable is made available in a license compliant way. 
 
+Example: [Eclipse SW360](https://projects.eclipse.org/projects/technology.sw360)
+
 ## Policy checker (Compliance Checker)
 System or service which takes at least the concrete deliverable of a software product or service, the licenses of the the integrated OSS components and checks whether the conrete deliverable is inline with the company policy for the specific product category and the deliverable. 
 

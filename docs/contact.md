@@ -3,6 +3,7 @@
 ![logo](./img/Tooling-Group-Logo-Transparent.png)
 
 
+
 ## Register to our mailing list
 We use our mailing list for discussions, announcements of meeting and distribution of news. If you want to be part of the mailing list please go to our 
 [subscription page](https://groups.io/g/oss-based-compliance-tooling)
@@ -17,7 +18,7 @@ Of course you simple can write an issue at our project space and/or contribute t
 Our webiste is called [oss-compliance-tooling](https://oss-compliance-tooling.org/)
 
 ## Address
-The Tooling Group
+The OpenChain Reference Tooling Work Group
 
 represented by
 <br>Oliver Fendt

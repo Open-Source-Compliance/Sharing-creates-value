@@ -7,7 +7,7 @@ site_url: 'https://open-source-compliance.github.io/Sharing-creates-value/'
 
 
 
-copyright: 'Copyright &copy; 2019 The Tooling Group. <br>The Content is licensed under <a href=https://creativecommons.org/licenses/by-sa/4.0/>CC-BY-SA-4.0</a> <br>
+copyright: 'Copyright &copy; 2020 The Openchain Reference Tooling Work Group. <br>The Content is licensed under <a href=https://creativecommons.org/licenses/by-sa/4.0/>CC-BY-SA-4.0</a> <br>
                 Credits to David Delvalle for the design of our Logo'
 
 nav:
@@ -18,6 +18,16 @@ nav:
   - 'Existing OSS Tools': 'Tooling-Landscape\OSS-Based-License-Compliance-Tools.md'
   - 'Toolchain Elements Description':   'Tooling-Landscape\Toolchain-description.md'
   - 'Toolchain Data Model': 'Tooling-Landscape\DataModel.md'
+- User Stories:
+  - 'Overview':          'User-Stories\README.md'
+  - 'Compliance assistant':        'User-Stories\Compliance-Assistant-Epic.md'
+  - 'ECC expert':        'User-Stories\ECC-Expert-Epic.md'
+  - 'Legal assessor':        'User-Stories\Legal-Assessor-Epic.md' 
+  - 'Software developer':          'User-Stories\Software-Developer-Epic.md'
+  - 'Software architect':          'User-Stories\Software-Architect-Epic.md'
+- Container:
+    - 'Definitions':            'Containers\Definitions.md'
+    - 'Good practices':         'Containers\Best-Practices.md'
 - About:
   - 'Contact':          'contact.md'
   

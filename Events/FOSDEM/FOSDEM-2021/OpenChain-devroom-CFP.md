@@ -34,9 +34,10 @@ Talks will be pre-recorded in advance, and streamed during the event. Therefore 
 * Language: English
 * Timezone: CET https://www.timeanddate.com/worldclock/belgium/brussels
 * Codes of conduct:
-https://wiki.mozilla.org/Fosdem:2017/Code_of_Conduct
-
-https://fosdem.org/2021/practical/conduct/
+   
+   https://wiki.mozilla.org/Fosdem:2017/Code_of_Conduct
+   
+   https://fosdem.org/2021/practical/conduct/
 
 
 ## How to apply for a talk

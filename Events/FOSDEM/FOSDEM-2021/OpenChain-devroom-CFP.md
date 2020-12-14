@@ -7,14 +7,16 @@ We are interested in all kinds of presentations about OpenChain-related topics u
 Some topics, which are of interest are:
 
 * Experience with OpenChain
-* Learings and finding during the path to achieve OpenChain conformance
+* Learnings and finding during the path to achieve OpenChain conformance
 * Case studies
 * Open Source tooling for Open Source compliance processes
 * Approaches to ensure container image compliance
-* Automation of Open Source compliance processes
-* Sharing Open Source compliance artifacts
+* Automation of Open Source compliance processes including creation of necessary artefacts to fulfil license obligations
+* Sharing Open Source compliance artefacts
 
 Please note that this is not a complete list, the topics listed are only examples.
+
+Another devroom which might be of interest to you is the Software compositions analysis devroom: https://fosdem.org/2021/schedule/track/software_composition/
 
 
 ## Dates and Deadlines

@@ -8,6 +8,14 @@ Besides the overview presentation the structure of the directory is organized as
 
 Date: 7th of Oct 2019
 
+## [OpenChain Reference Tooling Work Group](./OpenChain-Reference-Tooling-Work-Group-2020-Validos.pdf)
+
+Author: Oliver Fendt, Siemens AG
+
+Date: 17th of November 2020
+
+Event: Validos Member Event
+
 ## [Efficient OSS component analysis with FOSSology](./Efficient-Component-Analysis-with-FOSSology-1.0.pdf)
 
 Author: Oliver Fendt, Siemens AG

@@ -21,7 +21,7 @@ Another devroom which might be of interest to you is the Software compositions a
 
 ## Dates and Deadlines
 
-* Submission deadline: Sunday December 22th, 2020 
+* Submission deadline: Tuesday December 22th, 2020 
 * Selected talks announced by Thursday December 31st, 2020
 * Talk video submission is Sunday January 17th, 2021
 * Talk video validation is Sunday January 24th, 2021

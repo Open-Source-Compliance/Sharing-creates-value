@@ -15,6 +15,7 @@ Although the current focus is on license compliance we are also considering:
 * Security
 * ECC (Export Control and Customs)
 * Quality metrics
+
 at a later stage
 
 ## How we build the open source compliance toolchain

@@ -4,9 +4,17 @@ The presentation [OpenChain Tooling Work Group - One Slide Overview](./OSS-Tooli
 
 Besides the overview presentation the structure of the directory is organized as a stack - the most recent presentation is the presentation at the top.
 
-## [OpenChain Tooling Work Group - One Slide Overview](./OSS-Tooling-Group-One-Pager-5.0.pdf)
+## [OpenChain Tooling Work Group - One Slide Overview](./OSS-Tooling-Group-One-Pager-8.pdf)
 
-Date: 7th of Oct 2019
+Date: 18th of March 2021
+
+## [OpenChain Reference Tooling Work Group Status](./OpenChain-Reference-Tooling-Work-Group-2021-OC-Summit-1.pdf)
+
+Author: Oliver Fendt, Siemens AG
+
+Date: 10th of March 2021
+
+Event: OpenChain Mini Summit
 
 ## [OpenChain Reference Tooling Work Group](./OpenChain-Reference-Tooling-Work-Group-2020-Validos.pdf)
 

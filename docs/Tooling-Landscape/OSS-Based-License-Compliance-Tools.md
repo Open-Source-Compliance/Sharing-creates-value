@@ -171,6 +171,14 @@ FOSSLight is an integrated system that can efficiently process the open source c
 * Compliance Hub: You can manage everything about open source compliance such as license, oss, vulnerability and others.
 * Scalability´: It can be used with additional features (including FOSSLight scanner or other plugins).
 
+## LDBCollector
+**Website:**
+[LDBcollector](https://github.com/maxhbr/LDBcollector)<br>
+**Main License:**
+[BSD-3-Clause](https://github.com/maxhbr/LDBcollector/blob/master/LICENSE)<br>
+**Summary:**<br>
+A small application which collects oss-license metadata and combines it.
+
 ## License Compatibility Checker
 **Website:**
 [license-compatibility-checker](https://github.com/HansHammel/license-compatibility-checker#readme)<br>

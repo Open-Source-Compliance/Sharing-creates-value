@@ -6,7 +6,7 @@ Like for the "traditional" development the compliance process for containers sha
 
 ## Guiding Principles
 
-* Always publish only the minimal required artifacts. This can be in the easiest case the docker file, if this is not possible check whether it is enough to publish only a layer (containing your application). Publishing complete container images shall only be considered if the other options will not work.
+* Always publish only the minimal required artifacts. Please note that acc. to the article [of Till Jaeger](#resources), distribution of docker files is similar to the distribution of docker images - i.e. if you only distribute docker files you are obliged to do the entire license compliance work as it will be necessary if you distribute the entire container image
 * All the resulting compliance work, its effort and time needed has its origin in the docker file. Get involved in the creation process of the docker file right from the beginning
 * Select carefully the docker repos you are using
 
@@ -51,5 +51,10 @@ In general it is strongly recommended to not attempt to build or [deliver for fu
 * You will need to fulfill all software licence obligations for everything in the tarball.There are certain special cases where it may be possible or feasible; for example if your image is a base (scratch) image and contains nothing but some kind of tool, base system libraries and perhaps BusyBox.
 * You must list everything contained in the distribution (all layers), and all of it will need to be security checked.
 
+## Resources
+
+### “Distribution of Dockerfiles: Who is responsible for FOSS License Compliance?”
+Article from Till Jaeger <br>
+Published:  [Journal of Open Law, Technology, & Society, 12(1), pp 13 – 20 DOI: 10.5033/jolts.v12i1.147](https://jolts.world/index.php/jolts/article/view/147/268) <br>
 
 

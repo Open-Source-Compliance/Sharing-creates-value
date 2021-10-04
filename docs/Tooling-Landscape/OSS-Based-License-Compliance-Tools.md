@@ -197,6 +197,19 @@ Licensee.js is a command line utility to check npm package dependency license me
 **Summary:**<br>
 Ninka is a lightweight license identification tool for source code. It is sentence-based, and provides a simple way to identify open source licenses in a source code file. It is capable of identifying several dozen different licenses (and their variations).
 
+## Opossum Tool
+**Website:**
+[Oposssum Tool](https://github.com/opossum-tool)<br>
+**Main License:**
+[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
+**Summary:**<br>
+A light-weight app to audit and inventory large codebases for open source license compliance.<br>
+OpossumUI was developed with the goal to build a tool for managing and combining open source compliance data from different sources. While existing analysis tools for software compliance can provide good information, using multiple of such tools often leads to huge amounts of data due to an increased detection rate. Even though the results can be merged and noise can be filtered through automatic tools, final manual revisions are often necessary. So, OpossumUI was born: A light-weight app for review of compliance information for large codebases.
+OpossumUI is a tool to:
+* discover open source software used in applications.
+* review licenses.
+* generate reports from an open source code scan.
+
 
 ## OSS Attribution Builder
 **Website:**

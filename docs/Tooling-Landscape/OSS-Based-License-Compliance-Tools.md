@@ -88,6 +88,12 @@ Barista admins determine which obligation(s) are associated with each license de
 _Cloud Native Architecture_<br>
 Barista is designed for cloud native deployment environments allowing hosting flexibility and scalability on demand.
 
+## Bubbly
+**Website:**        [Bubbly](https://github.com/valocode/bubbly/)<br>
+**Main License:**   [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/)<br>
+**Summary:**<br>
+Bubbly is a release readiness platform helping software teams release compliant software with confidence. Gain visibility into your release process with reports and analytics to lower risk, increase quality, reduce cycle time and drive continuous improvement.
+
 ## CLA Assistant
 **Website:**        [CLA Assistant](https://github.com/cla-assistant/cla-assistant)<br>
 **Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>

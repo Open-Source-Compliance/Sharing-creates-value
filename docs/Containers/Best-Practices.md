@@ -57,4 +57,6 @@ In general it is strongly recommended to not attempt to build or [deliver for fu
 Article from Till Jaeger <br>
 Published:  [Journal of Open Law, Technology, & Society, 12(1), pp 13 – 20 DOI: 10.5033/jolts.v12i1.147](https://jolts.world/index.php/jolts/article/view/147/268) <br>
 
-
+### Making compliance scalable in a container world
+Article from Scott Peterson <br>
+Published:  [opensource.com "Making compliance scalable in a container world"](https://opensource.com/article/20/7/compliance-containers) <br>

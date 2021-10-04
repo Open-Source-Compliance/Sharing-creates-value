@@ -243,6 +243,18 @@ OSSPolice is a risk assessment service for developers that can quickly identify 
 Quartermaster is a suite of command line tools and build system extensions that instruments software builds to create FOSS compliance documentation and support compliance decisions. Quartermaster runs adjacent to a software build process. A master process collects information about the software that is build. Once the build is complete, the master executes a number of analysis tools, and finally a number of reporters. All modules are executed in the context of the master, not the build machine. The master ships all dependencies of the modules without affecting the build clients file system (it runs in a container).
 
 
+## ScanCode.io and ScanPipe
+**Website:**
+[ScanCode.io](https://scancodeio.readthedocs.io/en/latest/introduction.html#)<br>
+**Main License:**
+[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
+**Summary:**<br>
+ScanCode.io is a server to script and automate the process of Software Composition Analysis (SCA) to identify any open source components and their license compliance data in an application’s codebase. ScanCode.io can be used for various use cases, such as Docker container and VM composition analyses, among other applications.
+
+ScanPipe is a developer-friendly framework and application that helps software analysts and engineers build and manage real-life software composition analysis projects as scripted pipelines.
+
+ScanPipe provides a unified framework to the infrastructure that is required to execute and organize these software composition analysis projects.
+
 ## ScanCode Toolkit
 **Website:**
 [ScanCode](https://www.aboutcode.org/ )<br>

@@ -161,6 +161,16 @@ for your project.
 Fossology is a scanning tool for license, copyright and export control scans. In one click you can generate an SPDX file, or a ReadMe with all the copyrights notices from your software. It provides a Web UI and a database for a compliance workflow. To scan, a package must be uploaded to the server. Scanners provided are Monk, Nomos and Ninka. It has version control on packages scanned, so when scanning a newer version of a previous package, only changed files are rescanned.
 
 
+## FOSSLight
+**Website:**[FOSSLight](https://fosslight.org/)<br>
+**Main License:**
+[AGPL-30 and others](https://www.gnu.org/licenses/agpl-3.0.en.html)<br>
+**Summary:**<br>
+FOSSLight is an integrated system that can efficiently process the open source compliance process. It provides:
+* Compliance Workflow: It can process the open source compliance workflow.
+* Compliance Hub: You can manage everything about open source compliance such as license, oss, vulnerability and others.
+* Scalability´: It can be used with additional features (including FOSSLight scanner or other plugins).
+
 ## License Compatibility Checker
 **Website:**
 [license-compatibility-checker](https://github.com/HansHammel/license-compatibility-checker#readme)<br>

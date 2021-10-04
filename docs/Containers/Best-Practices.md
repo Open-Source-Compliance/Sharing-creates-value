@@ -53,7 +53,7 @@ In general it is strongly recommended to not attempt to build or [deliver for fu
 
 ## Resources
 
-### “Distribution of Dockerfiles: Who is responsible for FOSS License Compliance?”
+### Distribution of Dockerfiles: Who is responsible for FOSS License Compliance?
 Article from Till Jaeger <br>
 Published:  [Journal of Open Law, Technology, & Society, 12(1), pp 13 – 20 DOI: 10.5033/jolts.v12i1.147](https://jolts.world/index.php/jolts/article/view/147/268) <br>
 

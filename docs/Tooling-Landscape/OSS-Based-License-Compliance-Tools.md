@@ -152,6 +152,19 @@ Eclipse SW360antenna is a tool to automate your open source license compliance p
 
 for your project.
 
+## Flict
+**Website:**[Flict](https://github.com/vinland-technology/flict)<br>
+**Main License:**
+[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)<br>
+**Summary:**<br>
+FOSS License Compatibility Tool (flict) is a Free and Open Source Software tool to verify license compatibility for a package and its dependencies. You can use the tool to automate license compatibility verification in your compliance work flow.
+
+flict can:
+* verify licenses compatibilty for license expression and a packages and its dependencies
+* suggest candidate outbound licenses
+* simplify license expressions
+* display, in misc format, compatibilies between licenses
+* check outbound licenses against a policy (policy as supplied by the user)
 
 ## Fossology
 **Website:**[Fossology](https://www.fossology.org/ )<br>

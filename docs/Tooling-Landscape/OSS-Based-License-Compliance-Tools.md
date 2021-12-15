@@ -276,6 +276,13 @@ OSSPolice is a risk assessment service for developers that can quickly identify 
 **Summary:**<br>
 Quartermaster is a suite of command line tools and build system extensions that instruments software builds to create FOSS compliance documentation and support compliance decisions. Quartermaster runs adjacent to a software build process. A master process collects information about the software that is build. Once the build is complete, the master executes a number of analysis tools, and finally a number of reporters. All modules are executed in the context of the master, not the build machine. The master ships all dependencies of the modules without affecting the build clients file system (it runs in a container).
 
+## REUSE
+**Website:**
+[REUSE](https://reuse.software)<br>
+**Main License:**
+[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)<br>
+**Summary:**<br>
+REUSE is a set of best practices and tools to simplify licensing and copyright. Instead of fixing licensing problems and uncertainties after they have been created, REUSE helps programmers to add the necessary information during development. A low-threshold helper tool helps with adding license/copyright headers and linting the current status, and can easily be integrated in CI/CD pipelines. The REUSE API can check public repositories automatically and generate a dynamic badge. Furthermore, REUSE provides a tutorial and an extensive FAQ that does not only help with the best practices per se, but also brings developers up to speed on more general questions on licensing and copyright.
 
 ## ScanCode.io and ScanPipe
 **Website:**
@@ -368,7 +375,3 @@ Tern is a software package inspection tool for containers written in Python. Ter
 **Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>
 **Summary:**<br>
 The open-source vulnerability assessment tool supports software development organizations in regards to the secure use of open-source components during application development. The tool analyzes Java and Python applications in order to detect whether they depend on open-source components with known vulnerabilities, collect evidence regarding the execution of vulnerable code in a given application context (through the combination of static and dynamic analysis techniques), and support developers in the mitigation of such dependencies. As such, it addresses the OWASP Top 10 security risk A9, Using Components with Known Vulnerabilities, which is often the root cause of data breaches.
-
-
-
-

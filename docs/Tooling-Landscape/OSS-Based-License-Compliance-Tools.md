@@ -120,10 +120,10 @@ Cregit identifies the contributors of source code. The cregit version of a sourc
 
 ## TrustSource DeepScan
 **Website:**
-[TrustSource DeepScan](https://deepsacn.trustsource.io)<br>
-[GitHub Repo](https://github.com/trustsource/ts-deepscan)<br>
+[TrustSource DeepScan](https://deepscan.trustsource.io/ )<br>
+[GitHub Repo](https://github.com/trustsource/ts-deepscan )<br>
 **Main License:**
-[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
+[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0 )<br>
 **Summary:**<br>
 DeepScan is a Python based command line tool - also available as free SaaS - that supports the analysis of files and complete git repositories for license information and copyrihgt information. All texts inside the repository will be scanned and compared to well known license texts. All sorts of copyright information will be collected. The findings are captured in a JSON structure and can either be written to disc or transferred to TrustSource.io for further use in the TrustSource SaaS-platform. The https://deepscan.trustsource.io provides a free to use UI to browse and work with the findings.
 

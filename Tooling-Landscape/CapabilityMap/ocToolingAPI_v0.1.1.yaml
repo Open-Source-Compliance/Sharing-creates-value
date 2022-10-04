@@ -1,0 +1,130 @@
+openapi: 3.0.3
+info:
+  title: OpenChain Tooling Capability Map
+  description: >-
+    This API sepcification describes the minimum requirements any API should
+    follow to comply with the OpenChain Capability Model ...
+  version: 0.1.1
+  contact:
+    email: some-email@openchain-tooling-workgroup.org
+  license:
+    name: licensed under CC-BY-SA-4.0
+    url: https://creativecommons.org/licenses/by-sa/4.0/
+externalDocs:
+  description: Find out more about OpenChain
+  url: https://openchainproject.org
+  servers:
+    - url: https://openchainproject.com
+tags:
+  - name: packageCrawler
+    description: >-
+      Research information on (new) components such as locate the repository,
+      current and former versions, project homepage and viability information
+    externalDocs:
+      description: Find out more
+      url: >-
+        https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/master/Tooling-Landscape/CapabilityMap/OC_ToolingChain_v1.5.5.pptx
+  - name: dependencyAnalyzer
+    description: Provide composition analysis of software to be built from these sources
+paths:
+  /packageCrawler/:
+    post:
+      tags:
+        - packageCrawler
+      summary: passes a pacakge reference to retrieve details
+      operationId: requestPackage
+      requestBody:
+        description: >-
+          Passes component information to retrieve detailed information about
+          licenses, meta data, release iformation, openSSF Score, etc.
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                url:
+                  type: string
+                  example: type/namespace/name@version?qualifiers#subpath
+          application/xml:
+            schema:
+              type: object
+              properties:
+                url:
+                  type: string
+                  example: type/namespace/name@version?qualifiers#subpath
+        required: true
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  name:
+                    type: string
+                    example: sample
+                  licenses:
+                    type: array
+                    string:
+                      name: license
+                      example: ASL-2.0
+                  openSSFScore:
+                    type: number
+                    example: 2.5
+                  something:
+                    type: string
+                    example: ''
+            application/xml:
+              schema:
+                type: object
+                properties:
+                  name:
+                    type: string
+                    example: sample
+                  licenses:
+                    type: array
+                    string:
+                      name: license
+                      example: ASL-2.0
+                  openSSFScore:
+                    type: number
+                    example: 2.5
+                  something:
+                    type: string
+                    example: ''
+        '400':
+          description: Invalid ID supplied
+        '404':
+          description: Package not found
+        '405':
+          description: Validation exception
+      security:
+        - petstore_auth:
+            - write:pets
+            - ''
+components:
+  schemas:
+    purl:
+      type: object
+      properties:
+        url:
+          type: string
+          example: type/namespace/name@version?qualifiers#subpath
+    packageMetaData:
+      type: object
+      properties:
+        name:
+          type: string
+          example: sample
+        licenses:
+          type: array
+          string:
+            name: license
+            example: ASL-2.0
+        openSSFScore:
+          type: number
+          example: 2.5
+        something:
+          type: string
+          example: ''

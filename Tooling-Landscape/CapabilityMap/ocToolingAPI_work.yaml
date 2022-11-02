@@ -1,0 +1,216 @@
+openapi: 3.0.3
+info:
+  title: OpenChain Tooling Capability Map
+  description: >-
+    This API specification describes the minimum requirements any API should
+    follow to comply with the OpenChain Capability Model ...
+  version: 0.2.2
+  contact:
+    email: some-email@openchain-tooling-workgroup.org
+  license:
+    name: licensed under CC-BY-SA-4.0
+    url: https://creativecommons.org/licenses/by-sa/4.0/
+externalDocs:
+  description: Find out more about OpenChain
+  url: https://openchainproject.org
+  servers:
+    - url: https://openchainproject.com
+tags:
+  - name: packageCrawler
+    description: >-
+      Research information on (new) components such as locate the repository,
+      current and former versions, project homepage and viability information
+    externalDocs:
+      description: Find out more
+      url: >-
+        https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/master/Tooling-Landscape/CapabilityMap/OC_ToolingChain_v1.5.5.pptx
+  - name: dependencyAnalyzerSource
+    description: >-
+      Provide composition analysis in form of a basic SBOM of software to be built from these sources
+  - name: dependencyAnalyzerContainer
+    description: >-
+      Provide composition analysis of software included in the assessed container in form of a basic SBOM
+  - name: dependencyAnalyzerBinary
+    description: >-
+      Provide composition analysis of binary assessed in form of a basic SBOM
+  - name: licenseScanner
+    description: >-
+      Precise scanning of sources to determine exact situation for proper compliance declarations
+  - name: snippetScanner
+    description: >-
+      Identify pieces of original code (source, object, binary) by comparing against known codebase
+  - name: packageArchive
+    description: >-
+      Store binaries or sources used in Software releases, so that they are available for later analysis / proof
+  - name: packageMetadataRepository
+    description: >-
+      Store package information and clearing metadata on packages
+  - name: cotsManagement
+    description: >-
+      Manage Commercial-Off-The-Shelf (COTS) and infrastructure (open source or COTS) packages of a solution
+  - name: complianceArtefactGenerator
+    description: >-
+      Support provisioning of compliance documentation
+  - name: approvalFlowEngine
+    description: >-
+      Ensure that the outgoing documentation fits the purpose
+  - name: licenseRepository
+    description: >-
+      Capture and archive legal information & interpretation about licenses
+  - name: legalSolver
+    description: >-
+      Determine legal rights and obligations resulting from the usage of the listed packages within the project context
+  - name: caseDataAnalysis
+    description: >-
+      Interpret all collected case data in given context and determine deltas
+  - name: caseDataCollector
+    description: >-
+      Provide bracket for all compliance relevant information that is not directly related to source of a product / distribution item
+  - name: inputConditionManagement
+    description: >-
+     Determine that all copyright holders of commits finally grant rights and will not claim back
+  - name: cicdRuleEnforcement
+    description: >-
+      Ensure only compliant artifacts will leave the automated tool chain
+  - name: policyNRuleEnforcement
+    description: >-
+      Capturing the Organisation specific interpretation of its obligations, objectives & goals
+  - name: auditLog
+    description: >-
+      Maintain log of changes and user actions (create accountability)
+  - name: identityManagement
+    description: >-
+      Provide role based authorization
+  - name: rna
+    description: >-
+      Visualize current work status, todos, efforts spent and success of compliance initiative 
+paths:
+  /analysis/:
+    post:
+      tags:
+        - caseDataAnalysis
+      operationId: uploadAnalysis
+      requestBody: 
+        description: Push analysis result in form of an extended SBOM (CyDX|SPDX) to Case Data Store
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/sbom'
+          application/xml:
+            schema:
+              $ref: '#/components/schemas/sbom'
+      responses:
+        '200':
+          description: Successful oepeartion
+          content:
+            application/json:
+              schema:
+                name: applicationId
+                emxample: "someId" 
+        '403':
+          description: Not authorized
+        '405':
+          description: Validation exception, invalid document
+
+  /package/:
+    get:
+      tags:
+        - packageCrawler
+      summary: pull package metadata from corresponding server
+      operationId: requestPackage
+      parameters:
+        - name: purl
+          in: query
+          required: true
+          explode: true
+          schema:
+            type: string
+            example: type/namespace/name@version?qualifiers#subpath
+          description: >-
+            Passes component identifier to retrieve metadata about, such as: licenses, releases, openSSF Score, etc.
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  name:
+                    type: string
+                    example: sample
+                  licenses:
+                    type: array
+                    string:
+                      name: license
+                      example: ASL-2.0
+                  openSSFScore:
+                    type: number
+                    example: 2.5
+                  something:
+                    type: string
+                    example: ''
+            application/xml:
+              schema:
+                type: object
+                properties:
+                  name:
+                    type: string
+                    example: sample
+                  licenses:
+                    type: array
+                    string:
+                      name: license
+                      example: ASL-2.0
+                  openSSFScore:
+                    type: number
+                    example: 2.5
+                  something:
+                    type: string
+                    example: ''
+        '400':
+          description: Invalid ID supplied
+        '403':
+          description: Not authorized
+        '404':
+          description: Package not found
+        '405':
+          description: Validation exception
+      security:
+        - casedatastore_auth:
+            - write:scan
+            - ''
+components:
+  schemas:
+    sbom:
+      type: object
+      properties:
+        name:
+          type: string
+          example: myScanName
+        projectname: 
+          type: string
+          example: someProjectName
+    purl:
+      type: object
+      properties:
+        url:
+          type: string
+          example: type/namespace/name@version?qualifiers#subpath
+    packageMetaData:
+      type: object
+      properties:
+        name:
+          type: string
+          example: sample
+        licenses:
+          type: array
+          string:
+            name: license
+            example: ASL-2.0
+        openSSFScore:
+          type: number
+          example: 2.5
+        something:
+          type: string
+          example: ''

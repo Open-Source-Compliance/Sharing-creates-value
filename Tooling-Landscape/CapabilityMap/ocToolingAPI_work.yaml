@@ -38,7 +38,7 @@ tags:
       Precise scanning of sources to determine exact situation for proper compliance declarations
   - name: snippetScanner
     description: >-
-      Identify pieces of original code (source, object, binary) by comparing against known codebase
+      Identify pieces of original code (source, object, binary) by comparing against known codebase (Steve Kilbane promises to work on this one)
   - name: packageArchive
     description: >-
       Store binaries or sources used in Software releases, so that they are available for later analysis / proof

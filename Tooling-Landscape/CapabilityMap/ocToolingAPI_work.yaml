@@ -101,7 +101,7 @@ paths:
               $ref: '#/components/schemas/sbom'
       responses:
         '200':
-          description: Successful oepeartion
+          description: Successful operation
           content:
             application/json:
               schema:
@@ -180,6 +180,85 @@ paths:
         - casedatastore_auth:
             - write:scan
             - ''
+  /snippet-scan/:
+    get:
+      tags:
+        - snippetScanner
+      summary: Provide URL from which to pull sources for scanning.
+      operationId: uploadSources
+      parameters:
+        - name: purl
+          in: query
+          required: true
+          explode: true
+          schema:
+            type: string
+            example: type/namespace/name@version?qualifiers#subpath
+          description: >-
+            Passes location from which to retrieve sources to be scanned
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/scanRequestId'
+        '403':
+          description: Not authorized
+        '405':
+          description: Validation exception, invalid document
+    post:
+      tags:
+        - snippetScanner
+      summary: Push a single file or bundle of files (tarball, zip) for scanning. Receive an ID for claiming results later
+      operationId: uploadSources
+      requestBody: 
+        description: A collection of sources for scanning.
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/sourceBundle'
+          application/xml:
+            schema:
+              $ref: '#/components/schemas/sourceBundle'
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/scanRequestId'
+        '403':
+          description: Not authorized
+        '405':
+          description: Validation exception, invalid document
+  /snippet-scan-results/:
+    get:
+      tags:
+        - snippetScanner
+      summary: Retrieve results of previous request
+      operationId: getResults
+      parameters:
+        - name: scanId
+          in: query
+          required: true
+          explode: true
+          schema:
+            $ref: '#/components/schemas/scanRequestId'
+          description: >-
+            Provides Id received from a previous snippet-scan request
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/scanRequestId'
+        '403':
+          description: Not authorized
+        '405':
+          description: Validation exception, invalid document
+
 components:
   schemas:
     sbom:
@@ -214,3 +293,51 @@ components:
         something:
           type: string
           example: ''
+    scanRequestId:
+      type: object
+      properties:
+        RequestId:
+          type: integer
+          example: 1234
+    sourceFile:
+      type: object
+      properties:
+        filename:
+          type: string
+          example: /some/directory/path/file.java
+        content:
+          type: string
+          example: Hello-World example goes here
+    sourceBundle:
+      type: object
+      properties:
+        packagingType: string
+      files:
+        type: array
+          type: sourceFile
+    snippetMatch:
+      type: object
+      properties:
+        scannedSource:
+          type: object 
+            properties:
+              filename:
+                type: string
+                example: /some/path/to/file.py
+        matches:
+          type: array
+            type: object
+              properties:
+                scannedSourceLineStart:
+                  type: integer
+                scannedSourceLineEnd:
+                  type: integer
+                matchedSourceLineStart:
+                  type: integer
+                matchedSOurceLineEnd:
+                  type: integer
+                matchedSourceFilename:
+                  type: string
+                matchedComponent:
+                  schema:
+                    $ref: '#/components/schema/purl'

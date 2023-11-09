@@ -2,9 +2,9 @@
 * October '23
   * Marcel Kurzmann
 * November '23
-  * tbd
+  * Frances Paulisch
 * December '23
-  * tbd
+  * Oliver Fendt (Dec 6) + Holger Streidl (Dec 20)
 * January '24
   * tbd
 * February '24

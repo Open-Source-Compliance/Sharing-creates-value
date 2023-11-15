@@ -262,7 +262,7 @@ OSS Discovery finds the open source software embedded in applications and instal
 
 ## OSS Review Toolkit ORT
 **Website:**
-[ORT](https://github.com/heremaps/oss-review-toolkit)<br>
+[ORT](https://github.com/oss-review-toolkit/ort)<br>
 **Main License:**
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
 **Summary:**<br>

@@ -20,7 +20,7 @@ This guide is meant to help to keep the effort as low as possible for the meetin
 6. commit the file
 
 ## After the Meeting 
-1. Ask presenters to provide their shown slides (either link or as PDF)
+1. Ask presenters to provide their shown slides (as PDF - as external links are not reliable)
 2. (optional) store the slides in the folder /Meeting-yyyymmdd/
 3. add the link to the slides in the yyyymmdd.md
 4. Finish the notes in yyyymmdd.md and create PR

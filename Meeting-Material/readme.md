@@ -14,7 +14,7 @@ This guide is meant to help to keep the effort as low as possible for the meetin
 ## While the Meeting 
 1. Start the meeting in the respective meeting tool (ideally Big Blue Button)
 2. (optional) Ask / inform all participants for consent for recording and turn the cameras off. Start recording
-3. Show the Antitrust slide from OpenChain and inform about the Antitrust requirements (e.g. "Stick to the shared agenda", ...). 
+3. Show the [Antitrust slide from OpenChain](../Presentations/Antitrust_Policy_Notice.pptx) and inform about the Antitrust requirements (e.g. "Stick to the shared agenda", ...). 
 4. Take notes in the yyyymmdd.md in the branch set up above in "2."
 5. Collect all participant names in the notes.
 6. commit the file

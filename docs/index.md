@@ -1,6 +1,19 @@
 
 ## Open Source Tooling for Open Source Compliance
 
+## News
+
+### Projects and Tools new to the list of OSS-Based-License-Compliance-Tools
+* [OSSelot](https://www.osselot.org/index.php) Osselot is _the_ Open Source curation database
+* [Dejacode](https://github.com/nexB/dejacode) Automate open source license compliance and ensure software supply chain integrity
+
+### Upcoming Events
+
+* There will be a [Fringe Event about OSS compliance and security tools on 2nd of Feb 2024](https://opencollective.com/aboutcode/events/fosdem-2024-fringe-workshop-on-foss-license-and-security-compliance-tools-ea75e63c)
+
+
+# Introduction
+
 ## A Single Focus
 This work group is focused on reducing resource costs and improving the quality of results around open source compliance activities. The work group uses open source principles to accomplish this. It is a meritocracy producing real world solutions for real world challenges and it shares results to all interested parties.
 

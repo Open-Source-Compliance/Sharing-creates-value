@@ -127,6 +127,13 @@ Cregit identifies the contributors of source code. The cregit version of a sourc
 **Summary:**<br>
 DeepScan is a Python based command line tool - also available as free SaaS - that supports the analysis of files and complete git repositories for license information and copyrihgt information. All texts inside the repository will be scanned and compared to well known license texts. All sorts of copyright information will be collected. The findings are captured in a JSON structure and can either be written to disc or transferred to TrustSource.io for further use in the TrustSource SaaS-platform. The https://deepscan.trustsource.io provides a free to use UI to browse and work with the findings.
 
+## Dejacode
+**Website:**
+[Dejacode](https://github.com/nexB/dejacode)<br>
+**Main License:**
+[AGPL-3.0](https://github.com/nexB/dejacode/blob/main/LICENSE)<br>
+**Summary:**<br>
+Automate open source license compliance and ensure software supply chain integrity.
 
 ## Deltacode
 **Website:**
@@ -143,24 +150,10 @@ You can use DeltaCode with ScanCode to identify and track license and related ch
 **Website:**
 [Eclipse SW360](https://projects.eclipse.org/projects/technology.sw360)<br>
 **Main License:**
-[EPL-1.0](https://www.eclipse.org/org/documents/epl-v10.php)<br>
+[EPL-2.0](https://github.com/eclipse-sw360/sw360/blob/main/LICENSE)<br>
 **Summary:**<br>
 A software catalogue application designed to provide a central place for sharing information about software components used by an organization. It is designed to neatly integrate into existing infrastructures related to the management of software artifacts and projects by providing separate backend services for distinct tasks and a set of portlets to access these services. It has connectors to interact with external systems such as code scan tools. Thus far the project has not provided download information.
 
-
-## Eclipse SW360antenna
-**Website:**
-[Eclipse SW360](https://projects.eclipse.org/projects/technology.sw360.antenna)<br>
-**Main License:**
-[EPL-2.0](https://www.eclipse.org/legal/epl-2.0/)<br>
-**Summary:**<br>
-Eclipse SW360antenna is a tool to automate your open source license compliance processes as much as possible. In the end that is
-
-* collecting all compliance relevant data,
-* process that data and warn if there might be any license compliance related issues, and
-* generating a set of compliance artifacts (source code bundle, disclosure document, report)
-
-for your project.
 
 ## Flict
 **Website:**[Flict](https://github.com/vinland-technology/flict)<br>
@@ -187,7 +180,7 @@ Fossology is a scanning tool for license, copyright and export control scans. In
 ## FOSSLight
 **Website:**[FOSSLight](https://fosslight.org/)<br>
 **Main License:**
-[AGPL-30 and others](https://www.gnu.org/licenses/agpl-3.0.en.html)<br>
+[AGPL-3.0 and others](https://www.gnu.org/licenses/agpl-3.0.en.html)<br>
 **Summary:**<br>
 FOSSLight is an integrated system that can efficiently process the open source compliance process. It provides:
 * Compliance Workflow: It can process the open source compliance workflow.
@@ -202,7 +195,7 @@ FOSSLight is an integrated system that can efficiently process the open source c
 **Summary:**<br>
 A small application which collects oss-license metadata and combines it.
 
-## License Compatibility Checker
+## License Compatibility Checker (seems not to be maintained anymore)
 **Website:**
 [license-compatibility-checker](https://github.com/HansHammel/license-compatibility-checker#readme)<br>
 **Main License:**
@@ -217,16 +210,9 @@ Check npm dependencies' package.json for license compatibility based on SPDX sta
 **Main License:**
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
 **Summary:**<br>
-Licensee.js is a command line utility to check npm package dependency license metadata against rules. It uses SPDX license expression and whitelisted data to capture packages that are under different license than whitelisted.
+Licensee.js is a command line utility to check npm package dependency license metadata against rules. It uses SPDX license expression and whitelisted data to capture packages that are under different license than whitelisted. 
+Please note that the last commit to this project happened two years ago.
 
-
-## Ninka
-**Website:**
-[Ninka](http://ninka.turingmachine.org/)<br>
-**Main License:**
-[GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)<br>
-**Summary:**<br>
-Ninka is a lightweight license identification tool for source code. It is sentence-based, and provides a simple way to identify open source licenses in a source code file. It is capable of identifying several dozen different licenses (and their variations).
 
 ## Opossum Tool
 **Website:**
@@ -242,7 +228,7 @@ OpossumUI is a tool to:
 * generate reports from an open source code scan.
 
 
-## OSS Attribution Builder
+## OSS Attribution Builder (seems not to be maintained anymore)
 **Website:**
 [OSS Attribution Builder](https://github.com/amzn/oss-attribution-builder)<br>
 **Main License:**
@@ -259,6 +245,18 @@ OSS Attribution Builder is a website that helps teams create attribution documen
 **Summary:**<br>
 OSS Discovery finds the open source software embedded in applications and installed on computers. It is a scanning tool, which gives human readable and machine readable results.
 
+## OSSelot
+**Website:**
+[OSSelot](https://www.osselot.org/index.php)<br>
+**Main License:**
+[CC0-1.0](https://github.com/Open-Source-Compliance/package-analysis/blob/main/LICENSE)<br>
+**Summary:**<br>
+Osselot is _the_ Open Source curation database
+
+The objective of the project is to lower the required effort for all who want to make use of OSS in a license compliant way.
+
+To achieve this we will develop, share and improve the artifacts commonly used to fulfill the requirements of the different Free and Open Source Software licenses by applying the Open Source Software development principles. This may turn Open Source license compliance into a straight forward task.
+
 
 ## OSS Review Toolkit ORT
 **Website:**
@@ -269,7 +267,7 @@ OSS Discovery finds the open source software embedded in applications and instal
 Verifies free and open source software license compliance by checking source code and dependencies. It works by analyzing the source code for dependencies, downloading the source code of the dependencies, scanning all source code for license information, and summarizing the results. The different tools that make up ORT are designed as libraries (for programmatic use) with a minimal command line interface (for scripted use). Currently the report formats are Excel sheet, NOTICE file, static HTML and Web App. 
 
 
-## OSSPolice
+## OSSPolice (seems to be not maintained anymore)
 **Website:**
 [OSSPolice](https://github.com/osssanitizer/osspolice)<br>
 **Main License:**
@@ -277,14 +275,6 @@ Verifies free and open source software license compliance by checking source cod
 **Summary:**<br>
 OSSPolice is a risk assessment service for developers that can quickly identify potential free software license violations and known n-day security vulnerabilities in their apps. 
 
-
-## Quartermaster Project QMSTR
-**Website:**
-[QMSTR](https://qmstr.org/)<br>
-**Main License:**
-[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)<br>
-**Summary:**<br>
-Quartermaster is a suite of command line tools and build system extensions that instruments software builds to create FOSS compliance documentation and support compliance decisions. Quartermaster runs adjacent to a software build process. A master process collects information about the software that is build. Once the build is complete, the master executes a number of analysis tools, and finally a number of reporters. All modules are executed in the context of the master, not the build machine. The master ships all dependencies of the modules without affecting the build clients file system (it runs in a container).
 
 ## REUSE
 **Website:**
@@ -317,7 +307,7 @@ ScanCode is a suite of command line utilities to reliably scan a codebase for li
 
 ## SCANOSS
 **Website**: [scanoss.com](https://www.scanoss.com)<br>
-**Main License**: [GPL-2.0-or-later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+**Main License**: [GPL-2.0-or-later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)<br>
 **Summary:**<br>
 SCANOSS is the first free and open source SCA platform and open-data OSS knowledgebase. It performs SBOM generation in SPDX and CycloneDX and detects presence of Open Source at snippet, file and component levels. The central component is a RESTful API based on OpenAPI standards. Reference code is provided for different languages and integration with other tools.
 With SCANOSS you can enable component, file and snippet matching into any tool. The Public Knowledgebase is called OSSKB and is available at osskb.org. Scanning can be performed securely and anonymously.

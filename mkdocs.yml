@@ -3,16 +3,16 @@ site_name: 'sharing-creates-value'
 
 site_description: Open Source applied to Open Source License Compliance
 site_author: Oliver Fendt
-site_url: 'https://open-source-compliance.github.io/Sharing-creates-value/'
+site_url: 'https://oss-compliance-tooling.org'
 
 
 
-copyright: 'Copyright &copy; 2020 The Openchain Reference Tooling Work Group. <br>The Content is licensed under <a href=https://creativecommons.org/licenses/by-sa/4.0/>CC-BY-SA-4.0</a> <br>
+copyright: 'Copyright &copy; 2024 The Openchain Reference Tooling Work Group. <br>The Content is licensed under <a href=https://creativecommons.org/licenses/by-sa/4.0/>CC-BY-SA-4.0</a> <br>
                 Credits to David Delvalle for the design of our Logo'
 
 nav:
 - Home:
-  - 'Introduction':      'index.md'
+  - 'Overview':      'index.md'
 - Tooling Landscape:
   - 'Overview':          'Tooling-Landscape\README.md'
   - 'Existing OSS Tools': 'Tooling-Landscape\OSS-Based-License-Compliance-Tools.md'
@@ -32,8 +32,8 @@ nav:
   - 'Contact':          'contact.md'
   
 theme: 
-    name: 'flatly'
-    favicon: 'docs/img/favicon.ico'
+    name: 'readthedocs'
+    custom_dir: custom_theme
 
 
 extra_css: 

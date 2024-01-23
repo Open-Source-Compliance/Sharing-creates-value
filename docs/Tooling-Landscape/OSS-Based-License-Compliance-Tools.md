@@ -260,7 +260,7 @@ OSS Attribution Builder is a website that helps teams create attribution documen
 OSS Discovery finds the open source software embedded in applications and installed on computers. It is a scanning tool, which gives human readable and machine readable results.
 
 
-## OSS Review Toolkit ORT
+## OSS Review Toolkit (ORT)
 **Website:**
 [ORT](https://github.com/oss-review-toolkit/ort)<br>
 **Main License:**

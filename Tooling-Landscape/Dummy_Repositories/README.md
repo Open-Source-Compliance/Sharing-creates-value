@@ -26,26 +26,26 @@ B. Establish standardized processing independent from the technology
 ## Dummy repository standard setup
 - „master“ stays the unchanged repository content from upstream
 - Dummy-specific branches are added according to the following standard:
--- Three sub-branches: doc, demo and test 
---- doc – contains additional dummy-readme.md with detail-information about the demo and test-branches
----- E.g. detail description about demo/case_xxx 
----- rationale: as the master-branch shall be unmodified, the documentation needs to be in an extra branch
---- demo with potentially several cases e.g.
----- demo/case_xxx with xxx as ascending identifiers – description about the contents in the „doc“ branch
---- test with potentially several cases e.g.
----- test/tc_xxx with xxx as ascending identifiers – description about the details in the „doc“ branch
----- The test branches shall additionally contain a tc_xxx_spec.md-file with a tool-agnostic test-specification
+  - Three sub-branches: doc, demo and test 
+    - doc – contains additional dummy-readme.md with detail-information about the demo and test-branches
+      - E.g. detail description about demo/case_xxx 
+      - rationale: as the master-branch shall be unmodified, the documentation needs to be in an extra branch
+    - demo with potentially several cases e.g.
+      - demo/case_xxx with xxx as ascending identifiers – description about the contents in the „doc“ branch
+    - test with potentially several cases e.g.
+      - test/tc_xxx with xxx as ascending identifiers – description about the details in the „doc“ branch
+      - The test branches shall additionally contain a tc_xxx_spec.md-file with a tool-agnostic test-specification
 
 Maintained by Open Chain Automation Workgroup.
 
 # Setup for potential use for tool evaluation
 - The dummy repository may be forked into the specific tool-project or evaluation setup with all branches, e.g. https://github.com/oss-review-toolkit 
 - The dummy-specific branches are refined for the respective tool-/evaluation-context:
--- doc – branch may be enhanced with more detailed description
--- test with test-cases may be extended in the following way
---- test/tc_xxx stays unmodified input for the test-case to provoque a finding
---- test/tc_xxx_resolution may contain necessary tool-specific resolutions handle the provoqued finding in the special setup (e.g. by an additional .ort.yml-file in the root-folder in case of OSS-review toolkit).
---- test/tc_xxx_auto may contain test-automation scripts and accompanying documentation for reproducability (e.g. for Robotframework) to run the test automatically
+  - doc – branch may be enhanced with more detailed description
+  - test with test-cases may be extended in the following way
+    - test/tc_xxx stays unmodified input for the test-case to provoque a finding
+    - test/tc_xxx_resolution may contain necessary tool-specific resolutions handle the provoqued finding in the special setup (e.g. by an additional .ort.yml-file in the root-folder in case of OSS-review toolkit).
+    - test/tc_xxx_auto may contain test-automation scripts and accompanying documentation for reproducability (e.g. for Robotframework) to run the test automatically
 
 Maintained by the respective tool-community.
 

@@ -19,7 +19,8 @@ A. Tool communities could use the Dummies to test against them => „golden repo
 B. Establish standardized processing independent from the technology
 
 # Overview of existing dummy repositories
-- GO-Dummy: https://github.com/Open-Source-Compliance/Go-Dummy 
+- GO-Dummy: https://github.com/Open-Source-Compliance/Go-Dummy
+- JAVA_Maven-Dummy: https://github.com/Open-Source-Compliance/JAVA_Maven-Dummy
 
 
 # Dummy handling and maintenance

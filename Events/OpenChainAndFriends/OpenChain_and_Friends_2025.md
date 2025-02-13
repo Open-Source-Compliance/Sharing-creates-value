@@ -72,7 +72,7 @@ Bitte nutzen Sie den Eingang von der Schwieberdinger Straße - hinter der Tankst
 |13:45-14:30|---|---|---|FOSS-LÄND and TODO Group - helping you with Open Source​|---|---|
 |14:30-15:00|---|---|---|Meet the experts - Introduction to the marketplace|---|---|
 |15:00-15:30|---|Break and Marketplace|---|---|---|---|
-|15:30-19:00|---|---|---|Communities and Good practices|---|Boot-Camp?|
+|15:30-19:00|---|---|---|Communities and Good practices<br>**Open Source from an SME perspective**<br>**Open SOurce aus der KMU Perspektive**|---|Boot-Camp?|
 
 19:00 Joint walk to the restaurant
 
@@ -84,12 +84,16 @@ Bitte nutzen Sie den Eingang von der Schwieberdinger Straße - hinter der Tankst
 |---|---|---|---|---|---|---|
 |7:30-8:00|---|Registration|---|---|---||
 |8:00-8:10|---|---|---|Welcome and Introduction to Process Track|---|Welcome and Introduction to Tooling Track|
+|---|---|---|---|Updates and Outlook|---|Updates and Outlook|
 |8:10-9:30|---|---|---|Process Track - Session 1|---|Tooling Track - Session 1|
 |9:30-10:00|---|Break and Marketplace|---|Break|---|Break|
+|---|---|---|---|Workshops Use Cases|---|Workshops Architecture|
 |10:00-12:00|---|---|---|Process Track - Session 2|---|Tooling Track - Session 2|
 |12:00-13:00|---|Break and Marketplace|---|Break|---|Break|
+|---|---|---|---|Workshops Blueprints|---|Workshops Toollist|
 |13:00-14:30|---|---|---|Process Track - Session 3|---|Tooling Track - Session 3|
 |14:30-15:00|---|Break and Marketplace|---|Break|---|Break|
+|---|---|---|---|Workshop Summaries|---|Workshop Summaries|
 |15:00-16:45|---|---|---|Process Track - Session 4|---|Tooling Track - Session 4|
 
 ## Day 3

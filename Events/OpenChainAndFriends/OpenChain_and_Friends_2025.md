@@ -1,6 +1,9 @@
 <img width="300" src="https://openchainproject.org/wp-content/uploads/sites/15/2019/10/openchain-hztl-color-01.svg"> <img width="300" src="https://www.e-mobilbw.de/fileadmin/_processed_/a/7/csm_Logo_FOSS_1500x1000_159a8da2e9.png"> 
 
 
+**EVENT-REGISTRATION-LINK: to be provided soon**
+ 
+
 # OpenChain and Friends – An open source management event
 
 Want to get better at Open Source?

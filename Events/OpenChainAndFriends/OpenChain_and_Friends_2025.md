@@ -1,10 +1,10 @@
 <img width="300" src="https://openchainproject.org/wp-content/uploads/sites/15/2019/10/openchain-hztl-color-01.svg"> <img width="300" src="https://www.e-mobilbw.de/fileadmin/_processed_/a/7/csm_Logo_FOSS_1500x1000_159a8da2e9.png"> 
 
-
-**EVENT-REGISTRATION-LINK: to be provided soon**
- 
-
 # OpenChain and Friends – An open source management event
+
+**>>>>> EVENT-REGISTRATION-LINK: [Register here / Hier registrieren](https://cvent.me/ykK8y2) <<<<<**
+
+*free event, but registration required / kostenlose Veranstaltung, aber Registrierung ist erforderlich*
 
 Want to get better at Open Source?
 
@@ -107,21 +107,19 @@ Community-led Unconference / Hackathon​
 
 # Q&A
 - Who is event target audience?​
-
--- Software developers, security professionals and OSPO representatives​
+  - Software developers, security professionals and OSPO representatives​
 
 - What the event location?​
+  - Day 1& 2 - Haus der Architekten in Stuttgart, Day 3 - Urban Harbor Ludwigsburg​
 
--- Day 1& 2 - Haus der Architekten in Stuttgart, Day 3 - Urban Harbor Ludwigsburg​
+- What is the content about?
+  - We will have presentations from community representatives and workshops all around Software Management in the Software Supply Chain. The event meant to be interactive and the concrete program will be developed and updated incrementally on this page until the event. The topic backlog is https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/openchain_and_friends_2025_topic_backlog/Events/OpenChainAndFriends/Topic_backlog.md . Contributions are welcome.
 
 - Can I already express my interest to join the event?​
-
--- Not yet, the registration page should go live beginning February​
+  - Yes, the registration page is here: [Register here / Hier registrieren](https://cvent.me/ykK8y2)
 
 - Do I need to purchase a ticket?​
-
--- No, this will be a free event but you are required to register for a ticket​
+  - No, this will be a free event but you are required to register for a ticket​
 
 - Is this a Linux Foundation event?​
-
--- Yes, it is, and it will adhere to the Linux Foundation's policies and code of conduct​
+  - Yes, it is, and it will adhere to the Linux Foundation's policies and code of conduct​

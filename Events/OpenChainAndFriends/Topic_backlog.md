@@ -13,36 +13,36 @@
 |11|Process/Tool|Meet the experts - Introduction to the marketplace|||||
 |12|Process|SBOM quality guide|Shane C.||||
 |13|Tool|OSM for Yocto Linux - build-based approach vs. buildless approach|Marcel K.||||
-|14|Community|OpenChain Open Source Tooling Group - Intro for SMEs - offerings for the software supply chain||||https://oss-compliance-tooling.org/Tooling-Landscape/|
-|15|Community|The FOSS-Länd - Intro for SMEs - offerings for the software supply chain|||||
-|16|Community|Informatik Forum Stuttgart - Intro for SMEs - offerings for the software supply chain|||||
+|14|Community|OpenChain Open Source Tooling Group - Intro for SMEs - offerings for the software supply chain||Oliver F.||https://oss-compliance-tooling.org/Tooling-Landscape/|
+|15|Community|The FOSS-Länd - Intro for SMEs - offerings for the software supply chain||Dennis N.|||
+|16|Community|Informatik Forum Stuttgart - Intro for SMEs - offerings for the software supply chain||Benjamin P.|||
 |17|Community|OSADL - Intro for SMEs - offerings for the software supply chain|||||
-|18|Community|OWASP - Intro for SMEs - offerings for the software supply chain|||||
+|18|Community|OWASP local chapters - Intro for SMEs - offerings for the software supply chain||Sven S.|||
 |19|Community|OpenSSF - Intro for SMEs - offerings for the software supply chain|||||
 |20|Community|TODO Group - Intro for SMEs - offerings for the software supply chain|||||
 |21|Community|FSFE - Intro for SMEs - offerings for the software supply chain|||||
 |22|Community|digital.auto - Intro for SMEs - offerings for the software supply chain|||||
-|23|Community|Eclipse SDV - Intro for SMEs - offerings for the software supply chain|||||
+|23|Community|Eclipse SDV - Intro for SMEs - offerings for the software supply chain|||Sara G.||
 |24|Community|Digital SME Europe - Intro for SMEs - offerings for the software supply chain|||||
 |25|Community|JAVA User Group Stuttgart - Intro for SMEs - offerings for the software supply chain|||||
 |26|Community|Good Governance Initiative - Intro for SMEs - offerings for the software supply chain|||||
-|27|Community|AGL OSPO Expert Group - Intro for SMEs - offerings for the software supply chain||Jan H.|||
+|27|Community|AGL OSPO Expert Group - Intro for SMEs - offerings for the software supply chain||Jan M.|||
 |28|Community|Sovereign Tech Agency - Intro for SMEs - offerings for the software supply chain|||||
 |29|Community|Bitkom AK Open Source - Intro for SMEs - offerings for the software supply chain|||||
 |30|Community|Flutter User Group DACH - Intro for SMEs - offerings for the software supply chain|||||
 |31|Community|CATENA-X / Eclipse Tractus-X - Intro for SMEs - offerings for the software supply chain|||||
-|32|Tool|OSS Review Toolkit||||https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/master/docs/Tooling-Landscape/OSS-Based-License-Compliance-Tools.md#oss-review-toolkit-ort|
-|33|Tool|Eclipse Apoapsis - ORT Server|||||
+|32|Tool|OSS Review Toolkit||Sebastian S.||https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/master/docs/Tooling-Landscape/OSS-Based-License-Compliance-Tools.md#oss-review-toolkit-ort|
+|33|Tool|Eclipse Apoapsis - ORT Server||Martin N.|||
 |34|Tool|OSSelot||||https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/master/docs/Tooling-Landscape/OSS-Based-License-Compliance-Tools.md#OSSelot|
-|35|Tool|DoubleOpen Server|||||
+|35|Tool|DoubleOpen Server||Sebastian S.|||
 |36|Tool|OCCTETT Project - Intro and Status||Andreas K.|||
 |37|Tool|Opossum||Max H.||https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/master/docs/Tooling-Landscape/OSS-Based-License-Compliance-Tools.md#opossum-tool|
-|38|Tool|AboutCode Suite||||https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/master/docs/Tooling-Landscape/OSS-Based-License-Compliance-Tools.md#aboutcode-toolkit|
+|38|Tool|AboutCode Suite||Philippe O.||https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/master/docs/Tooling-Landscape/OSS-Based-License-Compliance-Tools.md#aboutcode-toolkit|
 |39|Tool|OWASP Tools - DependencyTrack, CycloneDX and others||||https://cyclonedx.org/tool-center/|
 |40|Process|What is really needed for correct handling|Shane C.|||
-|41|Tool|ScanOSS Tool Suite||||https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/master/docs/Tooling-Landscape/OSS-Based-License-Compliance-Tools.md#scanoss|
+|41|Tool|ScanOSS Tool Suite||Julian C.||https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/master/docs/Tooling-Landscape/OSS-Based-License-Compliance-Tools.md#scanoss|
 |42|Tool|Amazon Open Source Tool updates||Oscar V.|||
-|43|Tool|Software Heritage Tools|||||
+|43|Tool|Software Heritage Tools||Stefano Z.|||
 |44|Tool|ClearlyDefined|||||
 |45|Tool|SW360||Arun A.||https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/master/docs/Tooling-Landscape/OSS-Based-License-Compliance-Tools.md#eclipse-sw360|
 

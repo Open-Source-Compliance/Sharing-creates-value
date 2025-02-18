@@ -45,5 +45,6 @@
 |43|Tool|Software Heritage Tools||Stefano Z.|||
 |44|Tool|ClearlyDefined|||||
 |45|Tool|SW360||Arun A.||https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/master/docs/Tooling-Landscape/OSS-Based-License-Compliance-Tools.md#eclipse-sw360|
+|46|Community|Open Logistics Foundation|||||
 
 

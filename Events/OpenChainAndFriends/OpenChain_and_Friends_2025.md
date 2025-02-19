@@ -108,6 +108,15 @@ Bitte nutzen Sie den Eingang von der Schwieberdinger Straße - hinter der Tankst
 ## Day 3
 Community-led Unconference / Hackathon​
 
+|Time|-|Room 1 / Raum 1|-|Room 2 / Raum 2|
+|---|---|---|---|---|
+|8:30-9:00|---|Registration|---|---|
+|9:00-16:00|---|Session 1|---|Session 2|
+|---|---|Unconference / Hackathon Summaries|---|
+|16:00-16:45|---|Common Ending|---|---|---|
+
+Please provide and discuss the topics for the Unconference / Hackathon on the Tooling Group mailing list: [https://groups.io/g/oss-based-compliance-tooling](https://groups.io/g/oss-based-compliance-tooling)
+
 ## Venue and Travel
 
 ### Venue 1 - Forum Haus der Architekten 

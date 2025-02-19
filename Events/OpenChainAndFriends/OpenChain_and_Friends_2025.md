@@ -40,6 +40,7 @@ During this event, you will have the opportunity to:
 ### 13:00-19:00
 Day 1: Afternoon Meeting
 
+Venue 1
 FORUM Haus der Architektinnen und Architekten (HdA)
 Danneckerstraße 54
 70182 Stuttgart, Germany
@@ -53,6 +54,7 @@ Location to be announced / Veranstaltungsort wird noch bekanntgegeben
 ### 08:00-16:45
 Day 2: Full-Day Meeting
 
+Venue 1
 FORUM Haus der Architektinnen und Architekten (HdA)
 Danneckerstraße 54
 70182 Stuttgart, Germany
@@ -61,6 +63,7 @@ Danneckerstraße 54
 ### 08:00-16:45
 Day 3: Full-Day Meeting
 
+Venue 2
 Bosch Digital | Lb079 (Halle 8) 
 Groenerstraße 5/1, 71636 
 Ludwigsburg, Germany
@@ -104,6 +107,49 @@ Bitte nutzen Sie den Eingang von der Schwieberdinger Straße - hinter der Tankst
 
 ## Day 3
 Community-led Unconference / Hackathon​
+
+## Venue and Travel
+
+### Venue 1 - Forum Haus der Architekten 
+<a title="Anfahrt Forum Haus der Architektinnen und Architekten" href="https://www.akbw.de/kontakt/anfahrt"><img width="250" alt="Forum Haus der Architektinnen und Architekten" src="https://www.akbw.de/uploads/_processed_/e/3/csm_HdA_Gartenansicht_2023_p_01_d065e0147d.jpg"></a> <br>
+
+FORUM Haus der Architektinnen und Architekten (HdA)<br>
+Danneckerstraße 54<br>
+70182 Stuttgart, Germany<br>
+https://www.akbw.de/kontakt/anfahrt 
+
+### Venue 2 - Bosch Digital | Lb079 (Halle 8) 
+<img width="250" alt="Forum Haus der Architektinnen und Architekten" src="https://lh3.googleusercontent.com/p/AF1QipPfKI-vV-ghwX7lu9wqkk1w5E8h5mWymGBjvprS=s680-w680-h510"><br>
+
+Bosch Digital | Lb079 (Halle 8) <br>
+Groenerstraße 5/1, 71636 <br>
+Ludwigsburg, Germany<br>
+Please use the entrance from the Schwieberdinger Straße - behind the petrol station. <a href="https://maps.app.goo.gl/Av5NFzW9H2pfMjWRA"> Address for the navigation is Schwieberdinger Str. 70/1, 71636 Ludwigsburg </a>.<br>
+Bitte nutzen Sie den Eingang von der Schwieberdinger Straße - hinter der Tankstelle. Die <a href="https://maps.app.goo.gl/Av5NFzW9H2pfMjWRA">Adresse fürs Navi ist Schwieberdinger Str. 70/1, 71636 Ludwigsburg </a>.
+
+
+### Lodging Options in Stuttgart
+*We have not contracted rooms at these properties and cannot guarantee rates or availability.*
+
+Hotel Motel One Stuttgart-Mitte<br>
+*Close to the Stuttgart Main Station*<br>
+Distance to venue 1: 2 kilometers / 26 Minutes Walk / <a href="https://maps.app.goo.gl/9r9RLJT2KmQJdJes5">Public Transport 16 Minutes 5 Stopps</a><br>
+Distance to venue 2: 16 kilometers / <a href="https://maps.app.goo.gl/sUpWZyQwLBpDB5ma7">Public Transport 35 Minutes via S-Bahn</a><br>
+Lautenschlagerstraße 14, 70173 Stuttgart<br>
++49 711 300209-0
+
+Hotel Unger Stuttgart<br>
+*Close to the Stuttgart Main Station*<br>
+Distance to venue 1: 2,1 kilometers / 28 Minutes Walk / <a href="https://maps.app.goo.gl/SNnKZ1s51odJNBtMA">Public Transport 16 Minutes 5 Stopps</a><br>
+Distance to venue 2: 16 kilometers / <a href="https://maps.app.goo.gl/sfPdb8oSsv7ivKwv7">Public Transport 35 Minutes via S-Bahn</a><br>
+Kronenstr. 17, 70173 Stuttgart<br>
++49 711 20990
+
+
+### Connections to Essen on day 2 for the FSFE Legal Workshop
+
+For those participants that plan to attend the <a href="https://fsfe.org/activities/ln/llw.en.html">FSFE Legal Workshop</a> from 9.4.-11.4. , we planned to end day 2 at 16:45 already so that the train connections to Essen may be easily be reached.
+<a href="https://maps.app.goo.gl/KfMEw12UsTnxqHNw7"> Train-Connection from venue 1 to Essen via Stuttgart Main Station</a>
 
 # Q&A
 - Who is event target audience?​

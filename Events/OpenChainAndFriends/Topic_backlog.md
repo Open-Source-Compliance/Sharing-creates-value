@@ -22,7 +22,7 @@
 |20|Community|TODO Group - Intro for SMEs - offerings for the software supply chain|||||
 |21|Community|FSFE - Intro for SMEs - offerings for the software supply chain|||||
 |22|Community|digital.auto - Intro for SMEs - offerings for the software supply chain|||||
-|23|Community|Eclipse SDV - Intro for SMEs - offerings for the software supply chain|||Sara G.||
+|23|Community|Eclipse SDV - Intro for SMEs - offerings for the software supply chain||Sara G.|||
 |24|Community|Digital SME Europe - Intro for SMEs - offerings for the software supply chain|||||
 |25|Community|JAVA User Group Stuttgart - Intro for SMEs - offerings for the software supply chain|||||
 |26|Community|Good Governance Initiative - Intro for SMEs - offerings for the software supply chain|||||
@@ -46,5 +46,7 @@
 |44|Tool|ClearlyDefined|||||
 |45|Tool|SW360||Arun A.||https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/master/docs/Tooling-Landscape/OSS-Based-License-Compliance-Tools.md#eclipse-sw360|
 |46|Community|Open Logistics Foundation|||||
+|47|Process|Documentation Requirements in the supply chain concerning safety critical applications||Nicole P.|||
+|48|Process|SPDX Operations Profile for business context as code||Ummo S.|||
 
 

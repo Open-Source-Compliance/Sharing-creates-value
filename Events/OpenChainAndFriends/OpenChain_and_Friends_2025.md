@@ -118,6 +118,8 @@ Danneckerstraße 54<br>
 70182 Stuttgart, Germany<br>
 https://www.akbw.de/kontakt/anfahrt 
 
+Distance to the airport: 12 kilometers / <a href="https://maps.app.goo.gl/2Mfys2co8zR96BbQ8">Public Transport 35-45 Minutes</a>
+
 ### Venue 2 - Bosch Digital | Lb079 (Halle 8) 
 <img width="250" alt="Forum Haus der Architektinnen und Architekten" src="https://lh3.googleusercontent.com/p/AF1QipPfKI-vV-ghwX7lu9wqkk1w5E8h5mWymGBjvprS=s680-w680-h510"><br>
 
@@ -127,6 +129,7 @@ Ludwigsburg, Germany<br>
 Please use the entrance from the Schwieberdinger Straße - behind the petrol station. <a href="https://maps.app.goo.gl/Av5NFzW9H2pfMjWRA"> Address for the navigation is Schwieberdinger Str. 70/1, 71636 Ludwigsburg </a>.<br>
 Bitte nutzen Sie den Eingang von der Schwieberdinger Straße - hinter der Tankstelle. Die <a href="https://maps.app.goo.gl/Av5NFzW9H2pfMjWRA">Adresse fürs Navi ist Schwieberdinger Str. 70/1, 71636 Ludwigsburg </a>.
 
+Distance to the airport: 40 kilometers / <a href="https://maps.app.goo.gl/y2d3kqzLdk5XDp8Z9">Public Transport 1 Hour 10 Minutes</a>
 
 ### Lodging Options in Stuttgart
 *We have not contracted rooms at these properties and cannot guarantee rates or availability.*

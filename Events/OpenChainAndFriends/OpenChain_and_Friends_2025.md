@@ -6,7 +6,7 @@
 
 *free event, but registration required / kostenlose Veranstaltung, aber Registrierung ist erforderlich*
 
-## OpenChain and The FOSS-Länd Community Invite You To An Information Exchange
+## OpenChain and The FOSS-LÄND Community Invite You To An Information Exchange
 
 ### Want to get better at Open Source?
 
@@ -17,7 +17,7 @@ Open Source offers significant advantages for businesses, but effectively managi
 -	Participate in technical sessions focused on overcoming common challenges in the field.
 -	Discover available support options from both the community and government resources.
 
-## OpenChain und The FOSS-Länd Community laden zum Open Source Austausch ein
+## OpenChain und The FOSS-LÄND Community laden zum Open Source Austausch ein
 
 ### Wollen Sie die Open Source Reife Ihrer Organisation verbessern?
 
@@ -52,7 +52,7 @@ Open Source bietet allerhand Vorteile, aber ein effektives Open Source Managemen
 |12:30-13:00|---|Registration|---|---|---|---|
 |13:00-13:15|---|---|---|Welcome and Introduction|---|---|
 |13:15-13:45|---|---|---|Establishing trusted and consistent open source management across the supply chain with the OpenChain ISO standards​|---|---|
-|13:45-14:30|---|---|---|FOSS-LÄND and TODO Group - helping you with Open Source​|---|---|
+|13:45-14:30|---|---|---|The FOSS-LÄND and TODO Group - helping you with Open Source​|---|---|
 |14:30-15:00|---|---|---|Meet the experts - Introduction to the marketplace|---|---|
 |15:00-15:30|---|Break and Marketplace|---|---|---|---|
 |15:30-19:00|---|---|---|Communities and Good practices<br>**Open Source from an SME perspective**<br>**Open Source aus der KMU Perspektive**|---|Boot-Camp?|
@@ -160,7 +160,7 @@ For those participants that plan to attend the <a href="https://fsfe.org/activit
   - Yes, as we will have international participants, we plan to have english as event language, but for specific sessions we can also discuss to provide it in german (e.g. for people new to the topic) / Ja, wir haben internationale Teilnehmer, daher planen wir mit Englisch als Veranstaltungssprache. Aber wir können uns auch vorstellen bei entsprechendem Bedarf spezifische Themen (z.B. Themen für regionale Teilnehmer, die im Thema neu sind) auch in Deutsch / Schwäbisch ;-) zu machen.
 
 - Target group is also SME / KMU - is this acc. to KMU 2003/361 with < 250 employees?
-  - Concerning the event we would welcome also bigger companies but want to explicitly support the small and medium businesses with the content. Only the concrete FOSS-LÄND offerings (e.g. vouchers/Beratungsgutschein etc.) are explicitly for SME / KMU in the region, see details in german only: https://www.transformationswissen-bw.de/beratung/beratungsgutschein
+  - Concerning the event we would welcome also bigger companies but want to explicitly support the small and medium businesses with the content. Only the concrete The FOSS-LÄND offerings (e.g. vouchers/Beratungsgutschein etc.) are explicitly for SME / KMU in the region, see details in german only: https://www.transformationswissen-bw.de/beratung/beratungsgutschein
 
 - CRA and NIS2 would be expected as topics &  Will the new Software Product Liability Act be a topic? 
   - We are currently collecting proposals from all sides (see question about content above with link to the topic backlog). The general questions about What and Why will be addressed in the opening presentation. You can also join the mailing list to pre-discuss the contents for the workshops/round-tables: [https://groups.io/g/oss-based-compliance-tooling](https://groups.io/g/oss-based-compliance-tooling)

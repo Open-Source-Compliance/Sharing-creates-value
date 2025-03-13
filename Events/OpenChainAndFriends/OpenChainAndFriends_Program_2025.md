@@ -2,8 +2,8 @@
   - [Day 1](#day-1)
   - [Day 2](#day-2)
   - [Day 3](#day-3)
-- [Communities collaborating](communities-collaborating)
-- [Abstracts and bios](abstracts-and-bios)
+- [Communities collaborating](#communities-collaborating)
+- [Abstracts and bios](#abstracts-and-bios)
 
 # Program
 ## Day 1 

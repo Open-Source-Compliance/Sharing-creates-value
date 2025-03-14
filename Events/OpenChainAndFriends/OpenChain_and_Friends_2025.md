@@ -45,10 +45,13 @@ FORUM Haus der Architektinnen und Architekten (HdA)<br>
 Danneckerstraße 54<br>
 70182 Stuttgart, Germany<br>
 
-### 19:30-21:00
+### 19:00-21:00
 Day 1: Socializing Event
 
-Location to be announced / Veranstaltungsort wird noch bekanntgegeben
+Venue 3<br>
+Restaurant AMADEUS
+Charlottenplatz 17
+70173 Stuttgart
 
 ## 8 April 2025
 ### 08:00-16:45
@@ -96,6 +99,14 @@ Please use the entrance from the Schwieberdinger Straße - behind the petrol sta
 Bitte nutzen Sie den Eingang von der Schwieberdinger Straße - hinter der Tankstelle. Die <a href="https://maps.app.goo.gl/Av5NFzW9H2pfMjWRA">Adresse fürs Navi ist Schwieberdinger Str. 70/1, 71636 Ludwigsburg </a>.
 
 *Distance to the airport: 40 kilometers / <a href="https://maps.app.goo.gl/y2d3kqzLdk5XDp8Z9">Public Transport 1 Hour 10 Minutes</a>*
+
+## Venue 3 - Restaurant AMADEUS Altes Waisenhaus
+<img width="250" alt="AMADEUS" src="https://www.amadeus-stuttgart.de/wp-content/gallery/veranstaltungen/veranstaltung_7.jpg"><br>
+
+Restaurant AMADEUS <br>
+Charlottenplatz 17 <br>
+70173 Stuttgart <br>
+https://www.amadeus-stuttgart.de/anfahrt/
 
 ### Lodging Options in Stuttgart
 *We have not contracted rooms at these properties and cannot guarantee rates or availability.*

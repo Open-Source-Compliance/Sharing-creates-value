@@ -49,8 +49,8 @@ Danneckerstraße 54<br>
 Day 1: Socializing Event
 
 Venue 3<br>
-Restaurant AMADEUS
-Charlottenplatz 17
+Restaurant AMADEUS <br>
+Charlottenplatz 17 <br>
 70173 Stuttgart
 
 ## 8 April 2025

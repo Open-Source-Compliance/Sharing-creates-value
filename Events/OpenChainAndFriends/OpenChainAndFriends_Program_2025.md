@@ -152,3 +152,4 @@ As Software Bill of Materials (SBOM) adoption grows, so does the complexity of m
 
 ### Bio: 
 
+Oscar Valenzuela is a Principal Open Source Engineer at Amazon. He leads the license compliance team and defines technical strategies and tools to scale OSS compliance across the company.

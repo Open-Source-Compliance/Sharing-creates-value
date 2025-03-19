@@ -61,7 +61,7 @@ Community-led Unconference / Hackathon​
 | 09 April 2025 | 10:45      | **How we are doing compliance at CARIAD with ORT**                                                                                                                                                             | Helio Chissini de Castro                                                                            |  |                                                                        |                 |
 | 09 April 2025 | 11:30      | **Project OCCTET.eu - the why, what and how**                                                                                                                                                                  | speaker to be announced soon                                                                        |  |                                                                        |                 |
 | 09 April 2025 | 12:15      | Lunch Break                                                                                                                                                                                                |                                                                                                     |  |                                                                        |                 |
-| 09 April 2025 | 13:15      | talk to be announced soon                                                                                                                                                                                  |                                                                                                     |  |                                                                        |                 |
+| 09 April 2025 | 13:15      | [First Steps With ORT: An EEF Experience](*first-steps-with-ort-an-eef-experience)                                                                                                                                                                                  | Kiko Fernandez                                                                                                    |  |                                                                        |                 |
 | 09 April 2025 | 14:00      | **Roundtable on ORT roadmap** -where and how can we work together on shared desired features<br/>Example topics:<br/>- Support SBOMs as input to ORT<br/>- Refactor SPDX reporter to use SPDX official library | Moderated by Nikola Babadzhanov & Thomas Steenbergen                                                |  |                                                                        |                 |
 | 09 April 2025 | 14:45      | talk to be announced soon                                                                                                                                                                                  |                                                                                                     |  |                                                                        |                 |
 | 09 April 2025 | 15:15      | Break                                                                                                                                                                                                      |                                                                                                     |  |                                                                        |                 |
@@ -158,5 +158,35 @@ Oscar Valenzuela is a Principal Open Source Engineer at Amazon. He leads the lic
 
 ### Abstract:
 With the **FOSS Disclosure Portal** we aim at a more efficient, digital, and transparent software supply chain regarding use of open source in our products and internal applications.
+
+### Bio:
+
+
+## First Steps With ORT: An EEF Experience
+
+### Abstract
+
+Once upon a time, researchers at Ericsson developed Erlang/OTP,
+a programming language for the telecom industry. 39 years later,
+Erlang/OTP is used by the telecom, messaging, banking, and even
+game industry. Not only that, new languages were created and run
+on top of the Erlang BEAM virtual machine: Elixir, now a
+well-established language, and Gleam, the newest addition.
+
+The proliferation of libraries and languages powering the BEAM
+ecosystem led to the creation of the Erlang Ecosystem Foundation (EFF),
+a foundation that caters for the BEAM ecosystem.
+
+Today, 39 years from the creation of Erlang, it is not an easy
+task to categorise and be compliant with the more than 13000 (total) files
+that make up Erlang, Elixir, and Gleam. Yet, Erlang and Elixir are
+OpenChain License compliant, and Gleam compliance is work in progress.
+
+- What steps took EEF towards making sure that Erlang, Elixir, and Gleam
+  comply with the different licenses and copyrights?
+
+This presentation features the collaboration between the Erlang/OTP team (Ericsson)
+and the Erlang Ecosystem Foundation (EEF), and the steps taken, and 
+experience of using ORT as a crucial part of the EEF Ecosystem.
 
 ### Bio:

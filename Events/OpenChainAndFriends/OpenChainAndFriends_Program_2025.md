@@ -162,6 +162,7 @@ With the **FOSS Disclosure Portal** we aim at a more efficient, digital, and tra
 
 ### Bio:
 
+Aoileann Nic Chraith is the Process Owner for the FOSS Disclosure Process within Enterprise IT at Mercedes-Benz. In this role, she is responsible for the rollout of the FOSS Disclosure Portal together with a virtual and interdisciplinary team of colleagues from across the company. Prior to this position, she worked in Global Cyber Security and was a HR Pace-Maker for the Applicant Tracking System Rollout in Germany before that. When she’s not at work, her time is shared between her kids, trying to master the French language, and cycling off-road.
 
 ## First Steps With ORT: An EEF Experience
 

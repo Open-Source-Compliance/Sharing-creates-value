@@ -192,6 +192,10 @@ experience of using ORT as a crucial part of the EEF Ecosystem.
 
 ### Bio:
 
+Kiko Fernandez-Reyes is a software engineer in the Erlang/OTP team,
+building and improving the Erlang programming language at Ericsson.
+Before that Kiko was a backend software engineer at Klarna. 
+Kiko also has Ph.D. from Uppsala University, Sweden.
 
 ## Project OCCTET.eu - the why, what and how
 <sub>[go to schedule](#c1t35)</sub>

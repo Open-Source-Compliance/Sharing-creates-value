@@ -43,7 +43,7 @@
 | 08 April 2025 | 13:15      | Workshop: **open source management processes - collaborating on combining open source compliance tools**<br/>As a < WHO >, I want connect < TOOL A > to < TOOL B > because < WHY ><br/>- How do you find good practices (blueprints) that address your  needs? <br/>- How to fit existing good practices in your development setup?<br/><a name="c1t22"> | Moderated by Marcel Kurzmann (Bosch)                                                                                                                             |  | 08 April 2025 | 13:15      | **AboutCode - Practical Compliance in One Stack – Licensing, Vulnerabilities, and More**<br/><a name="c2t22">                                                                                                                                                                                                                                                                | Philippe Ombredanne (AboutCode)                                                                                                             |
 | 08 April 2025 | 14:15      | Break<br/><a name="c1t23">                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                  |  |               |            | <a name="c2t23">                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                             |
 | 08 April 2025 | 14:30      | **Why Flutter is Gaining Popularity in Software Development and the Automotive Industry**<br/><a name="c1t24">                                                                                                                                                                                                                                           | Dhansha Bai Lakhwani (Flutter DACH Community)                                                                                                                    |  | 08 April 2025 | 14:30      | Workshop: **Update Tooling list of Open Source Tools**<br/>- How to deal with good Open Source tools but weak documentation? - How to earn merits with non-code-contributions?<br/>- Why do you have more transparency about the health state of Open Source Tools?<br/>- How to get or provide commercial support for Open Source Compliance Tools? <br/><a name="c2t24">   |                                                                                                                                             |
-| 08 April 2025 | 15:00      | **Building open source management and SBOM process for embedded software - learn from Yocto Project**<br/><a name="c1t25">                                                                                                                                                                                                                               | Josef Holzmayr (Yocto Project)                                                                                                                                   |  | 08 April 2025 | 15:00      | <a name="c2t25">                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                             |
+| 08 April 2025 | 15:00      | **[Building open source management and SBOM process for embedded software - learn from Yocto Project](#building-open-source-management-and-sbom-process-for-embedded-software---learn-from-yocto-project)**<br/><a name="c1t25">                                                                                                                                                                                                                               | Josef Holzmayr (Yocto Project)                                                                                                                                   |  | 08 April 2025 | 15:00      | <a name="c2t25">                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                             |
 | 08 April 2025 | 15:30      | Break<br/><a name="c1t26">                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                  |  |               |            | <a name="c2t26">                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                             |
 | 08 April 2025 | 15:45      | **Ask an Expert - Ask your open source process question to panel of our experts**<br/><a name="c1t27">                                                                                                                                                                                                                                                   | Christian Wege (Mercedes)<br/>Caren Kresse (OSADL)<br/>Benjamin Petri (Bosch) <br/>Further participants to be announced soon<br/>Moderated by Thomas Steenbergen |  | 08 April 2025 | 15:45      | **[From Complexity to Clarity: Understanding your Software Product Health](#from-complexity-to-clarity-understanding-your-software-product-health)**<br/><a name="c2t27">                                                                                                                                                                                                    | Jan-Niclas Strüwer (Fraunhofer IEM)                                                                                                         |
 | 08 April 2025 | 16:15      | Wrap Up of Day 2<br/><a name="c1t28">                                                                                                                                                                                                                                                                                                                    | Marcel Kurzmann                                                                                                                                                  |  |               |            | <a name="c2t28">                                                                                                                                                                                                                                                                                                                                                             |
@@ -113,6 +113,7 @@ Dr. Marco Möller is Co-founder and CEO of Pionix GmbH, an industry leader for E
 In addition, he serves as a Board member in the Linux Foundation Energy as well as the Open Charge Alliance.
 
 ## From Complexity to Clarity: Understanding your Software Product Health
+<sub>[go to schedule](#c2t27)</sub>
 
 ### Abstract:
 
@@ -137,6 +138,7 @@ OWASP projects and their potential use in your daily work.
 Sven Strittmatter is a software architect and security consultant at iteratec GmbH. He has been professionally developing software in an agile environment for around 20 years. He learned security “the hard way” at a very early stage. Since then he considers security as an essential part of software projects and helps teams to develop secure software with trainings, consulting and hands-on.
 
 ## Software Heritage - What a graph can tell your supply-chain about your software
+<sub>[go to schedule](#c1t20)</sub>
 
 ### Abstract:
 
@@ -148,6 +150,7 @@ Thomas Aynaud joined the Software Heritage team in January 2025 as CTO. Software
 Thomas obtained his Ph.D. from the Laboratoire d’Informatique de Paris 6 and has studied at the Ecole Normale Supérieur de Cachan. He has been working for 3 years for Criteo as software engineer, then for 4 years as a data scientist at Clustree and for 6 years as tech lead on several parts of the search engine backend at Qwant.
 
 ## Taming the SBOM Chaos: Using AI Agents for Audit SBOMs for OSS Compliance
+<sub>[go to schedule](#c2t08)</sub>
 
 ### Abstract:
 As Software Bill of Materials (SBOM) adoption grows, so does the complexity of managing, validating, and ensuring compliance with evolving regulatory frameworks. Many companies struggle with these challenges due to a lack of specialized in-house Subject Matter Experts (SMEs). This talk explores how AI-powered workflows, leveraging specialized models, can streamline compliance and audits. Attendees will gain insights into how AI agents can assist in automating SBOM analysis, reducing human workload, and enhancing compliance strategies in an increasingly regulated software landscape.
@@ -157,6 +160,7 @@ As Software Bill of Materials (SBOM) adoption grows, so does the complexity of m
 Oscar Valenzuela is a Principal Open Source Engineer at Amazon. He leads the license compliance team and defines technical strategies and tools to scale OSS compliance across the company.
 
 ## SBOM management at Mercedes-Benz
+<sub>[go to schedule](#c1t07)</sub>
 
 ### Abstract:
 With the **FOSS Disclosure Portal** we aim at a more efficient, digital, and transparent software supply chain regarding use of open source in our products and internal applications.
@@ -166,20 +170,22 @@ With the **FOSS Disclosure Portal** we aim at a more efficient, digital, and tra
 Aoileann Nic Chraith is the Process Owner for the FOSS Disclosure Process within Enterprise IT at Mercedes-Benz. In this role, she is responsible for the rollout of the FOSS Disclosure Portal together with a virtual and interdisciplinary team of colleagues from across the company. Prior to this position, she worked in Global Cyber Security and was a HR Pace-Maker for the Applicant Tracking System Rollout in Germany before that. When she’s not at work, her time is shared between her kids, trying to master the French language, and cycling off-road.
 
 ## REUSE - Crystal-clear licensing declaration for all use-cases
+<sub>[go to schedule](#c1t17)</sub>
 
-### Abstract
+### Abstract:
 
 A software project typically contains content under more than one license and from more than one copyright holder. This not only applies to Open Source projects but also to internal, proprietary projects in which Open Source parts can be mixed-in. Fortunately, with REUSE, there is a gold-standard for clarifying the licensing and copyright situation for a software project.
 
 In this session, we will look at REUSE from a company perspective. The audience will learn why REUSE is not only useful when using third-party Open Source projects, but also for internal projects as well as for Open Source published by an organisation. The presenter will share some real cases from Deutsche Bahn and beyond in which REUSE helped immensely.
 
-### Bio
+### Bio:
 
 Max Mehl has been dedicated to Open Source for many years, in various roles and contributing from different perspectives. He deals with all aspects of Open Source at Deutsche Bahn, Europe’s largest railway operator and infrastructure owner. In this role, he supports in both using and contributing to Open Source in a professional manner. Previously, he worked for the Free Software Foundation Europe (FSFE), where he coordinated initiatives such as “Public Money? Public Code!” and REUSE.
 
 ## First Steps With ORT: An EEF Experience
+<sub>[go to schedule](#c1t37)</sub>
 
-### Abstract
+### Abstract:
 
 Once upon a time, researchers at Ericsson developed Erlang/OTP,
 a programming language for the telecom industry. 39 years later,
@@ -214,6 +220,24 @@ Kiko also has Ph.D. from Uppsala University, Sweden.
 ## Project OCCTET.eu - the why, what and how
 <sub>[go to schedule](#c1t35)</sub>
 
-### Abstract
+### Abstract:
 
 The OCCTET project (Open Source Compliance Comprehensive Tools and Resources) is an EU-funded initiative aimed at improving cybersecurity and compliance with the Cyber Resilience Act (CRA) for Small and Medium Enterprises (SMEs). The project focuses on creating an open-source toolkit to automate the compliance process for Free and Open Source Software (FOSS) used in digital products.
+
+## Building open source management and SBOM process for embedded software - learn from Yocto Project
+<sub>[go to schedule](#c1t25)</sub>
+
+### Abstract:
+The Yocto Project is probably the most widespread approach to creating customized Linux distributions. Its strong focus on reproducibility from source inherently enable it to create Software Bills Of Material (SBOMs) with extremely high accuracy and granularity, even making it a driving force in creating and evaluating SPDX 3.0 in the context of a real application. 
+
+This presentation takes a quick tour through Yocto, what it does and does not do, and based upon that which features it offers for SBOM creation. 
+
+But just creating SBOMs is not enough. The challenge we see is: what to do with them? How to actually evaluate them? Lets discuss how we can move forwards here. 
+
+### Bio: 
+
+Josef has been active for more than 15 years as a "Complete"-Stack developer for industrial controls by now. He's done everything from debugging hardware to writing drivers, from application development to web front ends. 
+A passion for showing, telling, and teaching people in both entertaining and engaging ways led Josef to Mender.io. Here, he tries to make the world better and more secure by enabling OTA updates for as many devices as possible. 
+Taking this passion, combining it with a keen interest in building systems and how they can be brought to the next generation of developers, Josef has been awarded Ambassador status and is serving as Community Manager for the Yocto Project. 
+As such, Josef has also reached many thousands of aspiring developers not only through his presentations at various events and conferences but also by live coding sessions and webinars. 
+Josef holds a degree in Electrical Engineering / Computer Science from the University of Applied Sciences, Ingolstadt. 

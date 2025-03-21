@@ -124,6 +124,7 @@ Jan-Niclas Strüwer is a Research Associate and Business Developer at Fraunhofer
 In his PhD he focuses on automatically quantify and predicting cybersecurity risk. In his work as Business Developer, he focuses on bringing the technical results of his research into industry. There his focus is the Software Product Health Assistant (SPHA), a fully automated tool suite to assess and communicate a product’s overall health.
 
 ## OWASP® - much more than just OWASP Top 10
+<sub>[go to schedule](#c2t10)</sub>
 
 ### Abstract:
 

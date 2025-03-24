@@ -70,9 +70,6 @@ Venue 2<br>
 Bosch Digital | Lb079 (Halle 8) <br>
 Groenerstraße 5/1, 71636 <br>
 Ludwigsburg, Germany<br>
-Please use the entrance from the Schwieberdinger Straße - behind the petrol station. Address for the navigation is Schwieberdinger Str. 70/1, 71636 Ludwigsburg.<br>
-
-Bitte nutzen Sie den Eingang von der Schwieberdinger Straße - hinter der Tankstelle. Die Adresse fürs Navi ist Schwieberdinger Str. 70/1, 71636 Ludwigsburg
 
 # Program / Programm
 

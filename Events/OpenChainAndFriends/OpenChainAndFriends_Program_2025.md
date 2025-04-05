@@ -94,6 +94,7 @@ Please provide and discuss the topics for the Unconference / Hackathon on the To
 | <img width="100" src="https://avatars.githubusercontent.com/u/50915407?s=200&v=4">                                                                                                                     | ScanOSS                                        | https://github.com/scanoss                                |
 | <img width="100" src="https://www.softwareheritage.org/wp-content/uploads/2015/08/swh-logo.png">                                                                                                       | Software Heritage                              | https://www.softwareheritage.org/                         |
 | <img width="300" src="https://static.wixstatic.com/media/58b733_7c3656ab9ce84f92a8d80cf781032791~mv2.png/v1/fill/w_190,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Group%2023_edited.png"> | Software Transparency Foundation               | https://www.softwaretransparency.org/                     |
+| <img width="300" src="https://todogroup.org/img/todo-logo-on-white.svg"> | TODO Group               | https://todogroup.org/                    |
 | <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Yocto_Project_logo.svg/320px-Yocto_Project_logo.svg.png">                                                                         | Yocto Project                                  | https://www.yoctoproject.org/                             |
 
 

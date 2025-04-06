@@ -136,6 +136,10 @@ In addition, he serves as a Board member in the Linux Foundation Energy as well 
 ## From Complexity to Clarity: Understanding your Software Product Health
 <sub>[go to schedule](#c2t27)</sub>
 
+### Slides:
+
+[[OpenChain]FromComplexityToClarity.pdf]([OpenChain]FromComplexityToClarity.pdf)
+
 ### Abstract:
 
 In this talk we will first give an overview of the challenges in assessing and communicating the current state of a software product to different stakeholder. Therefore, we introduce the term of software product health, an aggregation of information about a product’s security, quality, sustainability, and compliance. Afterwards, we show how we have built the Software Product Health Assistant (SPHA) as an open-source tool to automatically assess a product’s health score and communicate it effectively to decision-makers while enabling developers to act upon the score.
@@ -182,6 +186,10 @@ Oscar Valenzuela is a Principal Open Source Engineer at Amazon. He leads the lic
 
 ## SBOM management at Mercedes-Benz
 <sub>[go to schedule](#c1t07)</sub>
+
+### Slides:
+
+[SBOM-Management-at-Mercedes-Benz.pdf](SBOM-Management-at-Mercedes-Benz.pdf)
 
 ### Abstract:
 With the **FOSS Disclosure Portal** we aim at a more efficient, digital, and transparent software supply chain regarding use of open source in our products and internal applications.
@@ -274,6 +282,10 @@ Dhansha Bai Lakhwani is a technology professional with a strong background in so
 
 ## Open Source as a strategic company task
 <sub>[go to schedule](#c2t11)</sub>
+
+### Slides:
+
+[20250407_Open-Source-as-strategic-company-task.pdf](20250407_Open-Source-as-strategic-company-task.pdf)
 
 ### Abstract:
 SAP has considered open source to be a strategic company task since a long time. Please join this talk to learn about our motivators for this strategy, how we organize both the consumption of and contribution to open source projects and how we’ve set up our Open Source Program Office (OSPO). In addition, you will get to know which are our focus areas in our work, both SAP-internally and in our communication with the open source community and beyond. Of course, the talk will also include learnings and best practices that can be applied by companies and organizations of all sizes.

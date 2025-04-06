@@ -123,6 +123,10 @@ Please provide and discuss the topics for the Unconference / Hackathon on the To
 ## The Business of Open Source: How PIONIX is Innovating EV Charging 
 <sub>[go to schedule](#c1t08)</sub>
 
+### Slides:
+
+[The Business of Open Source: How PIONIX is Innovating EV Charging.pdf](https://1drv.ms/b/s!AmKXo-n99fQEpR4ZJVf6aE5a5PGz?e=smbybg)
+
 ### Abstract:
 
 This talk will provide a concise overview of the EV charging ecosystem, highlighting the challenges it faces and why open source solutions are crucial for its advancement. 
@@ -164,6 +168,10 @@ Sven Strittmatter is a software architect and security consultant at iteratec Gm
 
 ## Software Heritage - What a graph can tell your supply-chain about your software
 <sub>[go to schedule](#c1t20)</sub>
+
+### Slides:
+
+[Software-Heritage-presentation.pdf](https://1drv.ms/b/s!AmKXo-n99fQEpR9suK-WHnqdewc6?e=NDLRJ4)
 
 ### Abstract:
 

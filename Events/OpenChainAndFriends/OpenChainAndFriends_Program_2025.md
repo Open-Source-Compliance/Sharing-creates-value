@@ -185,6 +185,10 @@ Thomas obtained his Ph.D. from the Laboratoire d’Informatique de Paris 6 and h
 ## Taming the SBOM Chaos: Using AI Agents for Audit SBOMs for OSS Compliance
 <sub>[go to schedule](#c2t08)</sub>
 
+### Resources:
+
+[https://github.com/oscarvalenzuelab/sbom_analysis_using_agentic](https://github.com/oscarvalenzuelab/sbom_analysis_using_agentic)
+
 ### Abstract:
 As Software Bill of Materials (SBOM) adoption grows, so does the complexity of managing, validating, and ensuring compliance with evolving regulatory frameworks. Many companies struggle with these challenges due to a lack of specialized in-house Subject Matter Experts (SMEs). This talk explores how AI-powered workflows, leveraging specialized models, can streamline compliance and audits. Attendees will gain insights into how AI agents can assist in automating SBOM analysis, reducing human workload, and enhancing compliance strategies in an increasingly regulated software landscape.
 

@@ -187,6 +187,7 @@ Thomas obtained his Ph.D. from the Laboratoire d’Informatique de Paris 6 and h
 
 ### Resources:
 
+[https://ovalenzuela.com/2025/04/ai-agents-the-missing-piece-in-sbom-compliance.html](https://ovalenzuela.com/2025/04/ai-agents-the-missing-piece-in-sbom-compliance.html)
 [https://github.com/oscarvalenzuelab/sbom_analysis_using_agentic](https://github.com/oscarvalenzuelab/sbom_analysis_using_agentic)
 
 ### Abstract:

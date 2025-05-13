@@ -315,6 +315,10 @@ Helio Chissini de Castro has 25 years of open source experience in multiple area
 ## How to use open source tools and open data to automate and secure your software supply chains
 <sub>[go to schedule](#c2t22)</sub>
 
+### Slides:
+
+[AboutCode-OpenChainAndFriends_04.2025-v2.pdf](AboutCode-OpenChainAndFriends_04.2025-v2.pdf)
+
 ### Abstract:
 Managing open source components – especially their origin, licensing, and security – is a critical part of the Software Composition Analysis (SCA) process. SCA is now a prerequisite for modern organizations to comply with the EU Cyber Resilience Act (CRA) and other regulations, but also critically strengthens software supply chain security.
 

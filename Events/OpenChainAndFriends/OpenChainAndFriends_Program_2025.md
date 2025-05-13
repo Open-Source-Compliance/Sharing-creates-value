@@ -274,6 +274,10 @@ Kiko also has Ph.D. from Uppsala University, Sweden.
 ## Project OCCTET.eu - the why, what and how
 <sub>[go to schedule](#c1t35)</sub>
 
+### Slides:
+
+[Occtet OpenChain Friends 2025_v3.pdf](Occtet%20OpenChain%20Friends%202025_v3.pdf)
+
 ### Abstract:
 
 The OCCTET project (Open Source Compliance Comprehensive Tools and Resources) is an EU-funded initiative aimed at improving cybersecurity and compliance with the Cyber Resilience Act (CRA) for Small and Medium Enterprises (SMEs). The project focuses on creating an open-source toolkit to automate the compliance process for Free and Open Source Software (FOSS) used in digital products.

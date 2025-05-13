@@ -142,7 +142,7 @@ In addition, he serves as a Board member in the Linux Foundation Energy as well 
 
 ### Slides:
 
-[[OpenChain]FromComplexityToClarity.pdf]([OpenChain]FromComplexityToClarity.pdf)
+[OpenChain_FromComplexityToClarity.pdf](OpenChain_FromComplexityToClarity.pdf)
 
 ### Abstract:
 

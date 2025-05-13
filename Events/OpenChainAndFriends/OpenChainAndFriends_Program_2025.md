@@ -118,7 +118,7 @@ Please provide and discuss the topics for the Unconference / Hackathon on the To
 | **Eclipse Apoapsis - progress report on ORT Server**                                                                                                                                                        | Martin Nonnenmacher (Bosch)                                            |
 | **[How we are doing compliance at CARIAD with ORT](#how-we-are-doing-compliance-at-cariad-with-ort)**                                                                                                       | Helio Chissini de Castro (Cariad)                                      |
 | **[Project OCCTET.eu - the why, what and how](#project-occteteu---the-why-what-and-how)**                                                                                                                   | Andreas Kotulla<br/><br/>Martin von Willebrand                         |
-| **[First Steps With ORT: An EEF Experience](*first-steps-with-ort-an-eef-experience)**                                                                                                                      | Kiko Fernández (Ericsson, Online talk)                                 |
+| **[First Steps With ORT: An EEF Experience](#first-steps-with-ort-an-eef-experience)**                                                                                                                      | Kiko Fernández (Ericsson, Online talk)                                 |
 
 ## The Business of Open Source: How PIONIX is Innovating EV Charging 
 <sub>[go to schedule](#c1t08)</sub>
@@ -280,6 +280,10 @@ The OCCTET project (Open Source Compliance Comprehensive Tools and Resources) is
 
 ## Building open source management and SBOM process for embedded software - learn from Yocto Project
 <sub>[go to schedule](#c1t25)</sub>
+
+### Slides:
+
+[OpenChain and friends 2025-04-08 - Building open source management and SBOM process for embedded software - learn from Yocto Project.pdf](OpenChain%20and%20friends%202025-04-08%20-%20Building%20open%20source%20management%20and%20SBOM%20process%20for%20embedded%20software%20-%20learn%20from%20Yocto%20Project.pdf)
 
 ### Abstract:
 The Yocto Project is probably the most widespread approach to creating customized Linux distributions. Its strong focus on reproducibility from source inherently enable it to create Software Bills Of Material (SBOMs) with extremely high accuracy and granularity, even making it a driving force in creating and evaluating SPDX 3.0 in the context of a real application. 

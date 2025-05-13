@@ -303,6 +303,10 @@ Josef holds a degree in Electrical Engineering / Computer Science from the Unive
 ## Why Flutter is Gaining Popularity in Software Development and the Automotive Industry
 <sub>[go to schedule](#c1t24)</sub>
 
+### Slides:
+
+[Flutter.pdf](Flutter.pdf)
+
 ### Abstract: 
 Explore Flutter's transformative impact on software development and the automotive industry. This talk highlights Flutter’s efficient single codebase, exceptional performance, and intuitive UI design, featuring practical examples from industry leaders like BMW and Toyota. Gain valuable insights into the trends driving Flutter's integration across industries and how it is setting new benchmarks for digital innovation.  
 

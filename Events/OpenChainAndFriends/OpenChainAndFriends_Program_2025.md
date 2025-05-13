@@ -156,6 +156,10 @@ In his PhD he focuses on automatically quantify and predicting cybersecurity ris
 ## OWASP® - much more than just OWASP Top 10
 <sub>[go to schedule](#c2t10)</sub>
 
+### Slides: 
+
+[2025-04-07_OWASP_Much_More_Than_Just_OWASP_Top_10.pdf](https://owasp.org/www-chapter-stuttgart/assets/slides/2025-04-07_OWASP_Much_More_Than_Just_OWASP_Top_10.pdf)
+
 ### Abstract:
 
 OWASP is famous for the OWASP Top 10. This session will explain why

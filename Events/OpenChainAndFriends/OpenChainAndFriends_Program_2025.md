@@ -235,6 +235,10 @@ Max Mehl has been dedicated to Open Source for many years, in various roles and 
 ## First Steps With ORT: An EEF Experience
 <sub>[go to schedule](#c1t37)</sub>
 
+### Slides:
+
+[EEF-Experience.pdf](EEF-Experience.pdf)
+
 ### Abstract:
 
 Once upon a time, researchers at Ericsson developed Erlang/OTP,

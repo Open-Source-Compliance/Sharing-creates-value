@@ -218,6 +218,10 @@ Aoileann Nic Chraith is the Process Owner for the FOSS Disclosure Process within
 ## REUSE - Crystal-clear licensing declaration for all use-cases
 <sub>[go to schedule](#c1t17)</sub>
 
+### Slides:
+
+[2025-04-08-reuse.pdf](2025-04-08-reuse.pdf)
+
 ### Abstract:
 
 A software project typically contains content under more than one license and from more than one copyright holder. This not only applies to Open Source projects but also to internal, proprietary projects in which Open Source parts can be mixed-in. Fortunately, with REUSE, there is a gold-standard for clarifying the licensing and copyright situation for a software project.

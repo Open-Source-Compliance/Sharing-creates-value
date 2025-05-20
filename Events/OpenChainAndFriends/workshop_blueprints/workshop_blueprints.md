@@ -20,3 +20,6 @@ Group 1:
 
 Group 2:
 ![Blueprints Group 2](blueprints_group2.jfif)
+
+Next step:
+- incorporation of the results in https://eclipse-apoapsis.github.io/guidance/docs/part_B_software_management/ 

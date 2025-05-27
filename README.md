@@ -41,7 +41,7 @@ The most easiest way is to join one or more of our communication channels:
 
 * [ACT](https://www.linuxfoundation.org/press-release/2019/12/the-linux-foundations-automated-compliance-work-garners-new-funding-advances-tools-development/) 
 * [ClearlyDefined](https://docs.clearlydefined.io/)
-* [Double open](https://www.doubleopen.org/)
+* [Double Open](https://www.doubleopen.org/)
 * [OpenChain](https://wiki.linuxfoundation.org/openchain/start) 
 * [Open Compliance Program](https://compliance.linuxfoundation.org/)
 * [Open Source License Checklists by OSADL eG](https://www.osadl.org/Access-to-raw-data.oss-compliance-raw-data-access.0.html)

@@ -187,6 +187,18 @@ FOSSLight is an integrated system that can efficiently process the open source c
 * Compliance Hub: You can manage everything about open source compliance such as license, oss, vulnerability and others.
 * Scalability´: It can be used with additional features (including FOSSLight scanner or other plugins).
 
+## Hermine
+**Website:**[Hermine](https://hermine-foss.org/)<br>
+**Main License:**
+[AGPL-3.0 and others](https://www.gnu.org/licenses/agpl-3.0.en.html)<br>
+**Summary:**<br>
+Hermine is an Open Source project empowering legal teams to define context aware FOSS license policies, and making it easier for compliance officers/product managers to apply them to their SBOMs.
+
+Hermine presents you with a framework to better understand FOSS licences and extract from each the obligations it requires. 
+
+It helps you build a context-aware licence policy, taylored to your organisation specific needs.
+It makes it easy to automatically apply those to your SBOM in various formats (SPDX, CycloneDX, ORT) and memorise your decisions to help you focus only on release-specific issues. 
+
 ## LDBCollector
 **Website:**
 [LDBcollector](https://github.com/maxhbr/LDBcollector)<br>

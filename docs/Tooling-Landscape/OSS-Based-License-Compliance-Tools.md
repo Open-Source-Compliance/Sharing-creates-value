@@ -88,17 +88,29 @@ Barista admins determine which obligation(s) are associated with each license de
 _Cloud Native Architecture_<br>
 Barista is designed for cloud native deployment environments allowing hosting flexibility and scalability on demand.
 
+
 ## Bubbly
 **Website:**        [Bubbly](https://github.com/valocode/bubbly/)<br>
 **Main License:**   [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/)<br>
 **Summary:**<br>
 Bubbly is a release readiness platform helping software teams release compliant software with confidence. Gain visibility into your release process with reports and analytics to lower risk, increase quality, reduce cycle time and drive continuous improvement.
 
+
+## CallGraph
+**Website:**        [CallGraph](https://github.com/koknat/callGraph)<br>
+**Main License:**   [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)<br>
+**Summary:**<br>
+Callgpraph is a multi-language tool which parses source code for function definitions and calls.'callGraph' parses source code for function definitions and calls, generates a call graph image, and displays it on screen.
+Supported languages are: awk, bash, basic, dart, fortran, go, lua, javascript, julia, kotlin, matlab, perl, pascal, php, python, R, raku, ruby, rust, scala, swift, and tcl.
+c/c++/java are not supported, since their complex and varied syntax requires heavy machinery.
+
+
 ## CLA Assistant
 **Website:**        [CLA Assistant](https://github.com/cla-assistant/cla-assistant)<br>
 **Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>
 **Summary:**<br>
-CLA Assistant helps to handle the legal side of contributions to a repository by enabling contributors to sign Contributor License Agreements (CLAs) from within a pull request. The CLA can be stored as a GitHub Gist file and then linked with the repository/organisation in CLA Assistant. Repository owners can review a list of users who signed the CLA for each version of it.  
+CLA Assistant helps to handle the legal side of contributions to a repository by enabling contributors to sign Contributor License Agreements (CLAs) from within a pull request. The CLA can be stored as a GitHub Gist file and then linked with the repository/organisation in CLA Assistant. Repository owners can review a list of users who signed the CLA for each version of it.
+
 
 ## Cregit
 **Website:**
@@ -118,6 +130,15 @@ Cregit identifies the contributors of source code. The cregit version of a sourc
 * Left-click on a token will open a new window with the details of the commit (in github). You can keep this window open and it will keep reloading the files.
 
 
+## CycloneDX CLI Tool
+**Website:**        [CycloneDX CLI Tool](https://github.com/CycloneDX/cyclonedx-cli)<br>
+**Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>
+**Summary:**<br>
+CycloneDX CLI tool for SBOM analysis, merging, diffs and format conversions. The CycloneDX CLI tool currently supports BOM analysis, modification, diffing, merging, format conversion, signing and verification.
+
+Conversion is supported between CycloneDX XML, JSON, Protobuf, CSV, and SPDX JSON v2.2.
+
+
 ## TrustSource DeepScan
 **Website:**
 [TrustSource DeepScan](https://deepscan.trustsource.io/ )<br>
@@ -127,6 +148,7 @@ Cregit identifies the contributors of source code. The cregit version of a sourc
 **Summary:**<br>
 DeepScan is a Python based command line tool - also available as free SaaS - that supports the analysis of files and complete git repositories for license information and copyrihgt information. All texts inside the repository will be scanned and compared to well known license texts. All sorts of copyright information will be collected. The findings are captured in a JSON structure and can either be written to disc or transferred to TrustSource.io for further use in the TrustSource SaaS-platform. The https://deepscan.trustsource.io provides a free to use UI to browse and work with the findings.
 
+
 ## Dejacode
 **Website:**
 [Dejacode](https://github.com/nexB/dejacode)<br>
@@ -134,6 +156,7 @@ DeepScan is a Python based command line tool - also available as free SaaS - tha
 [AGPL-3.0](https://github.com/nexB/dejacode/blob/main/LICENSE)<br>
 **Summary:**<br>
 Automate open source license compliance and ensure software supply chain integrity.
+
 
 ## Deltacode
 **Website:**
@@ -143,7 +166,23 @@ Automate open source license compliance and ensure software supply chain integri
 **Summary:**<br>
 DeltaCode allows you to easily compare ScanCode scans for two versions of a package, component, codebase or product in order to quickly identify possible changes with a focus on identifying license changes. DeltaCode reports matching files with a score and a list of factors that contribute to that score. 
 
-You can use DeltaCode with ScanCode to identify and track license and related changes in open source or third party software packages or components from release to release. 
+You can use DeltaCode with ScanCode to identify and track license and related changes in open source or third party software packages or components from release to release.
+
+
+## Dependency-Track
+**Website:**        [Dependency-Track](https://github.com/DependencyTrack/dependency-track)<br>
+**Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>
+**Summary:**<br>
+Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. Dependency-Track takes a unique and highly beneficial approach by leveraging the capabilities of Software Bill of Materials (SBOM). This approach provides capabilities that traditional Software Composition Analysis (SCA) solutions cannot achieve.
+
+Dependency-Track monitors component usage across all versions of every application in its portfolio in order to proactively identify risk across an organization. The platform has an API-first design and is ideal for use in CI/CD environments.
+
+
+## Dep-Scan
+**Website:**        [Dep-Scan](https://github.com/owasp-dep-scan/dep-scan)<br>
+**Main License:**   [MIT](https://opensource.org/licenses/MIT)<br>
+**Summary:**<br>
+OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container images are supported as the input, and the tool is ideal for integration with ASPM/VM platforms and in CI environments.
 
 
 ## Eclipse SW360
@@ -162,12 +201,14 @@ A software catalogue application designed to provide a central place for sharing
 **Summary:**<br>
 FOSS License Compatibility Tool (flict) is a Free and Open Source Software tool to verify license compatibility for a package and its dependencies. You can use the tool to automate license compatibility verification in your compliance work flow.
 
+
 flict can:
 * verify licenses compatibilty for license expression and a packages and its dependencies
 * suggest candidate outbound licenses
 * simplify license expressions
 * display, in misc format, compatibilies between licenses
 * check outbound licenses against a policy (policy as supplied by the user)
+
 
 ## Fossology
 **Website:**[Fossology](https://www.fossology.org/ )<br>
@@ -187,6 +228,7 @@ FOSSLight is an integrated system that can efficiently process the open source c
 * Compliance Hub: You can manage everything about open source compliance such as license, oss, vulnerability and others.
 * Scalability´: It can be used with additional features (including FOSSLight scanner or other plugins).
 
+
 ## Hermine
 **Website:**[Hermine](https://hermine-foss.org/)<br>
 **Main License:**
@@ -198,6 +240,7 @@ Hermine presents you with a framework to better understand FOSS licences and ext
 
 It helps you build a context-aware licence policy, taylored to your organisation specific needs.
 It makes it easy to automatically apply those to your SBOM in various formats (SPDX, CycloneDX, ORT) and memorise your decisions to help you focus only on release-specific issues. 
+
 
 ## LDBCollector
 **Website:**
@@ -257,6 +300,7 @@ OSS Attribution Builder is a website that helps teams create attribution documen
 **Summary:**<br>
 OSS Discovery finds the open source software embedded in applications and installed on computers. It is a scanning tool, which gives human readable and machine readable results.
 
+
 ## OSSelot
 **Website:**
 [OSSelot](https://www.osselot.org/index.php)<br>
@@ -288,6 +332,13 @@ Verifies free and open source software license compliance by checking source cod
 OSSPolice is a risk assessment service for developers that can quickly identify potential free software license violations and known n-day security vulnerabilities in their apps. 
 
 
+## Renovate
+**Website:**        [Renovate](https://github.com/renovatebot/renovate)<br>
+**Main License:**   [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.txt)<br>
+**Summary:**<br>
+Renovate is an automated dependency update tool by Mend.io. It helps to update dependencies in your code without needing to do it manually. When Renovate runs on your repo, it looks for references to dependencies (both public and private) and, if there are newer versions available, Renovate can create pull requests to update your versions automatically.
+
+
 ## REUSE
 **Website:**
 [REUSE](https://reuse.software)<br>
@@ -295,6 +346,14 @@ OSSPolice is a risk assessment service for developers that can quickly identify 
 [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)<br>
 **Summary:**<br>
 REUSE is a set of best practices and tools to simplify licensing and copyright. Instead of fixing licensing problems and uncertainties after they have been created, REUSE helps programmers to add the necessary information during development. A low-threshold helper tool helps with adding license/copyright headers and linting the current status, and can easily be integrated in CI/CD pipelines. The REUSE API can check public repositories automatically and generate a dynamic badge. Furthermore, REUSE provides a tutorial and an extensive FAQ that does not only help with the best practices per se, but also brings developers up to speed on more general questions on licensing and copyright.
+
+
+## SBOMQS
+**Website:**        [SBOMQS](https://github.com/interlynk-io/sbomqs)<br>
+**Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>
+**Summary:**<br>
+SBOMQS is your primary tool to assess an SBOM's quality and compliance. The higher the score the more consumable & compliant your SBOMs are.
+
 
 ## ScanCode.io and ScanPipe
 **Website:**
@@ -307,6 +366,7 @@ ScanCode.io is a server to script and automate the process of Software Compositi
 ScanPipe is a developer-friendly framework and application that helps software analysts and engineers build and manage real-life software composition analysis projects as scripted pipelines.
 
 ScanPipe provides a unified framework to the infrastructure that is required to execute and organize these software composition analysis projects.
+
 
 ## ScanCode Toolkit
 **Website:**
@@ -355,6 +415,13 @@ The following functions are available:
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)<br>
 **Summary:**<br>
 SPDX Maven Plugin is a plugin to Maven which produces Software Package Data Exchange (SPDX) documents for artifacts described in the POM file. 
+
+
+## Syft
+**Website:**        [Syft](https://github.com/anchore/syft)<br>
+**Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>
+**Summary:**<br>
+A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. Exceptional for vulnerability detection when used with a scanner like Grype.
 
 
 ## TraceCode toolkit

@@ -239,6 +239,11 @@ Max Mehl has been dedicated to Open Source for many years, in various roles and 
 
 [EEF-Experience.pdf](EEF-Experience.pdf)
 
+### Webinar/Recording: 
+
+28.5.2025
+[https://openchainproject.org/news/2025/05/28/ort-and-eef-webinar](https://openchainproject.org/news/2025/05/28/ort-and-eef-webinar)
+
 ### Abstract:
 
 Once upon a time, researchers at Ericsson developed Erlang/OTP,

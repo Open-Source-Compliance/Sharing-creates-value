@@ -16,12 +16,23 @@ Ideally the upstream is maintained by the „stewards“ of the respective langu
 
 ## Benefit
 A. Tool communities could use the Dummies to test against them => „golden repositories“ (in relation to „golden files“ e.g. https://medium.com/@jarifibrahim/golden-files-why-you-should-use-them-47087ec994bf )
+
 B. Establish standardized processing independent from the technology
 
-# Overview of existing dummy repositories
-- GO-Dummy: https://github.com/Open-Source-Compliance/Go-Dummy
-- JAVA_Maven-Dummy: https://github.com/Open-Source-Compliance/JAVA_Maven-Dummy
+C. The Test-Cases from [TDOSCA](https://github.com/Open-Source-Compliance/tdosca) and [OSCake](https://github.com/Open-Source-Compliance/OSCake/tree/main/examples) could be consolidated in the Dummy-Repositories and reused for different languages.
 
+# Overview of existing and planned dummy repositories
+- C/C++-Dummy: tbd
+- CSharp/DotNet-Dummy: tbd
+- GO-Dummy: https://github.com/Open-Source-Compliance/Go-Dummy
+- Haskell-Dummy: tbd
+- JAVA_Maven-Dummy: https://github.com/Open-Source-Compliance/JAVA_Maven-Dummy
+- Javascript-NPM-Dummy: https://github.com/Open-Source-Compliance/Javascript_NPM-Dummy
+- Objective-C/Swift-Dummy: tbd
+- PHP-Dummy: tbd
+- Python-Dummy: tbd
+- Rust-Dummy: tbd
+- Scala-Dummy: tbd
 
 # Dummy handling and maintenance
 ## Dummy repository standard setup

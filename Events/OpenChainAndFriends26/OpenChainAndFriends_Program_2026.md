@@ -20,6 +20,9 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
     *	rooms for community organized events, unconference, maybe Hackathons?
     *	“We provide the stage, you provide the topics”
 
+Please note: as with everything in the OpenChain Project, this event belongs to the community. Our schedule is created in collaboration with the people who will attend, and therefore you should feel free to make suggestions:
+[Topic_backlog.md](Topic_backlog.md)
+
 ## Impressions from 2025
 - LinkedIn: [#openchainandfriends](https://www.linkedin.com/search/results/all/?keywords=%23openchainandfriends)
 - OpenSource.bosch.com [OpenChain & Friends: Stuttgart Success](https://opensource.bosch.com/stories/openchain-event-and-eastern-europe-initiative/)

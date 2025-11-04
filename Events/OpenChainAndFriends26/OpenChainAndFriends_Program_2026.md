@@ -1,3 +1,4 @@
+![Open Source in Stuttgart](openchainandfriends2025small.jpg)
 # OpenChain and Friends 2026 – An Open Source Management and Community Event
 ### #openchainandfriends
 

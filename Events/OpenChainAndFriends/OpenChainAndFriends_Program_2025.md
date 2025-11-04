@@ -5,6 +5,10 @@
 - [Communities collaborating](#communities-collaborating)
 - [Abstracts and bios](#abstracts-and-bios)
 
+# Impressions from 2025
+- LinkedIn: [#openchainandfriends](https://www.linkedin.com/search/results/all/?keywords=%23openchainandfriends)
+- OpenSource.bosch.com [OpenChain & Friends: Stuttgart Success](https://opensource.bosch.com/stories/openchain-event-and-eastern-europe-initiative/)
+
 # Program
 ## Day 1
 

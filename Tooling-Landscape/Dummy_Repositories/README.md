@@ -23,14 +23,14 @@ C. The Test-Cases from [TDOSCA](https://github.com/Open-Source-Compliance/tdosca
 
 # Overview of existing and planned dummy repositories
 - C/C++-Dummy: tbd
-- CSharp/DotNet-Dummy: tbd
+- CSharp/DotNet-Dummy: [tbd](https://github.com/Open-Source-Compliance/Sharing-creates-value/issues/132)
 - GO-Dummy: https://github.com/Open-Source-Compliance/Go-Dummy
 - Haskell-Dummy: tbd
 - JAVA_Maven-Dummy: https://github.com/Open-Source-Compliance/JAVA_Maven-Dummy
 - Javascript-NPM-Dummy: https://github.com/Open-Source-Compliance/Javascript_NPM-Dummy
-- Objective-C/Swift-Dummy: tbd
+- Objective-C/Swift-Dummy: [tbd](https://github.com/Open-Source-Compliance/Sharing-creates-value/issues/133)
 - PHP-Dummy: tbd
-- Python-Dummy: tbd
+- Python-Dummy: [tbd](https://github.com/Open-Source-Compliance/Sharing-creates-value/issues/129)
 - Rust-Dummy: tbd
 - Scala-Dummy: tbd
 

@@ -179,7 +179,7 @@ Sven Strittmatter is a software architect and security consultant at iteratec Gm
 
 ### Slides:
 
-[Software-Heritage-presentation.pdf](https://1drv.ms/b/s!AmKXo-n99fQEpR9suK-WHnqdewc6?e=NDLRJ4)
+[Software-Heritage-presentation.pdf](Software-Heritage-presentation.pdf)
 
 ### Abstract:
 

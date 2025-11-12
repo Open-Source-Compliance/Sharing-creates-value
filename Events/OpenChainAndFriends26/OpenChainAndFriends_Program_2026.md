@@ -11,7 +11,7 @@ Save-the-date:
 **in Stuttgart**
  
 
-Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württemberg – along the motto “Supply Chain (Chances and) Risk Management” and beyond.
+Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württemberg - together with [The FOSS-LÄND Community](https://github.com/the-foss-laend) – along the motto “Supply Chain (Chances and) Risk Management” and beyond.
 
 -	Tuesday, march 24th 2026
     *	main event day including marketplace -  probably in Stuttgart Feuerbach,

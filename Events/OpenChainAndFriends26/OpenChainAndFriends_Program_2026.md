@@ -4,24 +4,32 @@
 
 Save-the-date:
 
-**Tuesday, march 24th to Thursday 26th of march 2026**
- 
-**24.3.-26.3.2026**
- 
-**in Stuttgart**
+**Tuesday, march 24th to Thursday 26th of march 2026**    
+**24.3.-26.3.2026**     
+**in Stuttgart**    
  
 
 Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württemberg - together with [The FOSS-LÄND Community](https://github.com/the-foss-laend) – along the motto “Supply Chain (Chances and) Risk Management” and beyond.
 
 -	Tuesday, march 24th 2026
-    *	main event day including marketplace -  probably in Stuttgart Feuerbach,
+    *	main event day including marketplace
+    *	Stuttgart Feuerbach,
     *	socializing event in the evening
 -	Wednesday / Thursday, march 25th / 26th 2026
     *	rooms for community organized events, unconference, maybe Hackathons?
+    *	Stuttgart Feuerbach + Vaihingen + Ludwigsburg
     *	“We provide the stage, you provide the topics”
 
-Please note: as with everything in the OpenChain Project, this event belongs to the community. Our schedule is created in collaboration with the people who will attend, and therefore you should feel free to make suggestions:
-[Topic_backlog.md](Topic_backlog.md)
+*Please note: as with everything in the OpenChain Project, this event belongs to the community. Our schedule is created in collaboration with the people who will attend, and therefore you should feel free to make suggestions:
+[Topic_backlog.md](Topic_backlog.md)*
+
+## Topic streams confirmed as of 4.12.2025
+### Artifical Intelligence
+### Cybersecurity
+### Open Source Compliance and OSPO-topics
+### Women in Open Source
+### EmbeddedSW and OpenHW
+*further topics in clarification and still open for proposals!*
 
 ## Impressions from 2025
 - LinkedIn: [#openchainandfriends](https://www.linkedin.com/search/results/all/?keywords=%23openchainandfriends)

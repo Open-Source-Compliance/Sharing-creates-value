@@ -25,6 +25,12 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 
 ## Topic streams confirmed as of 4.12.2025
 ### Artifical Intelligence
+*The topic stream AI will cover at least the following aspects:*
+1.	***AI Systems Engineering**: methodology and open source tools to ensure a systematic engineering for the development and operation of AI systems, especially in complex technical and environments. Background information at https://www.ki-engineering.eu/en/know-how-tools.html .*
+2.	***AI data platform**: open platform and open source tools for the search for and retrieval of AI assets (datasets and AI models). Ideas at  https://github.com/KI-Allianz .*
+3.	***Open AI agents** for resilient and sustainable supply chains, e.g., Manufacturing as a Service (MaaS) as elaborated in the project Factory-X, see https://www.iosb.fraunhofer.de/en/projects-and-products/factory-x.html#1326726683 .*
+4.	***AI SBOMs and Guidance**: https://openchainproject.org/news/2025/10/20/welcoming-the-openchain-ai-system-bill-of-materials-compliance-guide*
+
 ### Cybersecurity
 ### Open Source Compliance and OSPO-topics
 ### Women in Open Source

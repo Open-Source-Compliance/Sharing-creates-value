@@ -35,8 +35,8 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 ### Open Source Compliance and OSPO-topics
 *The topic stream Open Source Compliance and OSPOs will cover the following aspects:*
 1.	***Building and Scaling OSPOs**: methodologies, best practices, and organizational patterns for establishing and maturing Open Source Program Offices to support strategic open-source adoption and collaboration.*
-2.	***Compliance Processes and Tooling**: open source tools, automation approaches, and governance workflows to ensure license compliance, security readiness, and transparent software supply chain management.*
-3.	***Real-World Implementations**: rea life examples for community or company driven initiatives demonstrating how effective OSPO governance enables innovation, reduces risk, and strengthens responsible open source participation across industries.*
+2.	***Compliance Processes and Tooling**: open source tools, automation approaches, and governance workflows to ensure license compliance, security readiness, and transparent software supply chain management including recent non-functional requirements (NFR) from regulations (e.g. CRA,...).*
+3.	***Real-World Implementations**: real life examples for community or company driven initiatives demonstrating how effective OSPO governance enables innovation, reduces risk, and strengthens responsible open source participation across industries.*
 
 ### Women in Open Source
 ### EmbeddedSW and OpenHW

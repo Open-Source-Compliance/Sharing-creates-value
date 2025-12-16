@@ -39,7 +39,7 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 3.	***Real-World Implementations**: real life examples for community or company driven initiatives demonstrating how effective OSPO governance enables innovation, reduces risk, and strengthens responsible open source participation across industries.*
 
 ### Women in Open Source
-### EmbeddedSW and OpenHW
+### Embedded and OpenHW
 *further topics in clarification and still open for proposals!*
 
 ## Impressions from 2025

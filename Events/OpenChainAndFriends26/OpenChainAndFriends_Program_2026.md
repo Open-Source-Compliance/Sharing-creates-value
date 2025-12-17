@@ -32,11 +32,11 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 4.	***AI SBOMs and Guidance**: https://openchainproject.org/news/2025/10/20/welcoming-the-openchain-ai-system-bill-of-materials-compliance-guide*
 
 ### Cybersecurity
-*The topic stream Cybersecurity will cover at least the following aspects:*
-*Good Practice Sharing and Discussions about CyberSecurity challenges in the Software Supply Chain around new technologies like AgenticAI, regulations like CRA, SBOM requirements,... and how the ISO18974 can help organizations to prepare for it.*
+*The topic stream Cybersecurity will cover at least the following aspects:*    
+*Good Practice Sharing and Discussions about CyberSecurity challenges in the Software Supply Chain around new technologies like AgenticAI, regulations like CRA, SBOM requirements,... and how the ISO18974 and the OpenChain SBOM Workgroup can help organizations to prepare for it.*
 
 ### Open Source Compliance and OSPO-topics
-*The topic stream Open Source Compliance and OSPOs will cover the following aspects:*
+*The topic stream Open Source Compliance and OSPOs will cover the following aspects:*    
 1.	***Building and Scaling OSPOs**: methodologies, best practices, and organizational patterns for establishing and maturing Open Source Program Offices to support strategic open-source adoption and collaboration.*
 2.	***Compliance Processes and Tooling**: open source tools, automation approaches, and governance workflows to ensure license compliance, security readiness, and transparent software supply chain management including recent non-functional requirements (NFR) from regulations (e.g. CRA,...).*
 3.	***Real-World Implementations**: real life examples for community or company driven initiatives demonstrating how effective OSPO governance enables innovation, reduces risk, and strengthens responsible open source participation across industries.*
@@ -45,20 +45,20 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 *The topic stream Women in Open Source will prepare a women network meeting and will additionally contribute expertise in all other topic streams.*
 
 ### Embedded and OpenHW
-*The topic stream Embedded and OpenHW will cover the following aspects:*
+*The topic stream Embedded and OpenHW will cover the following aspects:*    
 *Good practice sharing around Open Source for designing Hardware, OpenHW approaches and respective technologies combined with discussions about how those can be leveraged for business opportunities for small- and medium-sized enterprises.*
 
 ### Digital Sovereignty and Open Source in Business
-*The topic stream Digital Sovereignty and Open Source in Business will cover the following aspects:*
+*The topic stream Digital Sovereignty and Open Source in Business will cover the following aspects:*    
 *Open Source as competitive factor in the business of private sector companies, collaboration opportunities between private and public sector and the status of the collaboratively developed Open Source in Business Guide.*  
 
 ### Education
-*The topic stream Education will cover the following aspects:*
+*The topic stream Education will cover the following aspects:*    
 *Overview and status of public available Open Source training material and workshop to work on the next generation of trainings including new presentation technologies, new areas and publicly available Open Source infrastructure and simulations.*
 
 ### Automotive / SDV
-*The topic stream Automotive and SDV will cover the following aspects:*
-*[The Automotive Collection](https://github.com/ariexi/the-automotive-collection) and deep-dives in specific projects with interesting supply-chain aspects and business opportunities for small- and medium-sized enterprieses.*
+*The topic stream Automotive and SDV will cover the following aspects:*    
+*[The Automotive Collection](https://github.com/ariexi/the-automotive-collection) and deep-dives in specific projects with interesting supply-chain aspects,   business opportunities for small- and medium-sized enterprises around them and topics from the last [OpenChain Automotive Workgroup meeting](https://github.com/OpenChain-Project/Automotive-WG/blob/main/2025-11-workshop-agenda.md) like Automotive SBOM activities.*
 
 *further topics in clarification and still open for proposals!*
 

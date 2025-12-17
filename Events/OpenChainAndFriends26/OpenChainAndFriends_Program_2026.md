@@ -23,7 +23,7 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 *Please note: as with everything in the OpenChain Project, this event belongs to the community. Our schedule is created in collaboration with the people who will attend, and therefore you should feel free to make suggestions:
 [Topic_backlog.md](Topic_backlog.md)*
 
-## Topic streams confirmed as of 4.12.2025
+## Topic streams confirmed as of 17.12.2025
 ### Artifical Intelligence
 *The topic stream AI will cover at least the following aspects:*
 1.	***AI Systems Engineering**: methodology and open source tools to ensure a systematic engineering for the development and operation of AI systems, especially in complex technical and environments. Background information at https://www.ki-engineering.eu/en/know-how-tools.html .*
@@ -40,6 +40,10 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 
 ### Women in Open Source
 ### Embedded and OpenHW
+### Digital Sovereignty and Open Source in Business
+### Education
+### Automotive / SDV
+
 *further topics in clarification and still open for proposals!*
 
 ## Impressions from 2025

@@ -44,9 +44,12 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 ### Women in Open Source
 *The topic stream Women in Open Source will prepare a women network meeting and will additionally contribute expertise in all other topic streams.*
 
-### Embedded and OpenHW
-*The topic stream Embedded and OpenHW will cover the following aspects:*    
-*Good practice sharing around Open Source for designing Hardware, OpenHW approaches and respective technologies combined with discussions about how those can be leveraged for business opportunities for small- and medium-sized enterprises.*
+### Embedded and Open Source Hardware   
+*This track explores the complete hardware production lifecycle, from semiconductor manufacturing and packaging, to simulation and development. We'll focus on open source solutions and local capabilities, aiming to spark new collaborations and boost awareness within the community for these exciting, ongoing projects*
+
+1. ***Best practices for source code disclosure for System-on-Chips (SoCs)**: The comprehensive open source hardware guide – from contributing to open source hardware and simulating/architecting your custom chip, to building a commercial Chip or SoC with open-source IP. Plus, discover essential simulation and verification strategies along the way.*
+2. ***Opportunities for SMEs in the European Semiconductor sector – the European Silicon Renaissance: Can We Build Chips Domestically or Do We Need Global Partners?**: This session reveals how to tap the deep reservoir of innovative semiconductor and tooling companies right here in Europe, illuminating the cutting-edge solutions originating from the region and Europe more widely, and exploring the ambitious path toward European chip sovereignty. While a single day can only scratch the surface, it marks the crucial starting point for understanding and celebrating the Continent's technological independence.*
+3. ***Handling licenses and sharing IP with the community**: Developing a commercial Chip or SoC with open source IP presents unique challenges. How do you maintain an actively developed commercial product while relying on community dependencies? Join us for a lively exchange of ideas to explore these critical questions.*
 
 ### Digital Sovereignty and Open Source in Business
 *The topic stream Digital Sovereignty and Open Source in Business will cover the following aspects:*    

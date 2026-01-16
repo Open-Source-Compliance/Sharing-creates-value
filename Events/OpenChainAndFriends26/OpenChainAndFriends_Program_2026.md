@@ -23,56 +23,57 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
   * Keynote on OpenHardware
 * 11:30 Marketplace Opening
 *	02:00 PM CET Afternoon Tracks
-    *	**T1.1**	Education
-    *	**T1.2** Open Source Compliance and OSPO Topics
-    *	**T1.3** Digital Sovereignty & Open Source in Business
+    *	**T1.1**	Education <a name="t1_1">
+    *	**T1.2** Open Source Compliance and OSPO Topics <a name="t1_2">
+    *	**T1.3** Digital Sovereignty & Open Source in Business <a name="t1_3">
 * 04:00 PM CET Afternoon Tracks
-  * **T1.4** Artificial Intelligence
-  * **T1.5** CyberSecurity
-  * **T1.6** Automotive / SDV
+  * **T1.4** Artificial Intelligence <a name="t1_4">
+  * **T1.5** CyberSecurity <a name="t1_5">
+  * **T1.6** Automotive / SDV <a name="t1_6">
 *	06:30 PM CET socializing event in the evening
    
 ### Wednesday, march 25th 2026
 
 **Stuttgart Feuerbach**
 
-*	 10:00 AM CET **T2.1** Embedded and OpenHardware Full-Day Track
-*	 10:00 AM CET **T2.2** Artificial Intelligence Full-Day Track
+*	 10:00 AM CET **T2.1** Embedded and OpenHardware Full-Day Track <a name="t2_1">
+*	 10:00 AM CET **T2.2** [Artificial Intelligence](#artificial-intelligence) Full-Day Track <a name="t2_2">
 *	 05:30 PM CET Women in Open Source Network Meeting
 
 **Ludwigsburg**
 
-*	09:00 AM CET **T2.3**  Open Source Compliance and OSPO Topics Full-Day Track
+*	09:00 AM CET **T2.3**  Open Source Compliance and OSPO Topics Full-Day Track <a name="t2_3">
 
 **Vaihingen**
 
-* 09:00 AM CET **T2.4** Industry4.0 / Robotics /ROS Full-Day Track	
+* 09:00 AM CET **T2.4** Industry4.0 / Robotics /ROS Full-Day Track	<a name="t2_4">
 
 ### Thursday, march 26th 2026
 
 **Stuttgart Feuerbach**
 
-*	09:00 AM CET **T3.1** CyberSecurity Full-Day Track
-*	09:00 AM CET **T3.2** Cross-Innovation and community unconference
+*	09:00 AM CET **T3.1** CyberSecurity Full-Day Track <a name="t3_1">
+*	09:00 AM CET **T3.2** Cross-Innovation and community unconference <a name="t3_2">
 	
 **Ludwigsburg**
 
-*	09:00 AM CET **T3.3** Automotive / SDV Full-Day Track
+*	09:00 AM CET **T3.3** Automotive / SDV Full-Day Track <a name="t3_3">
 
 **Vaihingen**
 
-*	09:00 AM CET **T3.4** Education Full-Day Track
+*	09:00 AM CET **T3.4** Education Full-Day Track <a name="t3_4">
 
 *Please note: as with everything in the OpenChain Project, this event belongs to the community. Our schedule is created in collaboration with the people who will attend, and therefore you should feel free to make suggestions:
 [Topic_backlog.md](Topic_backlog.md)*
 
 ## Topic streams confirmed as of 16.01.2025
-### Artifical Intelligence
+### Artificial Intelligence
 *The topic stream AI will cover at least the following aspects:*
 1.	***AI Systems Engineering**: methodology and open source tools to ensure a systematic engineering for the development and operation of AI systems, especially in complex technical and environments. Background information at https://www.ki-engineering.eu/en/know-how-tools.html .*
 2.	***AI data platform**: open platform and open source tools for the search for and retrieval of AI assets (datasets and AI models). Ideas at  https://github.com/KI-Allianz .*
 3.	***Open AI agents** for resilient and sustainable supply chains, e.g., Manufacturing as a Service (MaaS) as elaborated in the project Factory-X, see https://www.iosb.fraunhofer.de/en/projects-and-products/factory-x.html#1326726683 .*
-4.	***AI SBOMs and Guidance**: https://openchainproject.org/news/2025/10/20/welcoming-the-openchain-ai-system-bill-of-materials-compliance-guide*
+4.	***AI SBOMs and Guidance**: https://openchainproject.org/news/2025/10/20/welcoming-the-openchain-ai-system-bill-of-materials-compliance-guide*  
+<sub>[go to schedule Day1](#t1_4) [go to schedule Day2](#t2_2)</sub> 
 
 ### Cybersecurity
 *The topic stream Cybersecurity will cover at least the following aspects:*    

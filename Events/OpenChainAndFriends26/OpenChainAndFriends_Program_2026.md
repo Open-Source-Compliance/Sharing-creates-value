@@ -10,15 +10,58 @@ Save-the-date:
  
 
 Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württemberg - together with [The FOSS-LÄND Community](https://github.com/the-foss-laend) – along the motto “Supply Chain (Chances and) Risk Management” and beyond.
+*“We provide the stage, you provide the topics”*
 
--	Tuesday, march 24th 2026
-    *	main event day including marketplace
-    *	Stuttgart Feuerbach,
-    *	socializing event in the evening
--	Wednesday / Thursday, march 25th / 26th 2026
-    *	rooms for community organized events, unconference, maybe Hackathons?
-    *	Stuttgart Feuerbach + Vaihingen + Ludwigsburg
-    *	“We provide the stage, you provide the topics”
+## Event outline
+### Tuesday, march 24th 2026
+
+**Stuttgart Feuerbach**
+
+*	09:00 AM CET Opening and Badge Pickup
+* 10:00 AM CET Welcome and Keynotes
+  * Keynote and Panel on Open Source Opportunities and Digital Sovereignty
+  * Keynote on OpenHardware
+* 11:30 Marketplace Opening
+*	02:00 PM CET Afternoon Tracks
+    *	**T1.1**	Education
+    *	**T1.2** Open Source Compliance and OSPO Topics
+    *	**T1.3** Digital Sovereignty & Open Source in Business
+* 04:00 PM CET Afternoon Tracks
+  * **T1.4** Artificial Intelligence
+  * **T1.5** CyberSecurity
+  * **T1.6** Automotive / SDV
+*	06:30 PM CET socializing event in the evening
+   
+### Wednesday, march 25th 2026
+
+**Stuttgart Feuerbach**
+
+*	 10:00 AM CET **T2.1** Embedded and OpenHardware Full-Day Track
+*	 10:00 AM CET **T2.2** Artificial Intelligence Full-Day Track
+*	 05:30 PM CET Women in Open Source Network Meeting
+
+**Ludwigsburg**
+
+*	09:00 AM CET **T2.3**  Open Source Compliance and OSPO Topics Full-Day Track
+
+**Vaihingen**
+
+* 09:00 AM CET **T2.4** Industry4.0 / Robotics /ROS Full-Day Track	
+
+### Thursday, march 26th 2026
+
+**Stuttgart Feuerbach**
+
+*	09:00 AM CET **T3.1** CyberSecurity Full-Day Track
+*	09:00 AM CET **T3.2** Cross-Innovation and community unconference
+	
+**Ludwigsburg**
+
+*	09:00 AM CET **T3.3** Automotive / SDV Full-Day Track
+
+**Vaihingen**
+
+*	09:00 AM CET **T3.4** Education Full-Day Track
 
 *Please note: as with everything in the OpenChain Project, this event belongs to the community. Our schedule is created in collaboration with the people who will attend, and therefore you should feel free to make suggestions:
 [Topic_backlog.md](Topic_backlog.md)*

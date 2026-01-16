@@ -24,7 +24,7 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 * 10:00 AM CET Welcome and Keynotes
   * Keynote and Panel on Open Source Opportunities and [Digital Sovereignty & Open Source in Business](#digital-sovereignty-and-open-source-in-business) <a name="t1_k1">
   * Keynote on [Embedded and Open Source Hardware](#embedded-and-open-source-hardware) <a name="t1_k2">
-* 11:30 Marketplace Opening
+* 11:30 Event Overview and Marketplace Opening
 *	02:00 PM CET Afternoon Tracks
     *	**T1.1**	[Education](#education) <a name="t1_1">
     *	**T1.2** [Open Source Compliance and OSPO Topics](#open-source-compliance-and-ospo-topics) <a name="t1_2">

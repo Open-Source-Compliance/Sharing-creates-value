@@ -51,8 +51,8 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 
 **Stuttgart Feuerbach**
 
-*	 10:00 AM CET **T2.1** [Embedded and Open Source Hardware](#embedded-and-open-source-hardware) Full-Day Track <a name="t2_1">
-*	 10:00 AM CET **T2.2** [Artificial Intelligence](#artificial-intelligence) Full-Day Track <a name="t2_2">
+*	 10:00 AM CET **T2.1** [Artificial Intelligence](#artificial-intelligence) Full-Day Track <a name="t2_1">
+*	 10:00 AM CET **T2.2** [Embedded and Open Source Hardware](#embedded-and-open-source-hardware) Full-Day Track <a name="t2_2">
 *	 05:30 PM CET [Women in Open Source](#women-in-open-source) Network Meeting <a name="t2women">
 
 **Ludwigsburg**
@@ -92,7 +92,7 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 3.	***Open AI agents** for resilient and sustainable supply chains, e.g., Manufacturing as a Service (MaaS) as elaborated in the project Factory-X, see https://www.iosb.fraunhofer.de/en/projects-and-products/factory-x.html#1326726683 .*
 4.	***AI SBOMs and Guidance**: https://openchainproject.org/news/2025/10/20/welcoming-the-openchain-ai-system-bill-of-materials-compliance-guide*
 
-<sub>[go to schedule Day1](#t1_4) [go to schedule Day2](#t2_2)</sub> 
+<sub>[go to schedule Day1](#t1_4) [go to schedule Day2](#t2_1)</sub> 
 
 ### Cybersecurity
 *The topic stream Cybersecurity will cover at least the following aspects:*    
@@ -118,7 +118,7 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 2. ***Opportunities for SMEs in the European Semiconductor sector – the European Silicon Renaissance: Can We Build Chips Domestically or Do We Need Global Partners?**: This session reveals how to tap the deep reservoir of innovative semiconductor and tooling companies right here in Europe, illuminating the cutting-edge solutions originating from the region and Europe more widely, and exploring the ambitious path toward European chip sovereignty. While a single day can only scratch the surface, it marks the crucial starting point for understanding and celebrating the Continent's technological independence.*
 3. ***Handling licenses and sharing IP with the community**: Developing a commercial Chip or SoC with open source IP presents unique challenges. How do you maintain an actively developed commercial product while relying on community dependencies? Join us for a lively exchange of ideas to explore these critical questions.*
  
-<sub>[go to schedule Day1](#t1_k2) [go to schedule Day2](#t2_1)</sub> 
+<sub>[go to schedule Day1](#t1_k2) [go to schedule Day2](#t2_2)</sub> 
 
 ### Digital Sovereignty and Open Source in Business
 *The topic stream Digital Sovereignty and Open Source in Business will cover the following aspects:*    

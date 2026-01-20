@@ -9,6 +9,18 @@ Registration is free but mandatory: >>> [Registration HERE](https://teilnehmen.e
 **24.3.-26.3.2026**     
 **in Stuttgart**    
 
+- [Event outline](#event-outline)
+- [Topic streams](#topic-streams-confirmed-as-of-16012025)
+  - [Artificial Intelligence](#artificial-intelligence)
+  - [Cybersecurity](#cybersecurity)
+  - [Open Source Compliance and OSPO-topics](#open-source-compliance-and-ospo-topics)
+  - [Women in Open Source](#women-in-open-source)
+  - [Embedded and Open Source Hardware](#embedded-and-open-source-hardware)
+  - [Digital Sovereignty and Open Source in Business](#digital-sovereignty-and-open-source-in-business)
+  - [Education](#education)
+  - [Automotive / SDV](#automotive--sdv)
+- [Impressions from 2025](#impressions-from-2025)
+
 Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württemberg - together with [The FOSS-LÄND Community](https://github.com/the-foss-laend) – along the motto “Supply Chain (Chances and) Risk Management” and beyond.
 *“We provide the stage, you provide the topics”*
 

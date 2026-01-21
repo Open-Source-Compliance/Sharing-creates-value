@@ -5,6 +5,8 @@
 In-person only. Registration is free but mandatory: >>> [Registration HERE](https://teilnehmen.e-mobilbw.de/) <<<
 *(Please actively select/de-select the topics you plan to attend or not, we will only consider your registration for the actively selected tracks on a first come first serve base. By submitting your registration you confirm to follow the [event code of conduct](https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/openchain_and_friends_2026_prep/Events/OpenChainAndFriends26/event_code_of_conduct.md).)*
 
+**This page will be continuously updated until the program is finalized - so stay tuned and revisit this page from time to time!**
+
 **Tuesday, march 24th to Thursday 26th of march 2026**    
 **24.3.-26.3.2026**     
 **in Stuttgart**    

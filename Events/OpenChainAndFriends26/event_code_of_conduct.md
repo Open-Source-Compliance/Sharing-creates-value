@@ -20,7 +20,7 @@ If a participant engages in harassing behavior, whether in person or virtually, 
 If a participant (or individual wishing to participate in a Linux Foundation event, in-person and/or virtual), through postings on social media or other online publications or another form of electronic communication, engages in conduct that violates this policy, whether before, during or after a Linux Foundation event, The Linux Foundation may take appropriate corrective action, which could include imposing a temporary or permanent ban on an individual’s participation in future Linux Foundation events.
 
 ## What To Do If You Witness or Are Subject To Unacceptable Behavior
-If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately. You are also encouraged to contact FOSS@e-mobilbw.de .
+If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately. You are also encouraged to contact helpdesk@lists.openchainproject.org .
 
 ## Incident Response
 Our staff has taken incident response training and responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, whether in-person or virtually, the conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund, depending on the circumstances. The Linux Foundation reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further Linux Foundation events, trainings or other activities.
@@ -38,6 +38,6 @@ It is necessary for all attendees to cooperate and protect one another. For this
 If an attendee fails to comply with any of the Health and Safety Requirements, The Linux Foundation may (but is not obligated to) take appropriate corrective action, which could include immediate removal from the event and venue without a refund, and/or imposing a temporary or permanent ban on an individual’s participation in future Linux Foundation events.
 
 ## Pre-Event Concerns
-If you are planning to attend an upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact FOSS@e-mobilbw.de. Precautions will be taken to ensure your comfort and safety, including, but not limited to providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact.
+If you are planning to attend an upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact helpdesk@lists.openchainproject.org. Precautions will be taken to ensure your comfort and safety, including, but not limited to providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact.
 
 *(based on https://events.linuxfoundation.org/about/code-of-conduct/)*

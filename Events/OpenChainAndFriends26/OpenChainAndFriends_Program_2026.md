@@ -21,6 +21,7 @@ In-person only. Registration is free but mandatory: >>> [Registration HERE](http
   - [Digital Sovereignty and Open Source in Business](#digital-sovereignty-and-open-source-in-business)
   - [Education](#education)
   - [Automotive / SDV](#automotive--sdv)
+  - [ROS meetup](#ros-meetup)
 - [Impressions from 2025](#impressions-from-2025)
 
 Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württemberg - together with [The FOSS-LÄND Community](https://github.com/the-foss-laend) – along the motto “Supply Chain (Chances and) Risk Management” and beyond.
@@ -63,7 +64,7 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 
 **Vaihingen**
 
-* 09:00 AM CET **T2.4** Industry4.0 / Robotics /ROS Full-Day Track	<a name="t2_4">
+* 09:00 AM CET **T2.4** [ROS meetup](#ros-meetup) Full-Day Track	<a name="t2_4">
 
 ### Thursday, march 26th 2026
 
@@ -142,6 +143,11 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 Participants will gain a deeper understanding of open-source adoption across the automotive software supply chain, including opportunities and challenges relevant to **OEMs, Tier One, and Tier Two suppliers**. The session will incorporate technical discussions stemming from the [recent OpenChain Automotive Workgroup meeting](https://github.com/OpenChain-Project/Automotive-WG/blob/main/2025-11-workshop-agenda.md), covering **functional safety integration, compliance with new regulatory frameworks (such as the Cyber Resilience Act), and best practices for generating and managing Software Bill of Materials (SBOMs)**. Emphasis will be placed on both architectural considerations and process-oriented solutions necessary for robust and compliant SDV development within an open-source context.
 
 <sub>[go to schedule Day1](#t1_6) [go to schedule Day3](#t3_3)</sub> 
+
+### ROS meetup
+*We’re organising the 2026 ROS Meetup Stuttgart, a community-driven gathering for developers, researchers, students, and practitioners working with the Robot Operating System (ROS) and ROS 2. This meetup will be a chance to exchange ideas, showcase projects, and discuss trends in open-source robotics.*
+
+<sub>[go to schedule Day2](#t2_4)</sub>
 
 *further topics in clarification and still open for proposals!*
 

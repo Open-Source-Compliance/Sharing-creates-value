@@ -21,7 +21,7 @@ In-person only. Registration is free but mandatory: >>> [Registration HERE](http
   - [Digital Sovereignty and Open Source in Business](#digital-sovereignty-and-open-source-in-business)
   - [Education](#education)
   - [Automotive / SDV](#automotive--sdv)
-  - [ROS meetup](#ros-meetup)
+  - [Cross-Innovation and community unconference](#cross-innovation-and-community-unconference)
 - [Impressions from 2025](#impressions-from-2025)
 
 Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württemberg - together with [The FOSS-LÄND Community](https://github.com/the-foss-laend) – along the motto “Supply Chain (Chances and) Risk Management” and beyond.
@@ -64,14 +64,14 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 
 **Vaihingen**
 
-* 09:00 AM CET **T2.4** [ROS meetup](#ros-meetup) Full-Day Track	<a name="t2_4">
+* 09:00 AM CET **T2.4** *Topic still under discussion* <a name="t2_4">
 
 ### Thursday, march 26th 2026
 
 **Stuttgart Feuerbach**
 
 *	09:00 AM CET **T3.1** [CyberSecurity](#cybersecurity) Full-Day Track <a name="t3_1">
-*	09:00 AM CET **T3.2** Cross-Innovation and community unconference <a name="t3_2">
+*	09:00 AM CET **T3.2** [Cross-Innovation and community unconference](#cross-innovation-and-community-unconference) <a name="t3_2">
 	
 **Ludwigsburg**
 
@@ -144,10 +144,10 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 
 <sub>[go to schedule Day1](#t1_6) [go to schedule Day3](#t3_3)</sub> 
 
-### ROS meetup
-*We’re organising the 2026 ROS Meetup Stuttgart, a community-driven gathering for developers, researchers, students, and practitioners working with the Robot Operating System (ROS) and ROS 2. This meetup will be a chance to exchange ideas, showcase projects, and discuss trends in open-source robotics.*
+### Cross-Innovation and community unconference
+*In th is stream interesting Open Source topics in and around Baden-Württemberg will be presented, that involve several topic fields and there is an additional possibility for unconference.*
 
-<sub>[go to schedule Day2](#t2_4)</sub>
+<sub>[go to schedule Day2](#t3_2)</sub>
 
 *further topics in clarification and still open for proposals!*
 

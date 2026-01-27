@@ -11,18 +11,25 @@ In-person only. Registration is free but mandatory: >>> [Registration HERE](http
 **24.3.-26.3.2026**     
 **in Stuttgart**    
 
-- [Event outline](#event-outline)
-- [Topic streams](#topic-streams-confirmed-as-of-16012025)
-  - [Artificial Intelligence](#artificial-intelligence)
-  - [Cybersecurity](#cybersecurity)
-  - [Open Source Compliance and OSPO-topics](#open-source-compliance-and-ospo-topics)
-  - [Women in Open Source](#women-in-open-source)
-  - [Embedded and Open Source Hardware](#embedded-and-open-source-hardware)
-  - [Digital Sovereignty and Open Source in Business](#digital-sovereignty-and-open-source-in-business)
-  - [Education](#education)
-  - [Automotive / SDV](#automotive--sdv)
-  - [Cross-Innovation and community unconference](#cross-innovation-and-community-unconference)
-- [Impressions from 2025](#impressions-from-2025)
+- [OpenChain and Friends 2026 – An Open Source Management and Community Event](#openchain-and-friends-2026--an-open-source-management-and-community-event)
+    - [#openchainandfriends](#openchainandfriends)
+  - [Event outline](#event-outline)
+    - [Tuesday, march 24th 2026](#tuesday-march-24th-2026)
+    - [Wednesday, march 25th 2026](#wednesday-march-25th-2026)
+    - [Thursday, march 26th 2026](#thursday-march-26th-2026)
+  - [Topic streams confirmed as of 16.01.2025](#topic-streams-confirmed-as-of-16012025)
+    - [Artificial Intelligence](#artificial-intelligence)
+    - [Cybersecurity](#cybersecurity)
+    - [Open Source Compliance and OSPO-topics](#open-source-compliance-and-ospo-topics)
+    - [Women in Open Source](#women-in-open-source)
+    - [Embedded and Open Source Hardware](#embedded-and-open-source-hardware)
+    - [Digital Sovereignty and Open Source in Business](#digital-sovereignty-and-open-source-in-business)
+    - [Education](#education)
+    - [Automotive / SDV](#automotive--sdv)
+    - [Day 1](#day-1)
+    - [Day 3](#day-3)
+    - [Cross-Innovation and community unconference](#cross-innovation-and-community-unconference)
+  - [Impressions from 2025](#impressions-from-2025)
 
 Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württemberg - together with [The FOSS-LÄND Community](https://github.com/the-foss-laend) – along the motto “Supply Chain (Chances and) Risk Management” and beyond.
 *“We provide the stage, you provide the topics”*
@@ -143,6 +150,31 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 *Participants will gain a deeper understanding of open-source adoption across the automotive software supply chain, including opportunities and challenges relevant to **OEMs, Tier One, and Tier Two suppliers**. The session will incorporate technical discussions stemming from the [recent OpenChain Automotive Workgroup meeting](https://github.com/OpenChain-Project/Automotive-WG/blob/main/2025-11-workshop-agenda.md), covering **functional safety integration, compliance with new regulatory frameworks (such as the Cyber Resilience Act), and best practices for generating and managing Software Bill of Materials (SBOMs)**. Emphasis will be placed on both architectural considerations and process-oriented solutions necessary for robust and compliant SDV development within an open-source context.*
 
 <sub>[go to schedule Day1](#t1_6) [go to schedule Day3](#t3_3)</sub> 
+
+### Day 1
+
+|Time|-| Track 1 | Track 2 | Track 3 |
+|---|---|---|---|---|
+|14:00 - 17:30|---|---|---|SDV / Automotive|
+
+### Day 3
+
+|Time|-|Breakout B - SDV / Automotive (Ludwigsburg)|
+|---|---|---|
+|10:00-10:15|---|Gathering, Coffee|
+|10:15-10:45|---|Talk 30 min|
+|10:45-11:15|---|Talk 30 min|
+|11:15-11:30|---|Break|
+|11:30-12:15|---|Panel|
+|12:15-13:30|---|Lunch|
+|13:30-14:00|---|Talk 30 min|
+|14:00-14:30|---|Talk 30 min|
+|14:30-14:45|---|Break|
+|14:45-15:30|---|BoF|
+|15:30-15:45|---|Break|
+|15:45-16:15|---|Talk 30 min|
+|16:15-16:45|---|Talk 30 min|
+|16:45-17:00|---|Wrap-up/End|
 
 ### Cross-Innovation and community unconference
 *In th is stream interesting Open Source topics in and around Baden-Württemberg will be presented, that involve several topic fields and there is an additional possibility for unconference.*

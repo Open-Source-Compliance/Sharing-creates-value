@@ -154,27 +154,30 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 ### Day 1
 
 |Time|-| Track 1 | Track 2 | Track 3 |
-|---|---|---|---|---|
-|14:00 - 17:30|---|---|---|SDV / Automotive|
+|-|---|---|---|---|
+|14:00-15:30|-|Education|Open Source Compliance and OSPOs|Digital Sovereingity & Open Source in Business|
+|15:30-16:00|-|Break|
+|16:00-17:30|-|Artificial Intelligence|Cyber Security|**SDV / Automotive**|
 
 ### Day 3
 
 |Time|-|Breakout B - SDV / Automotive (Ludwigsburg)|
-|---|---|---|
-|10:00-10:15|---|Gathering, Coffee|
-|10:15-10:45|---|Talk 30 min|
-|10:45-11:15|---|Talk 30 min|
-|11:15-11:30|---|Break|
-|11:30-12:15|---|Panel|
-|12:15-13:30|---|Lunch|
-|13:30-14:00|---|Talk 30 min|
-|14:00-14:30|---|Talk 30 min|
-|14:30-14:45|---|Break|
-|14:45-15:30|---|BoF|
-|15:30-15:45|---|Break|
-|15:45-16:15|---|Talk 30 min|
-|16:15-16:45|---|Talk 30 min|
-|16:45-17:00|---|Wrap-up/End|
+|---|-|---|
+|09:00-09:30|-|Gathering, Coffee|
+|09:30-09:45|-|Welcome|
+|09:45-10:15|-|Talk 30 min|
+|10:15-10:45|-|Talk 30 min|
+|10:45-11:00|-|Break|
+|11:00-11:45|-|Panel|
+|11:45-13:00|-|Lunch|
+|13:00-13:30|-|Talk 30 min|
+|13:30-14:00|-|Talk 30 min|
+|14:00-14:15|-|Break|
+|14:15-15:00|-|BoF|
+|15:00-15:15|-|Break|
+|15:15-15:45|-|Talk 30 min|
+|15:45-16:15|-|Talk 30 min|
+|16:15-16:30|-|Wrap-up/End|
 
 ### Cross-Innovation and community unconference
 *In th is stream interesting Open Source topics in and around Baden-Württemberg will be presented, that involve several topic fields and there is an additional possibility for unconference.*

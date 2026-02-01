@@ -339,6 +339,15 @@ OSSPolice is a risk assessment service for developers that can quickly identify 
 Renovate is an automated dependency update tool by Mend.io. It helps to update dependencies in your code without needing to do it manually. When Renovate runs on your repo, it looks for references to dependencies (both public and private) and, if there are newer versions available, Renovate can create pull requests to update your versions automatically.
 
 
+## Rebar3 SBoM
+**Website:**
+[Rebar3 SBoM](https://github.com/erlef/rebar3_sbom)<br>
+**Main License:**
+[BSD-3-Clause](https://spdx.org/licenses/BSD-3-Clause.html)<br>
+**Summary:**<br>
+Generates a Software Bill-of-Materials (SBoM) in CycloneDX format in Rebar3 environment.
+
+
 ## REUSE
 **Website:**
 [REUSE](https://reuse.software)<br>
@@ -347,12 +356,24 @@ Renovate is an automated dependency update tool by Mend.io. It helps to update d
 **Summary:**<br>
 REUSE is a set of best practices and tools to simplify licensing and copyright. Instead of fixing licensing problems and uncertainties after they have been created, REUSE helps programmers to add the necessary information during development. A low-threshold helper tool helps with adding license/copyright headers and linting the current status, and can easily be integrated in CI/CD pipelines. The REUSE API can check public repositories automatically and generate a dynamic badge. Furthermore, REUSE provides a tutorial and an extensive FAQ that does not only help with the best practices per se, but also brings developers up to speed on more general questions on licensing and copyright.
 
+## SBOM Analyzis Tooling
+**Website:**        [SBOM Analyzis Tooling](https://github.com/anthonyharrison)<br>
+**Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>
+**Summary:**<br>
+A large set of utilities to ingest, generate and manipulate SBOMs.
+
 
 ## SBOMQS
 **Website:**        [SBOMQS](https://github.com/interlynk-io/sbomqs)<br>
 **Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>
 **Summary:**<br>
 SBOMQS is your primary tool to assess an SBOM's quality and compliance. The higher the score the more consumable & compliant your SBOMs are.
+
+## SBOM-QA
+**Website:**        [SBOM-QA](https://sbom-qa.org/)<br>
+**Main License:**   [BSD 3-Clause License](https://spdx.org/licenses/BSD-3-Clause.html)<br>
+**Summary:**<br>
+A benchmarking initiative for evaluating open source Software Composition Analysis (SCA) tools and their SBOM (Software Bill of Materials) outputs.
 
 
 ## ScanCode.io and ScanPipe

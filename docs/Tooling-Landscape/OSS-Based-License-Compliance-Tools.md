@@ -283,6 +283,17 @@ OpossumUI is a tool to:
 * generate reports from an open source code scan.
 
 
+## OpenChain Telco SBOM Validator
+**Website:**
+[OpenChain Telco SBOM Validator](https://github.com/OpenChain-Project/Telco-WG/blob/main/tools/openchain_telco_sbom_validator/README.md)<br>
+**Main License:**
+[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
+**Summary:**
+The OpenChain Telco SBOM Validator validates if an SBOM is compliant with the [OpenChain Telco SBOM Guide](https://github.com/OpenChain-Project/Telco-WG/blob/main/OpenChain-Telco-SBOM-Guide_EN.md).
+The OpenChain Telco SBOM Guide sets the minimum quality standard for SBOMs in the telecom in dustry. The quality attributes are not telecom specific, therefore 
+both the gude and the validater can be generally used.  
+
+
 ## OSS Attribution Builder (seems not to be maintained anymore)
 **Website:**
 [OSS Attribution Builder](https://github.com/amzn/oss-attribution-builder)<br>

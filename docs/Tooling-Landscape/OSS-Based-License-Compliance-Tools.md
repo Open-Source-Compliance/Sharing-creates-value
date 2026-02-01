@@ -104,6 +104,12 @@ Callgpraph is a multi-language tool which parses source code for function defini
 Supported languages are: awk, bash, basic, dart, fortran, go, lua, javascript, julia, kotlin, matlab, perl, pascal, php, python, R, raku, ruby, rust, scala, swift, and tcl.
 c/c++/java are not supported, since their complex and varied syntax requires heavy machinery.
 
+## CaPyCli
+**Website:**        [CaPyCli]https://github.com/sw360/capycli)<br>
+**Main License:**   [MIT](https://github.com/sw360/capycli/blob/main/License.md)<br>
+**Summary:**<br>
+Python 3 scripts to allow license clearing automation using the SW360 software catalogue.
+
 
 ## CLA Assistant
 **Website:**        [CLA Assistant](https://github.com/cla-assistant/cla-assistant)<br>
@@ -177,6 +183,12 @@ Dependency-Track is an intelligent Component Analysis platform that allows organ
 
 Dependency-Track monitors component usage across all versions of every application in its portfolio in order to proactively identify risk across an organization. The platform has an API-first design and is ideal for use in CI/CD environments.
 
+## Double Open Server (DOS)
+**Website:**        [Double Open Server (DOS)](https://github.com/doubleopen-project/dos)<br>
+**Main License:**   [MIT](https://opensource.org/licenses/MIT)<br>
+**Summary:**<br>
+Double Open Server (DOS) is a server application that scans the source code of open source components for license findings, stores the scan results for use in license compliance pipelines and provides a graphical interface for manually curating the license findings. DOS is currently in early development.
+DOS utilizes ScanCode Toolkit for scanning the files and is designed to work with OSS Review Toolkit as a part of its pipeline.
 
 ## Dep-Scan
 **Website:**        [Dep-Scan](https://github.com/owasp-dep-scan/dep-scan)<br>
@@ -192,6 +204,12 @@ OWASP dep-scan is a next-generation security and risk audit tool based on known 
 [EPL-2.0](https://github.com/eclipse-sw360/sw360/blob/main/LICENSE)<br>
 **Summary:**<br>
 A software catalogue application designed to provide a central place for sharing information about software components used by an organization. It is designed to neatly integrate into existing infrastructures related to the management of software artifacts and projects by providing separate backend services for distinct tasks and a set of portlets to access these services. It has connectors to interact with external systems such as code scan tools. Thus far the project has not provided download information.
+
+## Enhancing Software Supply Chain Transparency (ESSTRA)
+**Website:**[Enhancing Software Supply Chain Transparency (ESSTRA)](https://github.com/sony/esstra)<br>
+**Main License:**
+[MIT](https://github.com/sony/esstra/blob/main/LICENSE)<br>
+**Summary:**<br>
 
 
 ## Flict
@@ -241,6 +259,12 @@ Hermine presents you with a framework to better understand FOSS licences and ext
 It helps you build a context-aware licence policy, taylored to your organisation specific needs.
 It makes it easy to automatically apply those to your SBOM in various formats (SPDX, CycloneDX, ORT) and memorise your decisions to help you focus only on release-specific issues. 
 
+## Hipcheck
+**Website:** [Hipcheck](https://hipcheck.mitre.org/)<br>
+**Main License:**
+[Apache-2.0](https://github.com/mitre/hipcheck/blob/main/LICENSE)<br>
+**Summary:**<br>
+Hipcheck is a command line interface (CLI) tool for analyzing open source software packages and source repositories to understand their software supply chain risk. It analyzes a project's software development practices and detects active supply chain attacks to give you both a long-term and immediate picture of the risk from using a package.
 
 ## LDBCollector
 **Website:**
@@ -257,6 +281,15 @@ A small application which collects oss-license metadata and combines it.
 [MIT](https://opensource.org/licenses/MIT)<br>
 **Summary:**<br>
 Check npm dependencies' package.json for license compatibility based on SPDX standards. Claimed to be a work in progress, but gives a simple comparison of the licenses in the package with an explanation to how permissive the license is (Permissive > Weakly Protective > Strongly Protective > Network Protective). Shows potential incompatibilities with a colorful scheme.
+
+
+## LicenseLynx 
+**Website:**
+[LicenseLynx](https://licenselynx.org/)<br>
+**Main License:**
+[BSD-3-Clause](https://github.com/licenselynx/licenselynx/blob/main/LICENSE)<br>
+**Summary:**<br>
+LicenseLynx is a project focused on deterministically map unknown or ambiguous license names and their canonical license names. Additionally, we offer libraries for Python, Java, and TypeScript to streamline the process of mapping licenses to their canonical names, typically represented by SPDX IDs.
 
 
 ## Licensee.js
@@ -282,6 +315,13 @@ OpossumUI is a tool to:
 * review licenses.
 * generate reports from an open source code scan.
 
+## ORT Server
+**Website:**
+[ORT Server](https://eclipse-apoapsis.github.io/ort-server/)<br>
+**Main License:**
+[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
+**Summary:**<br>
+ORT Server is a standalone application to deploy the OSS Review Toolkit as a service in the cloud.
 
 ## OSS Attribution Builder (seems not to be maintained anymore)
 **Website:**
@@ -437,12 +477,16 @@ The following functions are available:
 **Summary:**<br>
 SPDX Maven Plugin is a plugin to Maven which produces Software Package Data Exchange (SPDX) documents for artifacts described in the POM file. 
 
-
 ## Syft
 **Website:**        [Syft](https://github.com/anchore/syft)<br>
 **Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>
 **Summary:**<br>
-A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. Exceptional for vulnerability detection when used with a scanner like Grype.
+
+## Stakeholder-Specific Vulnerability Categorization (SSVC)
+**Website:**        [Stakeholder-Specific Vulnerability Categorization (SSVC)](https://certcc.github.io/SSVC/)<br>
+**Main License:**   [MIT (SEI)-style license]https://github.com/CERTCC/SSVC/blob/main/LICENSE)<br>
+**Summary:**<br>
+The Stakeholder-specific Vulnerability Categorization (SSVC) is a system for prioritizing actions during vulnerability management. SSVC aims to avoid one-size-fits-all solutions in favor of a modular decision-making system with clearly defined and tested parts that vulnerability managers can select and use as appropriate to their context.
 
 
 ## TraceCode toolkit
@@ -469,7 +513,14 @@ Tern is a software package inspection tool for containers written in Python. Ter
 3. With that information as a base, it continues to iterate over step 1 and 2 for the rest of the layers in the container image
 4. Once done, it generates a report in different formats. The default report is a verbose explanation of what layers brought in what software components. If a Dockerfile is provided then it will also provide what lines in the Dockerfile was used to create the layers.
 
- 
+## vex-generation-toolset
+**Website:**        [vex-generation-toolset](https://github.com/vex-generation-toolset)<br>
+**Main License:**   [Apache 2.0](https://github.com/vex-generation-toolset/root-cause-service/blob/main/LICENSE)<br>
+**Summary:**<br>
+The VEX Tooling Project is an Alpha-Omega Fund initiative providing open-source tooling for analyzing the impact of vulnerabilities in third-party dependencies and generating VEX (Vulnerability Exploitability eXchange) documents.
+These tools support the entire lifecycle of VEX document creation, from the disclosure of a vulnerability in a dependency to the automated generation of accurate VEX statements. The goal is to help organizations determine which vulnerabilities are truly exploitable in their software and communicate that information clearly and efficiently.
+
+
 ## Vulnerability Assessment Tool
 **Website:**        [Vulnerability Assessment Tool](https://github.com/SAP/vulnerability-assessment-tool)<br>
 **Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>

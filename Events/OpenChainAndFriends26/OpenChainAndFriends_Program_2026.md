@@ -147,12 +147,12 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 <sub>[go to schedule Day1](#t1_6) [go to schedule Day3](#t3_3)</sub> 
 
 ### Cross-Innovation and Innovation Practices
-*In this stream interesting Open Source topics in and around Baden-Württemberg will be presented, that involve several topic fields and there is an additional possibility for unconference.*
+*In this stream interesting Open Source topics in and around Baden-Württemberg will be presented, that involve several topic fields and explore the cross-innovation potential of creative industries like film and media, Open Street Map and Augmented Reality with industrial Open Source. Using those insights together with case studies and chances around journeys towards digital sovereign infrastructures we will conclude with a collaborative design of the coming community roadmap until our next event.*
 
 <sub>[go to schedule Day2](#t3_2)</sub>
 
 ### Linux OS and beyond
-*In this stream we will talk about Linux*
+*In this stream we will talk about Linux, insights in your software supply chain and handling the "regulatory tsunami" from the Linux ecosystem perspective.*
 
 <sub>[go to schedule Day2](#t2_4)</sub>
 

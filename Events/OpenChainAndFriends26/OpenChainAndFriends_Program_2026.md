@@ -12,7 +12,7 @@ In-person only. Registration is free but mandatory: >>> [Registration HERE](http
 **in Stuttgart**    
 
 - [Event outline](#event-outline)
-- [Topic streams](#topic-streams-confirmed-as-of-16012025)
+- [Topic streams](#topic-streams)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Cybersecurity](#cybersecurity)
   - [Open Source Compliance and OSPO-topics](#open-source-compliance-and-ospo-topics)
@@ -21,7 +21,8 @@ In-person only. Registration is free but mandatory: >>> [Registration HERE](http
   - [Digital Sovereignty and Open Source in Business](#digital-sovereignty-and-open-source-in-business)
   - [Education](#education)
   - [Automotive / SDV](#automotive--sdv)
-  - [Cross-Innovation and community unconference](#cross-innovation-and-community-unconference)
+  - [Cross-Innovation and Innovation Practices](#cross-innovation-and-innovation-practices)
+  - [Linux OS and beyond](#linux-os-and-beyond)
 - [Impressions from 2025](#impressions-from-2025)
 
 Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württemberg - together with [The FOSS-LÄND Community](https://github.com/the-foss-laend) – along the motto “Supply Chain (Chances and) Risk Management” and beyond.
@@ -64,14 +65,14 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 
 **Vaihingen**
 
-* 09:00 AM CET **T2.4** *Topic still under discussion* <a name="t2_4">
+* 09:00 AM CET **T2.4** [Linux OS and beyond](#linux-os-and-beyond) <a name="t2_4">
 
 ### Thursday, march 26th 2026
 
 **Stuttgart Feuerbach**
 
 *	09:00 AM CET **T3.1** [CyberSecurity](#cybersecurity) Full-Day Track <a name="t3_1">
-*	09:00 AM CET **T3.2** [Cross-Innovation and community unconference](#cross-innovation-and-community-unconference) <a name="t3_2">
+*	09:00 AM CET **T3.2** [Cross-Innovation and Innovation Practices](#cross-innovation-and-innovation-practices) <a name="t3_2">
 	
 **Ludwigsburg**
 
@@ -87,7 +88,8 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
   
 ---  
   	  
-## Topic streams confirmed as of 16.01.2025
+## Topic streams 
+*confirmed as of 06.02.2026*
 ### Artificial Intelligence
 *The topic stream AI will cover at least the following aspects:*
 1.	***AI Systems Engineering**: methodology and open source tools to ensure a systematic engineering for the development and operation of AI systems, especially in complex technical and environments. Background information at https://www.ki-engineering.eu/en/know-how-tools.html .*
@@ -144,12 +146,18 @@ Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württe
 
 <sub>[go to schedule Day1](#t1_6) [go to schedule Day3](#t3_3)</sub> 
 
-### Cross-Innovation and community unconference
-*In th is stream interesting Open Source topics in and around Baden-Württemberg will be presented, that involve several topic fields and there is an additional possibility for unconference.*
+### Cross-Innovation and Innovation Practices
+*In this stream interesting Open Source topics in and around Baden-Württemberg will be presented, that involve several topic fields and there is an additional possibility for unconference.*
 
 <sub>[go to schedule Day2](#t3_2)</sub>
 
-*further topics in clarification and still open for proposals!*
+### Linux OS and beyond
+*In this stream we will talk about Linux*
+
+<sub>[go to schedule Day2](#t2_4)</sub>
+
+*If you want to contribute or help, please reach out to our Matrix-Channel: https://app.element.io/#/room/!wnvjfjiSAPyWkhAHQP:matrix.org*  
+*Every helping hand is welcome!*
 
 ## Impressions from 2025
 - LinkedIn: [#openchainandfriends](https://www.linkedin.com/search/results/all/?keywords=%23openchainandfriends)

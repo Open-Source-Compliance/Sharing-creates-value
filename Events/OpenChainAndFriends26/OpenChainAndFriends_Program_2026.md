@@ -1,6 +1,6 @@
 ![Open Source in Stuttgart](openchainandfriends2025small.jpg)
 # OpenChain and Friends 2026 – An Open Source Management and Community Event
-### #openchainandfriends
+### [#openchainandfriends](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
 
 In-person only. Registration is free but mandatory: >>> [Registration HERE](https://teilnehmen.e-mobilbw.de/) <<<
 *(Please actively select/de-select the topics you plan to attend or not, we will only consider your registration for the actively selected tracks on a first come first serve base. By submitting your registration you confirm to follow the [event code of conduct](https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/openchain_and_friends_2026_prep/Events/OpenChainAndFriends26/event_code_of_conduct.md).)*

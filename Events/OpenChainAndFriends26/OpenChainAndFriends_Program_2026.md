@@ -23,6 +23,7 @@ In-person only. Registration is free but mandatory: >>> [Registration HERE](http
   - [Automotive / SDV](#automotive--sdv)
   - [Cross-Innovation and Innovation Practices](#cross-innovation-and-innovation-practices)
   - [Linux OS and beyond](#linux-os-and-beyond)
+- [Communities collaborating](#communities-collaborating)
 - [Impressions from 2025](#impressions-from-2025)
 
 Again with the idea to grow the Open Source Community in Stuttgart/Baden-Württemberg - together with [The FOSS-LÄND Community](https://github.com/the-foss-laend) – along the motto “Supply Chain (Chances and) Risk Management” and beyond.

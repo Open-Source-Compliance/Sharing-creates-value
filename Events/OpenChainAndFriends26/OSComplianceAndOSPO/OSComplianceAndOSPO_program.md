@@ -11,7 +11,7 @@
 - WEDNESDAY 09:45-10:15 **T2.3-3** [Topic 2: Automation of SBOM Assessment in AGL Development Process](#topic-2-automation-of-sbom-assessment-in-agl-development-process)<a name="T2.3-3">  
 - WEDNESDAY 10:15-10:45 **T2.3-4** [Topic 3: ORT Server at Bosch - One Pipeline for your Compliance](#topic-3-ort-server-at-bosch---one-pipeline-for-your-compliance)<a name="T2.3-4">  
 - WEDNESDAY 11:00-11:45 **T2.3-5** [Topic 4: The Business Case for Open Data for Open Source Compliance](#topic-4-the-business-case-for-open-data-for-open-source-compliance)<a name="T2.3-5">  
-- WEDNESDAY 13:00-13:30 **T2.3-6** [Topic 5: Verfahren gegen den chinesischen Automobilhersteller SAIC](#topic-5-verfahren-gegen-den-chinesischen-automobilhersteller-saic)<a name="T2.3-6">  
+- WEDNESDAY 13:00-13:30 **T2.3-6** <a name="T2.3-6">  
 - WEDNESDAY 13:30-14:00 **T2.3-7** [Topic 6: How to distribute containers compliantly](#topic-6-how-to-distribute-containers-compliantly)<a name="T2.3-7">  
 - WEDNESDAY 14:15-15:00 **T2.3-8** [Demo 1: OSC with ORT](#demo-1-osc-with-ort)<a name="T2.3-8">  
 - WEDNESDAY 15:15-15:45 **T2.3-9** [Demo 2: Eclipse Disuko](#demo-2-eclipse-disuko)<a name="T2.3-9">  

@@ -1,4 +1,4 @@
-# Q&A
+# Q&A - [OpenChain and Friends Stuttgart 2026](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
 - Who is event target audience?​
   - The expected audience consist of
     - International and regional Software and Subject-matter experts

@@ -1,45 +1,58 @@
 # Q&A - [OpenChain and Friends Stuttgart 2026](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
-- Who is event target audience?​
-  - The expected audience consist of
-    - International and regional Software and Subject-matter experts
-      - Open Source Compliance
-      - Cybersecurity
-      - Automotive and Robotics
-      - Artificial Intelligence
-      - Semiconductor
-      - IT
-  - Representatives from
-    - Small and Medium-sized Enterprises (SME, deutsch: KMU)
-    - Large Industry and Software companies
-    - Open Source Communities
-    - Universities
-    - Public sector (via FOSS-LÄND)​
 
-- What is the event location?​
-  - Day 1 - 24.3.2026
-    - SCC: Robert Bosch GmbH – Service and Supply Chain Campus (SCC) Feuerbach, Bregenzer Str. 26A, 70469 Stuttgart
-  - Day 2&3 - 25.-26.3.2026 there are three locations
-    - SCC: Robert Bosch GmbH – Service and Supply Chain Campus (SCC) Feuerbach, Bregenzer Str. 26A, 70469 Stuttgart
-    - ThinkTank: Bosch Digital in Ludwigsburg, Groenerstraße 5/1, 71636 Ludwigsburg
-    - STEP: Mercedes-Benz Tech Innovation in Vaihingen, Gropiusplatz 10, 70563 Stuttgart
+## **Q: Who is the event’s target audience?**
 
-- What is the content about?
-  - We will have presentations from community representatives and workshops all around Software Management in the Software Supply Chain in [10 different topics streams](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026#topicstreams). The event meant to be interactive and the concrete program will be developed and updated incrementally on the [event page](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026#program) until the event. The topic backlog is https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/openchain_and_friends_2026_prep/Events/OpenChainAndFriends26/Topic_backlog.md . Especially the education stream is meant to be very interactive. Contributions are welcome. 
+The expected audience consists of international and regional software and subject-matter experts in Open Source Compliance, Cybersecurity, Automotive and Robotics, Artificial Intelligence, Semiconductor, and IT, as well as representatives from small and medium-sized enterprises (SMEs), large industry and software companies, Open Source communities, universities, and public sector organizations (via FOSS-LÄND).
 
-- Can I already express my interest to join the event?​
-  - Yes, the registration page is here: [Register here / Hier registrieren](https://teilnehmen.e-mobilbw.de/)
+---
 
-- Do I need to purchase a ticket?​
-  - No, this will be a free event but you are required to register for a ticket​
+## **Q: What is the event location?**
 
-- Is this a Linux Foundation event?​
-  - Yes, it is, and it will adhere to the Linux Foundation's policies and code of conduct​
+Day 1 – March 24, 2026 will take place at SCC: Robert Bosch GmbH – Service and Supply Chain Campus (SCC) Feuerbach, Bregenzer Str. 26A, 70469 Stuttgart.
 
-- Is the event language english?​ / Ist die Veranstaltungssprache englisch?
-  - Yes, as we will have international participants, we plan to have english as event language, but for specific sessions we can also discuss to provide it in german (e.g. for people new to the topic) / Ja, wir haben internationale Teilnehmer, daher planen wir mit Englisch als Veranstaltungssprache. Aber wir können uns auch vorstellen bei entsprechendem Bedarf spezifische Themen (z.B. Themen für regionale Teilnehmer, die im Thema neu sind) auch in Deutsch / Schwäbisch ;-) zu machen.
+Days 2 & 3 – March 25–26, 2026 will take place across three locations:
+- SCC: Robert Bosch GmbH – Service and Supply Chain Campus (SCC) Feuerbach, Bregenzer Str. 26A, 70469 Stuttgart
+- ThinkTank: Bosch Digital, Groenerstraße 5/1, 71636 Ludwigsburg
+- STEP: Mercedes-Benz Tech Innovation, Gropiusplatz 10, 70563 Stuttgart
 
-- Target group is also SME / KMU - is this acc. to KMU 2003/361 with < 250 employees?
-  - Concerning the event we would welcome also bigger companies but want to explicitly support the small and medium businesses with the content. Only the concrete FOSS-LÄND offerings (e.g. vouchers/Beratungsgutschein etc.) are explicitly for SME / KMU in the region, see details in german only: https://www.transformationswissen-bw.de/beratung/beratungsgutschein
- 
-- Is this event limited to the automotive supply chain only?
-  - No. All domains welcome.
+---
+
+## **Q: What is the event content about?**
+
+The event will feature presentations from community representatives and workshops focused on Software Management in the Software Supply Chain across 10 different topic streams. The event is designed to be interactive, and the detailed program will be developed and updated incrementally on the event page until the event takes place. In particular, the Education stream is intended to be highly interactive. Contributions are welcome.
+
+---
+
+## **Q: Can I already express my interest in joining the event?**
+
+Yes, you can register via the official registration page.
+
+---
+
+## **Q: Do I need to purchase a ticket?**
+
+No, the event is free of charge. However, registration is required to attend.
+
+---
+
+## **Q: Is this a Linux Foundation event?**
+
+Yes, it is, and it will adhere to the Linux Foundation’s policies and Code of Conduct.
+
+---
+
+## **Q: Is the event language English?**
+
+Yes. As we expect international participants, the primary event language will be English. However, specific sessions may also be offered in German depending on the audience and topic (e.g. for participants who are new to the subject).
+
+---
+
+## **Q: The target group includes SMEs – does this refer to the EU definition of SMEs (KMU) with fewer than 250 employees?**
+
+While larger companies are also welcome to attend the event, the content is designed to explicitly support small and medium-sized businesses. Please note that specific FOSS-LÄND offerings (e.g. consulting vouchers) are available exclusively to SMEs in the region.
+
+---
+
+## **Q: Is this event limited to the automotive supply chain only?**
+
+No. Participants from all domains are welcome.

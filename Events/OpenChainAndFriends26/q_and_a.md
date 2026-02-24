@@ -56,3 +56,45 @@ While larger companies are also welcome to attend the event, the content is desi
 ## **Q: Is this event limited to the automotive supply chain only?**
 
 No. Participants from all domains are welcome.
+
+---
+
+## **Q: Will there be a socializing event during OpenChain and Friends 2026?**
+
+Yes, a socializing event sponsored by sodge IT will take place at Wichtel in Feuerbach. As participation is limited, attendees are required to register for this event separately during the main event registration process. The location details are available on the event website.
+
+---
+
+## **Q: How can I join the Women in Open Source Meetup?**
+
+Information about the Women in Open Source Meetup is available on the dedicated landing page. Participation is managed through the standard event registration process. Please make sure to select the checkbox for the Women Network Meeting when registering.
+
+---
+
+## **Q: Is there an option to participate in a webinar as a speaker?**
+
+A webinar option will be coordinated by the OpenChain General Manager starting March 1. A standardized workflow for speakers is currently being prepared. In the meantime, any related questions can be directed to the event organizers.
+
+---
+
+## **Q: How will speakers be assigned to locations and time slots?**
+
+The preliminary schedule already includes a summary of the assigned room, day, and time at the end of each session entry. Closer to the event, additional dedicated programs are expected to be published by location, by day, and by topic stream.
+
+---
+
+## **Q: Who can I contact if I have questions about a specific session stream?**
+
+Each session stream will have an assigned moderator listed in the program who will be available to address any related questions.
+
+---
+
+## **Q: Will there be briefings for speakers prior to the event?**
+
+Yes, pre-event online briefings are planned involving the assigned moderator and the respective blogger for each session.
+
+---
+
+## **Q: How will speakers receive confirmation of their session details?**
+
+Once the program reaches a stable stage, each speaker will receive an Outlook calendar invitation with the details of their assigned session, including room information. Speakers will be asked to confirm their participation by accepting this invitation.

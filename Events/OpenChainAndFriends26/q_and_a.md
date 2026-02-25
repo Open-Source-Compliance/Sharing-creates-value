@@ -98,3 +98,10 @@ Yes, pre-event online briefings are planned involving the assigned moderator and
 ## **Q: How will speakers receive confirmation of their session details?**
 
 Once the program reaches a stable stage, each speaker will receive an Outlook calendar invitation with the details of their assigned session, including room information. Speakers will be asked to confirm their participation by accepting this invitation.
+
+---
+
+## **Q: Are there any recommendations for people traveling to the event?**
+
+Accommodation in Stuttgart may be limited during the event period. We recommend considering hotel options in the greater Stuttgart area 
+north of the city (e.g. Ludwigsburg), which offer a good range of accommodation and are easily accessible via public transport from the venue.

@@ -11,7 +11,7 @@
 - WEDNESDAY 09:45-10:15 **T2.3-3** [Topic 2: Automation of SBOM Assessment in AGL Development Process](#topic-2-automation-of-sbom-assessment-in-agl-development-process)<a name="T2.3-3">  
 - WEDNESDAY 10:15-10:45 **T2.3-4** [Topic 3: ORT Server at Bosch - One Pipeline for your Compliance](#topic-3-ort-server-at-bosch---one-pipeline-for-your-compliance)<a name="T2.3-4">  
 - WEDNESDAY 11:00-11:45 **T2.3-5** [Topic 4: The Business Case for Open Data for Open Source Compliance](#topic-4-the-business-case-for-open-data-for-open-source-compliance)<a name="T2.3-5">  
-- WEDNESDAY 13:00-13:30 **T2.3-6** <a name="T2.3-6">  
+- WEDNESDAY 13:00-13:30 **T2.3-6** [Topic 5: Verfahren gegen den chinesischen Automobilhersteller SAIC](#topic-5-Verfahren-gegen-den-chinesischen-Automobilhersteller-SAIC)<a name="T2.3-6">  
 - WEDNESDAY 13:30-14:00 **T2.3-7** [Topic 6: How to distribute containers compliantly](#topic-6-how-to-distribute-containers-compliantly)<a name="T2.3-7">  
 - WEDNESDAY 14:15-15:00 **T2.3-8** [Demo 1: OSC with ORT](#demo-1-osc-with-ort)<a name="T2.3-8">  
 - WEDNESDAY 15:15-15:45 **T2.3-9** [Demo 2: Eclipse Disuko](#demo-2-eclipse-disuko)<a name="T2.3-9">  
@@ -29,24 +29,14 @@
 <sub>[go to schedule](#T1.2-Moderator)</sub>"
 
 ## Basics and background: An introduction to Open Source Compliance 
-  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
 
 ### Abstract:  
 An effective Open Source compliance program requires a basic understanding of Open Innovation strategy, copyright law and the concepts of Open Source licensing. This talk will give an introduction to these topics and show their practical relevance with real-life examples. 
 
 *Caren Kresse (OSADL)*
+
 ### Bio 
 Caren Kresse, OSADL: Caren Kresse holds a Master degree in Physics and an LLM in IT law. She specializes on practical and legal aspects of conveying Open Source software and has been working on various projects for Open Source license compliance with OSADL since 2018, including the OSADL Open Source Policy project, the OSADL License Obligations Checklists, the OSADL Container Base Image and the OSSelot curation database. Since 2024, she also serves on the OSADL board of directors. 
-
-<sub>[go to schedule](#T1.2-1)</sub>
-## Open Source based SupplyChain Management at scale 
   
 ### Slides:
 
@@ -55,6 +45,9 @@ Caren Kresse, OSADL: Caren Kresse holds a Master degree in Physics and an LLM in
 ### Webinar/Recording: 
 
 *link to webinar announcement / recording*
+
+<sub>[go to schedule](#T1.2-1)</sub>
+## Open Source based SupplyChain Management at scale 
 
 ### Abstract:  
 In today's fast-paced software landscape, diversity and agility are highly valued in development environments. However, maintaining consistent supply chain oversight across heterogeneous projects and tools presents a significant challenge.
@@ -68,11 +61,9 @@ The Apoapsis supply chain management platform builds upon specifications and cap
 The Apoapsis project implements a reference (ORT-Server) that focuses on server functionalities such as user and role management, essential APIs, and process blueprints (e.g., portfolio-level supply oversight and operational monitoring), enabling organizations to manage their open source supply chain effectively at scale. 
 
 *Nikola Babadzhanov (Bosch)*
+
 ### Bio 
 Nikola Babadzhanov joined Bosch Digital in 2022. He is an Open Source Consultant and a member of the Open Source Program Office. He provides Bosch-internal Open Source Services as a member of the Open Source Consulting team. He is a member of the Center of Excellence Open Source and Inner Source at Bosch Digital and active member of the OpenChain SBOM Study group and Tooling workgroup. Nikola is a committer on the Eclipse Apoapsis project and OpenChain Ambassador. 
-
-<sub>[go to schedule](#T1.2-2)</sub>
-## Open Source Management at Mercedes-Benz 
   
 ### Slides:
 
@@ -81,18 +72,19 @@ Nikola Babadzhanov joined Bosch Digital in 2022. He is an Open Source Consultant
 ### Webinar/Recording: 
 
 *link to webinar announcement / recording*
+
+<sub>[go to schedule](#T1.2-2)</sub>
+## Open Source Management at Mercedes-Benz 
 
 ### Abstract:  
 At Mercedes-Benz we generally foster the use of and contribution to FOSS inside and outside of our market products. At the same time, compliance with FOSS licenses is of utmost importance. A pivotal role plays the Disclosure Portal where internal and external suppliers upload the SBOMs of all open source dependencies which are validated against our own set of policy rules based on our use cases. This allows for fast feedback cycles towards full FOSS license compliance since the rules are clear and executable. 
 
 *Christian Wege (Mercedes-Benz)*
+
 ### Bio 
 Head of FOSS & continuous compliance team at IT, Mercedes-Benz Group AG 
 
 Christian is member of the Mercedes-Benz OSPO. In this context he helped define the overall FOSS strategy and implement it with services like software composition analysis, SBOM management and providing guidance to his colleagues. He is responsible for memberships in Eclipse Foundation and Linux Foundation and represents Mercedes-Benz in The FOSS Länd, which is an activity of the state of Baden-Württemberg to foster FOSS in the automotive industry. He takes his motivation to from the opportunity to bring Mercedes-Benz and the automotive industry closer to the open source community. 
-
-<sub>[go to schedule](#T1.2-3)</sub>
-## The Last Mile Problem: Turning Executive Support into Real Open Repo Contributions 
   
 ### Slides:
 
@@ -101,6 +93,9 @@ Christian is member of the Mercedes-Benz OSPO. In this context he helped define 
 ### Webinar/Recording: 
 
 *link to webinar announcement / recording*
+
+<sub>[go to schedule](#T1.2-3)</sub>
+## The Last Mile Problem: Turning Executive Support into Real Open Repo Contributions 
 
 ### Abstract:  
 0 
@@ -109,9 +104,6 @@ Christian is member of the Mercedes-Benz OSPO. In this context he helped define 
 ### Bio 
 0 
 
-<sub>[go to schedule](#T1.2-4)</sub>
-## Nikola Babadzhanov (Bosch) 
-  
 ### Slides:
 
 *link to slide of the talk*
@@ -120,52 +112,23 @@ Christian is member of the Mercedes-Benz OSPO. In this context he helped define 
 
 *link to webinar announcement / recording*
 
-### Abstract:  
-0 
-
-*0*
-### Bio 
-0 
+<sub>[go to schedule](#T1.2-4)</sub>
+## Nikola Babadzhanov (Bosch) 
 
 <sub>[go to schedule](#T2.3-Moderator)</sub>
 ## Intro to the track and agenda 
-  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
-### Abstract:  
-0 
-
-*0*
-### Bio 
-0 
 
 <sub>[go to schedule](#T2.3-1)</sub>
 ## Topic 1: CRA tooling for SMEs by the OCCTET project 
-  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
 
 ### Abstract:  
 The OCCTET project is funded by the European Union to provide open source tooling to help European SMEs comply with the Cyber Resilience Act (CRA). The presentation explains the progress made in the project and the tooling and services to help in CRA compliance available for all now. 
 
 *Martin von Willebrand (DoubleOpen) and Hans-Jürgen Schumacher (Bitsea)*
+
 ### Bio 
 Martin von Willebrand, CEO of Double Open. With a background in law, Martin is working in Double Open to deliver software supply chain governance automation to organizations, enabled by the open source OSS Review Toolkit ecosystem. 
 
-<sub>[go to schedule](#T2.3-2)</sub>
-## Topic 2: Automation of SBOM Assessment in AGL Development Process 
-  
 ### Slides:
 
 *link to slide of the talk*
@@ -173,16 +136,17 @@ Martin von Willebrand, CEO of Double Open. With a background in law, Martin is w
 ### Webinar/Recording: 
 
 *link to webinar announcement / recording*
+
+<sub>[go to schedule](#T2.3-2)</sub>
+## Topic 2: Automation of SBOM Assessment in AGL Development Process 
 
 ### Abstract:  
 0 
 
 *Hiroyuki Ishii (Panasonic)*
+
 ### Bio 
 0 
-
-<sub>[go to schedule](#T2.3-3)</sub>
-## Topic 3: ORT Server at Bosch - One Pipeline for your Compliance 
   
 ### Slides:
 
@@ -191,18 +155,19 @@ Martin von Willebrand, CEO of Double Open. With a background in law, Martin is w
 ### Webinar/Recording: 
 
 *link to webinar announcement / recording*
+
+<sub>[go to schedule](#T2.3-3)</sub>
+## Topic 3: ORT Server at Bosch - One Pipeline for your Compliance
 
 ### Abstract:  
 Update from OCaaS, the ORT Server operated at Bosch. The ORT Server project apoapsis has matured a lot over the past years and we want to give you an overview of all the important features on the example of OCaaS. Most notably are the new UI and API, but there is of course more: Open Source Dependency Checks, Snippet Scans, Vulnerability Detection, SBOM Generation (including CSI Upload), Monitoring, and a large curation database. 
 
 *Kerstin Sonnenholzer (Bosch Digital), Krzysztof Nalej (Bosch Digital)*
+
 ### Bio 
 Kerstin SonnenholzerSenior Product Owner/Tech Lead for Open Source Compliance as a Service (OCaaS) at Bosch. 
 Many years of experience as Product Owner in international companies and products in the compliance, accounting, banking, and security sectors. Focused on agile development, process optimization through automation (AI) and elevating user experience. 
-Krzysztof Nalej – Business Owner / Squad Lead at Bosch, responsible for Open Source Compliance as a Service (OCaaS) and related tooling, with a focus on scalable OSS governance, automation, and self-service capabilities for large engineering organizations. 
-
-<sub>[go to schedule](#T2.3-4)</sub>
-## Topic 4: The Business Case for Open Data for Open Source Compliance 
+Krzysztof Nalej – Business Owner / Squad Lead at Bosch, responsible for Open Source Compliance as a Service (OCaaS) and related tooling, with a focus on scalable OSS governance, automation, and self-service capabilities for large engineering organizations.
   
 ### Slides:
 
@@ -211,6 +176,9 @@ Krzysztof Nalej – Business Owner / Squad Lead at Bosch, responsible for Open S
 ### Webinar/Recording: 
 
 *link to webinar announcement / recording*
+
+<sub>[go to schedule](#T2.3-4)</sub>
+## Topic 4: The Business Case for Open Data for Open Source Compliance 
 
 ### Abstract:  
 Software compliance – whether for licensing or security – depends on accurate data about millions of open source components. Many organizations scan – and rescan – the same packages and then correct the same incorrect data. This redundancy wastes resources, and leads to inconsistent compliance outcomes and delays within product supply chains. 
@@ -222,11 +190,9 @@ This talk will explain why open data is essential for scalable compliance workfl
 When compliance data is shared like public infrastructure, we all comply better and faster, together. 
 
 *Thomas Steenbergen (AboutCode)*
+
 ### Bio 
 Thomas Steenbergen specializes in strategic open source management, helping organizations align their open source practices with their objectives. An expert in open source adoption, community building, and compliance – including Software Bill of Materials (SBOMs). Currently he is the executive director at the AboutCode foundation and advisor to the Open Source Program Office at SIVON (ICT co-op of Dutch schools). He previously led OSPO at EPAM and HERE. He is a OSS Review Toolkit, SPDX, TODO group maintainer and a regular contributor to FINOS’s Open Source Readiness and OpenChain. Thomas welcomes discussions on open source topics. For more information about the projects he is involved in and his contact details, visit github.com/tsteenbe. 
-
-<sub>[go to schedule](#T2.3-5)</sub>
-## Topic 5: 
   
 ### Slides:
 
@@ -235,17 +201,17 @@ Thomas Steenbergen specializes in strategic open source management, helping orga
 ### Webinar/Recording: 
 
 *link to webinar announcement / recording*
+
+<sub>[go to schedule](#T2.3-5)</sub>
+## Topic 5: Verfahren gegen den chinesischen Automobilhersteller SAIC
 
 ### Abstract:  
 0 
-
+*Herrn Jun and Frau Rossman*
 
 ### Bio 
 0 
 
-<sub>[go to schedule](#T2.3-6)</sub>
-## Topic 6: How to distribute containers compliantly 
-  
 ### Slides:
 
 *link to slide of the talk*
@@ -253,16 +219,17 @@ Thomas Steenbergen specializes in strategic open source management, helping orga
 ### Webinar/Recording: 
 
 *link to webinar announcement / recording*
+
+<sub>[go to schedule](#T2.3-6)</sub>
+## Topic 6: How to distribute containers compliantly 
 
 ### Abstract:  
 Fulfilling FOSS license obligations for containers is made difficult by their layered structure and the lack of compliance material in public repositories. Since a large part of a container's software is part of the base layer, using license compliant base images like the OSADL Container Base Images (osadl.org/base-image) can simplify compliance significantly. This presentation will explain how a license compliant base image is created and show what is required to fulfill license obligations for the additional software. 
 
 *Caren Kresse (OSADL)*
-### Bio 
-same as I6 
 
-<sub>[go to schedule](#T2.3-7)</sub>
-## Demo 1: OSC with ORT 
+### Bio 
+Caren Kresse, OSADL: Caren Kresse holds a Master degree in Physics and an LLM in IT law. She specializes on practical and legal aspects of conveying Open Source software and has been working on various projects for Open Source license compliance with OSADL since 2018, including the OSADL Open Source Policy project, the OSADL License Obligations Checklists, the OSADL Container Base Image and the OSSelot curation database. Since 2024, she also serves on the OSADL board of directors. 
   
 ### Slides:
 
@@ -271,6 +238,9 @@ same as I6
 ### Webinar/Recording: 
 
 *link to webinar announcement / recording*
+
+<sub>[go to schedule](#T2.3-7)</sub>
+## Demo 1: OSC with ORT 
 
 ### Abstract:  
 Open source compliance is often discussed in terms of policies and standards, yet
@@ -293,11 +263,9 @@ running scans after decisions are recorded results in progressively cleaner outp
 reflecting a maturing compliance state. 
 
 *Andrei Sacal (ScanOSS)*
+
 ### Bio 
 Andrei was born in Moldova and grew up in Ireland, where he studied Robotics and Intelligent Devices at the National University of Ireland Maynooth. He enjoys bridging the gap between engineering and user experience. Now based in Spain, Andrei works at SCANOSS as a Technical Product Specialist, developing documentation, demos, and integrations that help users adopt and extend the company’s open source tools. 
-
-<sub>[go to schedule](#T2.3-8)</sub>
-## Demo 2: Eclipse Disuko 
   
 ### Slides:
 
@@ -306,6 +274,9 @@ Andrei was born in Moldova and grew up in Ireland, where he studied Robotics and
 ### Webinar/Recording: 
 
 *link to webinar announcement / recording*
+
+<sub>[go to schedule](#T2.3-8)</sub>
+## Demo 2: Eclipse Disuko 
 
 ### Abstract:  
 0 
@@ -313,9 +284,6 @@ Andrei was born in Moldova and grew up in Ireland, where he studied Robotics and
 *Christian Wege and devs (Mercedes-Benz)*
 ### Bio 
 0 
-
-<sub>[go to schedule](#T2.3-9)</sub>
-## Topic 7: SBOM for Operational Compliance - SPDX Operations Profile 
   
 ### Slides:
 
@@ -324,6 +292,9 @@ Andrei was born in Moldova and grew up in Ireland, where he studied Robotics and
 ### Webinar/Recording: 
 
 *link to webinar announcement / recording*
+
+<sub>[go to schedule](#T2.3-9)</sub>
+## Topic 7: SBOM for Operational Compliance - SPDX Operations Profile 
 
 ### Abstract:  
 SBOMs have long helped us track what’s inside our software. But what about where software can go, how it can be used, and whether it’s legally deployable? 
@@ -334,9 +305,6 @@ As global demand for operational compliance grows, the SPDX 3 Operations Profile
 Ummo Schwarting is an expert in Open Source compliance management with an industry background in governance, processes, and technology. He actively contributes to global standards through initiatives like OpenChain and is co-initiator of the SPDX 3 Operations Profile. 
 As part of Deloitte’s Extended Enterprise practice, Ummo helps organizations identify and leverage their Open Source assets while assessing and managing associated risks. 
 
-<sub>[go to schedule](#T2.3-10)</sub>
-## Unconference - Process and Tooling tracks 
-  
 ### Slides:
 
 *link to slide of the talk*
@@ -345,29 +313,13 @@ As part of Deloitte’s Extended Enterprise practice, Ummo helps organizations i
 
 *link to webinar announcement / recording*
 
-### Abstract:  
-0 
+<sub>[go to schedule](#T2.3-10)</sub>
+## Unconference - Process and Tooling tracks 
 
-*0*
-### Bio 
+### Abstract:  
 0 
 
 <sub>[go to schedule](#T2.3-11)</sub>
 ## Wrap up / Goodbye 
-  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
-### Abstract:  
-0 
-
-*0*
-### Bio 
-0 
 
 <sub>[go to schedule](#T2.3-12)</sub>

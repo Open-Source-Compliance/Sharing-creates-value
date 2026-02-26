@@ -308,11 +308,14 @@ Andrei was born in Moldova and grew up in Ireland, where he studied Robotics and
 *link to webinar announcement / recording*
 
 ### Abstract:  
-0 
+Disuko is an open source project at the Eclipse Foundation designed to simplify and operationalize FOSS license compliance. It provides a practical and developer friendly approach to validating SBOMs against clearly defined policy rules.
+ 
+In this live session, we demonstrate how Disuko can be started locally within minutes using a containerized setup. Without requiring prior knowledge, participants will see how an SBOM can be uploaded and automatically validated against example license policies, with immediate and transparent feedback on compliance status. The session highlights how executable policy rules and an intuitive workflow enable fast feedback cycles and make license governance accessible, scalable, and easy to adopt.
 
-*Christian Wege and devs (Mercedes-Benz)*
+*Matthias Ebel-Koch (Mercedes-Benz)*
 ### Bio 
-0 
+Matthias is a Senior Software Engineer at Mercedes-Benz Tech Innovation, working on open source governance and automation around FOSS compliance. He focuses on building practical, developer-friendly tooling that integrates compliance workflows directly into engineering processes.
+With a background as founder and managing director of an AI-driven software company, he combines enterprise architecture experience with hands-on implementation. His work centers on automation, document-centric systems, and building scalable platforms that reduce friction between development speed and regulatory requirements.
 
 <sub>[go to schedule](#T2.3-9)</sub>
 ## Topic 7: SBOM for Operational Compliance - SPDX Operations Profile 

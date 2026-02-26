@@ -1,49 +1,49 @@
 # Agenda
-- THURSDAY 9:00-16:00 **T3.2-Moderator** [Christian Höppler](#christian-höppler)<a name="T3.2-Moderator">  
-- THURSDAY 9:00-9:15 **T3.2-1** [Welcome and Introduction to the Stream](#welcome-and-introduction-to-the-stream)<a name="T3.2-1">  
-- THURSDAY 9:15-09:35 **T3.2-2** [Keynote on Innovations in Open Source](#keynote-on-innovations-in-open-source)<a name="T3.2-2">  
-- THURSDAY 9:40-10:10 **T3.2-3** [Navigating the Future: How Open-Source Powers Optimal great/suitable eBike Routes at Bosch eBike](#navigating-the-future-how-open-source-powers-optimal-greatsuitable-ebike-routes-at-bosch-ebike)<a name="T3.2-3">  
-- THURSDAY 10:15-10:30 **T3.2-4** [Augmented Reality based on Open Source](#augmented-reality-based-on-open-source)<a name="T3.2-4">  
-- THURSDAY 10:45-11:15 **T3.2-5** [Industrial ROS meets SMEs](#industrial-ros-meets-smes)<a name="T3.2-5">  
-- THURSDAY 11:20-11:50 **T3.2-6** [X-Wiki](#x-wiki)<a name="T3.2-6">  
-- THURSDAY 11:55-12:25 **T3.2-7** [tba](#tba)<a name="T3.2-7">  
-- THURSDAY 13:45-14:15 **T3.2-8** [Open Source at Carl Laemmle Institut of Filmakademie Baden-Württemberg](#open-source-at-carl-laemmle-institut-of-filmakademie-baden-württemberg)<a name="T3.2-8">  
-- THURSDAY 14:15-14:30 **T3.2-9** [Innovation Practices Workshop](#innovation-practices-workshop)<a name="T3.2-9">  
-- THURSDAY 14:30-15:15 **T3.2-10** [Workshop Part 1](#workshop-part-1)<a name="T3.2-10">  
-- THURSDAY 15:20-16:05 **T3.2-11** [Workshop Part 2](#workshop-part-2)<a name="T3.2-11">  
-- THURSDAY 16:05-16:30 **T3.2-12** [Wrap-up and Goodbye](#wrap-up-and-goodbye)<a name="T3.2-12">
+- THURSDAY SCC ROOM2 9:00-16:30 **T3.2-Moderator** Christian Höppler (Robert Bosch GmbH)<a name="T3.2-Moderator">  
+- THURSDAY SCC ROOM2 9:00-9:15 **T3.2-1** [Welcome and Introduction to the Stream, *Christian Höppler (Robert Bosch GmbH)*](#welcome-and-introduction-to-the-stream)<a name="T3.2-1">  
+- THURSDAY SCC ROOM2 9:15-09:35 **T3.2-2** [Keynote: Innovation in Open Source, *Shane Coughlan (OIN)*](#keynote-innovation-in-open-source)<a name="T3.2-2">  
+- THURSDAY SCC ROOM2 9:40-10:10 **T3.2-3** [Navigating the Open: Our Bosch eBike Flow Journey with GraphHopper & OSM, *Dr. Olaf Flebbe (Robert Bosch GmbH)*](#navigating-the-open-our-bosch-ebike-flow-journey-with-graphhopper--osm)<a name="T3.2-3">  
+- THURSDAY SCC ROOM2 10:15-10:30 **T3.2-4** [Mitfahren-BW: Open-Source Ride-Sharing Portal for Baden-Württemberg, *Martin Hovekamp (Mitfahrverband e.V.)*](#mitfahren-bw-open-source-ride-sharing-portal-for-baden-württemberg)<a name="T3.2-4">  
+- THURSDAY SCC ROOM2 10:30-11:00 **T3.2-5** [Industrial ROS meets SMEs, *Yasmine Makkaoui (Fraunhofer)*](#industrial-ros-meets-smes)<a name="T3.2-5">  
+- THURSDAY SCC ROOM2 11:00-11:30 **T3.2-6** [X-Wiki, *Michael Hamann (XWiki)*](#x-wiki)<a name="T3.2-6">  
+- THURSDAY SCC ROOM2 11:30-12:00 **T3.2-7** [Support & Care – Professional Stewardship for Your Java Foundation, *Hendrik Ebbers (Open Elements)*](#support--care--professional-stewardship-for-your-java-foundation)<a name="T3.2-7">  
+- THURSDAY SCC ROOM2 12:00-12:30 **T3.2-8** [TBD - Adfinis, *N.N. (Adfinis)*](#tbd---adfinis)<a name="T3.2-8">  
+- THURSDAY SCC ROOM2 13:30-13:45 **T3.2-9** [Vibrating Virtual Reality Voyage or Waiting for Godot, *Alexander Dais*](#vibrating-virtual-reality-voyage-or-waiting-for-godot)<a name="T3.2-9">  
+- THURSDAY SCC ROOM2 13:45-14:15 **T3.2-10** [Open Source at Carl Laemmle Institut of Filmakademie Baden-Württemberg, *Volker Helzle (Filmakademie Ludwigsburg)*](#open-source-at-carl-laemmle-institut-of-filmakademie-baden-württemberg)<a name="T3.2-10">  
+- THURSDAY SCC ROOM2 14:15-14:30 **T3.2-11** [Innovation Practices Workshop, *Tobias Frech (JUGS)*](#innovation-practices-workshop)<a name="T3.2-11">  
+- THURSDAY SCC ROOM2 14:30-15:15 **T3.2-12** [Workshop Part 1, *0*](#workshop-part-1)<a name="T3.2-12">  
+- THURSDAY SCC ROOM2 15:20-16:05 **T3.2-13** [Workshop Part 2, *0*](#workshop-part-2)<a name="T3.2-13">  
+- THURSDAY SCC ROOM2 16:05-16:30 **T3.2-14** [Wrap-up and Goodbye, *0*](#wrap-up-and-goodbye)<a name="T3.2-14">  
 
 # Details
 
+## Moderator
+Christian Höppler (Robert Bosch GmbH) 
+  
+<sub>[go to schedule](#T3.2-Moderator)</sub>
 ## Welcome and Introduction to the Stream 
   
-### Slides:
+*Christian Höppler (Robert Bosch GmbH)*  
 
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
+<sub>[go to schedule](#T3.2-1)</sub>
+## Keynote: Innovation in Open Source 
+  
 ### Abstract:  
-tba 
+Open source has become the dominant force in software, and it remains the purest manifestation of open innovation realized. As such, it inspires further innovation in other fields such as hardware, data and artificial intelligence. With unlimited potential, and with organically growing communities, the biggest challenge we face around open innovation is governance that fosters true sustainability. This keynote will provide some key contextualization of how to address such challenges, and will provide a brief case study of one example: OIN 2.0.  
+  
+*Shane Coughlan (OIN)*  
+  
+### Bio  
+Shane Coughlan, Global Ambassador OIN 2.0, Open Invention Network
 
-*N.N.*
-### Bio 
-tba 
+Shane works at the intersection of Open Source policy, international standards and Intellectual Property strategy to build scalable frameworks for complex, multi-stakeholder ecosystems. His focus is on navigating the demands of modern IP pipelines.
 
-<sub>[go to schedule](#T3.2-1)</sub>  
-### Slides:
+Before joining OIN, Shane was General Manager of the OpenChain Project, leading the development of two ISO/IEC standards — ISO/IEC 5230 for Open Source license compliance and ISO/IEC 18974 for Open Source security assurance — now adopted by organizations worldwide. He also coordinated industry guidance on Software Bill of Materials (SBOM) quality, AI Bill of Materials compliance and compliance program maturity, working with enterprises, nonprofits and government bodies across 3 continents.
 
-*link to slide of the talk*
+Earlier in his career, Shane founded the European Legal Network, the largest professional community for Open Source legal practitioners. He also co founded both the 'International Free and Open Source Software Law Review' and the 'International Free and Open Source Software Law Book' — the first comprehensive country by country analysis of Open Source law. During his first tenure with OIN from 2009 to 2015, he helped scale the patent non aggression community from dozens to thousands of participating companies.
 
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
-### Abstract:  
-tba
-## Keynote on Innovations in Open Source 
+For over a decade, Shane has served on the Board and General Assembly of OpenForum Europe, helping guide its evolution from a membership funded association into a project funded policy think tank.
+  
   
 ### Slides:
 
@@ -53,25 +53,19 @@ tba
 
 *link to webinar announcement / recording*
 
+ 
+
+<sub>[go to schedule](#T3.2-2)</sub>
+## Navigating the Open: Our Bosch eBike Flow Journey with GraphHopper & OSM 
+  
 ### Abstract:  
-tba 
-
-*N.N.*
-### Bio 
-tba 
-
-<sub>[go to schedule](#T3.2-2)</sub>  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
-### Abstract:  
-tba
-## Navigating the Future: How Open-Source Powers Optimal great/suitable eBike Routes at Bosch eBike 
+The Bosch eBike Flow App utilizes a robust navigation engine, where we leverage GraphHopper, powered by OpenStreetMap (OSM) data. This talk details our engine implementation and provides an overview of the GraphHopper open-source ecosystem, highlighting its role as a navigation engine for routing. We'll discuss OSM as GraphHopper's primary data source and relevant supporting open-source libraries we contribute to.
+The presentation then shifts to our organization's current engagement, outlining our initial steps as an open-source citizen. We'll discuss efforts to contribute back, illustrating our intent to move beyond sole consumption and become a more active community participant. This session covers the GraphHopper/OSM technical landscape and describes our early-stage journey into open-source contribution.  
+  
+*Dr. Olaf Flebbe (Robert Bosch GmbH)*  
+  
+### Bio  
+Olaf Flebbe is a Lead Developer within the Bosch eBike Navigation Team. Since joining Bosch in 2017, his work has focused on developing performant, portable, and efficient solutions. Holding a PhD in Astrophysics (Computational Physics), Olaf's background includes experience in high-performance computing, big data, and computer graphics. He has contributed to open source since the mid-90s and is a member of the Apache Software Foundation, bringing experience in collaborative software development to e-bike navigation projects.  
   
 ### Slides:
 
@@ -81,25 +75,18 @@ tba
 
 *link to webinar announcement / recording*
 
+ 
+
+<sub>[go to schedule](#T3.2-3)</sub>
+## Mitfahren-BW: Open-Source Ride-Sharing Portal for Baden-Württemberg 
+  
 ### Abstract:  
-tba 
-
-*Olaf Flebbe (Bosch)*
-### Bio 
-tba 
-
-<sub>[go to schedule](#T3.2-3)</sub>  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
-### Abstract:  
-tba
-## Augmented Reality based on Open Source 
+Mitfahren-BW is an open-source ride-sharing portal launched by the Ministry of Transport of Baden-Württemberg. Built on OpenTripPlanner and using open data from NVBW MobiDataBW, it consolidates all state-wide ride-sharing offers via an Amarillo instance. Data are provided in open standard formats GTFS and GTFS-RT with minute-level updates, enabling real-time integration into the Landesportal and other local city navigation systems. The platform demonstrates scalable, sustainable shared mobility solutions and can be adapted for corporate carpooling or regional transport planning.  
+  
+*Martin Hovekamp (Mitfahrverband e.V.)*  
+  
+### Bio  
+Martin Hovekamp studied at RWTH Aachen and worked over 30 years at Hewlett-Packard in software development, from 3D CAD and UI design to AI-based IT systems, agile processes, and global AI-supported software quality assurance. In the 1990s, he co-developed analog and digital corporate ride-sharing systems, later evolving them into the award-winning eMIT platform. He co-founded the non-profit Mitfahrverband e.V. for the DACH region and currently serves as its board spokesperson, promoting shared, sustainable, and equitable mobility.  
   
 ### Slides:
 
@@ -109,26 +96,19 @@ tba
 
 *link to webinar announcement / recording*
 
-### Abstract:  
-tba 
+ 
 
-*Alexander Dais*
-### Bio 
-tba 
-
-<sub>[go to schedule](#T3.2-4)</sub>  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
-### Abstract:  
-tba
+<sub>[go to schedule](#T3.2-4)</sub>
 ## Industrial ROS meets SMEs 
   
+### Abstract:  
+0  
+  
+*Yasmine Makkaoui (Fraunhofer)*  
+  
+### Bio  
+0  
+  
 ### Slides:
 
 *link to slide of the talk*
@@ -137,53 +117,18 @@ tba
 
 *link to webinar announcement / recording*
 
-### Abstract:  
-tba 
+ 
 
-*Yasmine Makkaoui (Fraunhofer)*
-### Bio 
-tba 
-
-<sub>[go to schedule](#T3.2-5)</sub>  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
-### Abstract:  
-tba
+<sub>[go to schedule](#T3.2-5)</sub>
 ## X-Wiki 
   
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
 ### Abstract:  
-Case Study 
-
-*Michael Hamann*
-### Bio 
-tba 
-
-<sub>[go to schedule](#T3.2-6)</sub>  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
-### Abstract:  
-Case Study
-## tba 
+Case Study  
+  
+*Michael Hamann (XWiki)*  
+  
+### Bio  
+0  
   
 ### Slides:
 
@@ -193,14 +138,26 @@ Case Study
 
 *link to webinar announcement / recording*
 
+ 
+
+<sub>[go to schedule](#T3.2-6)</sub>
+## Support & Care – Professional Stewardship for Your Java Foundation 
+  
 ### Abstract:  
-tba 
+Modern software consists of more than 70% open-source components. These building blocks power build pipelines, testing strategies, logging infrastructures, and runtime environments. They form the technical foundation of today’s business software. Starting in 2027, manufacturers of commercial software will bear full responsibility for these dependencies under the Cyber Resilience Act (CRA).
+With Support & Care, we provide professional stewardship for precisely these foundational components within the Java ecosystem. Specifically, Support & Care covers a curated package of core Java technologies: Apache Maven, JUnit, Apache Log4j, Apache Commons, and the Eclipse Temurin Java Runtime. This is enabled through close collaboration with the respective maintainers and active engagement within the project communities.
+In this presentation, we demonstrate why true digital sovereignty does not end with a cloud strategy, but continues with the active governance of business-critical open-source core components. Support & Care addresses exactly this layer and helps you to enable resilient, auditable, and CRA-compliant software supply chains.
 
-*N.N.*
-### Bio 
-tba 
-
-<sub>[go to schedule](#T3.2-7)</sub>  
+  
+  
+*Hendrik Ebbers (Open Elements)*  
+  
+### Bio  
+Hendrik Ebbers is the founder of Open Elements, a company focused on professional open source services, governance, and sustainable software development. Open Elements is one of the main contributor of Apache Maven.
+Hendrik is a member of the Board of Directors of the Eclipse Foundation. He is co-leading and contributing to several critical open source projects at Eclipse like JakartaEE or Adoptium.
+At Linux Foundation Hendrik is leading the Hiero project, that is the base of Hedera, one of the biggest public DLTs. In his position as Director of Open Source at Hashgraph Inc. Hendrik leads the technical steering committee for the Hiero project and is Vice Chair of a Technical Advisory Board of Linux Foundation.
+  
+  
 ### Slides:
 
 *link to slide of the talk*
@@ -209,10 +166,65 @@ tba
 
 *link to webinar announcement / recording*
 
+ 
+
+<sub>[go to schedule](#T3.2-7)</sub>
+## TBD - Adfinis 
+  
 ### Abstract:  
-tba
+Case Study  
+  
+*N.N. (Adfinis)*  
+  
+### Bio  
+0  
+  
+### Slides:
+
+*link to slide of the talk*
+
+### Webinar/Recording: 
+
+*link to webinar announcement / recording*
+
+ 
+
+<sub>[go to schedule](#T3.2-8)</sub>
+## Vibrating Virtual Reality Voyage or Waiting for Godot 
+  
+### Abstract:  
+This session embarks on a unique and expert expedition through the current XR landscape of Southern Germany. Alexander Dais showcases outstanding locations in the region where the boundaries of reality—from the Unware Holodeck to commercial VR arcades—are already blurring today. In parallel, he shares his initial practical development experiences with the open-source Godot Engine, exploring its potential as a lean alternative for immersive prototyping. This journey provides a personal perspective on the actual state of the Metaverse.  
+  
+*Alexander Dais*  
+  
+### Bio  
+With over 21 years of experience, Computer Science graduate Alexander Dais is a distinguished expert in Innovation and Virtual Reality, having held pivotal roles at Bosch and the Kärcher subsidiary ZOI. During his tenure at Bosch Engineering, he founded and led a five-member User Experience team and spearheaded several pioneering projects. He established Bosch’s first company-wide Metaverse Lab and, as early as 2016, managed the first commercial HTC VIVE project for VR safety training. Furthermore, he secured the first Epic MegaGrant for Bosch in the field of vehicle dynamics simulation. Alexander Dais has also significantly shaped the regional innovation landscape by initiating the first XR projects within the Ludwigsburg Innovation Network and at the historic Ludwigsburg Palace.  
+  
+### Slides:
+
+*link to slide of the talk*
+
+### Webinar/Recording: 
+
+*link to webinar announcement / recording*
+
+ 
+
+<sub>[go to schedule](#T3.2-9)</sub>
 ## Open Source at Carl Laemmle Institut of Filmakademie Baden-Württemberg 
   
+### Abstract:  
+The recently established Carl Laemmle Institut for Research and Media Innovation (CLI) is a successor of the former R&D department at Animationsinstitut of Filmakademie Baden-Württemberg. This group has engaged in diverse film and media related innovations such as Digital Actors, Virtual Production, Artificial Intelligence, Digital Locations, Sustainable Media Productions and eXtended Reality. The team is engaged in regional and international research projects with the majority of its developments being Open-Source. While the primary focus of the innovation group is film and media, many examples confirm the cross-innovation potential of creative industries. This talk will give a broader overview of the current and future activities...
+
+about Carl Laemmle Institut: https://shorturl.at/qKSMl
+web: https://research.animationsinstitut.de/, https://www.filmakademie.de
+github: https://github.com/FilmakademieRnd  
+  
+*Volker Helzle (Filmakademie Ludwigsburg)*  
+  
+### Bio  
+0  
+  
 ### Slides:
 
 *link to slide of the talk*
@@ -221,34 +233,19 @@ tba
 
 *link to webinar announcement / recording*
 
-### Abstract:  
-The recently established Carl Laemmle Institut for Research and Media Innovation (CLI) is a successor of the former R&D department at Animationsinstitut of Filmakademie Baden-Württemberg. This group has engaged in diverse film and media related innovations such as Digital Actors, Virtual Production, Artificial Intelligence, Digital Locations, Sustainable Media Productions and eXtended Reality. The team is engaged in regional and international research projects with the majority of its developments being Open-Source. While the primary focus of the innovation group is film and media, many examples confirm the cross-innovation potential of creative industries. This talk will give a broader overview of the current and future activities...
+ 
 
-about Carl Laemmle Institut: https://shorturl.at/qKSMl
-web: https://research.animationsinstitut.de/, https://www.filmakademie.de
-github: https://github.com/FilmakademieRnd 
-
-*Volker Helzle (Filmakademie Ludwigsburg)*
-### Bio 
-tba 
-
-<sub>[go to schedule](#T3.2-8)</sub>  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
-### Abstract:  
-The recently established Carl Laemmle Institut for Research and Media Innovation (CLI) is a successor of the former R&D department at Animationsinstitut of Filmakademie Baden-Württemberg. This group has engaged in diverse film and media related innovations such as Digital Actors, Virtual Production, Artificial Intelligence, Digital Locations, Sustainable Media Productions and eXtended Reality. The team is engaged in regional and international research projects with the majority of its developments being Open-Source. While the primary focus of the innovation group is film and media, many examples confirm the cross-innovation potential of creative industries. This talk will give a broader overview of the current and future activities...
-
-about Carl Laemmle Institut: https://shorturl.at/qKSMl
-web: https://research.animationsinstitut.de/, https://www.filmakademie.de
-github: https://github.com/FilmakademieRnd
+<sub>[go to schedule](#T3.2-10)</sub>
 ## Innovation Practices Workshop 
   
+### Abstract:  
+0  
+  
+*Tobias Frech (JUGS)*  
+  
+### Bio  
+0  
+  
 ### Slides:
 
 *link to slide of the talk*
@@ -257,26 +254,19 @@ github: https://github.com/FilmakademieRnd
 
 *link to webinar announcement / recording*
 
-### Abstract:  
-tba 
+ 
 
-*Tobias Frech (JUGS)*
-### Bio 
-tba 
-
-<sub>[go to schedule](#T3.2-9)</sub>  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
-### Abstract:  
-tba
+<sub>[go to schedule](#T3.2-11)</sub>
 ## Workshop Part 1 
   
+### Abstract:  
+0  
+  
+*0*  
+  
+### Bio  
+0  
+  
 ### Slides:
 
 *link to slide of the talk*
@@ -285,26 +275,19 @@ tba
 
 *link to webinar announcement / recording*
 
-### Abstract:  
-tba 
+ 
 
-*0*
-### Bio 
-tba 
-
-<sub>[go to schedule](#T3.2-10)</sub>  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
-### Abstract:  
-tba
+<sub>[go to schedule](#T3.2-12)</sub>
 ## Workshop Part 2 
   
+### Abstract:  
+0  
+  
+*0*  
+  
+### Bio  
+0  
+  
 ### Slides:
 
 *link to slide of the talk*
@@ -313,53 +296,18 @@ tba
 
 *link to webinar announcement / recording*
 
-### Abstract:  
-tba 
+ 
 
-*0*
-### Bio 
-tba 
-
-<sub>[go to schedule](#T3.2-11)</sub>  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
-### Abstract:  
-tba
+<sub>[go to schedule](#T3.2-13)</sub>
 ## Wrap-up and Goodbye 
   
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
 ### Abstract:  
-tba 
-
-*0*
-### Bio 
-tba 
-
-<sub>[go to schedule](#T3.2-12)</sub>  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
-### Abstract:  
-tba
-## 0 
+0  
+  
+*0*  
+  
+### Bio  
+0  
   
 ### Slides:
 
@@ -369,49 +317,6 @@ tba
 
 *link to webinar announcement / recording*
 
-### Abstract:  
-0 
+ 
 
-*0*
-### Bio 
-0 
-
-<sub>[go to schedule](#T3.2-13)</sub>  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
-### Abstract:  
-0
-## 0 
-  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
-### Abstract:  
-0 
-
-*0*
-### Bio 
-0 
-
-<sub>[go to schedule](#T3.2-14)</sub>  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
-### Abstract:  
-0
+<sub>[go to schedule](#T3.2-14)</sub>

@@ -1,31 +1,38 @@
 # Agenda
-- THURSDAY SCC ROOM2 9:00-16:30 **T3.2-Moderator** Christian Höppler (Robert Bosch GmbH)<a name="T3.2-Moderator">  
-- THURSDAY SCC ROOM2 9:00-9:15 **T3.2-1** [Welcome and Introduction to the Stream, *Christian Höppler (Robert Bosch GmbH)*](#welcome-and-introduction-to-the-stream)<a name="T3.2-1">  
-- THURSDAY SCC ROOM2 9:15-09:35 **T3.2-2** [Keynote: Innovation in Open Source, *Shane Coughlan (OIN)*](#keynote-innovation-in-open-source)<a name="T3.2-2">  
-- THURSDAY SCC ROOM2 9:40-10:10 **T3.2-3** [Navigating the Open: Our Bosch eBike Flow Journey with GraphHopper & OSM, *Dr. Olaf Flebbe (Robert Bosch GmbH)*](#navigating-the-open-our-bosch-ebike-flow-journey-with-graphhopper--osm)<a name="T3.2-3">  
-- THURSDAY SCC ROOM2 10:15-10:30 **T3.2-4** [Mitfahren-BW: Open-Source Ride-Sharing Portal for Baden-Württemberg, *Martin Hovekamp (Mitfahrverband e.V.)*](#mitfahren-bw-open-source-ride-sharing-portal-for-baden-württemberg)<a name="T3.2-4">  
-- THURSDAY SCC ROOM2 10:30-11:00 **T3.2-5** [Industrial ROS meets SMEs, *Yasmine Makkaoui (Fraunhofer)*](#industrial-ros-meets-smes)<a name="T3.2-5">  
-- THURSDAY SCC ROOM2 11:00-11:30 **T3.2-6** [X-Wiki, *Michael Hamann (XWiki)*](#x-wiki)<a name="T3.2-6">  
-- THURSDAY SCC ROOM2 11:30-12:00 **T3.2-7** [Support & Care – Professional Stewardship for Your Java Foundation, *Hendrik Ebbers (Open Elements)*](#support--care--professional-stewardship-for-your-java-foundation)<a name="T3.2-7">  
-- THURSDAY SCC ROOM2 12:00-12:30 **T3.2-8** [TBD - Adfinis, *N.N. (Adfinis)*](#tbd---adfinis)<a name="T3.2-8">  
-- THURSDAY SCC ROOM2 13:30-13:45 **T3.2-9** [Vibrating Virtual Reality Voyage or Waiting for Godot, *Alexander Dais*](#vibrating-virtual-reality-voyage-or-waiting-for-godot)<a name="T3.2-9">  
-- THURSDAY SCC ROOM2 13:45-14:15 **T3.2-10** [Open Source at Carl Laemmle Institut of Filmakademie Baden-Württemberg, *Volker Helzle (Filmakademie Ludwigsburg)*](#open-source-at-carl-laemmle-institut-of-filmakademie-baden-württemberg)<a name="T3.2-10">  
-- THURSDAY SCC ROOM2 14:15-14:30 **T3.2-11** [Innovation Practices Workshop, *Tobias Frech (JUGS)*](#innovation-practices-workshop)<a name="T3.2-11">  
-- THURSDAY SCC ROOM2 14:30-15:15 **T3.2-12** [Workshop Part 1, *0*](#workshop-part-1)<a name="T3.2-12">  
-- THURSDAY SCC ROOM2 15:20-16:05 **T3.2-13** [Workshop Part 2, *0*](#workshop-part-2)<a name="T3.2-13">  
-- THURSDAY SCC ROOM2 16:05-16:30 **T3.2-14** [Wrap-up and Goodbye, *0*](#wrap-up-and-goodbye)<a name="T3.2-14">  
+- THURSDAY SCC ROOM2 9:00-16:30 **T3.2-Moderator** [Christian Höppler (Robert Bosch GmbH), *0*](#T3.2-Moderator)<a name="T3.2-Moderatorm">  
+- THURSDAY SCC ROOM2 9:00-9:15 **T3.2-1** [Welcome and Introduction to the Stream, *Christian Höppler (Robert Bosch GmbH)*](#T3.2-1)<a name="T3.2-1m">  
+- THURSDAY SCC ROOM2 9:15-09:35 **T3.2-2** [Keynote: Innovation in Open Source, *Shane Coughlan (OIN)*](#T3.2-2)<a name="T3.2-2m">  
+- THURSDAY SCC ROOM2 9:40-10:10 **T3.2-3** [Navigating the Open: Our Bosch eBike Flow Journey with GraphHopper & OSM, *Dr. Olaf Flebbe (Robert Bosch GmbH)*](#T3.2-3)<a name="T3.2-3m">  
+- THURSDAY SCC ROOM2 10:15-10:30 **T3.2-4** [Mitfahren-BW: Open-Source Ride-Sharing Portal for Baden-Württemberg, *Martin Hovekamp (Mitfahrverband e.V.)*](#T3.2-4)<a name="T3.2-4m">  
+- THURSDAY SCC ROOM2 10:30-11:00 **T3.2-5** [Industrial ROS meets SMEs, *Yasmine Makkaoui (Fraunhofer)*](#T3.2-5)<a name="T3.2-5m">  
+- THURSDAY SCC ROOM2 11:00-11:30 **T3.2-6** [X-Wiki, *Michael Hamann (XWiki)*](#T3.2-6)<a name="T3.2-6m">  
+- THURSDAY SCC ROOM2 11:30-12:00 **T3.2-7** [Support & Care – Professional Stewardship for Your Java Foundation, *Hendrik Ebbers (Open Elements)*](#T3.2-7)<a name="T3.2-7m">  
+- THURSDAY SCC ROOM2 12:00-12:30 **T3.2-8** [TBD - Adfinis, *N.N. (Adfinis)*](#T3.2-8)<a name="T3.2-8m">  
+- THURSDAY SCC ROOM2 13:30-13:45 **T3.2-9** [Vibrating Virtual Reality Voyage or Waiting for Godot, *Alexander Dais*](#T3.2-9)<a name="T3.2-9m">  
+- THURSDAY SCC ROOM2 13:45-14:15 **T3.2-10** [Open Source at Carl Laemmle Institut of Filmakademie Baden-Württemberg, *Volker Helzle (Filmakademie Ludwigsburg)*](#T3.2-10)<a name="T3.2-10m">  
+- THURSDAY SCC ROOM2 14:15-14:30 **T3.2-11** [Innovation Practices Workshop, *Tobias Frech (JUGS)*](#T3.2-11)<a name="T3.2-11m">  
+- THURSDAY SCC ROOM2 14:30-15:15 **T3.2-12** [Workshop Part 1, *0*](#T3.2-12)<a name="T3.2-12m">  
+- THURSDAY SCC ROOM2 15:20-16:05 **T3.2-13** [Workshop Part 2, *0*](#T3.2-13)<a name="T3.2-13m">  
+- THURSDAY SCC ROOM2 16:05-16:30 **T3.2-14** [Wrap-up and Goodbye, *0*](#T3.2-14)<a name="T3.2-14m">  
 
 # Details
 
+<a name="T3.2-Moderator"></a>  
 ## Moderator
-Christian Höppler (Robert Bosch GmbH) 
-  
-<sub>[go to schedule](#T3.2-Moderator)</sub>
-## Welcome and Introduction to the Stream 
-  
-*Christian Höppler (Robert Bosch GmbH)*  
 
-<sub>[go to schedule](#T3.2-1)</sub>
+*Christian Höppler (Robert Bosch GmbH)*
+
+<sub>[go to schedule](#T3.2-Moderatorm)</sub>  
+ <a name="T3.2-1"></a>  
+## Welcome and Introduction to the Stream 
+ 
+*Christian Höppler (Robert Bosch GmbH)*  
+  
+### Bio  
+tba
+  
+<sub>[go to schedule](#T3.2-1m)</sub>  
+ <a name="T3.2-2"></a>  
 ## Keynote: Innovation in Open Source 
   
 ### Abstract:  
@@ -55,7 +62,8 @@ For over a decade, Shane has served on the Board and General Assembly of OpenFor
 
  
 
-<sub>[go to schedule](#T3.2-2)</sub>
+<sub>[go to schedule](#T3.2-2m)</sub>  
+ <a name="T3.2-3"></a>  
 ## Navigating the Open: Our Bosch eBike Flow Journey with GraphHopper & OSM 
   
 ### Abstract:  
@@ -77,7 +85,8 @@ Olaf Flebbe is a Lead Developer within the Bosch eBike Navigation Team. Since jo
 
  
 
-<sub>[go to schedule](#T3.2-3)</sub>
+<sub>[go to schedule](#T3.2-3m)</sub>  
+ <a name="T3.2-4"></a>  
 ## Mitfahren-BW: Open-Source Ride-Sharing Portal for Baden-Württemberg 
   
 ### Abstract:  
@@ -98,7 +107,8 @@ Martin Hovekamp studied at RWTH Aachen and worked over 30 years at Hewlett-Packa
 
  
 
-<sub>[go to schedule](#T3.2-4)</sub>
+<sub>[go to schedule](#T3.2-4m)</sub>  
+ <a name="T3.2-5"></a>  
 ## Industrial ROS meets SMEs 
   
 ### Abstract:  
@@ -119,7 +129,8 @@ Martin Hovekamp studied at RWTH Aachen and worked over 30 years at Hewlett-Packa
 
  
 
-<sub>[go to schedule](#T3.2-5)</sub>
+<sub>[go to schedule](#T3.2-5m)</sub>  
+ <a name="T3.2-6"></a>  
 ## X-Wiki 
   
 ### Abstract:  
@@ -140,7 +151,8 @@ Case Study
 
  
 
-<sub>[go to schedule](#T3.2-6)</sub>
+<sub>[go to schedule](#T3.2-6m)</sub>  
+ <a name="T3.2-7"></a>  
 ## Support & Care – Professional Stewardship for Your Java Foundation 
   
 ### Abstract:  
@@ -168,7 +180,8 @@ At Linux Foundation Hendrik is leading the Hiero project, that is the base of He
 
  
 
-<sub>[go to schedule](#T3.2-7)</sub>
+<sub>[go to schedule](#T3.2-7m)</sub>  
+ <a name="T3.2-8"></a>  
 ## TBD - Adfinis 
   
 ### Abstract:  
@@ -189,7 +202,8 @@ Case Study
 
  
 
-<sub>[go to schedule](#T3.2-8)</sub>
+<sub>[go to schedule](#T3.2-8m)</sub>  
+ <a name="T3.2-9"></a>  
 ## Vibrating Virtual Reality Voyage or Waiting for Godot 
   
 ### Abstract:  
@@ -210,7 +224,8 @@ With over 21 years of experience, Computer Science graduate Alexander Dais is a 
 
  
 
-<sub>[go to schedule](#T3.2-9)</sub>
+<sub>[go to schedule](#T3.2-9m)</sub>  
+ <a name="T3.2-10"></a>  
 ## Open Source at Carl Laemmle Institut of Filmakademie Baden-Württemberg 
   
 ### Abstract:  
@@ -235,7 +250,8 @@ github: https://github.com/FilmakademieRnd
 
  
 
-<sub>[go to schedule](#T3.2-10)</sub>
+<sub>[go to schedule](#T3.2-10m)</sub>  
+ <a name="T3.2-11"></a>  
 ## Innovation Practices Workshop 
   
 ### Abstract:  
@@ -256,7 +272,8 @@ github: https://github.com/FilmakademieRnd
 
  
 
-<sub>[go to schedule](#T3.2-11)</sub>
+<sub>[go to schedule](#T3.2-11m)</sub>  
+ <a name="T3.2-12"></a>  
 ## Workshop Part 1 
   
 ### Abstract:  
@@ -277,7 +294,8 @@ github: https://github.com/FilmakademieRnd
 
  
 
-<sub>[go to schedule](#T3.2-12)</sub>
+<sub>[go to schedule](#T3.2-12m)</sub>  
+ <a name="T3.2-13"></a>  
 ## Workshop Part 2 
   
 ### Abstract:  
@@ -298,7 +316,8 @@ github: https://github.com/FilmakademieRnd
 
  
 
-<sub>[go to schedule](#T3.2-13)</sub>
+<sub>[go to schedule](#T3.2-13m)</sub>  
+ <a name="T3.2-14"></a>  
 ## Wrap-up and Goodbye 
   
 ### Abstract:  
@@ -319,4 +338,4 @@ github: https://github.com/FilmakademieRnd
 
  
 
-<sub>[go to schedule](#T3.2-14)</sub>
+<sub>[go to schedule](#T3.2-14m)</sub>  

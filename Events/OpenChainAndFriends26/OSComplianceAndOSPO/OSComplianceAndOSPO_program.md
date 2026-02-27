@@ -6,18 +6,18 @@
 - TUESDAY 14:50-15:10 **T1.2-3** [Open Source Management at Mercedes-Benz](#open-source-management-at-mercedes-benz)<a name="T1.2-3">  
 - TUESDAY 15:15-15:35 **T1.2-4** [The Last Mile Problem: Turning Executive Support into Real Open Repo Contributions](#the-last-mile-problem-turning-executive-support-into-real-open-repo-contributions)<a name="T1.2-4">  
 - WEDNESDAY 09:00-16:30 **T2.3-Moderator** [Nikola Babadzhanov (Bosch)](#nikola-babadzhanov-bosch)<a name="T2.3-Moderator">  
-- WEDNESDAY 09:00-09:30 **T2.3-1** [Intro to the track and agenda](#intro-to-the-track-and-agenda)<a name="T2.3-1">  
-- WEDNESDAY 09:30-09:45 **T2.3-2** [Topic 1: CRA tooling for SMEs by the OCCTET project](#topic-1-cra-tooling-for-smes-by-the-occtet-project)<a name="T2.3-2">  
-- WEDNESDAY 09:45-10:15 **T2.3-3** [Topic 2: AAA: AGL Assessment Automation - Overview and Insights](#topic-2-aaa-agl-assessment-automation-overview-and-insights)<a name="T2.3-3">  
-- WEDNESDAY 10:15-10:45 **T2.3-4** [Topic 3: ORT Server at Bosch - One Pipeline for your Compliance](#topic-3-ort-server-at-bosch---one-pipeline-for-your-compliance)<a name="T2.3-4">  
-- WEDNESDAY 11:00-11:45 **T2.3-5** [Topic 4: The Business Case for Open Data for Open Source Compliance](#topic-4-the-business-case-for-open-data-for-open-source-compliance)<a name="T2.3-5">  
-- WEDNESDAY 13:00-13:30 **T2.3-6** [Topic 5: TBA](#topic-5-tba)<a name="T2.3-6">  
-- WEDNESDAY 13:30-14:00 **T2.3-7** [Topic 6: How to distribute containers compliantly](#topic-6-how-to-distribute-containers-compliantly)<a name="T2.3-7">  
-- WEDNESDAY 14:15-15:00 **T2.3-8** [Demo 1: OSC with ORT](#demo-1-osc-with-ort)<a name="T2.3-8">  
-- WEDNESDAY 15:15-15:45 **T2.3-9** [Demo 2: Eclipse Disuko](#demo-2-eclipse-disuko)<a name="T2.3-9">  
-- WEDNESDAY 15:45-16:15 **T2.3-10** [Topic 7: SBOM for Operational Compliance - SPDX Operations Profile](#topic-7-sbom-for-operational-compliance---spdx-operations-profile)<a name="T2.3-10">  
-- WEDNESDAY 16:15-16:30 **T2.3-11** [Unconference - Process and Tooling tracks](#unconference---process-and-tooling-tracks)<a name="T2.3-11">  
-- WEDNESDAY 15:45-16:15 **T2.3-12** [Wrap up / Goodbye](#wrap-up--goodbye)<a name="T2.3-12">  
+- WEDNESDAY 09:30-09:35 **T2.3-1** [Intro to the track and agenda](#intro-to-the-track-and-agenda)<a name="T2.3-1">  
+- WEDNESDAY 09:40-10:00 **T2.3-2** [Topic 1: CRA tooling for SMEs by the OCCTET project](#topic-1-cra-tooling-for-smes-by-the-occtet-project)<a name="T2.3-2">  
+- WEDNESDAY 10:05-10:25 **T2.3-3** [Topic 2: AAA: AGL Assessment Automation - Overview and Insights](#topic-2-aaa-agl-assessment-automation-overview-and-insights)<a name="T2.3-3">  
+- WEDNESDAY 10:45-11:05 **T2.3-4** [Topic 3: ORT Server at Bosch - One Pipeline for your Compliance](#topic-3-ort-server-at-bosch---one-pipeline-for-your-compliance)<a name="T2.3-4">  
+- WEDNESDAY 11:10-11:30 **T2.3-5** [Topic 4: The Business Case for Open Data for Open Source Compliance](#topic-4-the-business-case-for-open-data-for-open-source-compliance)<a name="T2.3-5">  
+- WEDNESDAY 11:35-12:00 **T2.3-6** [Topic 5: The Second Wave of FOSS Risks – Customers, Claims and Compliance](#topic-5-the-second-wave-of-foss-risks---customers-claims-and-compliance)<a name="T2.3-6">  
+- WEDNESDAY 13:00-13:20 **T2.3-7** [Topic 6: How to distribute containers compliantly](#topic-6-how-to-distribute-containers-compliantly)<a name="T2.3-7">  
+- WEDNESDAY 13:25-13:55 **T2.3-8** [Demo 1: OSC with ORT](#demo-1-osc-with-ort)<a name="T2.3-8">  
+- WEDNESDAY 14:00-14:30 **T2.3-9** [Demo 2: Eclipse Disuko](#demo-2-eclipse-disuko)<a name="T2.3-9">  
+- WEDNESDAY 14:45-15:05 **T2.3-10** [Topic 7: SBOM for Operational Compliance - SPDX Operations Profile](#topic-7-sbom-for-operational-compliance---spdx-operations-profile)<a name="T2.3-10">  
+- WEDNESDAY 15:10-15:45 **T2.3-11** [Unconference - Process and Tooling tracks](#unconference---process-and-tooling-tracks)<a name="T2.3-11">  
+- WEDNESDAY 15:45-16:00 **T2.3-12** [Wrap up / Goodbye](#wrap-up--goodbye)<a name="T2.3-12">  
 
 # Details
 
@@ -121,7 +121,12 @@ industry closer to the open source community.
 ## Moderator Day 2: Nikola Babadzhanov (Bosch)
 
 <sub>[go to schedule](#T2.3-Moderator)</sub>
-## Intro to the track and agenda 
+## Intro to the track and agenda
+
+### Abstract:
+Welcome and introduction of the topic stream and agenda of Day 2
+
+*Nikola Babadzhanov (Bosch)*
 
 <sub>[go to schedule](#T2.3-1)</sub>
 ## Topic 1: CRA tooling for SMEs by the OCCTET project 
@@ -222,14 +227,27 @@ FINOS’s Open Source Readiness and OpenChain. Thomas welcomes discussions on op
 *link to webinar announcement / recording*
 
 <sub>[go to schedule](#T2.3-5)</sub>
-## Topic 5: TBA
+## Topic 5: The Second Wave of FOSS Risks – Customers, Claims and Compliance
 
 ### Abstract:  
-0 
+The current major FOSS dispute is not about copyleft. It is about customers.
+For years, Open Source risk was primarily defined by license compliance and upstream enforcement under copyright law. Organizations built processes to avoid infringement claims and satisfy license obligations. That was the first wave.
+The litigation involving SAIC Motor and its MG vehicles before a German Court (alongside the Vizio Case in the United States) may signal the beginning of a second. The focus shifts from enforcement by rights holders to defect-based claims by customers. 
+The central question is whether alleged non-compliance with FOSS licenses can qualify as a legal defect in the product itself, triggering warranty rights, rescission, or damages.
+We examine how and why FOSS risk is evolving from license enforcement to customer-driven exposure with this German court proceeding.
 
+*Chan-jo Jun and Yvonne Rossmann (JUN Legal GmbH)*
 
 ### Bio 
-0 
+Chan-jo Jun (born 1974) is managing director of the law firm JUN Legal GmbH for IT law in Würzburg. He became known for his legal commitment against hate crime on Facebook, which led to preliminary investigations against Mark Zuckerberg and other 
+Facebook managers and brought Facebook to court. 
+Jun and his team are working on the use of artificial intelligence to solve legal tasks in legal departments. They specialize in software licensing law, particularly open source software. His clients include car manufacturers and medium-sized software companies, 
+but part of the team's working hours is reserved for unpaid social engagement.
+
+Yvonne Roßmann (born 1984) has been admitted as lawyer since February 2011 and has been working for JUN Legal GmbH ever since. During her legal clerkship, she completed training as a mediator (CVM) with a focus on commercial mediation, 
+which qualifies her to conduct out-of-court dispute resolution proceedings. Since October 2014, she has also been a specialist lawyer for IT law. Her experience ranges from copyright file-sharing warnings and proceedings between competitors to contract negotiations and drafting, 
+for example for agile software development. In addition, she has supervised the technical development of various legal review tools with a view to legal requirements and project management. Her current focus is on software licensing law, where she leads our team for the broad area of 
+open source software compliance. She also contributes her extensive experience to the establishment of the use of generative AI in legal consulting.
 
 ### Slides:
 

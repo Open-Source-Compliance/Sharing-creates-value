@@ -5,6 +5,9 @@
 - [Abstracts, Bios and more](#details)
 - [Potential Follow-ups](#potential-follow-ups)
 
+This Artificial Intelligence topic stream is part of the OpenChain and Friends Event in Stuttgart 2026.   
+For Event-Details and registration please check out the [OpenChain and Friends Event Website](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
+
 # Keynotes
 |![Thomas Usländer](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/2025_Portrait_Usl-e1771016789961-300x287.jpg)|![Prof. Dr. Ingo Weber](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/Weber-Ingo_3837-300x200.jpg)|![Dr. Ingo Simonis](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/ingo_simonis-300x300.jpg)|
 |-------------------|-------------------|-------------------|

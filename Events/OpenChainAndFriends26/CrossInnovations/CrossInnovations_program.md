@@ -1,3 +1,16 @@
+![OpenChain and Friends Stuttgart 2026](../title_banner.png)
+![Cross-Innovations](crossinnovations.png)
+- [Keynotes](#keynotes)
+- [Agenda](#agenda)
+- [Abstracts, Bios and more](#details)
+- [Potential Follow-ups](#potential-follow-ups)
+
+# Keynotes
+|![Shane Coughlan](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/shane_coughlan-300x300.jpg)|
+|-------------------|
+|Shane Coughlan (Open Invention Network)|
+|[Keynote: Innovation in Open Source, *Shane Coughlan (OIN)*](#T3.2-2)|
+
 # Agenda
 - THURSDAY SCC ROOM2 9:00-16:30 **T3.2-Moderator** [Christian Höppler (Robert Bosch GmbH), *0*](#T3.2-Moderator)<a name="T3.2-Moderatorm">  
 - THURSDAY SCC ROOM2 9:00-9:15 **T3.2-1** [Welcome and Introduction to the Stream, *Christian Höppler (Robert Bosch GmbH)*](#T3.2-1)<a name="T3.2-1m">  
@@ -5,7 +18,7 @@
 - THURSDAY SCC ROOM2 9:40-10:10 **T3.2-3** [Navigating the Open: Our Bosch eBike Flow Journey with GraphHopper & OSM, *Dr. Olaf Flebbe (Robert Bosch GmbH)*](#T3.2-3)<a name="T3.2-3m">  
 - THURSDAY SCC ROOM2 10:15-10:30 **T3.2-4** [Mitfahren-BW: Open-Source Ride-Sharing Portal for Baden-Württemberg, *Martin Hovekamp (Mitfahrverband e.V.)*](#T3.2-4)<a name="T3.2-4m">  
 - THURSDAY SCC ROOM2 10:30-11:00 **T3.2-5** [Industrial ROS meets SMEs, *Yasmine Makkaoui (Fraunhofer)*](#T3.2-5)<a name="T3.2-5m">  
-- THURSDAY SCC ROOM2 11:00-11:30 **T3.2-6** [X-Wiki, *Michael Hamann (XWiki)*](#T3.2-6)<a name="T3.2-6m">  
+- THURSDAY SCC ROOM2 11:00-11:30 **T3.2-6** [Sustainable OSS: lessons from XWiki, *Michael Hamann (XWiki)*](#T3.2-6)<a name="T3.2-6m">  
 - THURSDAY SCC ROOM2 11:30-12:00 **T3.2-7** [Support & Care – Professional Stewardship for Your Java Foundation, *Hendrik Ebbers (Open Elements)*](#T3.2-7)<a name="T3.2-7m">  
 - THURSDAY SCC ROOM2 12:00-12:30 **T3.2-8** [TBD - Adfinis, *N.N. (Adfinis)*](#T3.2-8)<a name="T3.2-8m">  
 - THURSDAY SCC ROOM2 13:30-13:45 **T3.2-9** [Vibrating Virtual Reality Voyage or Waiting for Godot, *Alexander Dais*](#T3.2-9)<a name="T3.2-9m">  
@@ -25,14 +38,11 @@
 <sub>[go to schedule](#T3.2-Moderatorm)</sub>  
  <a name="T3.2-1"></a>  
 ## Welcome and Introduction to the Stream 
- 
+    
 *Christian Höppler (Robert Bosch GmbH)*  
   
-### Bio  
-tba
-  
-<sub>[go to schedule](#T3.2-1m)</sub>  
- <a name="T3.2-2"></a>  
+<sub>[go to schedule](#T3.2-1m)</sub>
+<a name="T3.2-2"></a>  
 ## Keynote: Innovation in Open Source 
   
 ### Abstract:  
@@ -62,8 +72,8 @@ For over a decade, Shane has served on the Board and General Assembly of OpenFor
 
  
 
-<sub>[go to schedule](#T3.2-2m)</sub>  
- <a name="T3.2-3"></a>  
+<sub>[go to schedule](#T3.2-2m)</sub>
+<a name="T3.2-3"></a>  
 ## Navigating the Open: Our Bosch eBike Flow Journey with GraphHopper & OSM 
   
 ### Abstract:  
@@ -85,8 +95,8 @@ Olaf Flebbe is a Lead Developer within the Bosch eBike Navigation Team. Since jo
 
  
 
-<sub>[go to schedule](#T3.2-3m)</sub>  
- <a name="T3.2-4"></a>  
+<sub>[go to schedule](#T3.2-3m)</sub>
+<a name="T3.2-4"></a>  
 ## Mitfahren-BW: Open-Source Ride-Sharing Portal for Baden-Württemberg 
   
 ### Abstract:  
@@ -107,8 +117,8 @@ Martin Hovekamp studied at RWTH Aachen and worked over 30 years at Hewlett-Packa
 
  
 
-<sub>[go to schedule](#T3.2-4m)</sub>  
- <a name="T3.2-5"></a>  
+<sub>[go to schedule](#T3.2-4m)</sub>
+<a name="T3.2-5"></a>  
 ## Industrial ROS meets SMEs 
   
 ### Abstract:  
@@ -129,17 +139,19 @@ Martin Hovekamp studied at RWTH Aachen and worked over 30 years at Hewlett-Packa
 
  
 
-<sub>[go to schedule](#T3.2-5m)</sub>  
- <a name="T3.2-6"></a>  
-## X-Wiki 
+<sub>[go to schedule](#T3.2-5m)</sub>
+<a name="T3.2-6"></a>  
+## Sustainable OSS: lessons from XWiki 
   
 ### Abstract:  
-Case Study  
+XWiki is an open source wiki platform that has been evolving for over 21 years, funded primarily by XWiki SAS. In the first part of the talk, we’ll walk through the building blocks that make XWiki “platform-shaped” rather than “just a wiki”: multi-wiki, fine-grained rights, structured data, an extension ecosystem, and a customization spectrum from configuration and macros to full extensions. 
+In the second part I'll then talk about how it is possible to fund XWiki's development as a bootstrapped company while keeping everything open source and even involving the community. We'll talk about XWiki's community governance model and how an "open source + subscription" model helps funding the work without moving to an open-core or source-available licensing model. Finally, I’ll present 2 concrete market dynamics that created momentum for XWiki: collaboration in the openDesk ecosystem, and Confluence migrations driven by Atlassian’s pricing and product strategy shifts. 
+  
   
 *Michael Hamann (XWiki)*  
   
 ### Bio  
-0  
+Michael is a passionate developer of open source software with a decade-long track record of contributing to open source wiki software. Already in 2008, he started contributing to DokuWiki. Since 2021, Michael is a R&D Engineer at XWiki SAS, working on the open source wiki software XWiki. Before joining XWiki SAS, Michael studied computer science and completed a PhD on the topic of “Scalable Community Detection” at the intersection of network science and algorithm engineering at the Karlsruhe Institute of Technology (KIT).  
   
 ### Slides:
 
@@ -151,8 +163,8 @@ Case Study
 
  
 
-<sub>[go to schedule](#T3.2-6m)</sub>  
- <a name="T3.2-7"></a>  
+<sub>[go to schedule](#T3.2-6m)</sub>
+<a name="T3.2-7"></a>  
 ## Support & Care – Professional Stewardship for Your Java Foundation 
   
 ### Abstract:  
@@ -180,8 +192,8 @@ At Linux Foundation Hendrik is leading the Hiero project, that is the base of He
 
  
 
-<sub>[go to schedule](#T3.2-7m)</sub>  
- <a name="T3.2-8"></a>  
+<sub>[go to schedule](#T3.2-7m)</sub>
+<a name="T3.2-8"></a>  
 ## TBD - Adfinis 
   
 ### Abstract:  
@@ -202,8 +214,8 @@ Case Study
 
  
 
-<sub>[go to schedule](#T3.2-8m)</sub>  
- <a name="T3.2-9"></a>  
+<sub>[go to schedule](#T3.2-8m)</sub>
+<a name="T3.2-9"></a>  
 ## Vibrating Virtual Reality Voyage or Waiting for Godot 
   
 ### Abstract:  
@@ -224,8 +236,8 @@ With over 21 years of experience, Computer Science graduate Alexander Dais is a 
 
  
 
-<sub>[go to schedule](#T3.2-9m)</sub>  
- <a name="T3.2-10"></a>  
+<sub>[go to schedule](#T3.2-9m)</sub>
+<a name="T3.2-10"></a>  
 ## Open Source at Carl Laemmle Institut of Filmakademie Baden-Württemberg 
   
 ### Abstract:  
@@ -238,7 +250,9 @@ github: https://github.com/FilmakademieRnd
 *Volker Helzle (Filmakademie Ludwigsburg)*  
   
 ### Bio  
-0  
+Prof. Volker Helzle is in charge of the Carl Laemmle Institute (CLI) for Research and Media Innovation at Filmakademie Baden-Württemberg GmbH in Ludwigsburg.
+After graduating from Stuttgart Media University in 2000 he moved to California and worked at Eyematic Interfaces. In 2003 he joined Animationsinstitut of Filmakademie to supervise the Research & Innovation department which was restructured to the CLI in 2026 to better serve the needs of the entire Filmakademie. He initiated and lead the Technical Director course until 2024 and is a active FMX program consultant. In 2013 Volker received the honorary professorship of Filmakademie. Being a C-64 kid of the 80ties, Volker's life was strongly influenced by video games and early computer graphics. To this day he is a passionate gamer but also finds interest in analog activities like mountain hiking or gardening.
+  
   
 ### Slides:
 
@@ -250,8 +264,8 @@ github: https://github.com/FilmakademieRnd
 
  
 
-<sub>[go to schedule](#T3.2-10m)</sub>  
- <a name="T3.2-11"></a>  
+<sub>[go to schedule](#T3.2-10m)</sub>
+<a name="T3.2-11"></a>  
 ## Innovation Practices Workshop 
   
 ### Abstract:  
@@ -272,8 +286,8 @@ github: https://github.com/FilmakademieRnd
 
  
 
-<sub>[go to schedule](#T3.2-11m)</sub>  
- <a name="T3.2-12"></a>  
+<sub>[go to schedule](#T3.2-11m)</sub>
+<a name="T3.2-12"></a>  
 ## Workshop Part 1 
   
 ### Abstract:  
@@ -294,8 +308,8 @@ github: https://github.com/FilmakademieRnd
 
  
 
-<sub>[go to schedule](#T3.2-12m)</sub>  
- <a name="T3.2-13"></a>  
+<sub>[go to schedule](#T3.2-12m)</sub>
+<a name="T3.2-13"></a>  
 ## Workshop Part 2 
   
 ### Abstract:  
@@ -316,8 +330,8 @@ github: https://github.com/FilmakademieRnd
 
  
 
-<sub>[go to schedule](#T3.2-13m)</sub>  
- <a name="T3.2-14"></a>  
+<sub>[go to schedule](#T3.2-13m)</sub>
+<a name="T3.2-14"></a>  
 ## Wrap-up and Goodbye 
   
 ### Abstract:  
@@ -338,4 +352,12 @@ github: https://github.com/FilmakademieRnd
 
  
 
-<sub>[go to schedule](#T3.2-14m)</sub>  
+<sub>[go to schedule](#T3.2-14m)</sub>
+
+# Potential Follow-ups
+
+You can reach the stream-org team via this matrix channel:
+https://app.element.io/#/room/#opensourcecrossinnovations:matrix.org
+
+For OpenChain webinars about Cross-Innovations, please check our webinar library [Webinars](https://openchainproject.org/webinars)  
+The OpenChain project informs about upcoming webinars in the ["News"](https://openchainproject.org/news)-section and via the respective [mailing lists](https://openchainproject.org/participate).

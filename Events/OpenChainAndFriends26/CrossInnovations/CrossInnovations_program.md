@@ -1,4 +1,4 @@
-![OpenChain and Friends Stuttgart 2026](../title_banner.png)
+[![OpenChain and Friends Stuttgart 2026](../title_banner.png)](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
 ![Cross-Innovations](crossinnovations.png)
 - [Keynotes](#keynotes)
 - [Agenda](#agenda)

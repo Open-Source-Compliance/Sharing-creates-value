@@ -31,7 +31,7 @@ OpenROAD with X-FAB 350 nm technologies, *Filip Vukoja*](#T2.2-5)<a name="T2.2-5
 - WEDNESDAY SCC ROOM2 14:00-14:30 **T2.2-9** [RISC-V based multi core Sensor device, *Dr. Dirk Behrens (Sensry)*](#T2.2-9)<a name="T2.2-9m">  
 - WEDNESDAY SCC ROOM2 14:30-15:00 **T2.2-10** [TBD](#T2.2-10)<a name="T2.2-10m">  
 - WEDNESDAY SCC ROOM2 15:00-15:30 **T2.2-11** [CVA6 Core for Edge A.I. Applications, *Nicolas Triebie (Bosch)*](#T2.2-11)<a name="T2.2-11m">  
-- WEDNESDAY SCC ROOM2 16:00-16:20 **T2.2-12** [OCDC Pro / Layar Challenge, *N.N. (GI, Ges. Informatik)*](#T2.2-12)<a name="T2.2-12m">  
+- WEDNESDAY SCC ROOM2 16:00-16:20 **T2.2-12** [OCDC Pro / Layar Challenge, *N.N.*](#T2.2-12)<a name="T2.2-12m">  
 - WEDNESDAY SCC ROOM2 16:20-16:40 **T2.2-13** [TBD](#T2.2-13)<a name="T2.2-13m">  
 - WEDNESDAY SCC ROOM2 16:40-17:00 **T2.2-14** [Common Session, *All facilitators*](#T2.2-14)<a name="T2.2-14m">  
 

@@ -1,3 +1,4 @@
+![OpenChain and Friends Stuttgart 2026](../title_banner.png)
 ![Artificial Intelligence](ai.png)
 - [Keynotes](#keynotes)
 - [Agenda](#agenda)

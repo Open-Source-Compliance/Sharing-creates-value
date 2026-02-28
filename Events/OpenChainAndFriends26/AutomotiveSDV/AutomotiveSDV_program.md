@@ -1,3 +1,20 @@
+[![OpenChain and Friends Stuttgart 2026](../title_banner.png)](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
+![Automotive / SDV](automotivesdv.png)
+- [Keynotes](#keynotes)
+- [Agenda](#agenda)
+- [Abstracts, Bios and more](#details)
+- [Potential Follow-ups](#potential-follow-ups)
+
+This Automotive / SDV topic stream is part of the OpenChain and Friends Event in Stuttgart 2026.   
+For Event-Details and registration please check out the [OpenChain and Friends Event Website](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
+
+# Keynotes
+|TBA|
+|-------------------|
+|TBA|
+|TBA|
+
+
 # Agenda
 - TUESDAY SCC ROOM3 15:45-17:20 **T1.6-Moderator** [Jan-Simon Möller (AGL), *0*](#T1.6-Moderator)<a name="T1.6-Moderatorm">  
 - TUESDAY SCC ROOM3 15:45-16:05 **T1.6-1** [Open source SDV with Automotive Grade Linux SoDeV, *Dan Cauchy (AGL)*](#T1.6-1)<a name="T1.6-1m">  
@@ -20,11 +37,10 @@
 # Details
 
 <a name="T1.6-Moderator"></a>  
-## Moderator
+## Moderator Day 1
 *Jan-Simon Möller (AGL)*
-  
-<sub>[go to schedule](#T1.6-Moderatorm)</sub>
 
+<sub>[go to schedule](#T1.6-Moderatorm)</sub>
 <a name="T1.6-1"></a>  
 ## Open source SDV with Automotive Grade Linux SoDeV 
   
@@ -114,15 +130,15 @@ tba
 
 <sub>[go to schedule](#T1.6-4m)</sub>
 <a name="T3.3-Moderator"></a>  
-## Moderator
+## Moderator Day 3
 *Jan-Simon Möller (AGL)*
-
+  
 <sub>[go to schedule](#T3.3-Moderatorm)</sub>
 <a name="T3.3-1"></a>  
 ## Welcome remarks 
     
 *Jan-Simon Möller (AGL)*  
-
+  
 <sub>[go to schedule](#T3.3-1m)</sub>
 <a name="T3.3-2"></a>  
 ## SDV Landscape and beyond ... 
@@ -363,3 +379,17 @@ Currently he is working together with the Apache NuttX community serving as Proj
  
 
 <sub>[go to schedule](#T3.3-11m)</sub>
+
+# Potential Follow-ups
+
+You cannot join in person but are interested to get in touch with the community?   
+No worries, check out our monthly OpenChain Automotive Workgroup sessions in the OpenChain Calendar and subscribe to the Automotive Workgroup Mailing list:
+https://openchainproject.org/participate
+
+You can reach the stream-org team via this matrix channel:
+https://app.element.io/#/room/#automotiveopensource:matrix.org
+
+For OpenChain webinars about Automotive, please check our webinar library [Webinars](https://openchainproject.org/webinars)  
+The OpenChain project informs about upcoming webinars in the ["News"](https://openchainproject.org/news)-section and via the respective [mailing lists](https://openchainproject.org/participate).
+
+

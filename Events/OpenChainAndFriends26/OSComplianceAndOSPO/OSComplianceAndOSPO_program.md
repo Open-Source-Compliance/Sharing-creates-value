@@ -13,11 +13,11 @@
 - TUESDAY SCC ROOM2 15:15-15:35 **T1.2-4** [The Last Mile Problem: Turning Executive Support into Real Open Repo Contributions, *Walt Miner/Jan-Simon Möller (AGL)*](#T1.2-4)<a name="T1.2-4m">  
 - WEDNESDAY Think Tank 09:00-16:30 **T2.3-Moderator** [Nikola Babadzhanov (Bosch)](#T2.3-Moderator)<a name="T2.3-Moderatorm">  
 - WEDNESDAY Think Tank 09:30-09:35 **T2.3-1** [Intro to the track and agenda, *Nikola Babadzhanov (Bosch)*](#T2.3-1)<a name="T2.3-1m">  
-"- WEDNESDAY Think Tank 09:40-10:00 **T2.3-2** [Topic 1: CRA tooling for SMEs by the OCCTET project, *Martin von Willebrand (DoubleOpen) and 
-Hans-Jürgen Schumacher (Bitsea)*](#T2.3-2)<a name="T2.3-2m">  "
+- WEDNESDAY Think Tank 09:40-10:00 **T2.3-2** [Topic 1: CRA tooling for SMEs by the OCCTET project, *Martin von Willebrand (DoubleOpen) and 
+Hans-Jürgen Schumacher (Bitsea)*](#T2.3-2)<a name="T2.3-2m">
 - WEDNESDAY Think Tank 10:05-10:25 **T2.3-3** [Topic 2:AAA: AGL Assessment Automation - Overview and Insights, *Hiroyuki Ishii (Panasonic)*](#T2.3-3)<a name="T2.3-3m">  
-"- WEDNESDAY Think Tank 10:45-11:05 **T2.3-4** [Topic 3: ORT Server at Bosch - One Pipeline for your Compliance, *Kerstin Sonnenholzer (Bosch Digital), 
-Krzysztof Nalej (Bosch Digital)*](#T2.3-4)<a name="T2.3-4m">  "
+- WEDNESDAY Think Tank 10:45-11:05 **T2.3-4** [Topic 3: ORT Server at Bosch - One Pipeline for your Compliance, *Kerstin Sonnenholzer (Bosch Digital), 
+Krzysztof Nalej (Bosch Digital)*](#T2.3-4)<a name="T2.3-4m">
 - WEDNESDAY Think Tank 11:10-11:30 **T2.3-5** [Topic 4: The Business Case for Open Data for Open Source Compliance, *Thomas Steenbergen (AboutCode)*](#T2.3-5)<a name="T2.3-5m">  
 - WEDNESDAY Think Tank 11:30-12:00 **T2.3-6** [Topic 5: The Second Wave of FOSS Risks – Customers, Claims and Compliance, *Chan-jo Jun and Yvonne Rossmann (JUN Legal GmbH)*](#T2.3-6)<a name="T2.3-6m">  
 - WEDNESDAY Think Tank 13:00-13:20 **T2.3-7** [Topic 6: How to distribute containers compliantly, *Caren Kresse (OSADL)*](#T2.3-7)<a name="T2.3-7m">  

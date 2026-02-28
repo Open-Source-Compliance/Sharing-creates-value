@@ -162,7 +162,7 @@ tba
 OpenROAD with X-FAB 350 nm technologies 
   
 ### Abstract:  
-See 2026_OCaF_Xfab_Abstract.pdf  
+See [2026-03_Abstract_OpenChain_and_Friends_X-FAB.pdf](2026-03_Abstract_OpenChain_and_Friends_X-FAB.pdf)
   
 *Filip Vukoja*  
   

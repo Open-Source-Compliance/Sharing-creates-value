@@ -1,3 +1,14 @@
+![Artificial Intelligence](ai.png)
+- [Keynotes](#keynotes)
+- [Agenda](#agenda)
+- [Abstracts, Bios and more](#details)
+- [Potential Follow-ups](#potential-follow-ups)
+
+# Keynotes
+|![Thomas Usländer](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/2025_Portrait_Usl-e1771016789961-300x287.jpg)|![Prof. Dr. Ingo Weber](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/Weber-Ingo_3837-300x200.jpg)|![Dr. Ingo Simonis](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/ingo_simonis-300x300.jpg)|
+|-------------------|-------------------|-------------------|
+|Dr.-Ing. Thomas Usländer Fraunhofer IOSB|Prof. Dr. Ingo Weber (Fraunhofer Gesellschaft / TU Munich)|Dr. Ingo Simonis (CTO Open Geospatial Consortium)|  
+|[Keynote: AI Systems Engineering - a new engineering discipline?, *Dr. Thomas Usländer (Fraunhofer IOSB)*](#T1.4-1)|[Keynote: Engineering with and for Open Source in the AI Era, *Prof. Dr. Ingo Weber (Fraunhofer/TU Munich)*](#T2.1-5)|[Keynote: Trust has a Supply Chain - Open Standards and the Infrastructure of Trustworthy AI, *Dr. Ingo Simonis (Open Geospatial Consortium)*](#T2.1-13)|
 # Agenda
 - TUESDAY SCC ROOM1 15:45-17:20 **T1.4-Moderator** [Robert Hansel (Robert Bosch GmbH)](#T1.4-Moderator)<a name="T1.4-Moderatorm">  
 - TUESDAY SCC ROOM1 15:45-16:05 **T1.4-1** [Keynote: AI Systems Engineering - a new engineering discipline?, *Dr. Thomas Usländer (Fraunhofer IOSB)*](#T1.4-1)<a name="T1.4-1m">  
@@ -512,3 +523,12 @@ At Linux Foundation Hendrik is leading the Hiero project, that is the base of He
  
 
 <sub>[go to schedule](#T2.1-16m)</sub>
+
+# Potential Follow-ups
+
+You can reach the stream-org team via this matrix channel:
+https://app.element.io/#/room/#aiandopensource:matrix.org
+
+For OpenChain webinars about AI, please check our webinar library [AI Webinars](https://openchainproject.org/ai-webinars)  
+The OpenChain project informs about upcoming webinars in the ["News"](https://openchainproject.org/news)-section and via the respective [mailing lists](https://openchainproject.org/participate).
+

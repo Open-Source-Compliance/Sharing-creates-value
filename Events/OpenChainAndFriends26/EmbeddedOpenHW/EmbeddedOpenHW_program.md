@@ -22,7 +22,7 @@ Flo Wohlrab (Eclipse OpenHW)*](#K2)<a name="K2m">
 - WEDNESDAY SCC ROOM2 09:00-09:15 **T2.2-1** [Welcome, Planning, Overview, *Organizers*](#T2.2-1)<a name="T2.2-1m">  
 - WEDNESDAY SCC ROOM2 09:15-09:45 **T2.2-2** [Open Source in F&E, *Prof. Dr. Wallentowitz (TU Munich)*](#T2.2-2)<a name="T2.2-2m">  
 - WEDNESDAY SCC ROOM2 09:45-10:15 **T2.2-3** [TBD](#T2.2-3)<a name="T2.2-3m">  
-- WEDNESDAY SCC ROOM2 10:15-10:45 **T2.2-4** [How to make FABulous eFPGA Design robust with Open Source tools, *N.N. (TU Heidelberg)*](#T2.2-4)<a name="T2.2-4m">  
+- WEDNESDAY SCC ROOM2 10:15-10:45 **T2.2-4** [How to make FABulous eFPGA Design robust with Open Source tools, *N.N.*](#T2.2-4)<a name="T2.2-4m">  
 - WEDNESDAY SCC ROOM2 11:05-11:35 **T2.2-5** [Developing an open source digital design flow using
 OpenROAD with X-FAB 350 nm technologies, *Filip Vukoja*](#T2.2-5)<a name="T2.2-5m">
 - WEDNESDAY SCC ROOM2 11:35-12:05 **T2.2-6** [Global Foundries, *N.N.*](#T2.2-6)<a name="T2.2-6m">  

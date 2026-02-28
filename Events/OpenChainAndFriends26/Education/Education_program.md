@@ -1,11 +1,47 @@
-# Agenda
+[![OpenChain and Friends Stuttgart 2026](../title_banner.png)](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
+![Education](education.png)
+- [Keynotes](#keynotes)
+- [Agenda](#agenda)
+- [Abstracts, Bios and more](#details)
+- [Potential Follow-ups](#potential-follow-ups)
 
+This Education topic stream is part of the OpenChain and Friends Event in Stuttgart 2026.   
+For Event-Details and registration please check out the [OpenChain and Friends Event Website](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
+
+# Keynotes
+|![Aleksander Sadowski](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/aleksander-sadowski-open-chain-and-friends-2026-300x300.jpg)|
+|-------------------|
+|Aleksander Sadowski (ALSADO)|
+|[Keynote: Inventor's Handbook - Guide to the product development process using open source software, *Alexander Sadowski (Alsado)*](#T1.1-1)|
+
+
+# Agenda
+- TUESDAY SCC ROOM1 14:00-15:35 **T1.1-Moderator** [Janneke van de Westelaken (Bosch)](#T1.1-Moderator)<a name="T1.1-Moderatorm">  
+- TUESDAY SCC ROOM1 14:00-14:20 **T1.1-1** [Keynote: Inventor's Handbook - Guide to the product development process using open source software, *Alexander Sadowski (Alsado)*](#T1.1-1)<a name="T1.1-1m">  
+- TUESDAY SCC ROOM1 14:25-14:45 **T1.1-2** [OpenChain Education Materials and Working Group, *Martin Yagi (FirstLightFusion)*](#T1.1-2)<a name="T1.1-2m">  
+- TUESDAY SCC ROOM1 14:50-15:10 **T1.1-3** [Bosch's educational curriculum on Open Source and InnerSource, *Diogo Fregonese (Bosch)*](#T1.1-3)<a name="T1.1-3m">  
+- TUESDAY SCC ROOM1 15:15-15:35 **T1.1-4** [Digital Independence Day, */madonius (Chaos Computer Club Karlsruhe (Entropia))*](#T1.1-4)<a name="T1.1-4m">  
+- THURSDAY STEP ROOM2 9:00-16:00 **T3.4-Moderator** [Martin Yagi (FirstLightFusion)](#T3.4-Moderator)<a name="T3.4-Moderatorm">  
+- THURSDAY STEP ROOM1 09:00-09:30 **T3.4-1** [Welcome and Introduction, *Martin Yagi (FirstLightFusion)*](#T3.4-1)<a name="T3.4-1m">  
+- THURSDAY STEP ROOM1 09:30-10:30 **T3.4-2** [Automate your OSPO via Open Source Collaboration, *Thomas Steenbergen (ToDo Group)*](#T3.4-2)<a name="T3.4-2m">  
+- THURSDAY STEP ROOM1 10:30-11:30 **T3.4-3** [Stream Introduction and FOSS license scanning: The why, the how and the community approach, *Caren Kresse (OSADL) and 
+Oliver Fendt (Siemens)*](#T3.4-3)<a name="T3.4-3m">
+- THURSDAY STEP ROOM1 11:45-12:15 **T3.4-4** [OpenChain Education Tooling Training creation, *Martin Yagi (First Light Fusion)*](#T3.4-4)<a name="T3.4-4m">  
+- THURSDAY STEP ROOM1 12:15-12:45 **T3.4-5** [Open Chain Tool Intro Trainings, *TBD*](#T3.4-5)<a name="T3.4-5m">  
+- THURSDAY STEP ROOM1 13:45-14:45 **T3.4-6** [Surviving the "AI Slopageddon": How AI shakes the foundations of Open Source, *Raphael Semeteys (Worldline)*](#T3.4-6)<a name="T3.4-6m">  
 
 # Details
-
-## Title of the talk
-<sub>[go to schedule](#c1t37)</sub>
-
+<a name="T1.1-Moderator"></a>  
+## Janneke van de Westelaken (Bosch) 
+  
+### Abstract:  
+0  
+  
+*0*  
+  
+### Bio  
+0  
+  
 ### Slides:
 
 *link to slide of the talk*
@@ -14,10 +50,313 @@
 
 *link to webinar announcement / recording*
 
-### Abstract:
+ 
 
-*abstract text*
+<sub>[go to schedule](#T1.1-Moderatorm)</sub>
+<a name="T1.1-1"></a>  
+## Keynote: Inventor's Handbook - Guide to the product development process using open source software 
+  
+### Abstract:  
+The established German mechanical engineering industry is increasingly facing ever greater challenges. Costs are rising, dependence on other companies, especially from abroad, is increasing, and qualified skilled workers are becoming harder to find. In addition, new businesses are shifting away from mechanical engineering toward software companies.
 
-### Bio:
+To counteract this trend, we demonstrate how the product development process in German mechanical engineering, with its key stages, can be implemented using open-source software. Among the tools used are FreeCAD, PrePoMax, and LibreOffice. This lowers the barrier to entry for mechanical engineering startups like never before, while established SMEs can plan for the long term thanks to increased independence. This is particularly essential in the current challenging economic climate.
 
-*bio of the speaker*
+The talk covers the following topics:
+1. Overview of the product development process in mechanical engineering in Germany
+2. Defining the requirements specification
+3. Technology research in patent databases
+4. Machine concept
+5. Machine safety
+6. Preliminary design of the entire machine and its components
+7. Detailed design of the machine using CAD software
+8. Simulation of components using FEM software
+9. Product data management
+10. Infrastructure and teamwork
+  
+  
+*Alexander Sadowski (Alsado)*  
+  
+### Bio  
+Aleksander Sadowski is a founder, inventor, author, developer and influencer in the German mechanical engineering industry.
+He is the founder of ALSADO, the world’s first company offering professional FreeCAD support in the industry. He is studying mechanical engineering at the Bonn-Rhein-Sieg University of Applied Sciences and has been actively involved in the FreeCAD community for many years. Aleksander is developing a workflow for product development in mechanical engineering, fully composed of open-source-software, including FreeCAD, LibreOffice, PrePoMax and OpenRadioss.
+
+Based on that he is developing an open-source-software to make collaboration in engineering teams more accessible to manufacturing start-ups and small to medium sized enterprises (SMEs).
+
+In the past, Sadowski worked in product safety at the machine manufacturer GROB and at a company, that specializes in developing simulation software for defense applications. He has been collaborating with Altair, the association of German engineers (VDI) and the German space agency (DLR) to promote the use of open-source software in the industry, especially in mechanical engineering, automotive and aerospace. Aleksander Sadowski is the inventor of a safety screw, that he developed with the help of an open-source-workflow.
+
+Through his book "FreeCAD Beginner's Handbook", that he published together with Prusa, Aleksander aims to reduce the beginner learning challenges and frustration by teaching a systematic process of working with FreeCAD consisting of most-used functions and a standard modeling workflow which he has refined through his years of experience of teaching FreeCAD in a productive and mission-critical environment. The books make this knowledge accessible to everyone, not just the companies.
+  
+  
+### Slides:
+
+*link to slide of the talk*
+
+### Webinar/Recording: 
+
+*link to webinar announcement / recording*
+
+ 
+
+<sub>[go to schedule](#T1.1-1m)</sub>
+<a name="T1.1-2"></a>  
+## OpenChain Education Materials and Working Group 
+  
+### Abstract:  
+An overview of the Open Source license compliance educational resources available from OpenChain and the Education Working Group current and future activities.  
+  
+*Martin Yagi (FirstLightFusion)*  
+  
+### Bio  
+Martin Yagi is the IP manager at First Light Fusion and is the current chair of the OpenChain Education Work Group. Martin advises First Light Fusion on Open Source license compliance and risk mitigation and has previously served in advisory roles at Vodafone and Cisco. 
+  
+  
+### Slides:
+
+*link to slide of the talk*
+
+### Webinar/Recording: 
+
+*link to webinar announcement / recording*
+
+ 
+
+<sub>[go to schedule](#T1.1-2m)</sub>
+<a name="T1.1-3"></a>  
+## Bosch's educational curriculum on Open Source and InnerSource 
+  
+### Abstract:  
+This presentation introduces Bosch's educational curriculum on Open Source and InnerSource, a program designed to empower the people shaping our technological future. Delivered through a series of concise, web-based modules, it provides practical and essential insights tailored for developers and key decision-makers, leaders, project and product managers
+  
+  
+*Diogo Fregonese (Bosch)*  
+  
+### Bio  
+Diogo is an InnerSource Program Expert at Bosch Digital, who is passionate about driving open source style collaboration. With over 25 years of professional experience, he co-created Bosch's InnerSource program, significantly improving collaboration and development practices across business units worldwide. Diogo oversees the InnerSource governance framework and actively supports Bosch developers and leaders globally by reducing barriers to its adoption. He will be sharing insights into Bosch's process of developing a web-based education series on open source and InnerSource, and how it is leveraging the power of community-driven open collaboration.  
+  
+### Slides:
+
+*link to slide of the talk*
+
+### Webinar/Recording: 
+
+*link to webinar announcement / recording*
+
+ 
+
+<sub>[go to schedule](#T1.1-3m)</sub>
+<a name="T1.1-4"></a>  
+## Digital Independence Day 
+  
+### Abstract:  
+The Digital Independence Day is a "relaxed rebellion": on the first Sunday of every month, a broad coalition of
+organisations calls for #DigitalIndependenceDay (DID). We are switching to
+democracy-friendly digital alternatives, reclaiming our free digital lives and 
+putting an end to the destruction of democracy. And we are gradually securing our digital independence.
+  
+  
+*/madonius (Chaos Computer Club Karlsruhe (Entropia))*  
+  
+### Bio  
+madonius is a security expert by day and a hacker at Chaos Computer Club Karlsruhe (Entropia) in his spare time. 
+He represents the Entropia on various occasions in political and non-political settings.
+He is interested in exploring the limitations of technology, in policy and how both impact daily life and society.
+  
+  
+### Slides:
+
+*link to slide of the talk*
+
+### Webinar/Recording: 
+
+*link to webinar announcement / recording*
+
+ 
+
+<sub>[go to schedule](#T1.1-4m)</sub>
+<a name="T3.4-Moderator"></a>  
+## Martin Yagi (FirstLightFusion) 
+  
+### Abstract:  
+0  
+  
+*0*  
+  
+### Bio  
+0  
+  
+### Slides:
+
+*link to slide of the talk*
+
+### Webinar/Recording: 
+
+*link to webinar announcement / recording*
+
+ 
+
+<sub>[go to schedule](#T3.4-Moderatorm)</sub>
+<a name="T3.4-1"></a>  
+## Welcome and Introduction 
+  
+### Abstract:  
+TBD  
+  
+*Martin Yagi (FirstLightFusion)*  
+  
+### Bio  
+tba  
+  
+### Slides:
+
+*link to slide of the talk*
+
+### Webinar/Recording: 
+
+*link to webinar announcement / recording*
+
+ 
+
+<sub>[go to schedule](#T3.4-1m)</sub>
+<a name="T3.4-2"></a>  
+## Automate your OSPO via Open Source Collaboration 
+  
+### Abstract:  
+Open source management within an organization is a big and complex challenge, but Open Source Program Offices (OSPOs) are usually small. Automating OSPO operations is essential for success, but no single tool can solve all problems. 
+
+This practical workshop demonstrates how to reuse - and contribute back to - open source management initiatives to automate your OSPO challenges. 
+
+We'll discuss the automation challenges most OSPO face and how to utilize best practices and processes from the TODO Group and OpenChain, two communities of open source practitioners. Then, we'll do a hands-on session building OSPO processes with open source tools such as ORT, ScanCode, and VulnerableCode. 
+
+This workshop will be led by Thomas Steenbergen, based on his 10+ years of experience automating OSPO operations for 20+ organizations and extensive community involvement, including his current role as a TODO Group OSPO Ambassador. 
+  
+  
+*Thomas Steenbergen (ToDo Group)*  
+  
+### Bio  
+Thomas Steenbergen specializes in strategic open source management, helping organizations align their open source practices with their objectives. An expert in open source adoption, community building, and compliance – including Software Bill of Materials (SBOMs). Currently he is the executive director at the AboutCode foundation and advisor to the Open Source Program Office at SIVON (ICT co-op of Dutch schools). He previously led OSPO at EPAM and HERE. He is a OSS Review Toolkit, SPDX, TODO group maintainer and a regular contributor to FINOS’s Open Source Readiness and OpenChain. Thomas welcomes discussions on open source topics. For more information about the projects he is involved in and his contact details, visit github.com/tsteenbe.  
+  
+### Slides:
+
+*link to slide of the talk*
+
+### Webinar/Recording: 
+
+*link to webinar announcement / recording*
+
+ 
+
+<sub>[go to schedule](#T3.4-2m)</sub>
+<a name="T3.4-3"></a>  
+## Stream Introduction and FOSS license scanning: The why, the how and the community approach 
+  
+### Abstract:  
+A workshop on using FOSSology and the OSSelot curation database to create license compliance SBOMs
+
+Abstract: A license compliance SBOM for the distribution of Free and Open Source software (FOSS) requires to list not only name, version and origin of each component, but also the applicable licenses and copyright notices. In most cases, there is not only one main license per FOSS component, but a large number of licenses that are denoted in the individual source code files. Scanning tools can help with the task of determining these licenses, extracting their exact license texts and copyright notices. FOSSology is such a tool that provides license scanning abilities, and in addition, a management interface to review scanner results. While review of scanner findings produces high quality results, it is a lot of manual effort. For commonly used FOSS components, this effort can be shared among the community. This idea is the basis of the OSSelot curation database that publicly provides curated FOSS compliance material for reuse in a compliance process. This workshop will demonstrate how FOSSology and OSSelot can be used to create high quality license compliance SBOMs with reduced effort.
+  
+  
+*Caren Kresse (OSADL) and 
+Oliver Fendt (Siemens)*  
+  
+### Bio  
+Caren Kresse(OSADL): Caren Kresse holds a Master degree in Physics and an LLM in IT law. She specializes on practical and legal aspects of conveying Open Source software and has been working on various projects for Open Source license compliance with OSADL since 2018, including the OSADL Open Source Policy project, the OSADL License Obligations Checklists, the OSADL Container Base Image and the OSSelot curation database. Since 2024, she also serves on the OSADL board of directors. Oliver Fendt (Siemens)started his career as a software developer at Siemens. He took several positions as a software developer and project leader. In 2003 he moved on to Open Source license compliance. He has more than 23 years' experience in Open Source Software, its license conditions and how to comply with the different licenses. He is member of the OpenChain governing board and the maintainer of the Osselot project.
+  
+  
+### Slides:
+
+*link to slide of the talk*
+
+### Webinar/Recording: 
+
+*link to webinar announcement / recording*
+
+ 
+
+<sub>[go to schedule](#T3.4-3m)</sub>
+<a name="T3.4-4"></a>  
+## OpenChain Education Tooling Training creation 
+  
+### Abstract:  
+Collaborative workshop creating education material (e.g. an overview course) about (open source) tooling for open source license compliance.  
+  
+*Martin Yagi (First Light Fusion)*  
+  
+### Bio  
+Martin Yagi is the IP manager at First Light Fusion and is the current chair of the OpenChain Education Work Group. Martin advises First Light Fusion on Open Source license compliance and risk mitigation and has previously served in advisory roles at Vodafone and Cisco. 
+  
+  
+### Slides:
+
+*link to slide of the talk*
+
+### Webinar/Recording: 
+
+*link to webinar announcement / recording*
+
+ 
+
+<sub>[go to schedule](#T3.4-4m)</sub>
+<a name="T3.4-5"></a>  
+## Open Chain Tool Intro Trainings 
+  
+### Abstract:  
+TBD  
+  
+*TBD*  
+  
+### Bio  
+tba  
+  
+### Slides:
+
+*link to slide of the talk*
+
+### Webinar/Recording: 
+
+*link to webinar announcement / recording*
+
+ 
+
+<sub>[go to schedule](#T3.4-5m)</sub>
+<a name="T3.4-6"></a>  
+## Surviving the "AI Slopageddon": How AI shakes the foundations of Open Source 
+  
+### Abstract:  
+"Vibe Coding"—where AI writes the code while the human merely supervises—promises unprecedented productivity. However, for Open Source maintainers, this revolution feels more like an assault. Between the deluge of low-quality "Slop" Pull Requests, hallucinated bug reports, and the emergence of aggressive autonomous agents, the social contract of free software is breaking down. 
+
+This presentation explores the existential threat AI poses to the ecosystem: from the "Demand-Diversion" theory that starves maintainers of visibility, to reputation attacks by autonomous bots. But all is not lost. We will analyze how projects like curl, matplotlib, and Goose are reacting. We will detail emerging defense strategies: from "locking the door" (ending bug bounties) to "fixing the house" with AGENTS.md context files, robust testing, and machine-readable governance. Join us to learn how to turn the "Slopageddon" into an opportunity to modernize Open Source.  
+  
+*Raphael Semeteys (Worldline)*  
+  
+### Bio  
+Raphaël Semeteys
+Head of Tech Advocacy at Worldline
+https://raphiki.github.io
+
+With over 25 years of IT experience across the full project lifecycle—from development and architecture to consulting and presales—Open Source has been my constant North Star. Now in DevRel, I leverage this broad expertise to bridge the gap between technology and community.
+
+I bring a deep background in FOSS, having co-led a dedicated Open Source skill center for 9 years with a focus on consulting and technological watch. I am also the leader of the QSOS project, pioneering community-based methods for the evaluation and selection of Free and Open Source software.
+  
+  
+### Slides:
+
+*link to slide of the talk*
+
+### Webinar/Recording: 
+
+*link to webinar announcement / recording*
+
+ 
+
+<sub>[go to schedule](#T3.4-6m)</sub>
+
+# Potential Follow-ups
+You cannot join in person but are interested to get in touch with the community?   
+No worries, check out our regular OpenChain Specification and Education Work Group sessions in the OpenChain Calendar and subscribe to the OpenChain Education Work Group Mailing lists:
+https://openchainproject.org/participate
+
+You can reach the stream-org team via this matrix channel:
+https://app.element.io/#/room/#educationinopensource:matrix.org
+
+For OpenChain webinars about Education, please check our webinar library [Webinars](https://openchainproject.org/webinars)  
+The OpenChain project informs about upcoming webinars in the ["News"](https://openchainproject.org/news)-section and via the respective [mailing lists](https://openchainproject.org/participate).

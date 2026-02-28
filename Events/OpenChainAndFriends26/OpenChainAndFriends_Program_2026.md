@@ -97,7 +97,7 @@ Please also check-out the [fringe-events](FringeEvents.md) in the region.
 ## Topic streams 
 *confirmed as of 06.02.2026*
 ### Artificial Intelligence
-The preliminary AI-stream program is [HERE](/ArtificialIntelligence/AI_program.md)  
+The preliminary AI-stream program is [HERE](ArtificialIntelligence/AI_program.md)  
 
 *The topic stream AI will cover at least the following aspects:*
 1.	***AI Systems Engineering**: methodology and open source tools to ensure a systematic engineering for the development and operation of AI systems, especially in complex technical and environments. Background information at https://www.ki-engineering.eu/en/know-how-tools.html .*
@@ -108,14 +108,14 @@ The preliminary AI-stream program is [HERE](/ArtificialIntelligence/AI_program.m
 <sub>[go to schedule Day1](#t1_4) [go to schedule Day2](#t2_1)</sub> 
 
 ### Cybersecurity
-The preliminary CyberSecurity-stream program is [HERE](/CyberSecurity/CyberSecurity_program.md)  
+The preliminary CyberSecurity-stream program is [HERE](CyberSecurity/CyberSecurity_program.md)  
 
 *The topic stream Cybersecurity will cover at least the following aspects:*    
 *Good Practice Sharing and Discussions about CyberSecurity challenges in the Software Supply Chain around new technologies like AgenticAI, regulations like CRA, SBOM requirements,... and how the ISO18974 and the OpenChain SBOM Workgroup can help organizations to prepare for it.*
 <sub>[go to schedule Day1](#t1_5) [go to schedule Day3](#t3_1)</sub> 
 
 ### Open Source Compliance and OSPO-topics
-The preliminary Open Source Compliance and OSPO-stream program is [HERE](/OSComplianceAndOSPO/OSComplianceAndOSPO_program.md)
+The preliminary Open Source Compliance and OSPO-stream program is [HERE](OSComplianceAndOSPO/OSComplianceAndOSPO_program.md)
 
 *The topic stream Open Source Compliance and OSPOs will cover the following aspects:*    
 1.	***Building and Scaling OSPOs**: methodologies, best practices, and organizational patterns for establishing and maturing Open Source Program Offices to support strategic open-source adoption and collaboration.*
@@ -125,13 +125,13 @@ The preliminary Open Source Compliance and OSPO-stream program is [HERE](/OSComp
 <sub>[go to schedule Day1](#t1_2) [go to schedule Day2](#t2_3)</sub> 
 
 ### Women in Open Source
-The preliminary Women in Open Source program is [HERE](/WomenInOpenSource/WomenInOpenSource_program.md)  
+The preliminary Women in Open Source program is [HERE](WomenInOpenSource/WomenInOpenSource_program.md)  
 
 *The topic stream Women in Open Source will prepare a women network meeting and will additionally contribute expertise in all other topic streams.*  
 <sub>[go to schedule Day2](#t2women)</sub> 
 
 ### Embedded and Open Source Hardware   
-The preliminary Embedded and Open Source Hardware-stream program is [HERE](/EmbeddedOpenHW/EmbeddedOpenHW_program.md)  
+The preliminary Embedded and Open Source Hardware-stream program is [HERE](EmbeddedOpenHW/EmbeddedOpenHW_program.md)  
 
 *This track explores the complete hardware production lifecycle, from semiconductor manufacturing and packaging, to simulation and development. We'll focus on open source solutions and local capabilities, aiming to spark new collaborations and boost awareness within the community for these exciting, ongoing projects*
 
@@ -142,14 +142,14 @@ The preliminary Embedded and Open Source Hardware-stream program is [HERE](/Embe
 <sub>[go to schedule Day1](#t1_k2) [go to schedule Day2](#t2_2)</sub> 
 
 ### Digital Sovereignty and Open Source in Business
-The preliminary Digital Sovereignty and Open Source in Business-stream program is [HERE](/DigSovOSSBusiness/DigSovOSSBusiness_program.md)  
+The preliminary Digital Sovereignty and Open Source in Business-stream program is [HERE](DigSovOSSBusiness/DigSovOSSBusiness_program.md)  
 
 *The topic stream Digital Sovereignty and Open Source in Business will cover the following aspects:*    
 *Open Source as competitive factor in the business of private sector companies, collaboration opportunities between private and public sector and the status of the collaboratively developed Open Source in Business Guide.*  
 <sub>[go to schedule Keynote Day1](#t1_k1) [go to schedule Day1](#t1_3)</sub> 
 
 ### Education
-The preliminary Education-stream program is [HERE](/Education/Education_program.md)  
+The preliminary Education-stream program is [HERE](Education/Education_program.md)  
 
 *The topic stream Education will cover the following aspects:*    
 •	*Overview, status and future plans of **publicly available Open Source training material***  
@@ -160,7 +160,7 @@ The preliminary Education-stream program is [HERE](/Education/Education_program.
 <sub>[go to schedule Day1](#t1_1) [go to schedule Day3](#t3_4)</sub> 
 
 ### Automotive / SDV
-The preliminary Automotive / SDV-stream program is [HERE](/AutomotiveSDV/AutomotiveSDV_program.md)  
+The preliminary Automotive / SDV-stream program is [HERE](AutomotiveSDV/AutomotiveSDV_program.md)  
 
 *The Automotive and SDV stream examines the technical evolution of open-source software within the automotive sector, focusing on emerging Software-Defined Vehicle (SDV) architectures. This session presents detailed overviews of projects such as **Automotive Grade Linux SoDeV**, a collaborative platform advancing open SDV reference implementations, and the **Eclipse S-Core** project, which provides a modular and scalable runtime for next-generation vehicle systems. The session will also address **Federate SDV**, a framework facilitating distributed, cross-organizational software development and integration for automotive applications.*
 
@@ -169,7 +169,7 @@ The preliminary Automotive / SDV-stream program is [HERE](/AutomotiveSDV/Automot
 <sub>[go to schedule Day1](#t1_6) [go to schedule Day3](#t3_3)</sub> 
 
 ### Cross-Innovation and Innovation Practices
-The preliminary Cross-Innovation and Innovation Practices-stream program is [HERE](/CrossInnovations/CrossInnovations_program.md) 
+The preliminary Cross-Innovation and Innovation Practices-stream program is [HERE](CrossInnovations/CrossInnovations_program.md) 
 
 *In this stream interesting Open Source topics in and around Baden-Württemberg will be presented, that involve several topic fields and explore the cross-innovation potential of creative industries like film and media, Open Street Map and Augmented Reality with industrial Open Source. Using those insights together with case studies and chances around journeys towards digital sovereign infrastructures we will conclude with a collaborative design of the coming community roadmap until our next event.*
 

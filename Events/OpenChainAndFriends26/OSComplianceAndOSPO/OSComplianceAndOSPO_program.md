@@ -1,3 +1,9 @@
+![OpenChain and Friends Stuttgart 2026](../title_banner.png)
+![Open Source Compliance and OSPO](opensourcecomplianceospo.png)
+- [Agenda](#agenda)
+- [Abstracts, Bios and more](#details)
+- [Potential Follow-ups](#potential-follow-ups)
+  
 # Agenda
 
 - TUESDAY 14:00-15:35 **T1.2-Moderator** [Nikola Babadzhanov (Bosch)](#nikola-babadzhanov-bosch)<a name="T1.2-Moderator">  
@@ -357,3 +363,11 @@ Participant-driven session where the agenda is created and managed by the attend
 ## Wrap up / Goodbye 
 
 <sub>[go to schedule](#T2.3-12)</sub>
+
+# Potential Follow-ups
+
+You can reach the stream-org team via this matrix channel:
+https://app.element.io/#/room/#osscomplianceandospo:matrix.org
+
+For OpenChain webinars about Open Source Compliance and OSPO, please check our webinar library [Webinars](https://openchainproject.org/webinars)  
+The OpenChain project informs about upcoming webinars in the ["News"](https://openchainproject.org/news)-section and via the respective [mailing lists](https://openchainproject.org/participate).

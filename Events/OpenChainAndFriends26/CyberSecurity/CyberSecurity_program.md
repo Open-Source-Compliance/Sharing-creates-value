@@ -477,6 +477,9 @@ Andrei was born in Moldova and grew up in Ireland, where he studied Robotics and
 <sub>[go to schedule](#T3.1-15m)</sub>
 
 # Potential Follow-ups
+You cannot join in person but are interested to get in touch with the community?   
+No worries, check out our regular OpenChain sessions in the OpenChain Calendar and subscribe to the OpenChain and Regional Workgroup Mailing lists:
+https://openchainproject.org/participate
 
 You can reach the stream-org team via this matrix channel:
 https://app.element.io/#/room/#cybersecurityandopensource:matrix.org

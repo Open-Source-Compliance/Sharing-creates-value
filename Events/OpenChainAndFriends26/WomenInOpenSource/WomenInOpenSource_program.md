@@ -1,3 +1,6 @@
+[![OpenChain and Friends Stuttgart 2026](../title_banner.png)](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
+![Women in Open Source](womeninopensource.png)
+
 We  warmly invite you to join our Women in Open Source networking session at the OpenChain and Friends 2026 Event
 
 📅 Women in Open Source Networking @ OpenChain and Friends Conference  

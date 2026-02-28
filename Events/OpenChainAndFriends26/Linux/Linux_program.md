@@ -17,7 +17,7 @@ get an **insight into the newest generation of modern cars**.
 # Agenda
 - WEDNESDAY STEP ROOM1 09:00-16:30 **T2.4-Moderator** [Thomas Kirstaetter (Robert Bosch GmbH), *0*](#T2.4-Moderator)<a name="T2.4-Moderatorm">  
 - WEDNESDAY STEP ROOM1 09:00-09:15 **T2.4-1** [Welcome and Introduction, *Thomas Kirstaetter (Robert Bosch GmbH)*](#T2.4-1)<a name="T2.4-1m">  
-- WEDNESDAY STEP ROOM1 09:15-10:15 **T2.4-2** [discuss this static prototype dep-tree collection and if it would be useful and if there is potential for a collaborative follow-up work: https://canary.redgrey.net/, *Sven Eppler (sodge IT)*](#T2.4-2)<a name="T2.4-2m">  
+- WEDNESDAY STEP ROOM1 09:15-10:15 **T2.4-2** [dep-tree collection https://canary.redgrey.net/, *Sven Eppler (sodge IT)*](#T2.4-2)<a name="T2.4-2m">  
 - WEDNESDAY STEP ROOM1 10:20-11:20 **T2.4-3** [How to create the SBOM for the Linux kernel, *Maximilian Huber (TNG)*](#T2.4-3)<a name="T2.4-3m">  
 - WEDNESDAY STEP ROOM1 11:25-12:25 **T2.4-4** [Sovereign Containers / OpenDesk / OpenCode, *Julian Schauder (Zendis)*](#T2.4-4)<a name="T2.4-4m">  
 - WEDNESDAY STEP ROOM1 13:30-14:30 **T2.4-5** [Reproducibility > OSS > SBOM, *Josef Holzmayer (Yocto)*](#T2.4-5)<a name="T2.4-5m">  

@@ -6,30 +6,33 @@
   
 # Agenda
 
-- TUESDAY 14:00-15:35 **T1.2-Moderator** [Nikola Babadzhanov (Bosch)](#nikola-babadzhanov-bosch)<a name="T1.2-Moderator">  
-- TUESDAY 14:00-14:20 **T1.2-1** [Basics and background: An introduction to Open Source Compliance](#basics-and-background-an-introduction-to-open-source-compliance)<a name="T1.2-1">  
-- TUESDAY 14:25-14:45 **T1.2-2** [Open Source based SupplyChain Management at scale](#open-source-based-supplychain-management-at-scale)<a name="T1.2-2">  
-- TUESDAY 14:50-15:10 **T1.2-3** [Open Source Management at Mercedes-Benz](#open-source-management-at-mercedes-benz)<a name="T1.2-3">  
-- TUESDAY 15:15-15:35 **T1.2-4** [The Last Mile Problem: Turning Executive Support into Real Open Repo Contributions](#the-last-mile-problem-turning-executive-support-into-real-open-repo-contributions)<a name="T1.2-4">  
-- WEDNESDAY 09:00-16:30 **T2.3-Moderator** [Nikola Babadzhanov (Bosch)](#nikola-babadzhanov-bosch)<a name="T2.3-Moderator">  
-- WEDNESDAY 09:30-09:35 **T2.3-1** [Intro to the track and agenda](#intro-to-the-track-and-agenda)<a name="T2.3-1">  
-- WEDNESDAY 09:40-10:00 **T2.3-2** [Topic 1: CRA tooling for SMEs by the OCCTET project](#topic-1-cra-tooling-for-smes-by-the-occtet-project)<a name="T2.3-2">  
-- WEDNESDAY 10:05-10:25 **T2.3-3** [Topic 2: AAA: AGL Assessment Automation - Overview and Insights](#topic-2-aaa-agl-assessment-automation-overview-and-insights)<a name="T2.3-3">  
-- WEDNESDAY 10:45-11:05 **T2.3-4** [Topic 3: ORT Server at Bosch - One Pipeline for your Compliance](#topic-3-ort-server-at-bosch---one-pipeline-for-your-compliance)<a name="T2.3-4">  
-- WEDNESDAY 11:10-11:30 **T2.3-5** [Topic 4: The Business Case for Open Data for Open Source Compliance](#topic-4-the-business-case-for-open-data-for-open-source-compliance)<a name="T2.3-5">  
-- WEDNESDAY 11:35-12:00 **T2.3-6** [Topic 5: The Second Wave of FOSS Risks – Customers, Claims and Compliance](#topic-5-the-second-wave-of-foss-risks---customers-claims-and-compliance)<a name="T2.3-6">  
-- WEDNESDAY 13:00-13:20 **T2.3-7** [Topic 6: How to distribute containers compliantly](#topic-6-how-to-distribute-containers-compliantly)<a name="T2.3-7">  
-- WEDNESDAY 13:25-13:55 **T2.3-8** [Demo 1: OSC with ORT](#demo-1-osc-with-ort)<a name="T2.3-8">  
-- WEDNESDAY 14:00-14:30 **T2.3-9** [Demo 2: Eclipse Disuko](#demo-2-eclipse-disuko)<a name="T2.3-9">  
-- WEDNESDAY 14:45-15:05 **T2.3-10** [Topic 7: SBOM for Operational Compliance - SPDX Operations Profile](#topic-7-sbom-for-operational-compliance---spdx-operations-profile)<a name="T2.3-10">  
-- WEDNESDAY 15:10-15:45 **T2.3-11** [Unconference - Process and Tooling tracks](#unconference---process-and-tooling-tracks)<a name="T2.3-11">  
-- WEDNESDAY 15:45-16:00 **T2.3-12** [Wrap up / Goodbye](#wrap-up--goodbye)<a name="T2.3-12">  
+- TUESDAY SCC ROOM2 14:00-15:35 **T1.2-Moderator** [Nikola Babadzhanov (Bosch)](#T1.2-Moderator)<a name="T1.2-Moderatorm">  
+- TUESDAY SCC ROOM2 14:00-14:20 **T1.2-1** [Basics and background: An introduction to Open Source Compliance, *Caren Kresse (OSADL)*](#T1.2-1)<a name="T1.2-1m">  
+- TUESDAY SCC ROOM2 14:25-14:45 **T1.2-2** [Open Source based SupplyChain Management at scale, *Nikola Babadzhanov (Bosch)*](#T1.2-2)<a name="T1.2-2m">  
+- TUESDAY SCC ROOM2 14:50-15:10 **T1.2-3** [Open Source Management at Mercedes-Benz, *Christian Wege (Mercedes-Benz)*](#T1.2-3)<a name="T1.2-3m">  
+- TUESDAY SCC ROOM2 15:15-15:35 **T1.2-4** [The Last Mile Problem: Turning Executive Support into Real Open Repo Contributions, *Walt Miner/Jan-Simon Möller (AGL)*](#T1.2-4)<a name="T1.2-4m">  
+- WEDNESDAY Think Tank 09:00-16:30 **T2.3-Moderator** [Nikola Babadzhanov (Bosch)](#T2.3-Moderator)<a name="T2.3-Moderatorm">  
+- WEDNESDAY Think Tank 09:30-09:35 **T2.3-1** [Intro to the track and agenda, *Nikola Babadzhanov (Bosch)*](#T2.3-1)<a name="T2.3-1m">  
+"- WEDNESDAY Think Tank 09:40-10:00 **T2.3-2** [Topic 1: CRA tooling for SMEs by the OCCTET project, *Martin von Willebrand (DoubleOpen) and 
+Hans-Jürgen Schumacher (Bitsea)*](#T2.3-2)<a name=""T2.3-2m"">  "
+- WEDNESDAY Think Tank 10:05-10:25 **T2.3-3** [Topic 2:AAA: AGL Assessment Automation - Overview and Insights, *Hiroyuki Ishii (Panasonic)*](#T2.3-3)<a name="T2.3-3m">  
+"- WEDNESDAY Think Tank 10:45-11:05 **T2.3-4** [Topic 3: ORT Server at Bosch - One Pipeline for your Compliance, *Kerstin Sonnenholzer (Bosch Digital), 
+Krzysztof Nalej (Bosch Digital)*](#T2.3-4)<a name=""T2.3-4m"">  "
+- WEDNESDAY Think Tank 11:10-11:30 **T2.3-5** [Topic 4: The Business Case for Open Data for Open Source Compliance, *Thomas Steenbergen (AboutCode)*](#T2.3-5)<a name="T2.3-5m">  
+- WEDNESDAY Think Tank 11:30-12:00 **T2.3-6** [Topic 5: The Second Wave of FOSS Risks – Customers, Claims and Compliance, *Chan-jo Jun and Yvonne Rossmann (JUN Legal GmbH)*](#T2.3-6)<a name="T2.3-6m">  
+- WEDNESDAY Think Tank 13:00-13:20 **T2.3-7** [Topic 6: How to distribute containers compliantly, *Caren Kresse (OSADL)*](#T2.3-7)<a name="T2.3-7m">  
+- WEDNESDAY Think Tank 13:25-13:55 **T2.3-8** [Demo 1: OSC with ORT, *Andrei Sacal (ScanOSS)*](#T2.3-8)<a name="T2.3-8m">  
+- WEDNESDAY Think Tank 14:00-14:30 **T2.3-9** [Demo 2: Eclipse Disuko, *Matthias Ebel-Koch (Mercedes-Benz)*](#T2.3-9)<a name="T2.3-9m">  
+- WEDNESDAY Think Tank 14:45-15:05 **T2.3-10** [Topic 7: SBOM for Operational Compliance - SPDX Operations Profile, *Ummo Schwarting (Deloitte)*](#T2.3-10)<a name="T2.3-10m">  
+- WEDNESDAY Think Tank 15:10-15:45 **T2.3-11** [Unconference - Process and Tooling tracks](#T2.3-11)<a name="T2.3-11m">  
+- WEDNESDAY Think Tank 15:45-16:00 **T2.3-12** [Wrap up / Goodbye](#T2.3-12)<a name="T2.3-12m">  
 
 # Details
-
+<a name="T1.2-Moderator"></a>  
 ## Moderator Day 1: Nikola Babadzhanov (Bosch)
 
-<sub>[go to schedule](#T1.2-Moderator)</sub>"
+<sub>[go to schedule](#T1.2-Moderatorm)</sub>
+<a name="T1.2-1"></a>  
 ## Basics and background: An introduction to Open Source Compliance 
 
 ### Abstract:  
@@ -49,7 +52,8 @@ including the OSADL Open Source Policy project, the OSADL License Obligations Ch
 
 *link to webinar announcement / recording*
 
-<sub>[go to schedule](#T1.2-1)</sub>
+<sub>[go to schedule](#T1.2-1m)</sub>
+<a name="T1.2-2"></a>  
 ## Open Source based SupplyChain Management at scale 
 
 ### Abstract:  
@@ -80,7 +84,8 @@ and Inner Source at Bosch Digital and active member of the OpenChain SBOM Study 
 
 *link to webinar announcement / recording*
 
-<sub>[go to schedule](#T1.2-2)</sub>
+<sub>[go to schedule](#T1.2-2m)</sub>
+<a name="T1.2-3"></a>  
 ## Open Source Management at Mercedes-Benz 
 
 ### Abstract:  
@@ -104,7 +109,8 @@ industry closer to the open source community.
 
 *link to webinar announcement / recording*
 
-<sub>[go to schedule](#T1.2-3)</sub>
+<sub>[go to schedule](#T1.2-3m)</sub>
+<a name="T1.2-4"></a> 
 ## The Last Mile Problem: Turning Executive Support into Real Open Repo Contributions 
 
 ### Abstract:  
@@ -123,10 +129,14 @@ industry closer to the open source community.
 
 *link to webinar announcement / recording*
 
-<sub>[go to schedule](#T1.2-4)</sub>
+<sub>[go to schedule](#T1.2-4m)</sub>
+
+
+<a name="T2.3-Moderator"></a> 
 ## Moderator Day 2: Nikola Babadzhanov (Bosch)
 
-<sub>[go to schedule](#T2.3-Moderator)</sub>
+<sub>[go to schedule](#T2.3-Moderatorm)</sub>
+<a name="T2.3-1"></a>
 ## Intro to the track and agenda
 
 ### Abstract:
@@ -134,7 +144,8 @@ Welcome and introduction of the topic stream and agenda of Day 2
 
 *Nikola Babadzhanov (Bosch)*
 
-<sub>[go to schedule](#T2.3-1)</sub>
+<sub>[go to schedule](#T2.3-1m)</sub>
+<a name="T2.3-2"></a>  
 ## Topic 1: CRA tooling for SMEs by the OCCTET project 
 
 ### Abstract:  
@@ -153,7 +164,8 @@ Martin von Willebrand, CEO of Double Open. With a background in law, Martin is w
 
 *link to webinar announcement / recording*
 
-<sub>[go to schedule](#T2.3-2)</sub>
+<sub>[go to schedule](#T2.3-2m)</sub>
+<a name="T2.3-3"></a>  
 ## Topic 2: AAA: AGL Assessment Automation - Overview and Insights
 
 ### Abstract:  
@@ -181,7 +193,8 @@ as a member of the Steering Committee and the System Architect team. More recent
 
 *link to webinar announcement / recording*
 
-<sub>[go to schedule](#T2.3-3)</sub>
+<sub>[go to schedule](#T2.3-3m)</sub>
+<a name="T2.3-4"></a>  
 ## Topic 3: ORT Server at Bosch - One Pipeline for your Compliance
 
 ### Abstract:  
@@ -203,7 +216,8 @@ Krzysztof Nalej – Business Owner / Squad Lead at Bosch, responsible for Open S
 
 *link to webinar announcement / recording*
 
-<sub>[go to schedule](#T2.3-4)</sub>
+<sub>[go to schedule](#T2.3-4m)</sub>
+<a name="T2.3-5"></a>
 ## Topic 4: The Business Case for Open Data for Open Source Compliance 
 
 ### Abstract:  
@@ -232,7 +246,8 @@ FINOS’s Open Source Readiness and OpenChain. Thomas welcomes discussions on op
 
 *link to webinar announcement / recording*
 
-<sub>[go to schedule](#T2.3-5)</sub>
+<sub>[go to schedule](#T2.3-5m)</sub>
+<a name="T2.3-6"></a> 
 ## Topic 5: The Second Wave of FOSS Risks – Customers, Claims and Compliance
 
 ### Abstract:  
@@ -263,7 +278,8 @@ open source software compliance. She also contributes her extensive experience t
 
 *link to webinar announcement / recording*
 
-<sub>[go to schedule](#T2.3-6)</sub>
+<sub>[go to schedule](#T2.3-6m)</sub>
+<a name="T2.3-7"></a> 
 ## Topic 6: How to distribute containers compliantly 
 
 ### Abstract:  
@@ -284,7 +300,8 @@ including the OSADL Open Source Policy project, the OSADL License Obligations Ch
 
 *link to webinar announcement / recording*
 
-<sub>[go to schedule](#T2.3-7)</sub>
+<sub>[go to schedule](#T2.3-7m)</sub>
+<a name="T2.3-8"></a> 
 ## Demo 1: OSC with ORT 
 
 ### Abstract:  
@@ -309,7 +326,8 @@ developing documentation, demos, and integrations that help users adopt and exte
 
 *link to webinar announcement / recording*
 
-<sub>[go to schedule](#T2.3-8)</sub>
+<sub>[go to schedule](#T2.3-8m)</sub>
+<a name="T2.3-9"></a>  
 ## Demo 2: Eclipse Disuko 
 
 ### Abstract:  
@@ -333,7 +351,8 @@ friction between development speed and regulatory requirements.
 
 *link to webinar announcement / recording*
 
-<sub>[go to schedule](#T2.3-9)</sub>
+<sub>[go to schedule](#T2.3-9m)</sub>
+<a name="T2.3-10"></a> 
 ## Topic 7: SBOM for Operational Compliance - SPDX Operations Profile 
 
 ### Abstract:  
@@ -353,16 +372,18 @@ As part of Deloitte’s Extended Enterprise practice, Ummo helps organizations i
 
 *link to webinar announcement / recording*
 
-<sub>[go to schedule](#T2.3-10)</sub>
+<sub>[go to schedule](#T2.3-10m)</sub>
+<a name="T2.3-11"></a> 
 ## Unconference - Process and Tooling tracks 
 
 ### Abstract:  
 Participant-driven session where the agenda is created and managed by the attendees themselves. There will be two tracks - one for Compliance Process and one for Compliance Tooling.
 
-<sub>[go to schedule](#T2.3-11)</sub>
+<sub>[go to schedule](#T2.3-11m)</sub>
+<a name="T2.3-12"></a>  
 ## Wrap up / Goodbye 
 
-<sub>[go to schedule](#T2.3-12)</sub>
+<sub>[go to schedule](#T2.3-12m)</sub>
 
 # Potential Follow-ups
 

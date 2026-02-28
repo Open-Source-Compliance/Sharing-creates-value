@@ -26,7 +26,7 @@ Flo Wohlrab (Eclipse OpenHW)*](#K2)<a name="K2m">
 - WEDNESDAY SCC ROOM2 11:05-11:35 **T2.2-5** [Developing an open source digital design flow using
 OpenROAD with X-FAB 350 nm technologies, *Filip Vukoja*](#T2.2-5)<a name="T2.2-5m">
 - WEDNESDAY SCC ROOM2 11:35-12:05 **T2.2-6** [Global Foundries, *N.N.*](#T2.2-6)<a name="T2.2-6m">  
-- WEDNESDAY SCC ROOM2 12:05-12:35 **T2.2-7** [Sunrise Demonstrator, *N.N. (Bosch)*](#T2.2-7)<a name="T2.2-7m">  
+- WEDNESDAY SCC ROOM2 12:05-12:35 **T2.2-7** [Sunrise Demonstrator, *N.N.*](#T2.2-7)<a name="T2.2-7m">  
 - WEDNESDAY SCC ROOM2 12:35-12:45 **T2.2-8** [Highlights, Next Steps, *Organizers*](#T2.2-8)<a name="T2.2-8m">  
 - WEDNESDAY SCC ROOM2 14:00-14:30 **T2.2-9** [RISC-V based multi core Sensor device, *Dr. Dirk Behrens (Sensry)*](#T2.2-9)<a name="T2.2-9m">  
 - WEDNESDAY SCC ROOM2 14:30-15:00 **T2.2-10** [TBD](#T2.2-10)<a name="T2.2-10m">  

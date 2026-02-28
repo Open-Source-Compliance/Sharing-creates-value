@@ -1,4 +1,4 @@
-![OpenChain and Friends Stuttgart 2026](../title_banner.png)
+<a href="https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026" target=new>![OpenChain and Friends Stuttgart 2026](../title_banner.png)</a>
 ![Artificial Intelligence](ai.png)
 - [Keynotes](#keynotes)
 - [Agenda](#agenda)

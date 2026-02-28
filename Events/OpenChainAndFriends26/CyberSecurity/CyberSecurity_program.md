@@ -5,6 +5,9 @@
 - [Abstracts, Bios and more](#details)
 - [Potential Follow-ups](#potential-follow-ups)
 
+This CyberSecurity topic stream is part of the OpenChain and Friends Event in Stuttgart 2026.   
+For Event-Details and registration please check out the [OpenChain and Friends Event Website](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
+
 # Keynotes
 |![Dirk Targoni](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/Dirk_Presentation2-300x223.jpg)|
 |-------------------|

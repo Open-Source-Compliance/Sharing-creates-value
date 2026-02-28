@@ -530,6 +530,10 @@ At Linux Foundation Hendrik is leading the Hiero project, that is the base of He
 
 # Potential Follow-ups
 
+You cannot join in person but are interested to get in touch with the community?   
+No worries, check out our regular OpenChain AI Work Group sessions in the OpenChain Calendar and subscribe to the AI Workgroup Mailing list:
+https://openchainproject.org/participate
+
 You can reach the stream-org team via this matrix channel:
 https://app.element.io/#/room/#aiandopensource:matrix.org
 

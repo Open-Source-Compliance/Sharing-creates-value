@@ -17,7 +17,8 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 # Agenda
 - TUESDAY SCC ROOM1 10:20-10:40 **K1** [Keynote, *Björn Schiessle (NextCloud)*](#K1)<a name="K1m">  
 - TUESDAY SCC ROOM1 11:00-11:30 **Panel** [Panel Discussion - Digital Sovereignty & Open Source in Business in the context of Supply Chain (Chances and) Risk Management, *Moderator: Lothar Becker (OSBA)*](#Panel)<a name="Panelm">  
-- TUESDAY SCC ROOM3 14:00-15:35 **T1.3-Moderator** [Lothar Becker (OSBA), *0*](#T1.3-Moderator)<a name="T1.3-Moderatorm">  
+  
+- TUESDAY SCC ROOM3 14:00-15:35 **T1.3-Moderator** [Lothar Becker (OSBA)](#T1.3-Moderator)<a name="T1.3-Moderatorm">  
 - TUESDAY SCC ROOM3 14:00-14:20 **T1.3-1** [TBD](#T1.3-1)<a name="T1.3-1m">
 - TUESDAY SCC ROOM3 14:25-14:45 **T1.3-2** [Methodology for switching to Open Source solutions / Theory, *Wolfgang Gehring (Mercedes-Benz Tech Innovations)*](#T1.3-2)<a name="T1.3-2m">  
 - TUESDAY SCC ROOM3 14:50-15:10 **T1.3-3** [OpenDesk / OpenCode / Practice, *Julian Schauder (Zendis)*](#T1.3-3)<a name="T1.3-3m">  

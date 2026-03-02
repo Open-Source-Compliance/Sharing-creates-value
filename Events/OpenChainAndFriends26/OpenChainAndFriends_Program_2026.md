@@ -60,8 +60,8 @@ Next to the streams we will have a [Community Marketplace](#communities-collabor
 **Stuttgart Feuerbach**
 
 *	 10:00 AM CET **T2.1** [Artificial Intelligence](#artificial-intelligence) Full-Day Track <a name="t2_1">
-*	 10:00 AM CET **T2.2** [Embedded and Open Source Hardware](#embedded-and-open-source-hardware) Full-Day Track <a name="t2_2">
-*	 05:30 PM CET [Women in Open Source](#women-in-open-source) Network Meeting <a name="t2women">
+*	 09:00 AM CET **T2.2** [Embedded and Open Source Hardware](#embedded-and-open-source-hardware) Full-Day Track <a name="t2_2">
+*	 05:00 PM CET [Women in Open Source](#women-in-open-source) Network Meeting <a name="t2women">
 
 **Ludwigsburg**
 

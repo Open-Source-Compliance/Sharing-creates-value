@@ -24,7 +24,7 @@ Flo Wohlrab (Eclipse OpenHW)*](#K2)<a name="K2m">
 - WEDNESDAY SCC ROOM2 09:45-10:15 **T2.2-3** [TBD](#T2.2-3)<a name="T2.2-3m">  
 - WEDNESDAY SCC ROOM2 10:15-10:45 **T2.2-4** [How to make FABulous eFPGA Design robust with Open Source tools, *N.N.*](#T2.2-4)<a name="T2.2-4m">  
 - WEDNESDAY SCC ROOM2 11:05-11:35 **T2.2-5** [Developing an open source digital design flow using
-OpenROAD with X-FAB 350 nm technologies, *Filip Vukoja*](#T2.2-5)<a name="T2.2-5m">
+OpenROAD with X-FAB 350 nm technologies, *Filip Vukoja (X-FAB)*](#T2.2-5)<a name="T2.2-5m">
 - WEDNESDAY SCC ROOM2 11:35-12:05 **T2.2-6** [Global Foundries, *N.N.*](#T2.2-6)<a name="T2.2-6m">  
 - WEDNESDAY SCC ROOM2 12:05-12:35 **T2.2-7** [Sunrise Demonstrator, *N.N.*](#T2.2-7)<a name="T2.2-7m">  
 - WEDNESDAY SCC ROOM2 12:35-12:45 **T2.2-8** [Highlights, Next Steps, *Organizers*](#T2.2-8)<a name="T2.2-8m">  
@@ -64,32 +64,18 @@ Charley Mann is a technical communicator and recovering journalist, helping engi
  
 
 <sub>[go to schedule](#K2m)</sub>
+
 <a name="T2.2-Moderator"></a>  
-## Moderator 
+## Moderator
 *Rüdiger Laschewski-Grossbaier (Innolintec)*
+ 
 
 <sub>[go to schedule](#T2.2-Moderatorm)</sub>
 <a name="T2.2-1"></a>  
 ## Welcome, Planning, Overview 
-  
-### Abstract:  
-0  
-  
+    
 *Organizers*  
   
-### Bio  
-tba  
-  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
- 
-
 <sub>[go to schedule](#T2.2-1m)</sub>
 <a name="T2.2-2"></a>  
 ## Open Source in F&E 
@@ -119,7 +105,7 @@ tba
 ### Abstract:  
 0  
   
-
+*N.N.*  
   
 ### Bio  
 tba  
@@ -158,16 +144,23 @@ tba
 
 <sub>[go to schedule](#T2.2-4m)</sub>
 <a name="T2.2-5"></a>  
-## Developing an open source digital design flow using
-OpenROAD with X-FAB 350 nm technologies 
+## Developing an open source digital design flow using OpenROAD with X-FAB 350 nm technologies 
   
 ### Abstract:  
-See [2026-03_Abstract_OpenChain_and_Friends_X-FAB.pdf](2026-03_Abstract_OpenChain_and_Friends_X-FAB.pdf)
+See [2026-03_Abstract_OpenChain_and_Friends_X-FAB.pdf](2026-03_Abstract_OpenChain_and_Friends_X-FAB.pdf)  
   
-*Filip Vukoja*  
+*Filip Vukoja (X-FAB)*  
   
 ### Bio  
-tba  
+Filip Vukoja (M.Eng.) graduated 2024 from the University of Applied Sciences Zwickau (WHZ). With a
+background in experimental physics and numerical mathematics he worked on several projects at the WHZ
+and the Fraunhofer AZOM. These contributions spanned projects for in-line process measurement for
+semiconductor manufacturing as well as the development of numerical simulation models using open source
+software frameworks (FEniCS, OpenFOAM).
+After graduation he joined X-FAB in the department of Design Support as Design Technology Engineer.
+His work involves the development and maintenance for in-house automation tools for EDA software for
+Digital and Analog design and respective verification tests of those. Additionally, he is responsible
+for the development of a reference flow for Digital Hardware Design using open source software.  
   
 ### Slides:
 
@@ -203,12 +196,12 @@ tba
 
 <sub>[go to schedule](#T2.2-6m)</sub>
 <a name="T2.2-7"></a>  
-## Sunrise Demonstrator 
+## N.N 
   
 ### Abstract:  
 0  
   
-*N.N.*  
+*N.N*  
   
 ### Bio  
 tba  
@@ -226,36 +219,20 @@ tba
 <sub>[go to schedule](#T2.2-7m)</sub>
 <a name="T2.2-8"></a>  
 ## Highlights, Next Steps 
-  
-### Abstract:  
-0  
-  
+    
 *Organizers*  
   
-### Bio  
-tba  
-  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
- 
-
 <sub>[go to schedule](#T2.2-8m)</sub>
 <a name="T2.2-9"></a>  
 ## RISC-V based multi core Sensor device 
   
 ### Abstract:  
-0  
+Sensry – as a provider of smart and AI-capable multi-sensor devices for use in industrial and other markets - has decided to build its sensor SoC based upon the open hardware RISC-V architecture. In this talk, Dirk will shed light on the different reasons why they have selected RISC-V and the open Zephyr operation system, and what problem they have faced in building their multi-sensor products based on these.  
   
 *Dr. Dirk Behrens (Sensry)*  
   
 ### Bio  
-tba  
+Dirk is a semiconductor veteran, has been one of the fathers of Infineon’s widely used TriCore/Aurix family and for that spend several years in Silicon Valley. He has worked for ATI/AMD when GPGPU processing has been started and by that drove the beginning of today’s AI area. Based on several years of experience with all kinds of sensors for use in industrial and automotive use he built up the ADAS and Autonomous Driving business at a large Automotive Tier1, before working as a coach and advisor to multiple EU-based startups. Dirk is leading Sensry’s activities from marketing and sales side.  
   
 ### Slides:
 
@@ -291,15 +268,16 @@ tba
 
 <sub>[go to schedule](#T2.2-10m)</sub>
 <a name="T2.2-11"></a>  
-## CVA6 Core for Edge A.I. Applications 
+## Tailoring the Open Source CVA6 RISC-V processor for real time automotive applications 
   
 ### Abstract:  
-0  
+The CORE-V CVA6 is an open-source, 6-stage, dual-issue RISC-V processor core capable of supporting Linux execution in application-class scenarios. To enhance its suitability for real-time workloads, we integrated tightly coupled scratchpad memories (TCMs) and a dedicated AHB peripheral bus, decoupling high-bandwidth data paths from low-latency control interfaces. Furthermore, exploiting the extensible RISC-V open ISA, via a dedicated coprocessor interface, we implemented custom instructions to accelerate edge AI inference tasks
+  
   
 *Nicolas Triebie (Bosch)*  
   
 ### Bio  
-tba  
+Nicolas Tribie is a SoC (Systems On Chip) Architect at Bosch, specializing in RISC-V-based designs, for automotive applications. With past experience in ARM processors, hardware accelerators, and wireless (Wi-Fi, Bluetooth, LTE). He graduated Msc EE from ESIEE Paris ’96.  
   
 ### Slides:
 
@@ -378,6 +356,7 @@ tba
  
 
 <sub>[go to schedule](#T2.2-14m)</sub>
+
 
 # Potential Follow-ups
 You cannot join in person but are interested to get in touch with the community?   

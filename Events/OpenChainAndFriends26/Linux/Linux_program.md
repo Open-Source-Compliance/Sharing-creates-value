@@ -15,6 +15,7 @@ get an **insight into the newest generation of modern cars**.
 **+ PIZZA!**
 
 # Agenda
+WEDNESDAY MARCH 25th 2026
 - WEDNESDAY STEP ROOM1 09:00-16:30 **T2.4-Moderator** [Thomas Kirstaetter (Robert Bosch GmbH), *0*](#T2.4-Moderator)<a name="T2.4-Moderatorm">  
 - WEDNESDAY STEP ROOM1 09:00-09:15 **T2.4-1** [Welcome and Introduction, *Thomas Kirstaetter (Robert Bosch GmbH)*](#T2.4-1)<a name="T2.4-1m">  
 - WEDNESDAY STEP ROOM1 09:15-10:15 **T2.4-2** [Repotree - Looking Upstream, *Sven Eppler (sodge IT)*](#T2.4-2)<a name="T2.4-2m">  

@@ -1,4 +1,4 @@
-<a href="invite"></a>
+<a name="invite"></a>
 [![OpenChain and Friends Stuttgart 2026](../title_banner.png)](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
 ![Women in Open Source](womeninopensource.png)
 

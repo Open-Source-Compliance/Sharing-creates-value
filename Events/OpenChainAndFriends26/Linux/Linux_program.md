@@ -17,12 +17,14 @@ get an **insight into the newest generation of modern cars**.
 # Agenda
 - WEDNESDAY STEP ROOM1 09:00-16:30 **T2.4-Moderator** [Thomas Kirstaetter (Robert Bosch GmbH), *0*](#T2.4-Moderator)<a name="T2.4-Moderatorm">  
 - WEDNESDAY STEP ROOM1 09:00-09:15 **T2.4-1** [Welcome and Introduction, *Thomas Kirstaetter (Robert Bosch GmbH)*](#T2.4-1)<a name="T2.4-1m">  
-- WEDNESDAY STEP ROOM1 09:15-10:15 **T2.4-2** [dep-tree collection https://canary.redgrey.net/, *Sven Eppler (sodge IT)*](#T2.4-2)<a name="T2.4-2m">  
-- WEDNESDAY STEP ROOM1 10:20-11:20 **T2.4-3** [How to create the SBOM for the Linux kernel, *Maximilian Huber (TNG)*](#T2.4-3)<a name="T2.4-3m">  
-- WEDNESDAY STEP ROOM1 11:25-12:25 **T2.4-4** [Sovereign Containers / OpenDesk / OpenCode, *Julian Schauder (Zendis)*](#T2.4-4)<a name="T2.4-4m">  
+- WEDNESDAY STEP ROOM1 09:15-10:15 **T2.4-2** [Repotree - Looking Upstream, *Sven Eppler (sodge IT)*](#T2.4-2)<a name="T2.4-2m">  
+- WEDNESDAY STEP ROOM1 10:20-11:20 **T2.4-3** [How to create the SBOM for the Linux kernel, *Maximilian Huber (TNG), Luis Augenstein (TNG) *](#T2.4-3)<a name="T2.4-3m">  
+- WEDNESDAY STEP ROOM1 11:25-12:25 **T2.4-4** [Crowdsourcing IT-Security: How openDesk uses SBOMs and VEX for decentralized security compliance, *Julian Schauder (Zendis)*](#T2.4-4)<a name="T2.4-4m">  
 - WEDNESDAY STEP ROOM1 13:30-14:30 **T2.4-5** [Reproducibility > OSS > SBOM, *Josef Holzmayer (Yocto)*](#T2.4-5)<a name="T2.4-5m">  
 - WEDNESDAY STEP ROOM1 14:35-15:35 **T2.4-6** [TBD, *TBD*](#T2.4-6)<a name="T2.4-6m">  
-- WEDNESDAY STEP ROOM1 15:40-16:30 **T2.4-7** [TBD](#T2.4-7)<a name="T2.4-7m">  
+- WEDNESDAY STEP ROOM1 15:40-16:30 **T2.4-7** [TBD, *TBD*](#T2.4-7)<a name="T2.4-7m">  
+
+
 
 # Details
 
@@ -38,15 +40,15 @@ get an **insight into the newest generation of modern cars**.
 
 <sub>[go to schedule](#T2.4-1m)</sub>
 <a name="T2.4-2"></a>  
-## dep-tree collection https://canary.redgrey.net/ 
+## Repotree - Looking Upstream 
   
 ### Abstract:  
-discuss this static prototype dep-tree collection and if it would be useful and if there is potential for a collaborative follow-up work: https://canary.redgrey.net/  
+As a consumer of linux you typically rely on the packages from your distribution. For many users this is "as upstream as it gets". But these packages also need to be build. So from the distribution perspective they are not upstream but the actual project is. This is where it gets exciting: How to linux distributions actually build these packages? Who is hosting the real upstream source? How is this source influenced before a package is build? In order to answer these questions for ourself and our customers we created repotree. In this talk i will introduce the problem, our first proof-of-concept of repotree and showcase some interesting findings. https://canary.redgrey.net/  
   
 *Sven Eppler (sodge IT)*  
   
 ### Bio  
-0  
+I am a software developer since the late 90s, starting of with oldschool perl/cgi scripts. Since 2012 i am employed ad sodge IT GmbH and since 2018 in the role of the CTO. We are advocates of open source software since the beginning, advocating for best practices and bringing patches from our customers upstream into the projects insteadt of never-ending "in house forks".  
   
 ### Slides:
 
@@ -63,12 +65,20 @@ discuss this static prototype dep-tree collection and if it would be useful and 
 ## How to create the SBOM for the Linux kernel 
   
 ### Abstract:  
-0  
+This talk presents KernelSBOM, a tool that reconstructs the entire Linux kernel build graph by analyzing .cmd files to recover the exact commands, inputs, and outputs used during compilation. KernelSBOM generates three interlinked SPDX 3.0 documents—source, build, and output—that comprehensively encode all build metadata and dependencies. 
+We demonstrate our approach, discuss its benefits for supply chain security and compliance, and examine current limitations. Our ultimate goal is to make kernel SBOMs practical and integrate SBOM generation directly into the kernel build process.
   
-*Maximilian Huber (TNG)*  
+  
+*Maximilian Huber (TNG)
+Luis Augenstein (TNG)*  
   
 ### Bio  
-0  
+Maximilian Huber:  
+Maximilian Huber is a Principal Consultant at TNG Technology Consulting specializing in software engineering, open-source compliance, and AI centered products. He contributes to several open-source projects around compliance and frequently speaks at international tech conferences about software supply chains and SBOMs.
+
+Luis Augenstein:  
+Luis Augenstein received his M.Sc. in Computer Science from the Karlsruher Institut für Technologie (KIT) in 2023. Since February 2024, he has been working as a Software Consultant at TNG Technology Consulting GmbH. Throughout this time, he has contributed to projects in software engineering and operations. He supported teams in modernizing build processes, improving development workflows, and developing frontend applications. In addition, he implemented the main parts of the KernelSBOM tool.
+  
   
 ### Slides:
 
@@ -82,10 +92,12 @@ discuss this static prototype dep-tree collection and if it would be useful and 
 
 <sub>[go to schedule](#T2.4-3m)</sub>
 <a name="T2.4-4"></a>  
-## Sovereign Containers / OpenDesk / OpenCode 
+## Crowdsourcing IT-Security: How openDesk uses SBOMs and VEX for decentralized security compliance 
   
 ### Abstract:  
-publicly available OS containers https://www.linkedin.com/posts/leonhard-kugler-532968205_wirmachensouveraeun-activity-7416881740670984192-FgLQ?utm_medium=ios_app&rcm=ACoAADLHgScBAxgvrGoqPYYFBF-6hCo3w3dyHwg&utm_source=social_share_send&utm_campaign=copy_link as potential solutio  
+Modern software supply chains rely on trustworthy, reusable components. container.gov.de is a German public-sector initiative delivering hardened, signed open source container images designed for government use. As part of the SSDLC strategy of BSI and ZenDiS this Secure Government Container Initiative provides standardized base images that meet federal security requirements while remaining compatible with common cloud and infrastructure environments.
+By pooling and governing container artifacts centrally, the platform reduces duplication, improves quality, and strengthens digital sovereignty.
+  
   
 *Julian Schauder (Zendis)*  
   

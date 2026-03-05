@@ -10,10 +10,10 @@ This Automotive / SDV topic stream is part of the OpenChain and Friends Event in
 For Event-Details and registration please check out the [OpenChain and Friends Event Website](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
 
 # Keynotes
-|TBA|
+|![Franz Loogen e-mobil BW GmbH](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/franz_loogen-300x200.png)|
 |-------------------|
-|TBA|
-|TBA|
+|Franz Loogen (e-mobil BW GmbH), President|
+|Welcome Keynote TUESDAY SCC ROOM1 10:10-10:20|
 
 
 # Agenda

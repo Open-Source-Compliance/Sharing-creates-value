@@ -10,7 +10,7 @@
 - TUESDAY SCC ROOM2 14:00-14:20 **T1.2-1** [Basics and background: An introduction to Open Source Compliance, *Caren Kresse (OSADL)*](#T1.2-1)<a name="T1.2-1m">  
 - TUESDAY SCC ROOM2 14:25-14:45 **T1.2-2** [Open Source based SupplyChain Management at scale, *Nikola Babadzhanov (Bosch)*](#T1.2-2)<a name="T1.2-2m">  
 - TUESDAY SCC ROOM2 14:50-15:10 **T1.2-3** [Open Source Management at Mercedes-Benz, *Christian Wege (Mercedes-Benz)*](#T1.2-3)<a name="T1.2-3m">  
-- TUESDAY SCC ROOM2 15:15-15:35 **T1.2-4** [The Last Mile Problem: Turning Executive Support into Real Open Repo Contributions, *Walt Miner/Jan-Simon Möller (AGL)*](#T1.2-4)<a name="T1.2-4m">  
+- TUESDAY SCC ROOM2 15:15-15:35 **T1.2-4** [The Last Mile Problem: Turning Executive Support into Real Open Repo Contributions, *Walt Miner (AGL)*](#T1.2-4)<a name="T1.2-4m">  
 - WEDNESDAY Think Tank 09:00-16:30 **T2.3-Moderator** [Nikola Babadzhanov (Bosch)](#T2.3-Moderator)<a name="T2.3-Moderatorm">  
 - WEDNESDAY Think Tank 09:30-09:35 **T2.3-1** [Intro to the track and agenda, *Nikola Babadzhanov (Bosch)*](#T2.3-1)<a name="T2.3-1m">  
 - WEDNESDAY Think Tank 09:40-10:00 **T2.3-2** [Topic 1: CRA tooling for SMEs by the OCCTET project, *Martin von Willebrand (DoubleOpen) and 
@@ -114,12 +114,18 @@ industry closer to the open source community.
 ## The Last Mile Problem: Turning Executive Support into Real Open Repo Contributions 
 
 ### Abstract:  
-0 
+Numerous studies have shown the technical and financial benefits of not just using, but also contributing to open source software, yet the automotive industry remains stuck in neutral when it comes to contributing to collaborative open source projects. 
+For over a decade, Automotive Grade Linux (AGL) has proven that OEM and Tier 1 competitors can collaborate on pre-competitive software. We've built the neutral governance, technical frameworks, and shared workflows that make this real-world co-development possible in the traditional automotive industry. 
+
+Yet, a recent AGL OSPO Expert Group survey highlights a critical "last mile" problem: contributions are stalling. Developers often lack clear guidance on what they can share and who needs to approve it. Without active, visible buy-in from senior leadership, code stays locked away. 
+This talk will connect AGL’s long-term work in open source enablement for the automotive industry with the specific internal roadblocks our survey identified. We’ll finish with a playbook for OSPOs: concrete steps to move from executive intent to developer action, 
+creating clear pathways for open source contributions that benefit the OEMs and Tier 1 technical and financial bottom line.  
 
 *Walt Miner/Jan-Simon Möller (AGL)*
 
 ### Bio 
-0 
+Walt Miner is the Senior Director of Community at The Linux Foundation and has served as Community Manager for Automotive Grade Linux since 2014. Walt has spoken at numerous conferences throughout the worlds and brings over 30 years of embedded software development and 
+management experience in the automotive, mobile phone, and defense industries.  Walt rides motorcycles in his free time and has ridden to a number of conferences over the years. 
 
 ### Slides:
 

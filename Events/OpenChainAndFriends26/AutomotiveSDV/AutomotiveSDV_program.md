@@ -16,11 +16,14 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 
 
 # Agenda
+TUESDAY March 24th 2026
 - TUESDAY SCC ROOM3 15:45-17:20 **T1.6-Moderator** [Jan-Simon Möller (AGL), *0*](#T1.6-Moderator)<a name="T1.6-Moderatorm">  
 - TUESDAY SCC ROOM3 15:45-16:05 **T1.6-1** [Open source SDV with Automotive Grade Linux SoDeV, *Dan Cauchy (AGL)*](#T1.6-1)<a name="T1.6-1m">  
 - TUESDAY SCC ROOM3 16:10-16:30 **T1.6-2** [SDV Landscape, *Christian Heissenberger (Eclipse) + N.N.*](#T1.6-2)<a name="T1.6-2m">  
-- TUESDAY SCC ROOM3 16:35-16:55 **T1.6-3** [FEDERATE Project, *Detlef Zerfowski (ETAS)*](#T1.6-3)<a name="T1.6-3m">  
+- TUESDAY SCC ROOM3 16:35-16:55 **T1.6-3** [FEDERATE and how the automotive industry moves towards Open Source, *Detlef Zerfowski (ETAS)*](#T1.6-3)<a name="T1.6-3m">  
 - TUESDAY SCC ROOM3 17:00-17:20 **T1.6-4** [Eclipse S-Core Intro: Open by Choice. Safe by Design., *Frank Scholter-Perez (Mercedes-Benz Tech Innovation)*](#T1.6-4)<a name="T1.6-4m">  
+  
+THURSDAY March 26th 2026
 - THURSDAY ThinkTank 09:00-16:30 **T3.3-Moderator** [Jan-Simon Möller (AGL), *0*](#T3.3-Moderator)<a name="T3.3-Moderatorm">  
 - THURSDAY ThinkTank 09:20-09:30 **T3.3-1** [Welcome remarks, *Jan-Simon Möller (AGL)*](#T3.3-1)<a name="T3.3-1m">  
 - THURSDAY ThinkTank 09:30-10:00 **T3.3-2** [SDV Landscape and beyond ..., *Christian Heissenberger (Eclipse)*](#T3.3-2)<a name="T3.3-2m">  
@@ -28,7 +31,8 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 - THURSDAY ThinkTank 10:45-11:15 **T3.3-4** [ISO5230 - OpenChain as a Negotiation Boost, *Christian von Drathen (Robert Bosch GmbH)*](#T3.3-4)<a name="T3.3-4m">  
 - THURSDAY ThinkTank 11:15-11:45 **T3.3-5** [CATENA-X / TRACTUS-X, *Alexander Denk (BMW)*](#T3.3-5)<a name="T3.3-5m">  
 - THURSDAY ThinkTank 13:00-13:30 **T3.3-6** [AGL SoDeV status and roadmap, *Walt Miner (AGL)*](#T3.3-6)<a name="T3.3-6m">  
-- THURSDAY ThinkTank 13:30-14:00 **T3.3-7** [Eclipse Safe Open Vehicle Core (S-Core), *Björn Reistel (ETAS)*](#T3.3-7)<a name="T3.3-7m">  
+- THURSDAY ThinkTank 13:30-14:00 **T3.3-7** [Eclipse Safe Open Vehicle Core: Open by Choice. Safe by Design.
+Introduction to Eclipse S-CORE, Current Momentum, and Outlook 2026, *Björn Reistel (ETAS)*](#T3.3-7)<a name="T3.3-7m">
 - THURSDAY ThinkTank 14:15-15:00 **T3.3-8** [BOF session (45min), *0*](#T3.3-8)<a name="T3.3-8m">  
 - THURSDAY ThinkTank 15:15-15:45 **T3.3-9** [Your first steps in Open Source - working with Open Source Communities, *Sven Erik Jeroschewski (Robert Bosch GmbH)*](#T3.3-9)<a name="T3.3-9m">  
 - THURSDAY ThinkTank 15:45-16:15 **T3.3-10** [ASF NuttX RTOS - introduction and benefits, *Alin Jerpela (Sony)*](#T3.3-10)<a name="T3.3-10m">  
@@ -60,7 +64,6 @@ tba
 
 *link to webinar announcement / recording*
 
- 
 
 <sub>[go to schedule](#T1.6-1m)</sub>
 <a name="T1.6-2"></a>  
@@ -72,7 +75,12 @@ tba
 *Christian Heissenberger (Eclipse) + N.N.*  
   
 ### Bio  
-tba  
+Christian Heissenberger
+Technical Program Manager, SDV & Automotive Programs
+Eclipse Foundation Europe GmbH
+Christian Heissenberger is Technical Program Manager for the Eclipse Foundation’s Eclipse Software Defined Vehicle (SDV) Working Group, where he drives open-source innovation in automotive software and helps shape the industry’s move toward software-defined vehicles.
+Before joining the Eclipse Foundation, he held leadership roles at Bosch for more than a decade and most recently served as Chief Architect for Software Innovations at ETAS. Christian combines deep experience in embedded systems and global software collaboration with a passion for open ecosystems. An active contributor to the Eclipse Leda project and a recognized voice in the SDV community.
+  
   
 ### Slides:
 
@@ -86,15 +94,19 @@ tba
 
 <sub>[go to schedule](#T1.6-2m)</sub>
 <a name="T1.6-3"></a>  
-## FEDERATE Project 
+## FEDERATE and how the automotive industry moves towards Open Source 
   
 ### Abstract:  
-tba  
+The automotive SW industry is facing a significant transformation. Earlier SW has been an integral part of electronic control units (ECUs). With the SW defined Vehicle (SdV) the software is decoupling from the underlying mProcessor-based hardware. Over the past years, industry players anticipated, that not a single company can own and control the entire in-vehicle software stack anymore. Therefore, long time established relationships between OEM and Tiers change towards new collaborative approaches. In this course of transformation open source plays a significant role. During the talk I'll provide an inside how this mindset shift happened and still happens.  
   
 *Detlef Zerfowski (ETAS)*  
   
 ### Bio  
-tba  
+Detlef Zerfowski
+After his PhD in Computer Science (TH Karlsruhe) in the area of medical signal processing, Mr. Zerfowski joined the Robert Bosch GmbH. His 25 years' experience in the automotive industry covers software engineering in different application domains.
+During 2009-2015 Mr. Zerfowski worked for Bosch/ETAS abroad in India. Especially he had the position of the Managing Director of ETAS Automotive India Prv. Ltd.
+From 2015 till 2018 Mr. Zerfowski was with a Bosch corporate technology department and was responsible for the Bosch corporate SW strategies in the automotive domain.
+Since 2018 he is with 100% Bosch daughter ETAS GmbH and is responsible for Engineering Excellence across all SW development units within the ETAS GmbH. Additionally, he is a driver (e.g. as a member of the EU Sherpa Group and FEDERATE) for the industry wide transformation towards open source based ecosystems, esp. in the context of the Eclipse S-CORE project.  
   
 ### Slides:
 
@@ -132,11 +144,11 @@ tba
 <a name="T3.3-Moderator"></a>  
 ## Moderator Day 3
 *Jan-Simon Möller (AGL)*
-  
+
 <sub>[go to schedule](#T3.3-Moderatorm)</sub>
 <a name="T3.3-1"></a>  
 ## Welcome remarks 
-    
+  
 *Jan-Simon Möller (AGL)*  
   
 <sub>[go to schedule](#T3.3-1m)</sub>
@@ -144,12 +156,16 @@ tba
 ## SDV Landscape and beyond ... 
   
 ### Abstract:  
-tba  
+The Eclipse SDV Landscape Project is now established, and striving for expansion, requiring the integration of new communities and the mapping of emerging SDV technologies. This session will explain the project's content, covering the Landscape's CI/CD workflows and data scripts. It will give you a comprehensive overview of the currently listed projects within the Eclipse SDV Community. This will be the basis for future integration points with all other initiatives like AGL, OpenChain, SOAFEE, COVESA, etc.  
   
 *Christian Heissenberger (Eclipse)*  
   
 ### Bio  
-tba  
+Christian Heissenberger
+Technical Program Manager, SDV & Automotive Programs
+Eclipse Foundation Europe GmbH
+Christian Heissenberger is Technical Program Manager for the Eclipse Foundation’s Eclipse Software Defined Vehicle (SDV) Working Group, where he drives open-source innovation in automotive software and helps shape the industry’s move toward software-defined vehicles.
+Before joining the Eclipse Foundation, he held leadership roles at Bosch for more than a decade and most recently served as Chief Architect for Software Innovations at ETAS. Christian combines deep experience in embedded systems and global software collaboration with a passion for open ecosystems. An active contributor to the Eclipse Leda project and a recognized voice in the SDV community.  
   
 ### Slides:
 
@@ -254,15 +270,20 @@ tba
 
 <sub>[go to schedule](#T3.3-6m)</sub>
 <a name="T3.3-7"></a>  
-## Eclipse Safe Open Vehicle Core (S-Core) 
+## Eclipse Safe Open Vehicle Core: Open by Choice. Safe by Design.
+Introduction to Eclipse S-CORE, Current Momentum, and Outlook 2026 
   
 ### Abstract:  
-tba  
+The presentation will give an introduction about Eclipse S-CORE highlighting the latest release, showcasing its functionalities and a collaborative development framework.
+The 2026 outlook details strategic priorities, key development areas, and planned ecosystem growth.
+Learn how to join our global community building a common, safety-critical runtime foundation for automotive innovation.  
   
 *Björn Reistel (ETAS)*  
   
 ### Bio  
-tba  
+Björn Reistel is an expert in ecosystem development and community management at ETAS GmbH (a Robert Bosch GmbH subsidiary), specializing in open source software solutions and their adoption, particularly within the automotive domain. With extensive experience in community building and strategic partnerships, he has held key roles focusing on product management and business development for a major part of his career.
+
+He holds the position of Chair for the Eclipse SDV Steering Committee, where his leadership is directed towards establishing and sustaining an active and growing open source community. Additionally, Björn is actively involved in the Eclipse S-CORE project, driving its marketing and communication activities, and promoting thought leadership in OSS through structured community involvement. His professional career is characterized by a consistent dedication to innovation, realized through the facilitation of collaborative platforms and strategic alliances.  
   
 ### Slides:
 
@@ -277,24 +298,10 @@ tba
 <sub>[go to schedule](#T3.3-7m)</sub>
 <a name="T3.3-8"></a>  
 ## BOF session (45min) 
-  
-### Abstract:  
-tba  
-  
-*0*  
-  
-### Bio  
-tba  
-  
-### Slides:
 
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
- 
+What is a BOF session?  
+An informal discussion group, typically at a conference, based on a shared interest and without any fixed agenda.
+(source: https://en.wiktionary.org/wiki/birds-of-a-feather_session)
 
 <sub>[go to schedule](#T3.3-8m)</sub>
 <a name="T3.3-9"></a>  
@@ -360,25 +367,10 @@ Currently he is working together with the Apache NuttX community serving as Proj
 <a name="T3.3-11"></a>  
 ## Abschluss / Ende / Closing Remarks / END 
   
-### Abstract:  
-0  
-  
 *Jan-Simon Möller (AGL)*  
   
-### Bio  
-0  
-  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
- 
-
 <sub>[go to schedule](#T3.3-11m)</sub>
+
 
 # Potential Follow-ups
 

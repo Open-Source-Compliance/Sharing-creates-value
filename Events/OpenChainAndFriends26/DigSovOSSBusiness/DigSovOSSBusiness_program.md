@@ -16,12 +16,13 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 
 # Agenda
 - TUESDAY SCC ROOM1 10:20-10:40 **K1** [Keynote, *Björn Schiessle (NextCloud)*](#K1)<a name="K1m">  
-- TUESDAY SCC ROOM1 11:00-11:30 **Panel** [Panel Discussion - Digital Sovereignty & Open Source in Business in the context of Supply Chain (Chances and) Risk Management, *Moderator: Lothar Becker (OSBA)*](#Panel)<a name="Panelm">  
+- TUESDAY SCC ROOM1 11:00-11:30 **Panel** [Panel Discussion - Digital Sovereignty & Open Source in Business in the context of Supply Chain (Chances and) Risk Management, *Moderator: Lothar Becker (OSBA)*](#Panel)<a name="Panelm">
   
 - TUESDAY SCC ROOM3 14:00-15:35 **T1.3-Moderator** [Lothar Becker (OSBA)](#T1.3-Moderator)<a name="T1.3-Moderatorm">  
-- TUESDAY SCC ROOM3 14:00-14:20 **T1.3-1** [TBD](#T1.3-1)<a name="T1.3-1m">
+- TUESDAY SCC ROOM3 14:00-14:20 **T1.3-1** [Open Source Business Chances for KMU Practice 
+OLF member (iteratec) onmigration to an oss solution offering / Practice, *Rüdiger Heins (iteratec)*](#T1.3-1)<a name="T1.3-1m">
 - TUESDAY SCC ROOM3 14:25-14:45 **T1.3-2** [Methodology for switching to Open Source solutions / Theory, *Wolfgang Gehring (Mercedes-Benz Tech Innovations)*](#T1.3-2)<a name="T1.3-2m">  
-- TUESDAY SCC ROOM3 14:50-15:10 **T1.3-3** [OpenDesk / OpenCode / Practice, *Julian Schauder (Zendis)*](#T1.3-3)<a name="T1.3-3m">  
+- TUESDAY SCC ROOM3 14:50-15:10 **T1.3-3** [openDesk, openCode and container.gov.de, *Julian Schauder (Zendis)*](#T1.3-3)<a name="T1.3-3m">  
 - TUESDAY SCC ROOM3 15:15-15:35 **T1.3-4** [Open Source Business Guide / Theory, *Emily Omier (The Business of Open Source)*](#T1.3-4)<a name="T1.3-4m">  
 
 # Details
@@ -52,7 +53,7 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 ## Panel Discussion - Digital Sovereignty & Open Source in Business in the context of Supply Chain (Chances and) Risk Management 
   
 ### Abstract:  
-Panelists: Thorsten Hülsmann (Open Logistics Foundation), Julian Schauder (Zendis), Alexander Röck (Robert Bosch GmbH), N.N.
+Panelists: Thorsten Hülsmann (Open Logistics Foundation), Julian Schauder (Zendis), Alexander Röck (Robert Bosch GmbH), Rüdiger Heins (iteratec).
   
 *Moderator: Lothar Becker (OSBA)*  
   
@@ -115,15 +116,13 @@ Panelists: Thorsten Hülsmann (Open Logistics Foundation), Julian Schauder (Zend
 ### Webinar/Recording: 
 
 *link to webinar announcement / recording*
-
- 
-
 <sub>[go to schedule](#T1.3-2m)</sub>
+
 <a name="T1.3-3"></a>  
-## OpenDesk / OpenCode / Practice 
+## openDesk, openCode and container.gov.de 
   
 ### Abstract:  
-0  
+This talk provides an overview to key digital sovereignty projects of the german public administration. It will showcase how these projects form a coherent stack that enables digital sovereignty for key aspects of federal digital and cloud strategies. From vaseline OSS-Compliance and Container-Security to a sovereign workspace. 
   
 *Julian Schauder (Zendis)*  
   
@@ -138,9 +137,8 @@ Panelists: Thorsten Hülsmann (Open Logistics Foundation), Julian Schauder (Zend
 
 *link to webinar announcement / recording*
 
- 
-
 <sub>[go to schedule](#T1.3-3m)</sub>
+
 <a name="T1.3-4"></a>  
 ## Open Source Business Guide / Theory 
   

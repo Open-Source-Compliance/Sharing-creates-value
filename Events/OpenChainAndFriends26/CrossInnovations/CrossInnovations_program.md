@@ -273,12 +273,17 @@ After graduating from Stuttgart Media University in 2000 he moved to California 
 ## Innovation Practices Workshop 
   
 ### Abstract:  
-0  
+"The future is already here — it's just not very evenly distributed." We have gathered many new ideas during this OpenChains event, and we have all brought our own experiences with us. This workshop is about sharing the ideas we have heard, our own thoughts about them, and the professional experiences we have collected.
+
+We will find other people interested in the same topics and enter into conversations with like-minded participants. Unconference, barcamp, open space - there are many names for this form of exchanging ideas.
+
+Learn about this innovation and discover how to explore and learn about other innovations from your peers.  
   
-*Tobias Frech (JUGS)*  
-  
+*Tobias Frech (JUG Stuttgart)*
+
 ### Bio  
-0  
+
+Tobias Frech works as an independent consultant in Java development and the general DevOps area. To keep himself updated on recent developments, he joined and started several professional networks. For many years, he has attended conferences and unconferences and has seen many innovations presented, some of which have stood the test of time. In his experience, personal recommendations and hands-on reports about what works and which benefits are real are among the best indicators for discovering innovations worth trying out or keeping an eye on.
   
 ### Slides:
 
@@ -295,12 +300,7 @@ After graduating from Stuttgart Media University in 2000 he moved to California 
 ## Workshop Part 1 
   
 ### Abstract:  
-0  
-  
-*0*  
-  
-### Bio  
-0  
+this space is intentionally left blank  
   
 ### Slides:
 
@@ -317,12 +317,9 @@ After graduating from Stuttgart Media University in 2000 he moved to California 
 ## Workshop Part 2 
   
 ### Abstract:  
-0  
-  
-*0*  
+this space is intentionally left blank
   
 ### Bio  
-0  
   
 ### Slides:
 
@@ -339,12 +336,9 @@ After graduating from Stuttgart Media University in 2000 he moved to California 
 ## Wrap-up and Goodbye 
   
 ### Abstract:  
-0  
-  
-*0*  
-  
-### Bio  
-0  
+Let’s share the highlights from the past few hours and take a look at the coming month and the year ahead.
+
+### Bio   
   
 ### Slides:
 

@@ -1,3 +1,4 @@
+<a name="welcome"></a>  
 ![OpenChain and Friends Stuttgart 2026](../title_banner.png)
 ![Open Source Compliance and OSPO](opensourcecomplianceospo.png)
 - [Agenda](#agenda)

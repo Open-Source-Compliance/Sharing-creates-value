@@ -22,14 +22,15 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 - TUESDAY SCC ROOM2 15:45-16:05 **T1.5-1** [KeyNote: The role of cybersecurity in supply chain and AI, *Dirk Targoni (Robert Bosch GmbH)*](#T1.5-1)<a name="T1.5-1m">  
 - TUESDAY SCC ROOM2 16:10-16:30 **T1.5-2** [Secure AI Systems: Regulations, threats, defense mechanisms, *Dr. Maike Massierer (Robert Bosch GmbH)*](#T1.5-2)<a name="T1.5-2m">  
 - TUESDAY SCC ROOM2 16:35-16:55 **T1.5-3** [ISO18974, *Jimmy Ahlberg (Ericssson)*](#T1.5-3)<a name="T1.5-3m">  
-- TUESDAY SCC ROOM2 17:00-17:20 **T1.5-4** [GVIP, *N.N.*](#T1.5-4)<a name="T1.5-4m">  
+- TUESDAY SCC ROOM2 17:00-17:20 **T1.5-4** [GVIP, *N.N.*](#T1.5-4)<a name="T1.5-4m">
+- 
 - THURSDAY SCC ROOM1 09:00-16:30 **T3.1-Moderator** [Sven Schran (ETAS GmbH)](#T3.1-Moderator)<a name="T3.1-Moderatorm">  
 - THURSDAY SCC ROOM1 09:00-09:10 **T3.1-1** [Welcome and introduction, *Sven Schran (ETAS GmbH), Christian*](#T3.1-1)<a name="T3.1-1m">  
 - THURSDAY SCC ROOM1 09:10-09:40 **T3.1-2** [Stronger Together: Networking for Cybersecurity Impact, *Christian Billmann (asvin.io), 
-Dirk Targoni (ASRG-S)*](#T3.1-2)<a name=""T3.1-2m"">
+Dirk Targoni (ASRG-S)*](#T3.1-2)<a name="T3.1-2m">
 - THURSDAY SCC ROOM1 09:40-10:10 **T3.1-3** [Autonomous Cyberattacks Driven by Artificial Intelligence, *Frank Reichart (Robert Bosch GmbH)*](#T3.1-3)<a name="T3.1-3m">  
 - THURSDAY SCC ROOM1 10:10-10:40 **T3.1-4** [Seamless Software Security: OCaaS, VulnerableCode & Dependency Track in Action, *Sonnenholzer Kerstin (Robert Bosch GmbH),
-Krzysztof Nalej (Robert Bosch GmbH)*](#T3.1-4)<a name=""T3.1-4m"">
+Krzysztof Nalej (Robert Bosch GmbH)*](#T3.1-4)<a name="T3.1-4m">
 - THURSDAY SCC ROOM1 10:55-11:25 **T3.1-5** [Automotive CTI and OSYNTH, *Mirko Ross (asvin.io)*](#T3.1-5)<a name="T3.1-5m">  
 - THURSDAY SCC ROOM1 11:25-11:55 **T3.1-6** [Supply Chain Security for the 99%: FOSS for trust and verifiability, *Thomas Steenbergen (AboutCode)*](#T3.1-6)<a name="T3.1-6m">  
 - THURSDAY SCC ROOM1 11:55-12:25 **T3.1-7** [TBD](#T3.1-7)<a name="T3.1-7m">  

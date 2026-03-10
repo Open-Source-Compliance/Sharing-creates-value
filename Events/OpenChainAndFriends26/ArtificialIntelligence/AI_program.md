@@ -16,7 +16,7 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 # Agenda
 - *DAY1 24.3.2026*
 - TUESDAY SCC ROOM1 15:45-17:20 **T1.4-Moderator** [Robert Hansel (Robert Bosch GmbH)](#T1.4-Moderator)<a name="T1.4-Moderatorm">  
-- TUESDAY SCC ROOM1 15:45-16:05 **T1.4-1** [Keynote: AI Systems Engineering - a new engineering discipline?, *Dr. Thomas Usländer (Fraunhofer IOSB)*](#T1.4-1)<a name="T1.4-1m">  
+- TUESDAY SCC ROOM1 15:45-16:05 **T1.4-1** [**Keynote**: AI Systems Engineering - a new engineering discipline?, *Dr. Thomas Usländer (Fraunhofer IOSB)*](#T1.4-1)<a name="T1.4-1m">  
 - TUESDAY SCC ROOM1 16:10-16:30 **T1.4-2** [N.N., *N.N.*](#T1.4-2)<a name="T1.4-2m">  
 - TUESDAY SCC ROOM1 16:35-16:55 **T1.4-3** [Beyond Data Pipelines: Using Apache Airflow to Automate Autonomous Driving Tests, *Marco Küttelwesch (Robert Bosch GmbH), 
 Jens Scheffler (Robert Bosch GmbH), 
@@ -30,7 +30,7 @@ Daniel Wolf (Robert Bosch GmbH)*](#T1.4-3)<a name="T1.4-3m">
 - WEDNESDAY SCC ROOM2 10:25-10:40 **T2.1-3** [Industrial LLM - who provides the data?, *Axel Rogaischus (IBM)*](#T2.1-3)<a name="T2.1-3m">  
 - WEDNESDAY SCC ROOM2 10:40-10:55 **T2.1-4** [The HammerHAI AI factory - FOSS on AI-optimised HPC, *Dr. Andreas Wierse (SICOS BW)*](#T2.1-4)<a name="T2.1-4m">  
 -  **AI AND OPEN SOURCE**
-- WEDNESDAY SCC ROOM2 11:25-11:50 **T2.1-5** [Keynote: Engineering with and for Open Source in the AI Era, *Prof. Dr. Ingo Weber (Fraunhofer/TU Munich)*](#T2.1-5)<a name="T2.1-5m">  
+- WEDNESDAY SCC ROOM2 11:25-11:50 **T2.1-5** [**Keynote**: Engineering with and for Open Source in the AI Era, *Prof. Dr. Ingo Weber (Fraunhofer/TU Munich)*](#T2.1-5)<a name="T2.1-5m">  
 - WEDNESDAY SCC ROOM2 11:50-12:05 **T2.1-6** [PAISE(R) - The Process Model for AI Systems Engineering, *Dr. Constanze Hasterok (Fraunhofer IOSB)*](#T2.1-6)<a name="T2.1-6m">  
 - WEDNESDAY SCC ROOM2 12:05-12:20 **T2.1-7** [Leveraging Open Source Tools in Enterprise Environments - AI Infrastructure at Bosch, *Joshua Uhl (Robert Bosch GmbH)*](#T2.1-7)<a name="T2.1-7m">  
 - WEDNESDAY SCC ROOM2 12:20-12:35 **T2.1-8** [Online Interview: Ant Group and the Ling Project, *Richard Bian (Ant Group)*](#T2.1-8)<a name="T2.1-8m">  
@@ -40,7 +40,7 @@ Daniel Wolf (Robert Bosch GmbH)*](#T1.4-3)<a name="T1.4-3m">
 - WEDNESDAY SCC ROOM2 14:30-14:45 **T2.1-11** [Data spaces – the key to unlocking AI’s potential, *Christoph Mertens (IDSA) [requested]*](#T2.1-11)<a name="T2.1-11m">  
 - WEDNESDAY SCC ROOM2 14:45-15:00 **T2.1-12** [From Catena-X to Cross-Industry Adoption: A Practical Guide to Joining the Eclipse Tractus-X Community, *David Görzig (ARENA2036 e.V.)*](#T2.1-12)<a name="T2.1-12m">  
 -  **OPEN APIs ENABLING EFFICIENT AI MODEL DEVELOPMENT**
-- WEDNESDAY SCC ROOM2 15:30-15:55 **T2.1-13** [Keynote: Trust has a Supply Chain - Open Standards and the Infrastructure of Trustworthy AI, *Dr. Ingo Simonis (Open Geospatial Consortium)*](#T2.1-13)<a name="T2.1-13m">  
+- WEDNESDAY SCC ROOM2 15:30-15:55 **T2.1-13** [**Keynote**: Trust has a Supply Chain - Open Standards and the Infrastructure of Trustworthy AI, *Dr. Ingo Simonis (Open Geospatial Consortium)*](#T2.1-13)<a name="T2.1-13m">  
 - WEDNESDAY SCC ROOM2 15:30-15:55 **T2.1-14** [FA³ST Ecosystem - Simplifying Standardized Digital twins with AI, *Marc Leon Haller (Fraunhofer IOSB)*](#T2.1-14)<a name="T2.1-14m">  
 - WEDNESDAY SCC ROOM2 15:55-16:10 **T2.1-15** [Unlocking AI Potential: Open Standards as the Foundation for AI-Ready Datasets, *Philipp Hertweck (Fraunhofer IOSB)*](#T2.1-15)<a name="T2.1-15m">  
 - WEDNESDAY SCC ROOM2 16:10-16:25 **T2.1-16** [LF Agentic AI Foundation and OpenChain AI SBOM Guide, *Hendrik Ebbers (Open Elements)*](#T2.1-16)<a name="T2.1-16m">  

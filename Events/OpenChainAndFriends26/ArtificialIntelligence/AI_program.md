@@ -242,12 +242,12 @@ tba
 ## The HammerHAI AI factory - FOSS on AI-optimised HPC 
   
 ### Abstract:  
-tba  
+The HammerHAI AI Factory in Stuttgart showcases how the power of open-source software (FOSS) can be harnessed to drive cutting-edge AI development on AI optimized high-performance computing (HPC) infrastructure. This presentation explores our approach to building scalable, efficient, and transparent AI solutions—leveraging modular open-source components, optimized compute environments, and collaborative workflows for research and industry. While the new AI hardware is likely to arrive later this year, we are of course already preparing everything for this; we will discuss the technical architecture that enables flexible model development and deployment, and explain how we plan to integrate FOSS principles into an HPC driven AI production environment. Attendees will gain insights into how openness, sustainability, and performance can coexist to accelerate real-world AI innovation.  
   
 *Dr. Andreas Wierse (SICOS BW)*  
   
 ### Bio  
-tba  
+Dr. Andreas Wierse is Managing Director of SICOS BW GmbH in Stuttgart, where he helps small and medium-sized enterprises leverage high-performance computing, simulation, data analytics and AI to drive innovation and competitiveness. With a background in mathematics and engineering, he has many years of experience at the interface of research, industry and digital transformation, translating advanced technologies into practical solutions for business. In various roles, he has contributed to initiatives that strengthen the digital ecosystem in Baden-Württemberg and promote the adoption of data-driven technologies across sectors. 
   
 ### Slides:
 

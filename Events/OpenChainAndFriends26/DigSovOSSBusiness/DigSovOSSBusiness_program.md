@@ -54,7 +54,11 @@ OLF member (iteratec) onmigration to an oss solution offering / Practice, *Rüdi
 ## Panel Discussion - Digital Sovereignty & Open Source in Business in the context of Supply Chain (Chances and) Risk Management 
   
 ### Abstract:  
-Panelists: Thorsten Hülsmann (Open Logistics Foundation), Julian Schauder (Zendis), Alexander Röck (Robert Bosch GmbH), Rüdiger Heins (iteratec).
+Panelists: 
+- Thorsten Hülsmann (Open Logistics Foundation),
+- Julian Schauder (Zendis),
+- Alexander Röck (Robert Bosch GmbH),
+- Rüdiger Heins (iteratec).
   
 *Moderator: Lothar Becker (OSBA)*  
   

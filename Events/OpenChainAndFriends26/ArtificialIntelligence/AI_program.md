@@ -75,7 +75,7 @@ LinkedIn: https://www.linkedin.com/in/tuslaender Research Gate: https://www.rese
 
 <sub>[go to schedule](#T1.4-1m)</sub>
 <a name="T1.4-2"></a>  
-## tbd 
+## N.N. 
   
 ### Abstract:  
 tba  
@@ -166,7 +166,10 @@ Sabrina Kaniewski received her M.Sc. in Computer Science from the University of 
 <sub>[go to schedule](#T2.1-Moderatorm)</sub>
 <a name="T2.1-1"></a>  
 ## AI Topic Stream - Overview and Introduction 
-    
+  
+### Abstract:  
+Overview about the aspects covered in the AI Topic Steam and presentation of the agenda.  
+  
 *Dr. Thomas Usländer (Fraunhofer IOSB)*  
   
 ### Bio  
@@ -185,15 +188,17 @@ LinkedIn: https://www.linkedin.com/in/tuslaender Research Gate: https://www.rese
 
 <sub>[go to schedule](#T2.1-1m)</sub>
 <a name="T2.1-2"></a>  
-## AI Data Platform Baden-Württemberg - Open Source Release 2025 
+## Open and Sovereign Data Infrastructures for AI: The Open Source Release of the KI-Allianz Data Platform 
   
 ### Abstract:  
-tba  
+High performance AI requires trustworthy, interoperable and sovereign data infrastructures that systematically capture data quality, access and governance. Building on open source itself, the KI data platform of the KI Allianz Baden Württemberg provides central open source modules on GitHub to build a cross-sectorial AI-ready data portal thus creating a collaboratively developed foundation for data driven value creation, AI compute infrastructure, and cross sector data use.
+The talk will present how the platform is developed within the KI Allianz together with partners from science, industry and public administration, and how Open Source governance, decentralized architecture and data sovereignty principles act as levers for trust, transparency, and scalability. We will also show how an early commitment to Open-Source helps to sustain the developments.
+  
   
 *Dr. Till Riedel (KIT)*  
   
 ### Bio  
-tba  
+Dr. Till Riedel is Lab Leader at TECO and lecturer at the Karlsruhe Institute of Technology (KIT), where he focuses on data driven systems, smart data infrastructures and AI enabled applications. For the last 10 years he coordinates the Smart Data Innovation Lab, supporting industry and public institutions in the development and deployment of data driven and AI based solutions. Beyond his engagement as Tech-Lead at the AI-Data Plattform, as part of the HammerHAI consortium, he is currently co-leading the construction of a European Data Lab for Manufacturing and Engineering as part of the EuroHPC AI Factory initiative.  
   
 ### Slides:
 
@@ -274,15 +279,15 @@ Director for AI & Innovation at the Fraunhofer Gesellschaft, Full Professor and 
 
 <sub>[go to schedule](#T2.1-5m)</sub>
 <a name="T2.1-6"></a>  
-## Getting industrial interfaces to talk using language models 
+## PAISE(R) - The Process Model for AI Systems Engineering 
   
 ### Abstract:  
-tba  
+Developing AI prototypes is often fast and exciting—but transforming these prototypes into reliable, maintainable, and scalable solutions for real-world industrial environments remains a major challenge. This talk introduces the PAISE (Process Model for AI Systems Engineering) methodology as a structured and practice proven approach to bridging this gap. PAISE supports multidisciplinary teams throughout the lifecycle of AI systems, from early analysis and design decisions to deployment, monitoring, and long-term operation. By emphasizing requirement clarity, cross functional collaboration, risk mitigation, and operational robustness, the methodology helps organizations move beyond one off experiments and achieve sustainable value creation with AI. The presentation highlights key principles, typical pitfalls when transitioning from prototype to production, and practical insights from industrial AI projects.  
   
-*Benedikt Stratmann (Fraunhofer IOSB)*  
+*Dr. Constanze Hasterok (Fraunhofer IOSB)*  
   
 ### Bio  
-tba  
+Dr Constanze Hasterok holds a doctorate in particle physics and has been working at Fraunhofer IOSB since 2019. She promotes the transfer of fundamental AI research into industrial applications, with a focus on advancing machine learning methods for long-term use in industrial production. In addition, she develops methods and approaches for the standardised development of AI systems. Since September 2025, she is head of the Department for Cognitive Industrial Systems.  
   
 ### Slides:
 
@@ -299,7 +304,9 @@ tba
 ## Leveraging Open Source Tools in Enterprise Environments - AI Infrastructure at Bosch 
   
 ### Abstract:  
-tba  
+Running open-source applications on Kubernetes requires adoption, application lifecycle management and vulnerability handling.
+In this talk I show how we operate Apache Airflow and MLflow on a dedicated OpenShift cluster in the Bosch Private Cloud, from adapting upstream containers to automating secure rollouts and patching.
+  
   
 *Joshua Uhl (Robert Bosch GmbH)*  
   
@@ -340,15 +347,15 @@ tba
 
 <sub>[go to schedule](#T2.1-8m)</sub>
 <a name="T2.1-9"></a>  
-## PAISE(R) - The Process Model for AI Systems Engineering 
+## Getting Industrial Interfaces to Talk Using Language Models 
   
 ### Abstract:  
-tba  
+Standardised interfaces such as OPC UA and the Asset Administration Shell (AAS) expose rich, semantically structured information about industrial assets and processes. At the same time, large language models (LLMs) are becoming a universal interaction layer for humans, but they do not natively “speak” these industrial standards or any interface standards in general. This talk outlines how to make industrial interfaces conversational by wrapping OPC UA and AAS as tools that LLMs can reason over and call safely. Based on experience from several prototypes, we discuss an agentic architecture pattern (planner, tool-calling agent, memory), the role of protocols like the Model Context Protocol (MCP), and information-modelling practices that make systems LLM-friendly. The session highlights concrete design choices, typical pitfalls (planning errors, hallucinated tool calls, safety concerns) and pragmatic steps towards read-only assistants and, later, controlled write-capable agents for industrial operations.  
   
-*Dr. Constanze Hasterok (Fraunhofer IOSB)*  
+*Benedikt Stratmann (Fraunhofer IOSB)*  
   
 ### Bio  
-tba  
+Benedikt Stratmann received his M.Sc. in Computer Science from the Karlsruhe Institute of Technology (KIT) in 2023. Since then, he has been a member of the “Intelligent Cyber-Physical Systems” research team in the “Cognitive Industrial Systems” department at Fraunhofer IOSB. His research focuses on continuous machine learning models for industrial applications on real-time sensor data, a topic he also pursues as a PhD student at KIT. Of particular relevance to this talk is his role as project lead in the research project “LLM4OPC,” which concluded at the end of 2025 and realized the integration of live OPC UA and AAS systems as knowledge and action sources for large language model applications such as chat-based interactions and agentic systems.  
   
 ### Slides:
 
@@ -393,9 +400,9 @@ Rico is a Senior Security Consultant at adesso SE. His main areas of expertise a
 ## Data spaces – the key to unlocking AI’s potential 
   
 ### Abstract:  
-tba  
+Advanced AI systems depend on access to diverse, high-quality, and context-rich datasets. However, data fragmentation, regulatory constraints, and lack of trusted governance models limit scalable data utilization. Data spaces provide a federated architecture for interoperable, sovereign data sharing based on standardized protocols, identity management, and usage control mechanisms. By enabling policy-enforced data exchange without transferring ownership, data spaces create trusted environments for cross-organizational collaboration. This technical framework supports traceability, compliance, and automated contract enforcement while expanding access to domain-specific data critical for training, validating, and operating AI models. As AI systems move toward industry-scale deployment, data spaces emerge as foundational infrastructure for trustworthy and scalable AI ecosystems.  
   
-*N.N. (IDSA)*  
+*Christoph Mertens (IDSA) [requested]*  
   
 ### Bio  
 tba  
@@ -412,15 +419,15 @@ tba
 
 <sub>[go to schedule](#T2.1-11m)</sub>
 <a name="T2.1-12"></a>  
-## tbd 
+## From Catena-X to Cross-Industry Adoption: A Practical Guide to Joining the Eclipse Tractus-X Community 
   
 ### Abstract:  
-tba  
+While Catena-X defines the governance and architectural standards for federated industrial data spaces, its true operational core is Tractus-X—the official open-source reference implementation hosted by the Eclipse Foundation. This presentation provides entry points into the Tractus-X ecosystem, explicitly shifting the focus from high-level consortium strategies to active, cross-industry code contribution. The presentation will describe a possible developer onboarding process, highlighting the Eclipse Tractus-X Community Days as the primary mechanism for new contributors to engage with the architecture and shape the project's ongoing evolution. Finally, the session bridges the technical gap between federated data ecosystems and AI applications by briefly introducing the ARENA2036 "KI Sandbox". This project demonstrates how organizations can leverage high-performance hardware clusters to execute advanced AI models utilizing Tractus-X.  
   
-*N.N.*  
+*David Görzig (ARENA2036 e.V.)*  
   
 ### Bio  
-tba  
+David Görzig is the Coordinator of Data Ecosystems activities at ARENA2036, where he leads a specialized team dedicated to the practical implementation and evolution of Tractus-X. With a strong background in the Catena-X consortium, he focuses on bridging the gap between theoretical standards and industrial application by operating a dedicated Tractus-X demo and test data space. As a key enabler of the open-source ecosystem, he orchestrates the semi-annual Eclipse Tractus-X Community Days, fostering collaboration between developers and industry partners. His work is instrumental in lowering entry barriers for companies, providing both the strategic guidance and the technical infrastructure, such as the KI Sandbox, to operationalize sovereign data exchange.  
   
 ### Slides:
 
@@ -456,15 +463,16 @@ As CTO, Ingo guides the technical evolution of the Open Geospatial Consortium (h
 
 <sub>[go to schedule](#T2.1-13m)</sub>
 <a name="T2.1-14"></a>  
-## FA3ST Ecosystem - Simplifying Standardized Digital twins with AI 
+## FA³ST Ecosystem - Simplifying Standardized Digital twins with AI 
   
 ### Abstract:  
-tba  
+Standardized digital twins promise interoperable data exchange across the industrial value chain. In this context, the Asset Administration Shell (AAS) has emerged as an open standard for interoperable digital twins. However, applying this standard in practice is often perceived as challenging. This talk presents the FA³ST Ecosystem, which addresses this challenge by providing a modular set of AI-based tools for implementing AAS-based digital twins. In particular, two artefacts are highlighted: FA³ST CreAItor, which supports automated creation of digital twin models from heterogeneous information sources, and FA³ST ValidAItor, which helps users validate AAS models and understand specification errors.  
   
 *Marc Leon Haller (Fraunhofer IOSB)*  
   
 ### Bio  
-tba  
+Marc Leon Haller, M.Sc. is a Research Associate in the "Smart Factory Systems" group at Fraunhofer IOSB. He holds a Master of Science degree in Business Administration and Engineering from Hochschule Karlsruhe (HKA). His research interests focus on:
+Generative AI for Manufacturing, Interoperability and Semantic Technologies as well as Circular Economy. Marc is actively involved in several research projects, including the European projects Tech4MaaSEs, MODAPTO, and Bi0Space.  
   
 ### Slides:
 
@@ -481,12 +489,13 @@ tba
 ## Unlocking AI Potential: Open Standards as the Foundation for AI-Ready Datasets 
   
 ### Abstract:  
-tba  
+Most AI projects fail not because of the model, but because of the data underneath. Making data usable for AI applications remains a manual, time-consuming, and error-prone process — compounded by the fact that at the start of a project, it is often unclear which data will actually prove relevant.
+This talk argues that open standards must be understood not as a single technology but as a design principle to make data AI-ready by design. Starting from the FAIR principles, concrete gaps on the path to AI-readiness are identified and illustrated using the OGC SensorThings API and its open source reference implementation FROST-Server. The positioning within the PAISE® process model for AI Systems Engineering highlights why datasets deserve the same engineering rigour as the AI component itself.  
   
 *Philipp Hertweck (Fraunhofer IOSB)*  
   
 ### Bio  
-tba  
+Philipp Hertweck is a scientist at Fraunhofer IOSB and heads the applied research group “Architectures and Information Systems.” He holds an M.Sc. degree in computer science from the Karlsruhe Institute of Technology (KIT). In various projects, he is involved in the design and implementation of web-based information and decision support systems. In addition to the use of semantic web technologies and the implementation of IoT (Internet of Things) solutions, his focus is on the systematic development and operation of AI applications (AI systems engineering).  
   
 ### Slides:
 
@@ -503,9 +512,7 @@ tba
 ## LF Agentic AI Foundation and OpenChain AI SBOM Guide 
   
 ### Abstract:  
-Modern software consists of more than 70% open-source components. These building blocks power build pipelines, testing strategies, logging infrastructures, and runtime environments. They form the technical foundation of today’s business software. Starting in 2027, manufacturers of commercial software will bear full responsibility for these dependencies under the Cyber Resilience Act (CRA).
-With Support & Care, we provide professional stewardship for precisely these foundational components within the Java ecosystem. Specifically, Support & Care covers a curated package of core Java technologies: Apache Maven, JUnit, Apache Log4j, Apache Commons, and the Eclipse Temurin Java Runtime. This is enabled through close collaboration with the respective maintainers and active engagement within the project communities.
-In this presentation, we demonstrate why true digital sovereignty does not end with a cloud strategy, but continues with the active governance of business-critical open-source core components. Support & Care addresses exactly this layer and helps you to enable resilient, auditable, and CRA-compliant software supply chains.
+tba
   
   
 *Hendrik Ebbers (Open Elements)*  
@@ -527,6 +534,7 @@ At Linux Foundation Hendrik is leading the Hiero project, that is the base of He
  
 
 <sub>[go to schedule](#T2.1-16m)</sub>
+
 
 # Potential Follow-ups
 

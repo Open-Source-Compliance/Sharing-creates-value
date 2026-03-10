@@ -161,24 +161,6 @@ He is interested in exploring the limitations of technology, in policy and how b
 ## Moderator
 *Martin Yagi (FirstLightFusion)*
   
-### Abstract:  
-0  
-  
-*0*  
-  
-### Bio  
-0  
-  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
- 
-
 <sub>[go to schedule](#T3.4-Moderatorm)</sub>
 <a name="T3.4-1"></a>  
 ## Welcome and Introduction 

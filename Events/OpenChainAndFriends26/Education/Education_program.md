@@ -33,25 +33,8 @@ Oliver Fendt (Siemens)*](#T3.4-3)<a name="T3.4-3m">
 
 # Details
 <a name="T1.1-Moderator"></a>  
-## Janneke van de Westelaken (Bosch) 
-  
-### Abstract:  
-0  
-  
-*0*  
-  
-### Bio  
-0  
-  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
- 
+## Moderator
+*Janneke van de Westelaken (Bosch)*
 
 <sub>[go to schedule](#T1.1-Moderatorm)</sub>
 <a name="T1.1-1"></a>  
@@ -175,7 +158,8 @@ He is interested in exploring the limitations of technology, in policy and how b
 
 <sub>[go to schedule](#T1.1-4m)</sub>
 <a name="T3.4-Moderator"></a>  
-## Martin Yagi (FirstLightFusion) 
+## Moderator
+*Martin Yagi (FirstLightFusion)*
   
 ### Abstract:  
 0  

@@ -106,12 +106,16 @@ Panelists:
 ## Methodology for switching to Open Source solutions / Theory 
   
 ### Abstract:  
-0  
+Digital Sovereignty is a thing, and it’s not going away. With good reason, this is not just discussed at the highest levels of European politics, but in particular also within corporations like Mercedes-Benz. Achieving greater digital sovereignty is, in fact, mandatory for our future: Without it, Europe will be left behind, and this is already imminent in the fast growing field of AI. 
+In this talk, I want to highlight the reasoning behind it – motivate why we need more digital sovereignty with a number of tangible and disillusioning examples. We’ll explore the various facets of sovereignty and touch upon the proposed European Sovereign Tech Fund as a way to prevent critical components of our software infrastructure from degrading and leaving entire industries exposed to systemic risk. In particular, we’ll look at especially how FOSS can help us on our way forward, illustrated with concrete examples from the automotive industry. Join me to discuss how we can collectively advance digital sovereignty through FOSS!
+ 
   
-*Wolfgang Gehring (Mercedes-Benz Tech Innovations)*  
+*Dr. Wolfgang Gehring (Mercedes-Benz Tech Innovations)*  
   
 ### Bio  
-0  
+Dr. Wolfgang Gehring is an Ambassador for Open and Inner Source and has been working on enabling and spreading the idea within Mercedes-Benz. A software engineer by trade, Wolfgang’s goal is to help enable Mercedes-Benz to fully embrace FOSS and become a true Open Source company. He has a passion for communities, leads Mercedes-Benz Tech Innovation’s Open Source Program Office, is a member of the Mercedes-Benz FOSS Center of Competence, and a Director of the Eclipse Foundation.
+In his free time, Wolfgang likes to engage in conversations about soccer and is an avid traveler and scuba diver. He calls Albert Einstein’s birth city of Ulm his home in Southern Germany.
+ 
   
 ### Slides:
 

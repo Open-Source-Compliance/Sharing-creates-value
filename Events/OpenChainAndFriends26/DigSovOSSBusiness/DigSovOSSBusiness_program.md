@@ -78,8 +78,7 @@ Panelists: Thorsten Hülsmann (Open Logistics Foundation), Julian Schauder (Zend
   
 <sub>[go to schedule](#T1.3-Moderatorm)</sub>
 <a name="T1.3-1"></a>  
-## TBD 
-
+## Open Source Business Chances for KMU Practice OLF member (iteratec) onmigration to an oss solution offering / Practice
   
 ### Abstract:  
 0  
@@ -128,7 +127,8 @@ This talk provides an overview to key digital sovereignty projects of the german
 *Julian Schauder (Zendis)*  
   
 ### Bio  
-0  
+Julian Schauder is the current development lead at ZenDiS; the center for digital sovereignty of the german public administration. He focuses on security hardening the office and collaboration suite openDesk and establish multi-vendor oss-supply-chains. Based on the shared SSDLC Strategy of ZenDiS and BSI his team bootstrapped the federal container ecosystem container.gov.de end of 2025.
+Prior to this he was part of pwc's open source and openchain practice.  
   
 ### Slides:
 

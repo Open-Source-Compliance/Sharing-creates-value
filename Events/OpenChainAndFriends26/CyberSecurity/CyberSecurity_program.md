@@ -21,7 +21,7 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 - TUESDAY SCC ROOM2 15:45-17:20 **T1.5-Moderator** [Sven Schran (ETAS GmbH)](#T1.5-Moderator)<a name="T1.5-Moderatorm">  
 - TUESDAY SCC ROOM2 15:45-16:05 **T1.5-1** [KeyNote: The role of cybersecurity in supply chain and AI, *Dirk Targoni (Robert Bosch GmbH)*](#T1.5-1)<a name="T1.5-1m">  
 - TUESDAY SCC ROOM2 16:10-16:30 **T1.5-2** [Secure AI Systems: Regulations, threats, defense mechanisms, *Dr. Maike Massierer (Robert Bosch GmbH)*](#T1.5-2)<a name="T1.5-2m">  
-- TUESDAY SCC ROOM2 16:35-16:55 **T1.5-3** [ISO18974, *Jimmy Ahlberg (Ericssson)*](#T1.5-3)<a name="T1.5-3m">  
+- TUESDAY SCC ROOM2 16:35-16:55 **T1.5-3** [Meet ISO 18974, ISO 5230’s younger sibling!, *Jimmy Ahlberg (Ericssson)*](#T1.5-3)<a name="T1.5-3m">    
 - TUESDAY SCC ROOM2 17:00-17:20 **T1.5-4** [GVIP, *N.N.*](#T1.5-4)<a name="T1.5-4m">
 - 
 - THURSDAY SCC ROOM1 09:00-16:30 **T3.1-Moderator** [Sven Schran (ETAS GmbH)](#T3.1-Moderator)<a name="T3.1-Moderatorm">  
@@ -102,12 +102,18 @@ Maike Massierer is an automotive security expert in the Lead Engineering Team Se
 ## ISO18974 
   
 ### Abstract:  
-tba  
+ISO 18974 is approaching its fourth anniversary in 2026. In that relatively short time, it has moved from a new standard on the block to a practical reference point for organizations that take product security seriously. 
+This talk will walk the audience through the key elements of the ISO 18974 specification, 
+
+Using concrete examples, the session will showcase how ISO 18974 is being used today in different parts of industry – from vendors integrating it into their internal security processes and supplier requirements, to customers using it as a baseline when assessing products and services. We will discuss what has worked well, what has proved challenging, and where interpretation gaps or grey areas have emerged. 
+
+But we will not just talk about the past, we will look toward the future as well. “What is the future role of ISO 18974 in a rapidly changing regulatory and standards landscape, and in particular in the shadow of the EU Cyber Resilience Act (CRA)?” and “Is there a need to evolve ISO 18974 in light of recent advancement of generative AI?” 
+  
   
 *Jimmy Ahlberg (Ericssson)*  
   
 ### Bio  
-tba  
+Jimmy Ahlberg is Expert & Senior Legal Counsel for Open Source, AI & Standards at Ericsson. He was part of the team that founded Ericsson’s Open Source Program Office and has, for more than a decade, worked in a variety of roles across the organization on open source strategy and governance. His experience spans consumption and contribution practices, compliance, the intersection of standards and open source, and open source in M&A transactions. Jimmy currently serves as chairperson of the OpenChain Project’s Governing Board. 
   
 ### Slides:
 

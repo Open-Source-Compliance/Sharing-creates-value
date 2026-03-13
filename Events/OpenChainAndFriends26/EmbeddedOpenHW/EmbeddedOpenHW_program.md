@@ -17,28 +17,34 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 
 
 # Agenda
-- TUESDAY SCC ROOM1 10:40-11:00 **K2** [Keynote Embedded&OpenHW: Driving European Technological Sovereignty through RISC-V: Introducing the Unified RISC-V IP Access Platform., *Charley Mann (Eclipse OpenHW), 
-Flo Wohlrab (Eclipse OpenHW)*](#K2)<a name="K2m">  
-- WEDNESDAY SCC ROOM2 09:00-17:00 **T2.2-Moderator** [Rüdiger Laschewski-Grossbaier (Innolintec)](#T2.2-Moderator)<a name="T2.2-Moderatorm">  
-- WEDNESDAY SCC ROOM2 09:00-09:15 **T2.2-1** [Welcome, Planning, Overview, *Organizers*](#T2.2-1)<a name="T2.2-1m">  
-- WEDNESDAY SCC ROOM2 09:15-09:45 **T2.2-2** [Open Source in F&E, *Prof. Dr. Wallentowitz (TU Munich)*](#T2.2-2)<a name="T2.2-2m">  
-- WEDNESDAY SCC ROOM2 09:45-10:15 **T2.2-3** [TBD](#T2.2-3)<a name="T2.2-3m">  
-- WEDNESDAY SCC ROOM2 10:15-10:45 **T2.2-4** [How to make FABulous eFPGA Design robust with Open Source tools, *N.N.*](#T2.2-4)<a name="T2.2-4m">  
-- WEDNESDAY SCC ROOM2 11:05-11:35 **T2.2-5** [Developing an open source digital design flow using
+- TUESDAY SCC ROOM1 10:40-11:00 **K2** [Keynote Embedded&OpenHW: Driving European Digital Autonomy and Leadership through RISC-V: How can Europe capture the €630 billion semiconductor industry., *Charley Mann (Eclipse OpenHW), 
+Flo Wohlrab (Eclipse OpenHW)*](#K2)<a name="K2m">
+- WEDNESDAY SCC ROOM3 09:00-17:00 **T2.2-Moderator** [Rüdiger Laschewski-Grossbaier (Innolintec), *0*](#T2.2-Moderator)<a name="T2.2-Moderatorm">  
+- WEDNESDAY SCC ROOM3 09:00-09:15 **T2.2-1** [Welcome, Planning, Overview, *Organizers*](#T2.2-1)<a name="T2.2-1m">  
+- WEDNESDAY SCC ROOM3 09:15-09:45 **T2.2-2** [Can’t fork a semiconductor? Hold my beer… Introducing the Unified RISC-V IP Access Platform, *Charley Mann (Eclipse OpenHW), 
+Flo Wohlrab (Eclipse OpenHW)*](#T2.2-2)<a name="T2.2-2m">
+- WEDNESDAY SCC ROOM3 09:45-10:15 **T2.2-3** [Chip design for everyone with open source and open standards, *Prof. Dr. Wallentowitz (TU Munich)*](#T2.2-3)<a name="T2.2-3m">  
+- WEDNESDAY SCC ROOM3 10:15-10:45 **T2.2-4** [How to make FABulous eFPGA Design robust with Open Source tools, *Prof. Dirk Koch
+(Neuartige Rechentechnologien
+Universität Heidelberg)*](#T2.2-4)<a name="T2.2-4m">
+- WEDNESDAY SCC ROOM3 11:05-11:35 **T2.2-5** [Developing an open source digital design flow using
 OpenROAD with X-FAB 350 nm technologies, *Filip Vukoja (X-FAB)*](#T2.2-5)<a name="T2.2-5m">
-- WEDNESDAY SCC ROOM2 11:35-12:05 **T2.2-6** [Global Foundries, *N.N.*](#T2.2-6)<a name="T2.2-6m">  
-- WEDNESDAY SCC ROOM2 12:05-12:35 **T2.2-7** [Sunrise Demonstrator, *N.N.*](#T2.2-7)<a name="T2.2-7m">  
-- WEDNESDAY SCC ROOM2 12:35-12:45 **T2.2-8** [Highlights, Next Steps, *Organizers*](#T2.2-8)<a name="T2.2-8m">  
-- WEDNESDAY SCC ROOM2 14:00-14:30 **T2.2-9** [RISC-V based multi core Sensor device, *Dr. Dirk Behrens (Sensry)*](#T2.2-9)<a name="T2.2-9m">  
-- WEDNESDAY SCC ROOM2 14:30-15:00 **T2.2-10** [TBD](#T2.2-10)<a name="T2.2-10m">  
-- WEDNESDAY SCC ROOM2 15:00-15:30 **T2.2-11** [CVA6 Core for Edge A.I. Applications, *Nicolas Triebie (Bosch)*](#T2.2-11)<a name="T2.2-11m">  
-- WEDNESDAY SCC ROOM2 16:00-16:20 **T2.2-12** [OCDC Pro / Layar Challenge, *N.N.*](#T2.2-12)<a name="T2.2-12m">  
-- WEDNESDAY SCC ROOM2 16:20-16:40 **T2.2-13** [TBD](#T2.2-13)<a name="T2.2-13m">  
-- WEDNESDAY SCC ROOM2 16:40-17:00 **T2.2-14** [Common Session, *All facilitators*](#T2.2-14)<a name="T2.2-14m">  
+- WEDNESDAY SCC ROOM3 11:35-12:05 **T2.2-6** [N.N., *N.N.*](#T2.2-6)<a name="T2.2-6m">  
+- WEDNESDAY SCC ROOM3 12:05-12:35 **T2.2-7** [N.N, *N.N*](#T2.2-7)<a name="T2.2-7m">  
+- WEDNESDAY SCC ROOM3 12:35-12:45 **T2.2-8** [Highlights, Next Steps, *Organizers*](#T2.2-8)<a name="T2.2-8m">  
+- WEDNESDAY SCC ROOM3 14:00-14:30 **T2.2-9** [RISC-V based multi core Sensor device, *Dr. Dirk Behrens (Sensry)*](#T2.2-9)<a name="T2.2-9m">  
+- WEDNESDAY SCC ROOM3 14:30-15:00 **T2.2-10** [Derisking silicon
+implementation using
+Virtual Prototypes, *Eyck Jentzsch (MINRES Technologies GmbH)*](#T2.2-10)<a name="T2.2-10m">
+- WEDNESDAY SCC ROOM3 15:00-15:30 **T2.2-11** [Tailoring the Open Source CVA6 RISC-V processor for real time automotive applications, *Nicolas Triebie (Bosch)*](#T2.2-11)<a name="T2.2-11m">  
+- WEDNESDAY SCC ROOM3 16:00-16:20 **T2.2-12** [OCDC Pro / Layar Challenge, *N.N. (GI, Ges. Informatik)*](#T2.2-12)<a name="T2.2-12m">  
+- WEDNESDAY SCC ROOM3 16:20-16:40 **T2.2-13** [TBD, *TBD*](#T2.2-13)<a name="T2.2-13m">  
+- WEDNESDAY SCC ROOM3 16:40-17:00 **T2.2-14** [Common Session, *All facilitators*](#T2.2-14)<a name="T2.2-14m">  
+  
 
 # Details
 <a name="K2"></a>  
-## Keynote Embedded&OpenHW: Driving European Technological Sovereignty through RISC-V: Introducing the Unified RISC-V IP Access Platform. 
+## Keynote Embedded&OpenHW: Driving European Digital Autonomy and Leadership through RISC-V: How can Europe capture the €630 billion semiconductor industry. 
   
 ### Abstract:  
 tba
@@ -65,29 +71,38 @@ Charley Mann is a technical communicator and recovering journalist, helping engi
  
 
 <sub>[go to schedule](#K2m)</sub>
-
 <a name="T2.2-Moderator"></a>  
 ## Moderator
-*Rüdiger Laschewski-Grossbaier (Innolintec)*
- 
+
+*Rüdiger Laschewski-Grossbaier (Innolintec)* 
+    
+### Bio  
+tba 
 
 <sub>[go to schedule](#T2.2-Moderatorm)</sub>
 <a name="T2.2-1"></a>  
 ## Welcome, Planning, Overview 
-    
+  
 *Organizers*  
   
 <sub>[go to schedule](#T2.2-1m)</sub>
 <a name="T2.2-2"></a>  
-## Open Source in F&E 
+## Can’t fork a semiconductor? Hold my beer… Introducing the Unified RISC-V IP Access Platform 
   
 ### Abstract:  
-0  
+
+Why buy a bottle when you can have your own keg? Open source hardware might not shout “free beer” but the new Unified RISC-V IP Access Platform, maintained by OpenHW Foundation, is just that – free recipes for your own free-flowing beer. Chips JU project TRISTAN has united Europe’s biggest industry players with academia to move open source semiconductors from the lab to the real world. Now with the UAP, you can benefit from all of this hard work. In this talk, you’ll get uncensored access to recent advancements in European RISC-V, and a demonstration of how you can immediately leverage industry-ready open source designs from projects across Europe, all explained with glorious beer.  
   
-*Prof. Dr. Wallentowitz (TU Munich)*  
+*Charley Mann (Eclipse OpenHW), 
+Flo Wohlrab (Eclipse OpenHW)*  
   
 ### Bio  
-tba  
+Florian Wohlrab
+Flo is the Head of the OpenHW Foundation, an international non profit organisation dedicated to curating and maintaining high-quality, industrial-grade, open source RISC-V Cores. Flo is fascinated by RISC-V and is dedicated to increasing access to high-quality RISC-V IP and promoting the RISC-V ISA worldwide. Alongside, he was also one of the first RISC-V International Ambassadors. Before leading the OpenHW Foundation Flo was Head of Sales for a commercial RISC-V provider where he focussed on markets in Japan, Europe and Middle East.
+
+Charley Mann
+Charley Mann is a technical communicator and recovering journalist, helping engineers explain what their projects do, so fellow engineers can use them and not-so-technical folks can understand them. After a stint covering breaking news across APAC, she discovered open source technology and never looked back. For the past decade she's led technical content at organizations including Camunda and the CNCF, and today works at the OpenHW Foundation and Eclipse Foundation. Alongside, she serves as the comms lead for Chips JU project TRISTAN to advance RISC-V adoption across Europe.
+  
   
 ### Slides:
 
@@ -101,15 +116,15 @@ tba
 
 <sub>[go to schedule](#T2.2-2m)</sub>
 <a name="T2.2-3"></a>  
-## TBD 
+## Chip design for everyone with open source and open standards 
   
 ### Abstract:  
-0  
+Due to its complexity, chip design has traditionally been hard to access. With the strong wish to improve the footprint of European chip design, open standards and open source have gained traction in Europe. In particular the open processor instruction set RISC-V and open source chip design tools have seen a lot of attention over the last years. This talk will give a brief overview of those technologies and demonstrate the viability of chip design for a larger audience.  
   
-*N.N.*  
+*Prof. Dr. Wallentowitz (TU Munich)*  
   
 ### Bio  
-tba  
+Stefan is a professor at Hochschule München University of Applied Sciences for computer engineering and computer architecture. He is a long term advocate for open source silicon, and servers as the vice-chair of RISC-V International and director at the Free and Open Source Silicon (FOSSi) Foundation.  
   
 ### Slides:
 
@@ -128,7 +143,9 @@ tba
 ### Abstract:  
 FABulous is an embedded FPGA framework that allows generating FPGA macros that can be embedded into chips. It also provides all the surrounding tools for bitstream compilation, analysis, and debugging. To this date, 18 Chips with FABulous eFPGAs have been manufactured in open (SKY 130, IHP 130, GH180) and closed PDKs (TSMC 180, TSMC 28). We have setup a rigid project and regression system that ensures that customizations can be done with ease and that no modifications can break any part in the entire ecosystem. This system is the base for further development, including design-space exploration, new promotives and general fabric design.  
   
-*N.N.*  
+*Prof. Dirk Koch
+(Neuartige Rechentechnologien
+Universität Heidelberg)*  
   
 ### Bio  
 tba  
@@ -145,10 +162,11 @@ tba
 
 <sub>[go to schedule](#T2.2-4m)</sub>
 <a name="T2.2-5"></a>  
-## Developing an open source digital design flow using OpenROAD with X-FAB 350 nm technologies 
+## Developing an open source digital design flow using
+OpenROAD with X-FAB 350 nm technologies 
   
 ### Abstract:  
-See [2026-03_Abstract_OpenChain_and_Friends_X-FAB.pdf](2026-03_Abstract_OpenChain_and_Friends_X-FAB.pdf)  
+See 2026_OCaF_Xfab_Abstract.pdf  
   
 *Filip Vukoja (X-FAB)*  
   
@@ -175,7 +193,7 @@ for the development of a reference flow for Digital Hardware Design using open s
 
 <sub>[go to schedule](#T2.2-5m)</sub>
 <a name="T2.2-6"></a>  
-## Global Foundries 
+## N.N. 
   
 ### Abstract:  
 0  
@@ -247,12 +265,14 @@ Dirk is a semiconductor veteran, has been one of the fathers of Infineon’s wid
 
 <sub>[go to schedule](#T2.2-9m)</sub>
 <a name="T2.2-10"></a>  
-## TBD 
+## Derisking silicon
+implementation using
+Virtual Prototypes 
   
 ### Abstract:  
 0  
   
-*N.N.*  
+*Eyck Jentzsch (MINRES Technologies GmbH)*  
   
 ### Bio  
 tba  
@@ -297,7 +317,7 @@ Nicolas Tribie is a SoC (Systems On Chip) Architect at Bosch, specializing in RI
 ### Abstract:  
 Open-Source-Technologien gewinnen im Chipdesign zunehmend an Bedeutung und bieten neue Wege für Ausbildung, Forschung und Zusammenarbeit. Open-Source Process Design Kits (PDKs) spielen dabei eine Schlüsselrolle: Sie erlauben es Studierenden und Forschenden, reale Design-Flows zu erproben und praxisnahe Erfahrungen in der Chipentwicklung zu sammeln.  
   
-*N.N.*  
+*N.N. (GI, Ges. Informatik)*  
   
 ### Bio  
 tba  
@@ -337,27 +357,10 @@ tba
 <sub>[go to schedule](#T2.2-13m)</sub>
 <a name="T2.2-14"></a>  
 ## Common Session 
-  
-### Abstract:  
-0  
-  
+   
 *All facilitators*  
   
-### Bio  
-tba  
-  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
- 
-
 <sub>[go to schedule](#T2.2-14m)</sub>
-
 
 # Potential Follow-ups
 You cannot join in person but are interested to get in touch with the community?   

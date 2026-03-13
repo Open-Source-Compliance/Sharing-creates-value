@@ -13,7 +13,7 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 |![Charley Mann](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/CMann-300x300.jpeg)![Florian Wohlrab](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/Florian_Wohlrab-OpenHW-300x300.jpg)|
 |-------------------|
 |Charley Mann & Florian Wohlrab OpenHW Foundation|
-||
+|[Keynote Embedded&OpenHW: Driving European Digital Autonomy and Leadership through RISC-V: How can Europe capture the €630 billion semiconductor industry., *Charley Mann (Eclipse OpenHW), Flo Wohlrab (Eclipse OpenHW)*](#K2)|
 
 
 # Agenda

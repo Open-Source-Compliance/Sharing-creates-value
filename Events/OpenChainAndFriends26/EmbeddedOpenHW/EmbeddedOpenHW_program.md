@@ -19,7 +19,7 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 # Agenda
 - TUESDAY SCC ROOM1 10:40-11:00 **K2** [Keynote Embedded&OpenHW: Driving European Digital Autonomy and Leadership through RISC-V: How can Europe capture the €630 billion semiconductor industry., *Charley Mann (Eclipse OpenHW), 
 Flo Wohlrab (Eclipse OpenHW)*](#K2)<a name="K2m">
-- WEDNESDAY SCC ROOM3 09:00-17:00 **T2.2-Moderator** [Rüdiger Laschewski-Grossbaier (Innolintec), *0*](#T2.2-Moderator)<a name="T2.2-Moderatorm">  
+- WEDNESDAY SCC ROOM3 09:00-17:00 **T2.2-Moderator** [Rüdiger Laschewski-Grossbaier (Innolintec)](#T2.2-Moderator)<a name="T2.2-Moderatorm">  
 - WEDNESDAY SCC ROOM3 09:00-09:15 **T2.2-1** [Welcome, Planning, Overview, *Organizers*](#T2.2-1)<a name="T2.2-1m">  
 - WEDNESDAY SCC ROOM3 09:15-09:45 **T2.2-2** [Can’t fork a semiconductor? Hold my beer… Introducing the Unified RISC-V IP Access Platform, *Charley Mann (Eclipse OpenHW), 
 Flo Wohlrab (Eclipse OpenHW)*](#T2.2-2)<a name="T2.2-2m">

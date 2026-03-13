@@ -79,15 +79,15 @@ Charley Mann is a technical communicator and recovering journalist, helping engi
   
 <sub>[go to schedule](#T2.2-1m)</sub>
 <a name="T2.2-2"></a>  
-## Open Source in F&E 
+## Chip design for everyone with open source and open standards 
   
 ### Abstract:  
-0  
+Due to its complexity, chip design has traditionally been hard to access. With the strong wish to improve the footprint of European chip design, open standards and open source have gained traction in Europe. In particular the open processor instruction set RISC-V and open source chip design tools have seen a lot of attention over the last years. This talk will give a brief overview of those technologies and demonstrate the viability of chip design for a larger audience.  
   
 *Prof. Dr. Wallentowitz (TU Munich)*  
   
 ### Bio  
-tba  
+Stefan is a professor at Hochschule München University of Applied Sciences for computer engineering and computer architecture. He is a long term advocate for open source silicon, and servers as the vice-chair of RISC-V International and director at the Free and Open Source Silicon (FOSSi) Foundation.  
   
 ### Slides:
 

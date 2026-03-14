@@ -14,7 +14,7 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 |Dr.-Ing. Thomas Usländer Fraunhofer IOSB|Prof. Dr. Ingo Weber (Fraunhofer Gesellschaft / TU Munich)|Dr. Ingo Simonis (CTO Open Geospatial Consortium)|  
 |[Keynote: AI Systems Engineering - a new engineering discipline?, *Dr. Thomas Usländer (Fraunhofer IOSB)*](#T1.4-1)|[Keynote: Engineering with and for Open Source in the AI Era, *Prof. Dr. Ingo Weber (Fraunhofer/TU Munich)*](#T2.1-5)|[Keynote: Trust has a Supply Chain - Open Standards and the Infrastructure of Trustworthy AI, *Dr. Ingo Simonis (Open Geospatial Consortium)*](#T2.1-13)|
 # Agenda
-- ***DAY1 TUESDAY 24.3.2026***
+- ***DAY1 TUESDAY 24.3.2026 [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)***
 - TUESDAY SCC ROOM1 15:45-17:20 **T1.4-Moderator** [Robert Hansel (Robert Bosch GmbH)](#T1.4-Moderator)<a name="T1.4-Moderatorm">  
 - TUESDAY SCC ROOM1 15:45-16:05 **T1.4-1** [**Keynote**: AI Systems Engineering - a new engineering discipline?, *Dr. Thomas Usländer (Fraunhofer IOSB)*](#T1.4-1)<a name="T1.4-1m">  
 - TUESDAY SCC ROOM1 16:10-16:30 **T1.4-2** [N.N., *N.N.*](#T1.4-2)<a name="T1.4-2m">  
@@ -22,7 +22,7 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 Jens Scheffler (Robert Bosch GmbH), 
 Daniel Wolf (Robert Bosch GmbH)*](#T1.4-3)<a name="T1.4-3m">
 - TUESDAY SCC ROOM1 17:00-17:20 **T1.4-4** [Beyond the Prompt: Technical Insights into LLMs for Software Vulnerability Detection, *Sabrina Kaniewski (HS Esslingen)*](#T1.4-4)<a name="T1.4-4m">  
-- ***DAY2 WEDNESDAY 24.3.2026***
+- ***DAY2 WEDNESDAY 24.3.2026 [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)***
 - WEDNESDAY SCC ROOM2 10:00-17:00 **T2.1-Moderator** [Dr. Thomas Usländer (Fraunhofer IOSB)](#T2.1-Moderator)<a name="T2.1-Moderatorm">  
 - WEDNESDAY SCC ROOM2 10:00-10:10 **T2.1-1** [AI Topic Stream - Overview and Introduction, *Dr. Thomas Usländer (Fraunhofer IOSB)*](#T2.1-1)<a name="T2.1-1m">  
 - **OPEN SOURCE AI INFRASTRUCTURES**

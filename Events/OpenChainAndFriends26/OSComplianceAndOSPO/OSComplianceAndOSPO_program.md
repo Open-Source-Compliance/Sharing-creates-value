@@ -1,10 +1,13 @@
 <a name="welcome"></a>  
-![OpenChain and Friends Stuttgart 2026](../title_banner.png)
+[![OpenChain and Friends Stuttgart 2026](../title_banner.png)](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
 ![Open Source Compliance and OSPO](opensourcecomplianceospo.png)
 - [Agenda](#agenda)
 - [Abstracts, Bios and more](#details)
 - [Potential Follow-ups](#potential-follow-ups)
-  
+
+This Education topic stream is part of the OpenChain and Friends Event in Stuttgart 2026.   
+For Event-Details and registration please check out the [OpenChain and Friends Event Website](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
+
 # Agenda
 
 - ***DAY1 TUESDAY 24.3.2026 [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)***

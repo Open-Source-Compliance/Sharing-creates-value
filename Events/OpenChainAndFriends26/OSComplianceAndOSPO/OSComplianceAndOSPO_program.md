@@ -7,11 +7,13 @@
   
 # Agenda
 
+- ***DAY1 TUESDAY 24.3.2026 Stuttgart-Feuerbach SCC***
 - TUESDAY SCC ROOM2 14:00-15:35 **T1.2-Moderator** [Nikola Babadzhanov (Bosch)](#T1.2-Moderator)<a name="T1.2-Moderatorm">  
 - TUESDAY SCC ROOM2 14:00-14:20 **T1.2-1** [Basics and background: An introduction to Open Source Compliance, *Caren Kresse (OSADL)*](#T1.2-1)<a name="T1.2-1m">  
 - TUESDAY SCC ROOM2 14:25-14:45 **T1.2-2** [Open Source based SupplyChain Management at scale, *Nikola Babadzhanov (Bosch)*](#T1.2-2)<a name="T1.2-2m">  
 - TUESDAY SCC ROOM2 14:50-15:10 **T1.2-3** [Open Source Management at Mercedes-Benz, *Christian Wege (Mercedes-Benz)*](#T1.2-3)<a name="T1.2-3m">  
 - TUESDAY SCC ROOM2 15:15-15:35 **T1.2-4** [The Last Mile Problem: Turning Executive Support into Real Open Repo Contributions, *Walt Miner (AGL)*](#T1.2-4)<a name="T1.2-4m">  
+- ***DAY3 WEDNESDAY 25.3.2026 Ludwigsburg Think Tank***
 - WEDNESDAY Think Tank 09:00-16:30 **T2.3-Moderator** [Nikola Babadzhanov (Bosch)](#T2.3-Moderator)<a name="T2.3-Moderatorm">  
 - WEDNESDAY Think Tank 09:30-09:35 **T2.3-1** [Intro to the track and agenda, *Nikola Babadzhanov (Bosch)*](#T2.3-1)<a name="T2.3-1m">  
 - WEDNESDAY Think Tank 09:40-10:00 **T2.3-2** [Topic 1: CRA tooling for SMEs by the OCCTET project, *Martin von Willebrand (DoubleOpen) and 

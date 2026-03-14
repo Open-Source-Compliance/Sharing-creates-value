@@ -18,13 +18,13 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 
 # Agenda
 
-- ***DAY1 TUESDAY 24.3.2026***
+- ***DAY1 TUESDAY 24.3.2026 Stuttgart-Feuerbach SCC***
 - TUESDAY SCC ROOM3 15:45-17:20 **T1.6-Moderator** [Jan-Simon Möller (AGL), *0*](#T1.6-Moderator)<a name="T1.6-Moderatorm">  
 - TUESDAY SCC ROOM3 15:45-16:05 **T1.6-1** [Open source SDV with Automotive Grade Linux SoDeV, *Dan Cauchy (AGL)*](#T1.6-1)<a name="T1.6-1m">  
 - TUESDAY SCC ROOM3 16:10-16:30 **T1.6-2** [SDV Landscape, *Christian Heissenberger (Eclipse) + N.N.*](#T1.6-2)<a name="T1.6-2m">  
 - TUESDAY SCC ROOM3 16:35-16:55 **T1.6-3** [FEDERATE and how the automotive industry moves towards Open Source, *Detlef Zerfowski (ETAS)*](#T1.6-3)<a name="T1.6-3m">  
 - TUESDAY SCC ROOM3 17:00-17:20 **T1.6-4** [Eclipse S-Core Intro: Open by Choice. Safe by Design., *Frank Scholter-Perez (Mercedes-Benz Tech Innovation)*](#T1.6-4)<a name="T1.6-4m">  
-- ***DAY3 THURSDAY 26.3.2026***
+- ***DAY3 THURSDAY 26.3.2026 Ludwigsburg Think Tank***
 - THURSDAY ThinkTank 09:00-16:30 **T3.3-Moderator** [Jan-Simon Möller (AGL), *0*](#T3.3-Moderator)<a name="T3.3-Moderatorm">  
 - THURSDAY ThinkTank 09:20-09:30 **T3.3-1** [Welcome remarks, *Jan-Simon Möller (AGL)*](#T3.3-1)<a name="T3.3-1m">  
 - THURSDAY ThinkTank 09:30-10:00 **T3.3-2** [SDV Landscape and beyond ..., *Christian Heissenberger (Eclipse)*](#T3.3-2)<a name="T3.3-2m">  

@@ -16,7 +16,7 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 |[Keynote, *Björn Schiessle (NextCloud)*](#K1)|
 
 # Agenda
-- ***DAY1 TUESDAY 24.3.2026 Stuttgart-Feuerbach SCC***
+- ***DAY1 TUESDAY 24.3.2026 [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)***
 - TUESDAY SCC ROOM1 10:20-10:40 **K1** [Keynote, *Björn Schiessle (NextCloud)*](#K1)<a name="K1m">  
 - TUESDAY SCC ROOM1 11:00-11:30 **Panel** [Panel Discussion - Digital Sovereignty & Open Source in Business in the context of Supply Chain (Chances and) Risk Management, *Moderator: Lothar Becker (OSBA)*](#Panel)<a name="Panelm">
 - ***Afternoon Track***

@@ -17,10 +17,10 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 
 
 # Agenda
-- ***DAY1 TUESDAY 24.3.2026 Stuttgart-Feuerbach SCC***
+- ***DAY1 TUESDAY 24.3.2026 [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)***
 - TUESDAY SCC ROOM1 10:40-11:00 **K2** [Keynote Embedded&OpenHW: Driving European Digital Autonomy and Leadership through RISC-V: How can Europe capture the €630 billion semiconductor industry., *Charley Mann (Eclipse OpenHW), 
 Flo Wohlrab (Eclipse OpenHW)*](#K2)<a name="K2m">
-- ***DAY2 WEDNESDAY 25.3.2026 Stuttgart-Feuerbach SCC***
+- ***DAY2 WEDNESDAY 25.3.2026 [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)***
 - WEDNESDAY SCC ROOM3 09:00-17:00 **T2.2-Moderator** [Rüdiger Laschewski-Grossbaier (Innolintec)](#T2.2-Moderator)<a name="T2.2-Moderatorm">  
 - WEDNESDAY SCC ROOM3 09:00-09:15 **T2.2-1** [Welcome, Planning, Overview, *Organizers*](#T2.2-1)<a name="T2.2-1m">  
 - WEDNESDAY SCC ROOM3 09:15-09:45 **T2.2-2** [Can’t fork a semiconductor? Hold my beer… Introducing the Unified RISC-V IP Access Platform, *Charley Mann (Eclipse OpenHW), 

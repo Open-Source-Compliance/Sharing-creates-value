@@ -17,13 +17,13 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 
 
 # Agenda
-- ***DAY1 TUESDAY 24.3.2026***
+- ***DAY1 TUESDAY 24.3.2026 Stuttgart-Feuerbach SCC***
 - TUESDAY SCC ROOM1 14:00-15:35 **T1.1-Moderator** [Janneke van de Westelaken (Bosch)](#T1.1-Moderator)<a name="T1.1-Moderatorm">  
 - TUESDAY SCC ROOM1 14:00-14:20 **T1.1-1** [Keynote: Inventor's Handbook - Guide to the product development process using open source software, *Alexander Sadowski (Alsado)*](#T1.1-1)<a name="T1.1-1m">  
 - TUESDAY SCC ROOM1 14:25-14:45 **T1.1-2** [OpenChain Education Materials and Working Group, *Martin Yagi (FirstLightFusion)*](#T1.1-2)<a name="T1.1-2m">  
 - TUESDAY SCC ROOM1 14:50-15:10 **T1.1-3** [Bosch's educational curriculum on Open Source and InnerSource, *Diogo Fregonese (Bosch)*](#T1.1-3)<a name="T1.1-3m">  
 - TUESDAY SCC ROOM1 15:15-15:35 **T1.1-4** [Digital Independence Day, */madonius (Chaos Computer Club Karlsruhe (Entropia))*](#T1.1-4)<a name="T1.1-4m">  
-- ***DAY3 THURSDAY 26.3.2026***
+- ***DAY3 THURSDAY 26.3.2026 Stuttgart-Vaihingen STEP***
 - THURSDAY STEP ROOM2 9:00-16:00 **T3.4-Moderator** [Martin Yagi (FirstLightFusion)](#T3.4-Moderator)<a name="T3.4-Moderatorm">  
 - THURSDAY STEP ROOM1 09:00-09:30 **T3.4-1** [Welcome and Introduction, *Martin Yagi (FirstLightFusion)*](#T3.4-1)<a name="T3.4-1m">  
 - THURSDAY STEP ROOM1 09:30-10:30 **T3.4-2** [Automate your OSPO via Open Source Collaboration, *Thomas Steenbergen (ToDo Group)*](#T3.4-2)<a name="T3.4-2m">  

@@ -18,13 +18,13 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 
 # Agenda
 
-- ***DAY1 TUESDAY 24.3.2026***
+- ***DAY1 TUESDAY 24.3.2026 Stuttgart-Feuerbach SCC***
 - TUESDAY SCC ROOM2 15:45-17:20 **T1.5-Moderator** [Sven Schran (ETAS GmbH)](#T1.5-Moderator)<a name="T1.5-Moderatorm">  
 - TUESDAY SCC ROOM2 15:45-16:05 **T1.5-1** [KeyNote: The role of cybersecurity in supply chain and AI, *Dirk Targoni (Robert Bosch GmbH)*](#T1.5-1)<a name="T1.5-1m">  
 - TUESDAY SCC ROOM2 16:10-16:30 **T1.5-2** [Secure AI Systems: Regulations, threats, defense mechanisms, *Dr. Maike Massierer (Robert Bosch GmbH)*](#T1.5-2)<a name="T1.5-2m">  
 - TUESDAY SCC ROOM2 16:35-16:55 **T1.5-3** [Meet ISO 18974, ISO 5230’s younger sibling!, *Jimmy Ahlberg (Ericssson)*](#T1.5-3)<a name="T1.5-3m">    
 - TUESDAY SCC ROOM2 17:00-17:20 **T1.5-4** [GVIP, *N.N.*](#T1.5-4)<a name="T1.5-4m">
-- ***DAY3 THURSDAY 26.3.2026***
+- ***DAY3 THURSDAY 26.3.2026 Stuttgart-Feuerbach SCC***
 - THURSDAY SCC ROOM1 09:00-16:30 **T3.1-Moderator** [Sven Schran (ETAS GmbH)](#T3.1-Moderator)<a name="T3.1-Moderatorm">  
 - THURSDAY SCC ROOM1 09:00-09:10 **T3.1-1** [Welcome and introduction, *Sven Schran (ETAS GmbH), Christian*](#T3.1-1)<a name="T3.1-1m">  
 - THURSDAY SCC ROOM1 09:10-09:40 **T3.1-2** [Stronger Together: Networking for Cybersecurity Impact, *Christian Billmann (asvin.io), 

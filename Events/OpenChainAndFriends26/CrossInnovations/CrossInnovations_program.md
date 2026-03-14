@@ -16,8 +16,8 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 |[Keynote: Innovation in Open Source, *Shane Coughlan (OIN)*](#T3.2-2)|
 
 # Agenda
-- ***DAY3 THURSDAY 26.3.2026 Stuttgart-Feuerbach SCC***
-- THURSDAY SCC ROOM2 9:00-16:30 **T3.2-Moderator** [Christian Höppler (Robert Bosch GmbH), *0*](#T3.2-Moderator)<a name="T3.2-Moderatorm">  
+- ***DAY3 THURSDAY 26.3.2026 [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)***
+- THURSDAY SCC ROOM2 9:00-16:30 **T3.2-Moderator** [Christian Höppler (Robert Bosch GmbH)](#T3.2-Moderator)<a name="T3.2-Moderatorm">  
 - THURSDAY SCC ROOM2 9:00-9:15 **T3.2-1** [Welcome and Introduction to the Stream, *Christian Höppler (Robert Bosch GmbH)*](#T3.2-1)<a name="T3.2-1m">  
 - THURSDAY SCC ROOM2 9:15-09:35 **T3.2-2** [Keynote: Innovation in Open Source, *Shane Coughlan (OIN)*](#T3.2-2)<a name="T3.2-2m">  
 - THURSDAY SCC ROOM2 9:40-10:10 **T3.2-3** [Navigating the Open: Our Bosch eBike Flow Journey with GraphHopper & OSM, *Dr. Olaf Flebbe (Robert Bosch GmbH)*](#T3.2-3)<a name="T3.2-3m">  
@@ -29,9 +29,9 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 - THURSDAY SCC ROOM2 13:30-13:45 **T3.2-9** [Vibrating Virtual Reality Voyage or Waiting for Godot, *Alexander Dais*](#T3.2-9)<a name="T3.2-9m">  
 - THURSDAY SCC ROOM2 13:45-14:15 **T3.2-10** [Open Source at Carl Laemmle Institut of Filmakademie Baden-Württemberg, *Volker Helzle (Filmakademie Ludwigsburg)*](#T3.2-10)<a name="T3.2-10m">  
 - THURSDAY SCC ROOM2 14:15-14:30 **T3.2-11** [Innovation Practices Workshop, *Tobias Frech (JUGS)*](#T3.2-11)<a name="T3.2-11m">  
-- THURSDAY SCC ROOM2 14:30-15:15 **T3.2-12** [Workshop Part 1, *0*](#T3.2-12)<a name="T3.2-12m">  
-- THURSDAY SCC ROOM2 15:20-16:05 **T3.2-13** [Workshop Part 2, *0*](#T3.2-13)<a name="T3.2-13m">  
-- THURSDAY SCC ROOM2 16:05-16:30 **T3.2-14** [Wrap-up and Goodbye, *0*](#T3.2-14)<a name="T3.2-14m">  
+- THURSDAY SCC ROOM2 14:30-15:15 **T3.2-12** [Workshop Part 1](#T3.2-12)<a name="T3.2-12m">  
+- THURSDAY SCC ROOM2 15:20-16:05 **T3.2-13** [Workshop Part 2](#T3.2-13)<a name="T3.2-13m">  
+- THURSDAY SCC ROOM2 16:05-16:30 **T3.2-14** [Wrap-up and Goodbye](#T3.2-14)<a name="T3.2-14m">  
 
 # Details
 

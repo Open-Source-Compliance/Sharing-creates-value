@@ -16,6 +16,7 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 |[Keynote: Innovation in Open Source, *Shane Coughlan (OIN)*](#T3.2-2)|
 
 # Agenda
+- ***DAY3 THURSDAY 26.3.2026***
 - THURSDAY SCC ROOM2 9:00-16:30 **T3.2-Moderator** [Christian Höppler (Robert Bosch GmbH), *0*](#T3.2-Moderator)<a name="T3.2-Moderatorm">  
 - THURSDAY SCC ROOM2 9:00-9:15 **T3.2-1** [Welcome and Introduction to the Stream, *Christian Höppler (Robert Bosch GmbH)*](#T3.2-1)<a name="T3.2-1m">  
 - THURSDAY SCC ROOM2 9:15-09:35 **T3.2-2** [Keynote: Innovation in Open Source, *Shane Coughlan (OIN)*](#T3.2-2)<a name="T3.2-2m">  

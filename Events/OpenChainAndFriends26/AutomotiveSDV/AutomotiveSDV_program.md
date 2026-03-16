@@ -45,6 +45,14 @@ Introduction to Eclipse S-CORE, Current Momentum, and Outlook 2026, *Björn Reis
 ## Moderator Day 1
 *Jan-Simon Möller (AGL)*
 
+### Bio
+Jan-Simon Möller is the Director of Developer Community and Release Management at Automotive Grade Linux (AGL), where he works to support collaboration, improve development processes, 
+and help grow a welcoming and effective open-source ecosystem. With a strong engineering background and many years in open-source communities, he focuses on enabling contributors and 
+teams to build reliable, innovative software together.
+Jan-Simon contributed to the Linux kernel and serves on the Yocto Project Advisory Board, while also mentoring new developers through programs such as Google Summer of Code (GSoC).
+As a frequent speaker at international events, he enjoys sharing experiences and encouraging developers, companies, and communities to collaborate openly and shape the future of
+software-defined vehicles.
+
 <sub>[go to schedule](#T1.6-Moderatorm)</sub>
 <a name="T1.6-1"></a>  
 ## Open source SDV with Automotive Grade Linux SoDeV 
@@ -124,12 +132,16 @@ Since 2018 he is with 100% Bosch daughter ETAS GmbH and is responsible for Engin
 ## Eclipse S-Core Intro: Open by Choice. Safe by Design. 
   
 ### Abstract:  
-tba  
+The presentation will give an introduction about Eclipse S-CORE highlighting the latest release, showcasing its functionalities and a collaborative development framework.
+The 2026 outlook details strategic priorities, key development areas, and planned ecosystem growth.
+Learn how to join our global community building a common, safety-critical runtime foundation for automotive innovation.
   
-*Frank Scholter-Perez (Mercedes-Benz Tech Innovation)*  
+*Björn Reistel*
   
 ### Bio  
-tba  
+Björn Reistel is an expert in ecosystem development and community management at ETAS GmbH (a Robert Bosch GmbH subsidiary), specializing in open source software solutions and their adoption, particularly within the automotive domain. With extensive experience in community building and strategic partnerships, he has held key roles focusing on product management and business development for a major part of his career.
+
+He holds the position of Chair for the Eclipse SDV Steering Committee, where his leadership is directed towards establishing and sustaining an active and growing open source community. Additionally, Björn is actively involved in the Eclipse S-CORE project, driving its marketing and communication activities, and promoting thought leadership in OSS through structured community involvement. His professional career is characterized by a consistent dedication to innovation, realized through the facilitation of collaborative platforms and strategic alliances.
   
 ### Slides:
 
@@ -145,6 +157,14 @@ tba
 <a name="T3.3-Moderator"></a>  
 ## Moderator Day 3
 *Jan-Simon Möller (AGL)*
+
+### Bio
+Jan-Simon Möller is the Director of Developer Community and Release Management at Automotive Grade Linux (AGL), where he works to support collaboration, improve development processes, 
+and help grow a welcoming and effective open-source ecosystem. With a strong engineering background and many years in open-source communities, he focuses on enabling contributors and 
+teams to build reliable, innovative software together.
+Jan-Simon contributed to the Linux kernel and serves on the Yocto Project Advisory Board, while also mentoring new developers through programs such as Google Summer of Code (GSoC).
+As a frequent speaker at international events, he enjoys sharing experiences and encouraging developers, companies, and communities to collaborate openly and shape the future of
+software-defined vehicles.
 
 <sub>[go to schedule](#T3.3-Moderatorm)</sub>
 <a name="T3.3-1"></a>  
@@ -249,15 +269,31 @@ tba
 
 <sub>[go to schedule](#T3.3-5m)</sub>
 <a name="T3.3-6"></a>  
-## AGL SoDeV status and roadmap 
+## Introducing the Automotive Grade Linux SoDeV project, an Open Source SDV Reference Platform
   
 ### Abstract:  
-tba  
+The AGL Unified Code Base (UCB) has provided open source automotive
+software references for over a decade, supporting IVI, instrument cluster,
+and telematics gateway development through collaboration across OEMs, Tier
+Ones, and the open source community. Building on established container and
+KVM virtual machine support including deep investment in VirtIO, AGL is now
+introducing SoDeV: the first open source reference implementation of a full
+Software Defined Vehicle stack running on a Type 1 hypervisor.
+
+In this talk, Walt presents the SoDeV architecture and roadmap, covering
+current UCB capabilities and the features targeted for delivery in the next
+6 to 12 months.
   
 *Walt Miner (AGL)*  
   
 ### Bio  
-tba  
+Walt Miner is the Senior Director of Community at The Linux Foundation and
+has served as Community Manager for Automotive Grade Linux since 2014. Walt
+has spoken at numerous conferences throughout the worlds and brings over 30
+years of embedded software development and management experience in the
+automotive, mobile phone, and defense industries.  Walt rides motorcycles
+in his free time and has ridden to a number of conferences over the years.
+
   
 ### Slides:
 

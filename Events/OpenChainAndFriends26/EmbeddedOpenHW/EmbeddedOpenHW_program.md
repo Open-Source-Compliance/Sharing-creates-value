@@ -25,13 +25,13 @@ Flo Wohlrab (Eclipse OpenHW)*](#K2)<a name="K2m">
 - WEDNESDAY SCC ROOM3 09:00-09:15 **T2.2-1** [Welcome, Planning, Overview, *Organizers*](#T2.2-1)<a name="T2.2-1m">  
 - WEDNESDAY SCC ROOM3 09:15-09:45 **T2.2-2** [Can’t fork a semiconductor? Hold my beer… Introducing the Unified RISC-V IP Access Platform, *Charley Mann (Eclipse OpenHW), 
 Flo Wohlrab (Eclipse OpenHW)*](#T2.2-2)<a name="T2.2-2m">
-- WEDNESDAY SCC ROOM3 09:45-10:15 **T2.2-3** [Chip design for everyone with open source and open standards, *Prof. Dr. Wallentowitz (TU Munich)*](#T2.2-3)<a name="T2.2-3m">  
+- WEDNESDAY SCC ROOM3 09:45-10:15 **T2.2-3** [tba](#T2.2-3)<a name="T2.2-3m">  
 - WEDNESDAY SCC ROOM3 10:15-10:45 **T2.2-4** [How to make FABulous eFPGA Design robust with Open Source tools, *Prof. Dirk Koch
 (Neuartige Rechentechnologien
 Universität Heidelberg)*](#T2.2-4)<a name="T2.2-4m">
 - WEDNESDAY SCC ROOM3 11:05-11:35 **T2.2-5** [Developing an open source digital design flow using
 OpenROAD with X-FAB 350 nm technologies, *Filip Vukoja (X-FAB)*](#T2.2-5)<a name="T2.2-5m">
-- WEDNESDAY SCC ROOM3 11:35-12:05 **T2.2-6** [N.N., *N.N.*](#T2.2-6)<a name="T2.2-6m">  
+- WEDNESDAY SCC ROOM3 11:35-12:05 **T2.2-6** [From “Trust me” to “Check me” – open source verification for high assurance silicon, *Massimiliano Giacometti , Founder, PlanV*](#T2.2-6)<a name="T2.2-6m">    
 - WEDNESDAY SCC ROOM3 12:05-12:35 **T2.2-7** [N.N, *N.N*](#T2.2-7)<a name="T2.2-7m">  
 - WEDNESDAY SCC ROOM3 12:35-12:45 **T2.2-8** [Highlights, Next Steps, *Organizers*](#T2.2-8)<a name="T2.2-8m">  
 - WEDNESDAY SCC ROOM3 14:00-14:30 **T2.2-9** [RISC-V based multi core Sensor device, *Dr. Dirk Behrens (Sensry)*](#T2.2-9)<a name="T2.2-9m">  
@@ -118,15 +118,9 @@ Charley Mann is a technical communicator and recovering journalist, helping engi
 
 <sub>[go to schedule](#T2.2-2m)</sub>
 <a name="T2.2-3"></a>  
-## Chip design for everyone with open source and open standards 
+## tba
   
 ### Abstract:  
-Due to its complexity, chip design has traditionally been hard to access. With the strong wish to improve the footprint of European chip design, open standards and open source have gained traction in Europe. In particular the open processor instruction set RISC-V and open source chip design tools have seen a lot of attention over the last years. This talk will give a brief overview of those technologies and demonstrate the viability of chip design for a larger audience.  
-  
-*Prof. Dr. Wallentowitz (TU Munich)*  
-  
-### Bio  
-Stefan is a professor at Hochschule München University of Applied Sciences for computer engineering and computer architecture. He is a long term advocate for open source silicon, and servers as the vice-chair of RISC-V International and director at the Free and Open Source Silicon (FOSSi) Foundation.  
   
 ### Slides:
 
@@ -195,15 +189,17 @@ for the development of a reference flow for Digital Hardware Design using open s
 
 <sub>[go to schedule](#T2.2-5m)</sub>
 <a name="T2.2-6"></a>  
-## N.N. 
+## From “Trust me” to “Check me” – open source verification for high assurance silicon 
   
 ### Abstract:  
-0  
+The shift toward open-standard architectures like RISC-V highlights a critical gap in the hardware supply chain: while RTL may be open, the verification environments and tools required to validate them often remain proprietary and opaque. This presentation advocates for ""Open Verification"" as a prerequisite for digital sovereignty and high-assurance silicon. We explore the democratization of industrial-grade simulation by making Verilator—the leading open-source RTL simulator—fully UVM-capable, allowing the OpenHW’s core-v-verif testbenches to run without proprietary license constraints.
+Furthermore, we address the systemic vulnerabilities found at the hardware-software interface within the PISTIs-V project. By leveraging open-source IP as the ""single source of truth,"" we extract high-fidelity formal device models directly from Verilog using the Mooncake framework. These models serve as a foundation for formal hardware verification and the development of provably correct device drivers in the memory-safe Pancake language. This transition from reliance on incomplete datasheets to rigorous, implementation-derived proofs provides the technical audit trail necessary for truly trusted embedded systems.  
   
-*N.N.*  
+*Massimiliano Giacometti , Founder, PlanV*  
   
 ### Bio  
-tba  
+Although his first professional love was communication systems, a career shift in 2018 led him into the world of computer architecture and chip design through the RISC-V architecture. Driven by a lifelong passion for sharing knowledge and a fascination with the open-source ecosystem, he founded PlanV in 2022 to bridge the gap between open-source hardware and industrial silicon.
+  
   
 ### Slides:
 
@@ -216,6 +212,7 @@ tba
  
 
 <sub>[go to schedule](#T2.2-6m)</sub>
+
 <a name="T2.2-7"></a>  
 ## N.N 
   

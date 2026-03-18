@@ -548,7 +548,7 @@ No worries, check out our regular OpenChain AI Work Group sessions in the OpenCh
 https://openchainproject.org/participate
 
 You can reach the stream-org team via this matrix channel:
-https://app.element.io/#/room/#aiandopensource:matrix.org
+https://matrix.to/#/#aiandopensource:matrix.org
 
 For OpenChain webinars about AI, please check our webinar library [AI Webinars](https://openchainproject.org/ai-webinars)  
 The OpenChain project informs about upcoming webinars in the ["News"](https://openchainproject.org/news)-section and via the respective [mailing lists](https://openchainproject.org/participate).

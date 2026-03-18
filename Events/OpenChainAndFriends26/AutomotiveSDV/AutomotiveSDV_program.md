@@ -58,12 +58,21 @@ software-defined vehicles.
 ## Open source SDV with Automotive Grade Linux SoDeV 
   
 ### Abstract:  
-tba  
+Decoupling software from hardware is central to the development of Software Defined Vehicles, yet many automakers are struggling to achieve this at scale. Dan Cauchy, Executive Director of AGL, 
+will discuss how automakers and suppliers are working together to accelerate SDV development through the newly launched AGL SoDeV reference platform — a single, pre-integrated open source package 
+combining AGL's proven Unified Code Base with Linux containers, VirtIO, Xen hypervisor, Zephyr RTOS and other open source components. 
+Led by the AGL SDV Expert Group, SoDeV enables software-first development decoupled from hardware constraints and can run on real automotive SOCs, virtual machines, 
+or in the cloud. Dan will outline the key components of the SoDeV architecture, share technical milestones from the community, and explore opportunities for contribution as the platform moves 
+toward broad availability in 2026.
   
 *Dan Cauchy (AGL)*  
   
 ### Bio  
-tba  
+Dan Cauchy is the General Manager of Automotive at The Linux Foundation and the Executive Director of Automotive Grade Linux, a cross-industry effort to build an open software platform for automotive applications.
+
+Cauchy has over 22 years of experience spanning the automotive, telecom, networking, and mobile business verticals. Prior to his current position, he was the VP and GM of MontaVista’s Automotive Business Unit (acquired by Mentor). During this period, Cauchy served on the Board of Directors of the GENIVI Alliance and was responsible for the creation of the GENIVI Compliance Program, which he chaired for three years.
+
+He also has extensive startup experience and served as the Director of Product Management at Atrica (acquired by Nokia-Siemens Networks) and the Director of Architecture and Strategy at BlueLeaf Networks (now Picarro). Cauchy also previously held senior management and engineering leadership positions at Cisco Systems, Newbridge Networks (acquired by Alcatel), and Nortel.
   
 ### Slides:
 
@@ -79,9 +88,9 @@ tba
 ## SDV Landscape 
   
 ### Abstract:  
-tba  
+The Eclipse SDV Landscape Project aims to provide a structured, community-driven overview of the growing Software-Defined Vehicle ecosystem within the Eclipse Foundation. As the number of SDV-related projects increases, understanding how they relate and where they fit becomes more challenging. Inspired by the CNCF Landscape, this initiative introduces an open, GitHub-based approach to cataloging and visualizing SDV technologies. In this session, we present the motivation, architecture, and contribution model behind the SDV Landscape, and show collaboration and ecosystem transparency.
   
-*Christian Heissenberger (Eclipse) + N.N.*  
+*Christian Heissenberger (Eclipse)*  
   
 ### Bio  
 Christian Heissenberger
@@ -200,15 +209,15 @@ Before joining the Eclipse Foundation, he held leadership roles at Bosch for mor
 
 <sub>[go to schedule](#T3.3-2m)</sub>
 <a name="T3.3-3"></a>  
-## COVESA 
+## COVESA – Aligning automotive development towards SDV one API at a time
   
 ### Abstract:  
-tba  
+The Connected Vehicle Systems Alliance (COVESA) is the successor to the GENIVI Alliance. It answers to three main challenges in today’s software-driven vehicle ecosystems: First, how to keep the in-vehicle digital experience up to date by leveraging the synergetic power of collaboration. Second, how to improve the consumer experience with data-driven services. And finally, how we can make the vehicle part of a bigger ecosystem of mobility and consumer services. In this talk we introduce COVESA and show how technical standardization on vehicle APIs can help to enable open ecosystems. We also talk about practical cross-standards integration, e.g., for commercial vehicles, and the use of COVESA’s vehicle signal specification (VSS) in open data exchanges.
   
 *Andreas Achtzehn (Robert Bosch GmbH)*  
   
 ### Bio  
-tba  
+Andreas Achtzehn is a Chief Expert at Bosch’s Cross-Domain Computing Solutions division. He actively works on software- and system-related innovation topics, mainly around base software and middleware, fostering proprietary and open-source solutions and ecosystems. Dr. Achtzehn represents Bosch at COVESA and holds the position of Vice President on its board of directors. Dr. Achtzehn holds a PhD (Dr.-Ing.) from RWTH Aachen University in communications engineering, as well as a master’s degree in computer engineering (Dipl.-Ing.) and a master’s degree in engineering and business administration (Dipl.-Wirt.Ing.).
   
 ### Slides:
 

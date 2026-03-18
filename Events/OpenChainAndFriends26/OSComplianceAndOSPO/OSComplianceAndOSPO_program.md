@@ -166,7 +166,9 @@ The OCCTET project is funded by the European Union to provide open source toolin
 *Martin von Willebrand (DoubleOpen) and Hans-Jürgen Schumacher (Bitsea)*
 
 ### Bio 
-Martin von Willebrand, CEO of Double Open. With a background in law, Martin is working in Double Open to deliver software supply chain governance automation to organizations, enabled by the open source OSS Review Toolkit ecosystem. 
+Martin von Willebrand, CEO of Double Open. With a background in law, Martin is working in Double Open to deliver software supply chain governance automation to organizations, enabled by the open source OSS Review Toolkit ecosystem.
+Hans-Jürgen Schumacher, COO, has been with Bitsea GmbH since 2021, where he oversees FOSS audits, software quality analyses and day-to-day operations. A graduate in technical mathematics from the University of Karlsruhe, he brings extensive experience gained over 
+15 years in software development and a further 15 years in project management. Prior to joining Bitsea, he gained extensive expertise in the banking and telecommunications sectors.
 
 ### Slides:
 

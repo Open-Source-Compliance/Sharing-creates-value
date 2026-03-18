@@ -369,6 +369,8 @@ You cannot join in person but are interested to get in touch with the community?
 No worries, check out our regular OpenChain sessions in the OpenChain Calendar and subscribe to the OpenChain and Regional Workgroup Mailing lists:
 https://openchainproject.org/participate
 
+We're currently in the setup-phase to establish a Open-Source focussed Embedded and Hardware Community. It this sounds interesting, stay tuned. A first come-together is planned for Q3/2026 in Freiburg/Breisgau.
+
 You can reach the stream-org team via this matrix channel:
 https://app.element.io/#/room/#embeddedswopenhw:matrix.org
 

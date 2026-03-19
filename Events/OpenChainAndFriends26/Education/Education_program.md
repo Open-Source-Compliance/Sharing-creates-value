@@ -20,8 +20,8 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 - ***DAY1 TUESDAY 24.3.2026 [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)***
 - TUESDAY SCC ROOM1 14:00-15:35 **T1.1-Moderator** [Janneke van de Westelaken (Bosch)](#T1.1-Moderator)<a name="T1.1-Moderatorm">  
 - TUESDAY SCC ROOM1 14:00-14:20 **T1.1-1** [Keynote: Inventor's Handbook - Guide to the product development process using open source software, *Alexander Sadowski (Alsado)*](#T1.1-1)<a name="T1.1-1m">  
-- TUESDAY SCC ROOM1 14:25-14:45 **T1.1-2** [OpenChain Education Materials and Working Group, *Martin Yagi (FirstLightFusion)*](#T1.1-2)<a name="T1.1-2m">  
-- TUESDAY SCC ROOM1 14:50-15:10 **T1.1-3** [Bosch's educational curriculum on Open Source and InnerSource, *Diogo Fregonese (Bosch)*](#T1.1-3)<a name="T1.1-3m">  
+- TUESDAY SCC ROOM1 14:25-14:45 **T1.1-2** [Open Source Compliance Education part1, *Martin Yagi (FirstLightFusion)* and *Anna Ewerlin (Mercedes-Benz)*](#T1.1-2)<a name="T1.1-2m">  
+- TUESDAY SCC ROOM1 14:50-15:10 **T1.1-3** [Open Source Compliance Education part2, *Diogo Fregonese (Bosch)* *Anna Ewerlin (Mercedes-Benz)* *Jari Koivisto (Analog Devices)* and *Martin Yagi (FirstLightFusion)*](#T1.1-3)<a name="T1.1-3m">  
 - TUESDAY SCC ROOM1 15:15-15:35 **T1.1-4** [Digital Independence Day, */madonius (Chaos Computer Club Karlsruhe (Entropia))*](#T1.1-4)<a name="T1.1-4m">  
 - ***DAY3 THURSDAY 26.3.2026 [Stuttgart-Vaihingen STEP  Gropiusplatz 10, 70563 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dc5c33b6c8ab:0x4fd42b2a42638246?sa=X&ved=1t:8290&ictx=111)***
 - THURSDAY STEP ROOM2 9:00-16:00 **T3.4-Moderator** [Martin Yagi (FirstLightFusion)](#T3.4-Moderator)<a name="T3.4-Moderatorm">  
@@ -29,9 +29,10 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 - THURSDAY STEP ROOM1 09:30-10:30 **T3.4-2** [Automate your OSPO via Open Source Collaboration, *Thomas Steenbergen (ToDo Group)*](#T3.4-2)<a name="T3.4-2m">  
 - THURSDAY STEP ROOM1 10:30-11:30 **T3.4-3** [Stream Introduction and FOSS license scanning: The why, the how and the community approach, *Caren Kresse (OSADL) and 
 Oliver Fendt (Siemens)*](#T3.4-3)<a name="T3.4-3m">
-- THURSDAY STEP ROOM1 11:45-12:15 **T3.4-4** [OpenChain Education Tooling Training creation, *Martin Yagi (First Light Fusion)*](#T3.4-4)<a name="T3.4-4m">  
-- THURSDAY STEP ROOM1 12:15-12:45 **T3.4-5** [Open Chain Tool Intro Trainings, *TBD*](#T3.4-5)<a name="T3.4-5m">  
-- THURSDAY STEP ROOM1 13:45-14:45 **T3.4-6** [Surviving the "AI Slopageddon": How AI shakes the foundations of Open Source, *Raphael Semeteys (Worldline)*](#T3.4-6)<a name="T3.4-6m">  
+- THURSDAY STEP ROOM1 11:45-12:45 **T3.4-4** [Surviving the "AI Slopageddon": How AI shakes the foundations of Open Source, *Raphael Semeteys (Worldline)*](#T3.4-4)<a name="T3.4-4m">  
+- THURSDAY STEP ROOM1 13:45-14:00 **T3.4-5** [Mercedes-Benz Car Experience and Q&A, *TBD*](#T3.4-5)<a name="T3.4-5m">  
+- THURSDAY STEP ROOM1 14:00-14:30 **T3.4-6** [Training-as-Code: Scaling Open Source Literacy with Eclipse OSILK, *Nikola Babadzhanov (Bosch)*](#T3.4-6)<a name="T3.4-6m">  
+- THURSDAY STEP ROOM1 14:30-15:00 **T3.4-7** [OpenChain Education Tooling Training creation, *Martin Yagi (First Light Fusion)*](#T3.4-7)<a name="T3.4-7m">  
 
 # Details
 <a name="T1.1-Moderator"></a>  
@@ -85,16 +86,27 @@ Through his book "FreeCAD Beginner's Handbook", that he published together with 
 
 <sub>[go to schedule](#T1.1-1m)</sub>
 <a name="T1.1-2"></a>  
-## OpenChain Education Materials and Working Group 
+## Open Source Compliance Education part1 
   
 ### Abstract:  
+
+This session will consist of two presentations and lead into the subsequest part2.
+
+#### OpenChain Educational Material and Activity
 An overview of the Open Source license compliance educational resources available from OpenChain and the Education Working Group current and future activities.  
-  
+
 *Martin Yagi (FirstLightFusion)*  
-  
+
+#### Mercedes-Benz's educational curriculum on Open Source
+
+This presentation introduces Mercedes-Benz's educational curriculum on Open Source.
+
+*Anna Ewerlin (Mercedes-Benz)*
+
 ### Bio  
 Martin Yagi is the IP manager at First Light Fusion and is the current chair of the OpenChain Education Work Group. Martin advises First Light Fusion on Open Source license compliance and risk mitigation and has previously served in advisory roles at Vodafone and Cisco. 
-  
+
+Anna Ewerlin is...
   
 ### Slides:
 
@@ -108,16 +120,35 @@ Martin Yagi is the IP manager at First Light Fusion and is the current chair of 
 
 <sub>[go to schedule](#T1.1-2m)</sub>
 <a name="T1.1-3"></a>  
-## Bosch's educational curriculum on Open Source and InnerSource 
+## Open Source Compliance Education part2  
   
-### Abstract:  
+### Abstract:
+
+This session follows on from the session immediately before it and will consist of a presentation and a round table discussion.
+
+#### Bosch's educational curriculum on Open Source and InnerSource
 This presentation introduces Bosch's educational curriculum on Open Source and InnerSource, a program designed to empower the people shaping our technological future. Delivered through a series of concise, web-based modules, it provides practical and essential insights tailored for developers and key decision-makers, leaders, project and product managers
   
   
 *Diogo Fregonese (Bosch)*  
+
+#### Roundtable discussion on Open Source Education
+
+*Martin Yagi (FirstLightFusion)*  
+*Diogo Fregonese (Bosch)*  
+*Anna Ewerlin (Mercedes-Benz)*
+*Jari Koivisto (Analog Devices)*
+
+
   
-### Bio  
+### Bio 
 Diogo is an InnerSource Program Expert at Bosch Digital, who is passionate about driving open source style collaboration. With over 25 years of professional experience, he co-created Bosch's InnerSource program, significantly improving collaboration and development practices across business units worldwide. Diogo oversees the InnerSource governance framework and actively supports Bosch developers and leaders globally by reducing barriers to its adoption. He will be sharing insights into Bosch's process of developing a web-based education series on open source and InnerSource, and how it is leveraging the power of community-driven open collaboration.  
+
+Martin Yagi is the IP manager at First Light Fusion and is the current chair of the OpenChain Education Work Group. Martin advises First Light Fusion on Open Source license compliance and risk mitigation and has previously served in advisory roles at Vodafone and Cisco. 
+
+Jari Koivisto is a high tech and OSPO professional with deep experience in Open Source governance and Open Source Due Diligence for acquisitions. He has been an active contributor to the OpenChain Project since 2020 and participates in several Working Groups, including the Education Working Group. He currently works at Analog Devices’ OSPO as an Open Source Project Manager.
+
+Anna Ewerlin is...
   
 ### Slides:
 
@@ -241,8 +272,93 @@ Caren Kresse(OSADL): Caren Kresse holds a Master degree in Physics and an LLM in
 
  
 
-<sub>[go to schedule](#T3.4-3m)</sub>
+
+ 
+
+<sub>[go to schedule](#T3.4-4m)</sub>
 <a name="T3.4-4"></a>  
+## Surviving the "AI Slopageddon": How AI shakes the foundations of Open Source 
+  
+### Abstract:  
+"Vibe Coding"—where AI writes the code while the human merely supervises—promises unprecedented productivity. However, for Open Source maintainers, this revolution feels more like an assault. Between the deluge of low-quality "Slop" Pull Requests, hallucinated bug reports, and the emergence of aggressive autonomous agents, the social contract of free software is breaking down. 
+
+This presentation explores the existential threat AI poses to the ecosystem: from the "Demand-Diversion" theory that starves maintainers of visibility, to reputation attacks by autonomous bots. But all is not lost. We will analyze how projects like curl, matplotlib, and Goose are reacting. We will detail emerging defense strategies: from "locking the door" (ending bug bounties) to "fixing the house" with AGENTS.md context files, robust testing, and machine-readable governance. Join us to learn how to turn the "Slopageddon" into an opportunity to modernize Open Source.  
+  
+*Raphael Semeteys (Worldline)*  
+  
+### Bio  
+Raphaël Semeteys
+Head of Tech Advocacy at Worldline
+https://raphiki.github.io
+
+With over 25 years of IT experience across the full project lifecycle—from development and architecture to consulting and presales—Open Source has been my constant North Star. Now in DevRel, I leverage this broad expertise to bridge the gap between technology and community.
+
+I bring a deep background in FOSS, having co-led a dedicated Open Source skill center for 9 years with a focus on consulting and technological watch. I am also the leader of the QSOS project, pioneering community-based methods for the evaluation and selection of Free and Open Source software.
+  
+### Slides:
+
+*link to slide of the talk*
+
+### Webinar/Recording: 
+
+*link to webinar announcement / recording*
+
+ 
+
+<sub>[go to schedule](#T3.4-5m)</sub>
+<a name="T3.4-5"></a>  
+## Mercedes-Benz Car Experience and Q&A
+  
+### Abstract:  
+Mercedes-Benz Car Experience and Q&A  
+  
+### Bio  
+  
+  
+### Slides:
+
+*link to slide of the talk*
+
+### Webinar/Recording: 
+
+*link to webinar announcement / recording*
+
+ 
+
+<sub>[go to schedule](#T3.4-5m)</sub>
+
+
+<sub>[go to schedule](#T3.4-6m)</sub>
+<a name="T3.4-6"></a>  
+## Training-as-Code: Scaling Open Source Literacy with Eclipse OSILK
+  
+### Abstract:  
+Organisations increasingly depend on open-source software, and the challenge often shifts from "how to use it" to "how to sustain it." Bridging the knowledge gap across a large workforce and mutualising efforts between organisations requires more than just a few slide decks; it requires a scalable, maintainable, and community-driven approach to education.
+
+*Nikola Babadzhanov (Bosch)*
+  
+### Bio  
+Nikola Babadzhanov joined Bosch Digital in 2022. He is an Open Source Consultant and a member of the Open Source Program Office. He provides Bosch-internal Open Source Services as a member of the Open Source Consulting team.
+
+Nikola is a member of the Center of Excellence Open Source and Inner Source at Bosch Digital; active member of the OpenChain SBOM work group, AI work group and Tooling work group. Nikola is OpenChain Ambassador and committer on the Eclipse Apoapsis project.  
+  
+### Slides:
+
+*link to slide of the talk*
+
+### Webinar/Recording: 
+
+*link to webinar announcement / recording*
+
+ 
+
+<sub>[go to schedule](#T3.4-6m)</sub>
+
+
+
+
+<sub>[go to schedule](#T3.4-7m)</sub>
+<a name="T3.4-7"></a>  
 ## OpenChain Education Tooling Training creation 
   
 ### Abstract:  
@@ -262,62 +378,6 @@ Martin Yagi is the IP manager at First Light Fusion and is the current chair of 
 
 *link to webinar announcement / recording*
 
- 
-
-<sub>[go to schedule](#T3.4-4m)</sub>
-<a name="T3.4-5"></a>  
-## Open Chain Tool Intro Trainings 
-  
-### Abstract:  
-TBD  
-  
-*TBD*  
-  
-### Bio  
-tba  
-  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
- 
-
-<sub>[go to schedule](#T3.4-5m)</sub>
-<a name="T3.4-6"></a>  
-## Surviving the "AI Slopageddon": How AI shakes the foundations of Open Source 
-  
-### Abstract:  
-"Vibe Coding"—where AI writes the code while the human merely supervises—promises unprecedented productivity. However, for Open Source maintainers, this revolution feels more like an assault. Between the deluge of low-quality "Slop" Pull Requests, hallucinated bug reports, and the emergence of aggressive autonomous agents, the social contract of free software is breaking down. 
-
-This presentation explores the existential threat AI poses to the ecosystem: from the "Demand-Diversion" theory that starves maintainers of visibility, to reputation attacks by autonomous bots. But all is not lost. We will analyze how projects like curl, matplotlib, and Goose are reacting. We will detail emerging defense strategies: from "locking the door" (ending bug bounties) to "fixing the house" with AGENTS.md context files, robust testing, and machine-readable governance. Join us to learn how to turn the "Slopageddon" into an opportunity to modernize Open Source.  
-  
-*Raphael Semeteys (Worldline)*  
-  
-### Bio  
-Raphaël Semeteys
-Head of Tech Advocacy at Worldline
-https://raphiki.github.io
-
-With over 25 years of IT experience across the full project lifecycle—from development and architecture to consulting and presales—Open Source has been my constant North Star. Now in DevRel, I leverage this broad expertise to bridge the gap between technology and community.
-
-I bring a deep background in FOSS, having co-led a dedicated Open Source skill center for 9 years with a focus on consulting and technological watch. I am also the leader of the QSOS project, pioneering community-based methods for the evaluation and selection of Free and Open Source software.
-  
-  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
- 
-
-<sub>[go to schedule](#T3.4-6m)</sub>
 
 # Potential Follow-ups
 You cannot join in person but are interested to get in touch with the community?   
@@ -329,3 +389,7 @@ https://app.element.io/#/room/#educationinopensource:matrix.org
 
 For OpenChain webinars about Education, please check our webinar library [Webinars](https://openchainproject.org/webinars)  
 The OpenChain project informs about upcoming webinars in the ["News"](https://openchainproject.org/news)-section and via the respective [mailing lists](https://openchainproject.org/participate).
+
+
+
+

@@ -150,15 +150,15 @@ Prior to this he was part of pwc's open source and openchain practice.
 <sub>[go to schedule](#T1.3-3m)</sub>
 
 <a name="T1.3-4"></a>  
-## Open Source Business Guide / Theory 
+## How Non-Software Companies Use Open Source to Build Strategic Advantages 
   
 ### Abstract:  
-0  
+If your company builds software, it uses open source. So do your competitors; using open source will not give you competitive advantages. But becoming involved in open source on a deeper level, through contributions in specific projects and creating your own projects, can create strategic advantages even for companies that are not fundamentally software companies. In this talk, Emily Omier will talk about how.   
   
 *Emily Omier (The Business of Open Source)*  
   
 ### Bio  
-0  
+Emily Omier is a product strategy and positioning consultant for open source companies. She is the co-founder of Open Source Founders Summit, a conference for leadership in open source companies. She hosts The Business of Open Source podcast and is working on an Open Source in Business guide with the TODO group. 
   
 ### Slides:
 

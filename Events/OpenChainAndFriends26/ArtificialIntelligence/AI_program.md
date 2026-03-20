@@ -70,7 +70,7 @@ LinkedIn: https://www.linkedin.com/in/tuslaender Research Gate: https://www.rese
   
 ### Slides:
 
-*link to slide of the talk*
+[20260324_AI_Systems_Engineering-EngineeringDisciplineUslaender.pdf](20260324_AI_Systems_Engineering-EngineeringDisciplineUslaender.pdf)
 
 ### Webinar/Recording: 
 

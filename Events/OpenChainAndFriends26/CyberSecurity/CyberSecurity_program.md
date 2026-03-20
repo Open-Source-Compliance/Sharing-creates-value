@@ -349,24 +349,21 @@ Sabrina Kaniewski received her M.Sc. in Computer Science from the University of 
 
 <sub>[go to schedule](#T3.1-9m)</sub>
 <a name="T3.1-10"></a>  
-## Towards Effective LLM-based Vulnerability Detection Systems - State of Research 
-  
-### Abstract:  
-Using Large Language Models (LLMs) for software vulnerability detection requires more than just clever prompting. In this technical deep-dive, we move beyond the basics to explore the challenges of building effective LLM-based vulnerability detection systems.
+## A practical view on the upcoming CRA
+ 
+### Abstract:
+tba
 
-We examine suitable code representations, demonstrating why code context is essential for detecting complex security flaws. A central focus of this talk is the role of Retrieval-Augmented Generation (RAG). We present a comparative analysis of different RAG approaches, evaluating how various retrieval mechanisms and knowledge bases impact detection precision. Through technical examples, participants will learn critical architectural components and open research frontiers necessary to advance LLM-based detection systems.  
-  
-*Sabrina Kaniewski (Hochschule Esslingen)*  
-  
-### Bio  
-Sabrina Kaniewski, M.Sc.
-Sabrina Kaniewski received her M.Sc. in Computer Science from the University of Tübingen in 2023. She is currently a PhD student and research assistant at Esslingen University of Applied Sciences and the University of Tübingen, supervised by Prof. Dr. Tobias Heer and Prof. Dr. habil. Michael Menth. Her research focuses on LLMs for software security, with a specific interest in automated vulnerability detection, and securing legacy industrial systems.  
-  
+*Nico Peper (Schunk GmbH)*
+
+### Bio
+tba
+
 ### Slides:
 
 *link to slide of the talk*
 
-### Webinar/Recording: 
+### Webinar/Recording:
 
 *link to webinar announcement / recording*
 

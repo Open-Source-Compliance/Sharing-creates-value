@@ -24,8 +24,8 @@ get an **insight into the newest generation of modern cars**.
 - WEDNESDAY STEP ROOM1 10:20-11:20 **T2.4-3** [How to create the SBOM for the Linux kernel, *Maximilian Huber (TNG), Luis Augenstein (TNG)*](#T2.4-3)<a name="T2.4-3m">  
 - WEDNESDAY STEP ROOM1 11:25-12:25 **T2.4-4** [Crowdsourcing IT-Security: How openDesk uses SBOMs and VEX for decentralized security compliance, *Julian Schauder (Zendis)*](#T2.4-4)<a name="T2.4-4m">  
 - WEDNESDAY STEP ROOM1 13:30-14:30 **T2.4-5** [Reproducibility > OSS > SBOM, *Josef Holzmayer (Yocto)*](#T2.4-5)<a name="T2.4-5m">  
-- WEDNESDAY STEP ROOM1 14:35-15:35 **T2.4-6** [TBD, *TBD*](#T2.4-6)<a name="T2.4-6m">  
-- WEDNESDAY STEP ROOM1 15:40-16:30 **T2.4-7** [TBD, *TBD*](#T2.4-7)<a name="T2.4-7m">  
+- WEDNESDAY STEP ROOM1 14:45-15:45 **T2.4-6** [F*EX, *Ullrich Hörlacher (Uni Stuttgart)*](#T2.4-6)<a name="T2.4-6m">  
+- WEDNESDAY STEP ROOM1 15:45-16:00 **T2.4-7** Wrap up and good-bye
 
 
 
@@ -147,12 +147,12 @@ Taking his passion for connecting and empowering developers, combining it with a
 
 <sub>[go to schedule](#T2.4-5m)</sub>
 <a name="T2.4-6"></a>  
-## TBD 
+## F*EX 
   
 ### Abstract:  
 0  
   
-*TBD*  
+*Ullrich Horlacher*  
   
 ### Bio  
 0  
@@ -168,28 +168,7 @@ Taking his passion for connecting and empowering developers, combining it with a
  
 
 <sub>[go to schedule](#T2.4-6m)</sub>
-<a name="T2.4-7"></a>  
-## TBD 
-  
-### Abstract:  
-0  
-  
-*N.N.*  
-  
-### Bio  
-0  
-  
-### Slides:
 
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
- 
-
-<sub>[go to schedule](#T2.4-7m)</sub>
 
 # Potential Follow-ups
 You cannot join in person but are interested to get in touch with the community?   

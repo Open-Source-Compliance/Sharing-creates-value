@@ -17,21 +17,21 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 
 # Agenda
 - ***DAY3 THURSDAY 26.3.2026 [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)***
-- THURSDAY SCC ROOM2 9:00-16:30 **T3.2-Moderator** [Christian Höppler (Robert Bosch GmbH)](#T3.2-Moderator)<a name="T3.2-Moderatorm">  
-- THURSDAY SCC ROOM2 9:00-9:15 **T3.2-1** [Welcome and Introduction to the Stream, *Christian Höppler (Robert Bosch GmbH)*](#T3.2-1)<a name="T3.2-1m">  
-- THURSDAY SCC ROOM2 9:15-09:35 **T3.2-2** [Keynote: Innovation in Open Source, *Shane Coughlan (OIN)*](#T3.2-2)<a name="T3.2-2m">  
-- THURSDAY SCC ROOM2 9:40-10:10 **T3.2-3** [Navigating the Open: Our Bosch eBike Flow Journey with GraphHopper & OSM, *Dr. Olaf Flebbe (Robert Bosch GmbH)*](#T3.2-3)<a name="T3.2-3m">  
-- THURSDAY SCC ROOM2 10:15-10:30 **T3.2-4** [Mitfahren-BW: Open-Source Ride-Sharing Portal for Baden-Württemberg, *Martin Hovekamp (Mitfahrverband e.V.)*](#T3.2-4)<a name="T3.2-4m">  
-- THURSDAY SCC ROOM2 10:30-11:00 **T3.2-5** [ROS Industrial meets SMEs, *Yasmine Makkaoui (Fraunhofer)*](#T3.2-5)<a name="T3.2-5m">  
-- THURSDAY SCC ROOM2 11:00-11:30 **T3.2-6** [Sustainable OSS: lessons from XWiki, *Michael Hamann (XWiki)*](#T3.2-6)<a name="T3.2-6m">  
-- THURSDAY SCC ROOM2 11:30-12:00 **T3.2-7** [Support & Care – Professional Stewardship for Your Java Foundation, *Hendrik Ebbers (Open Elements)*](#T3.2-7)<a name="T3.2-7m">  
-- THURSDAY SCC ROOM2 12:00-12:30 **T3.2-8** [TBD - Adfinis, *N.N. (Adfinis)*](#T3.2-8)<a name="T3.2-8m">  
-- THURSDAY SCC ROOM2 13:30-13:45 **T3.2-9** [Vibrating Virtual Reality Voyage or Waiting for Godot, *Alexander Dais*](#T3.2-9)<a name="T3.2-9m">  
-- THURSDAY SCC ROOM2 13:45-14:15 **T3.2-10** [Open Source at Carl Laemmle Institut of Filmakademie Baden-Württemberg, *Volker Helzle (Filmakademie Ludwigsburg)*](#T3.2-10)<a name="T3.2-10m">  
-- THURSDAY SCC ROOM2 14:15-14:30 **T3.2-11** [Innovation Practices Workshop, *Tobias Frech (JUGS)*](#T3.2-11)<a name="T3.2-11m">  
-- THURSDAY SCC ROOM2 14:30-15:15 **T3.2-12** [Workshop Part 1](#T3.2-12)<a name="T3.2-12m">  
-- THURSDAY SCC ROOM2 15:20-16:05 **T3.2-13** [Workshop Part 2](#T3.2-13)<a name="T3.2-13m">  
-- THURSDAY SCC ROOM2 16:05-16:30 **T3.2-14** [Wrap-up and Goodbye](#T3.2-14)<a name="T3.2-14m">  
+- THURSDAY SCC ROOM2 9:00-16:30 **T3.2-Moderator** [Christian Höppler (Robert Bosch GmbH)](#T3.2-Moderator)<a name="T3.2-Moderatorm">    
+- THURSDAY SCC ROOM3 9:00-9:15 **T3.2-1** [Welcome and Introduction to the Stream, *Christian Höppler (Robert Bosch GmbH)*](#T3.2-1)<a name="T3.2-1m">  
+- THURSDAY SCC ROOM3 9:15-09:35 **T3.2-2** [Keynote: Innovation in Open Source, *Shane Coughlan (OIN)*](#T3.2-2)<a name="T3.2-2m">  
+- THURSDAY SCC ROOM3 9:40-10:10 **T3.2-3** [Navigating the Open: Our Bosch eBike Flow Journey with GraphHopper & OSM, *Dr. Olaf Flebbe (Robert Bosch GmbH)*](#T3.2-3)<a name="T3.2-3m">  
+- THURSDAY SCC ROOM3 10:15-10:35 **T3.2-4** [Mitfahren-BW: Open-Source Ride-Sharing Portal for Baden-Württemberg, *Martin Hovekamp (Mitfahrverband e.V.)*](#T3.2-4)<a name="T3.2-4m">  
+- THURSDAY SCC ROOM3 10:50-11:10 **T3.2-5** [Industrial ROS meets SMEs, *Yasmine Makkaoui (Fraunhofer)*](#T3.2-5)<a name="T3.2-5m">  
+- THURSDAY SCC ROOM3 11:15-11:35 **T3.2-6** [Sustainable OSS: lessons from XWiki, *Michael Hamann (XWiki)*](#T3.2-6)<a name="T3.2-6m">  
+- THURSDAY SCC ROOM3 11:40-12:00 **T3.2-7** [Support & Care – Professional Stewardship for Your Java Foundation, *Hendrik Ebbers (Open Elements)*](#T3.2-7)<a name="T3.2-7m">  
+- THURSDAY SCC ROOM3 12:05-12:30 **T3.2-8** [“Mitfahrknopf”: A new car assistance system – An Innovation Opportunity, *Martin Hovekamp (Mitfahrverband e.V.)*](#T3.2-8)<a name="T3.2-8m">  
+- THURSDAY SCC ROOM3 13:30-13:45 **T3.2-9** [Vibrating Virtual Reality Voyage or Waiting for Godot, *Alexander Dais*](#T3.2-9)<a name="T3.2-9m">  
+- THURSDAY SCC ROOM3 13:45-14:15 **T3.2-10** [Open Source at Carl Laemmle Institut of Filmakademie Baden-Württemberg, *Volker Helzle (Filmakademie Ludwigsburg)*](#T3.2-10)<a name="T3.2-10m">  
+- THURSDAY SCC ROOM3 14:15-14:30 **T3.2-11** [Innovation Practices Workshop, *Tobias Frech (JUGS)*](#T3.2-11)<a name="T3.2-11m">  
+- THURSDAY SCC ROOM3 14:30-15:15 **T3.2-12** [Workshop Part 1, *Tobias Frech (JUGS)*](#T3.2-12)<a name="T3.2-12m">  
+- THURSDAY SCC ROOM3 15:20-16:05 **T3.2-13** [Workshop Part 2, *Tobias Frech (JUGS)*](#T3.2-13)<a name="T3.2-13m">  
+- THURSDAY SCC ROOM3 16:05-16:30 **T3.2-14** [Wrap-up and Goodbye *Christian Höppler (Robert Bosch GmbH)* *Tobias Frech (JUGS)*](#T3.2-14)<a name="T3.2-14m">  
 
 # Details
 
@@ -199,15 +199,15 @@ At Linux Foundation Hendrik is leading the Hiero project, that is the base of He
 
 <sub>[go to schedule](#T3.2-7m)</sub>
 <a name="T3.2-8"></a>  
-## TBD - Adfinis 
+## “Mitfahrknopf”: A new car assistance system – An Innovation Opportunity 
   
 ### Abstract:  
-Case Study  
+The “Mitfahrknopf” concept enables drivers to offer spontaneous ride-sharing directly from their vehicles. Using in-car data such as current route and seat occupancy, ride offers can be shared in real time with driver consent via smartphone apps, open interfaces, or in-car apps. This system could scale to hundreds or thousands of live ride offers, demonstrating how connected vehicles can actively support sustainable mobility. For Bosch, it represents a chance to showcase innovation and integrate advanced mobility solutions while enhancing corporate and public transport ecosystems.  
   
-*N.N. (Adfinis)*  
+*Martin Hovekamp (Mitfahrverband e.V.)*  
   
 ### Bio  
-0  
+Martin Hovekamp studied at RWTH Aachen and worked over 30 years at Hewlett-Packard in software development, from 3D CAD and UI design to AI-based IT systems, agile processes, and global AI-supported software quality assurance. In the 1990s, he co-developed analog and digital corporate ride-sharing systems, later evolving them into the award-winning eMIT platform. He co-founded the non-profit Mitfahrverband e.V. for the DACH region and currently serves as its board spokesperson, promoting shared, sustainable, and equitable mobility.  
   
 ### Slides:
 
@@ -338,18 +338,6 @@ this space is intentionally left blank
   
 ### Abstract:  
 Let’s share the highlights from the past few hours and take a look at the coming month and the year ahead.
-
-### Bio   
-  
-### Slides:
-
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
- 
 
 <sub>[go to schedule](#T3.2-14m)</sub>
 

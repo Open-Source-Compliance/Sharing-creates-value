@@ -22,7 +22,7 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 - THURSDAY SCC ROOM2 9:15-09:35 **T3.2-2** [Keynote: Innovation in Open Source, *Shane Coughlan (OIN)*](#T3.2-2)<a name="T3.2-2m">  
 - THURSDAY SCC ROOM2 9:40-10:10 **T3.2-3** [Navigating the Open: Our Bosch eBike Flow Journey with GraphHopper & OSM, *Dr. Olaf Flebbe (Robert Bosch GmbH)*](#T3.2-3)<a name="T3.2-3m">  
 - THURSDAY SCC ROOM2 10:15-10:30 **T3.2-4** [Mitfahren-BW: Open-Source Ride-Sharing Portal for Baden-Württemberg, *Martin Hovekamp (Mitfahrverband e.V.)*](#T3.2-4)<a name="T3.2-4m">  
-- THURSDAY SCC ROOM2 10:30-11:00 **T3.2-5** [Industrial ROS meets SMEs, *Yasmine Makkaoui (Fraunhofer)*](#T3.2-5)<a name="T3.2-5m">  
+- THURSDAY SCC ROOM2 10:30-11:00 **T3.2-5** [ROS Industrial meets SMEs, *Yasmine Makkaoui (Fraunhofer)*](#T3.2-5)<a name="T3.2-5m">  
 - THURSDAY SCC ROOM2 11:00-11:30 **T3.2-6** [Sustainable OSS: lessons from XWiki, *Michael Hamann (XWiki)*](#T3.2-6)<a name="T3.2-6m">  
 - THURSDAY SCC ROOM2 11:30-12:00 **T3.2-7** [Support & Care – Professional Stewardship for Your Java Foundation, *Hendrik Ebbers (Open Elements)*](#T3.2-7)<a name="T3.2-7m">  
 - THURSDAY SCC ROOM2 12:00-12:30 **T3.2-8** [TBD - Adfinis, *N.N. (Adfinis)*](#T3.2-8)<a name="T3.2-8m">  
@@ -124,7 +124,7 @@ Martin Hovekamp studied at RWTH Aachen and worked over 30 years at Hewlett-Packa
 
 <sub>[go to schedule](#T3.2-4m)</sub>
 <a name="T3.2-5"></a>  
-## Industrial ROS meets SMEs 
+## ROS Industrial meets SMEs 
   
 ### Abstract:  
 0  

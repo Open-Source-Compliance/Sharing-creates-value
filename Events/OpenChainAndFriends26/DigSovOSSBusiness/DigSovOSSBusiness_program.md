@@ -25,7 +25,7 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 OLF member (iteratec) onmigration to an oss solution offering / Practice, *Rüdiger Heins (iteratec)*](#T1.3-1)<a name="T1.3-1m">
 - TUESDAY SCC ROOM3 14:25-14:45 **T1.3-2** [Methodology for switching to Open Source solutions / Theory, *Wolfgang Gehring (Mercedes-Benz Tech Innovations)*](#T1.3-2)<a name="T1.3-2m">  
 - TUESDAY SCC ROOM3 14:50-15:10 **T1.3-3** [openDesk, openCode and container.gov.de, *Julian Schauder (Zendis)*](#T1.3-3)<a name="T1.3-3m">  
-- TUESDAY SCC ROOM3 15:15-15:35 **T1.3-4** [Open Source Business Guide / Theory, *Emily Omier (The Business of Open Source)*](#T1.3-4)<a name="T1.3-4m">  
+- TUESDAY SCC ROOM3 15:15-15:35 **T1.3-4** [How Non-Software Companies Use Open Source to Build Strategic Advantages, *Emily Omier (The Business of Open Source)*](#T1.3-4)<a name="T1.3-4m">  
 
 # Details
 

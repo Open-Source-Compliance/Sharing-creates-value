@@ -19,7 +19,7 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 # Agenda
 - ***DAY1 TUESDAY 24.3.2026 [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)***
 - TUESDAY SCC ROOM2 14:00-15:35 **T1.1-Moderator** [Janneke van de Westelaken (Bosch)](#T1.1-Moderator)<a name="T1.1-Moderatorm">  
-- TUESDAY SCC ROOM2 14:00-14:20 **T1.1-1** [Keynote: Inventor's Handbook - Guide to the product development process using open source software, *Alexander Sadowski (Alsado)*](#T1.1-1)<a name="T1.1-1m">  
+- TUESDAY SCC ROOM2 14:00-14:20 **T1.1-1** [Keynote: Inventor's Handbook - Guide to the product development process using open source software, *Aleksander Sadowski (Alsado)*](#T1.1-1)<a name="T1.1-1m">  
 - TUESDAY SCC ROOM2 14:25-14:45 **T1.1-2** [Open Source Compliance Education part1, *Martin Yagi (FirstLightFusion)* and *Anna Ewerlin (Mercedes-Benz)*](#T1.1-2)<a name="T1.1-2m">  
 - TUESDAY SCC ROOM2 14:50-15:10 **T1.1-3** [Open Source Compliance Education part2, *Diogo Fregonese (Bosch)* *Anna Ewerlin (Mercedes-Benz)* *Jari Koivisto (Analog Devices)* and *Martin Yagi (FirstLightFusion)*](#T1.1-3)<a name="T1.1-3m">  
 - TUESDAY SCC ROOM2 15:15-15:35 **T1.1-4** [Digital Independence Day, */madonius (Chaos Computer Club Karlsruhe (Entropia))*](#T1.1-4)<a name="T1.1-4m">  
@@ -61,7 +61,7 @@ The talk covers the following topics:
 10. Infrastructure and teamwork
   
   
-*Alexander Sadowski (Alsado)*  
+*Aleksander Sadowski (Alsado)*  
   
 ### Bio  
 Aleksander Sadowski is a founder, inventor, author, developer and influencer in the German mechanical engineering industry.

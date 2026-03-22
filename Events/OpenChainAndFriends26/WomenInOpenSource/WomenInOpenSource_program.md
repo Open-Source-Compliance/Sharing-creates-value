@@ -33,3 +33,5 @@ Whether you are deeply involved in Open Source or just starting your journey: yo
 
 Things start small before they get big - but "standing on the shoulder of giantesses" may accelerate things:
 Within the FOSS-LÄND community we already started a first collection of available communities for women and looking forward to improve and extend the collection with inputs from all participants: https://github.com/the-foss-laend/Bedienbiachle/blob/main/communities.md
+
+The event is subject to the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule), the [Event Code of Conduct](https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/openchain_and_friends_2026_prep/Events/OpenChainAndFriends26/event_code_of_conduct.md) and the [LF Antitrust Policy](https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/openchain_and_friends_2026_prep/Presentations/Antitrust_Policy_Notice.pptx) have to be followed.

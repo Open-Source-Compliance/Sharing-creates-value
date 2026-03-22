@@ -106,7 +106,7 @@ This presentation introduces Mercedes-Benz's educational curriculum on Open Sour
 ### Bio  
 Martin Yagi is the IP manager at First Light Fusion and is the current chair of the OpenChain Education Work Group. Martin advises First Light Fusion on Open Source license compliance and risk mitigation and has previously served in advisory roles at Vodafone and Cisco. 
 
-Anna Ewerlin is...
+Anna Maria Ewerlin is an expert in Free and Open Source Software and a member of the FOSS Center of Competence at Mercedes-Benz. She works for the Research and Development department in the FOSS Governance team, where her responsibilities include compliance, processes, training, and tools related to FOSS. 
   
 ### Slides:
 
@@ -148,7 +148,7 @@ Martin Yagi is the IP manager at First Light Fusion and is the current chair of 
 
 Jari Koivisto is a high tech and OSPO professional with deep experience in Open Source governance and Open Source Due Diligence for acquisitions. He has been an active contributor to the OpenChain Project since 2020 and participates in several Working Groups, including the Education Working Group. He currently works at Analog Devices’ OSPO as an Open Source Project Manager.
 
-Anna Ewerlin is...
+Anna Maria Ewerlin is an expert in Free and Open Source Software and a member of the FOSS Center of Competence at Mercedes-Benz. She works for the Research and Development department in the FOSS Governance team, where her responsibilities include compliance, processes, training, and tools related to FOSS. 
   
 ### Slides:
 

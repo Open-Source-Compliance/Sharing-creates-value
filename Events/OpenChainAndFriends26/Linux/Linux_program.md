@@ -164,10 +164,10 @@ Developing site:  https://fex.rus.uni-stuttgart.de/
 *Ullrich Horlacher*  
   
 ### Bio  
-1985-1991  Study of chemistry at University of Ulm (Vordiplom ~ bachelor)
-1991-1993  Study of mathematisch-technischer Assistent at University of Stuttgart (math-technical assistent, bachelor)
-1993-2008  UNIX and abuse admin at BelWue (Baden-Wuerttemberg's education and research network)
-2008-      UNIX admin at computing centre University of Stuttgart (RUS/TIK)
+1985-1991  Study of chemistry at University of Ulm (Vordiplom ~ bachelor)  
+1991-1993  Study of mathematisch-technischer Assistent at University of Stuttgart (math-technical assistent, bachelor)  
+1993-2008  UNIX and abuse admin at BelWue (Baden-Wuerttemberg's education and research network)  
+2008-      UNIX admin at computing centre University of Stuttgart (RUS/TIK)  
   
 ### Slides:
 

@@ -16,7 +16,7 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 - TUESDAY SCC ROOM1 14:25-14:45 **T1.2-2** [Open Source based SupplyChain Management at scale, *Nikola Babadzhanov (Bosch)*](#T1.2-2)<a name="T1.2-2m">  
 - TUESDAY SCC ROOM1 14:50-15:10 **T1.2-3** [Open Source Management at Mercedes-Benz, *Christian Wege (Mercedes-Benz)*](#T1.2-3)<a name="T1.2-3m">  
 - TUESDAY SCC ROOM1 15:15-15:35 **T1.2-4** [The Last Mile Problem: Turning Executive Support into Real Open Repo Contributions, *Walt Miner (AGL)*](#T1.2-4)<a name="T1.2-4m">  
-- ***DAY3 WEDNESDAY 25.3.2026 [Ludwigsburg Think Tank Groenerstraße 5/1, 71636 Ludwigsburg](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi0-_3S8pqSAxVKgP0HHd3TBZsQ4kB6BAg9EAM&url=%2Fmaps%2Fplace%2F%2Fdata%3D!4m2!3m1!1s0x4799d19ca1da3b45%3A0xcde0883e32cfd174%3Fsa%3DX%26ved%3D1t%3A8290%26ictx%3D111&usg=AOvVaw1PepE9TCkcBnW7voCOSkWb&opi=89978449)***
+- ***DAY2 WEDNESDAY 25.3.2026 [Ludwigsburg Think Tank Groenerstraße 5/1, 71636 Ludwigsburg](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi0-_3S8pqSAxVKgP0HHd3TBZsQ4kB6BAg9EAM&url=%2Fmaps%2Fplace%2F%2Fdata%3D!4m2!3m1!1s0x4799d19ca1da3b45%3A0xcde0883e32cfd174%3Fsa%3DX%26ved%3D1t%3A8290%26ictx%3D111&usg=AOvVaw1PepE9TCkcBnW7voCOSkWb&opi=89978449)***
 - WEDNESDAY Think Tank 09:00-16:30 **T2.3-Moderator** [Nikola Babadzhanov (Bosch)](#T2.3-Moderator)<a name="T2.3-Moderatorm">  
 - WEDNESDAY Think Tank 09:30-09:35 **T2.3-1** [Intro to the track and agenda, *Nikola Babadzhanov (Bosch)*](#T2.3-1)<a name="T2.3-1m">  
 - WEDNESDAY Think Tank 09:40-10:00 **T2.3-2** [Topic 1: CRA tooling for SMEs by the OCCTET project, *Martin von Willebrand (DoubleOpen) and 

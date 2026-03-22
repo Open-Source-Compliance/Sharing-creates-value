@@ -150,15 +150,15 @@ Taking his passion for connecting and empowering developers, combining it with a
 ## F*EX - Frams' Fast File Exchange 
   
 ### Abstract:  
-F*EX (Frams' Fast File EXchange) is a service to send files of ANY size to ANY recipient(s).
-The sender uploads the file to the F*EX server using a WWW upload form and the recipient automatically gets a notification email with a download URL.
-Only the sender needs an account on the F*EX server, receiving is "free".
+F\*EX (Frams' Fast File EXchange) is a service to send files of ANY size to ANY recipient(s).
+The sender uploads the file to the F\*EX server using a WWW upload form and the recipient automatically gets a notification email with a download URL.
+Only the sender needs an account on the F\*EX server, receiving is "free".
 Typical files contain videos, gauge data, ML and simulation data sets, research reports, DB dumps, virtual machines, ...
-F*EX is secure, fast, reliable and has no limits.
-F*EX does not use foreign clouds, which means: digital sovereignty!
-One can also use F*EX with special clients which offers automatic resuming after a link failure.
-The F*EX server needs UNIX/Linux, the clients can be on any operating system, one needs only a web browser and an email program, of any kind.
-The first F*EX service started in 2007 with fex.belwue.de, its predecessor SAFT/sendfile started in 1995 (same author).
+F\*EX is secure, fast, reliable and has no limits.
+F\*EX does not use foreign clouds, which means: digital sovereignty!
+One can also use F\*EX with special clients which offers automatic resuming after a link failure.
+The F\*EX server needs UNIX/Linux, the clients can be on any operating system, one needs only a web browser and an email program, of any kind.
+The first F\*EX service started in 2007 with fex.belwue.de, its predecessor SAFT/sendfile started in 1995 (same author).
 Developing site:  https://fex.rus.uni-stuttgart.de/ 
   
 *Ullrich Horlacher*  

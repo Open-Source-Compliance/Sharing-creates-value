@@ -24,7 +24,7 @@ get an **insight into the newest generation of modern cars**.
 - WEDNESDAY STEP ROOM1 10:20-11:20 **T2.4-3** [How to create the SBOM for the Linux kernel, *Maximilian Huber (TNG), Luis Augenstein (TNG)*](#T2.4-3)<a name="T2.4-3m">  
 - WEDNESDAY STEP ROOM1 11:25-12:25 **T2.4-4** [Crowdsourcing IT-Security: How openDesk uses SBOMs and VEX for decentralized security compliance, *Julian Schauder (Zendis)*](#T2.4-4)<a name="T2.4-4m">  
 - WEDNESDAY STEP ROOM1 13:30-14:30 **T2.4-5** [Reproducibility > OSS > SBOM, *Josef Holzmayer (Yocto)*](#T2.4-5)<a name="T2.4-5m">  
-- WEDNESDAY STEP ROOM1 14:45-15:45 **T2.4-6** [F*EX, *Ullrich Hörlacher (Uni Stuttgart)*](#T2.4-6)<a name="T2.4-6m">  
+- WEDNESDAY STEP ROOM1 14:45-15:45 **T2.4-6** [F*EX - Frams' Fast File Exchange, *Ullrich Hörlacher (Uni Stuttgart)*](#T2.4-6)<a name="T2.4-6m">  
 - WEDNESDAY STEP ROOM1 15:45-16:00 **T2.4-7** Wrap up and good-bye
 
 
@@ -147,15 +147,27 @@ Taking his passion for connecting and empowering developers, combining it with a
 
 <sub>[go to schedule](#T2.4-5m)</sub>
 <a name="T2.4-6"></a>  
-## F*EX 
+## F*EX - Frams' Fast File Exchange 
   
 ### Abstract:  
-0  
+F*EX (Frams' Fast File EXchange) is a service to send files of ANY size to ANY recipient(s).
+The sender uploads the file to the F*EX server using a WWW upload form and the recipient automatically gets a notification email with a download URL.
+Only the sender needs an account on the F*EX server, receiving is "free".
+Typical files contain videos, gauge data, ML and simulation data sets, research reports, DB dumps, virtual machines, ...
+F*EX is secure, fast, reliable and has no limits.
+F*EX does not use foreign clouds, which means: digital sovereignty!
+One can also use F*EX with special clients which offers automatic resuming after a link failure.
+The F*EX server needs UNIX/Linux, the clients can be on any operating system, one needs only a web browser and an email program, of any kind.
+The first F*EX service started in 2007 with fex.belwue.de, its predecessor SAFT/sendfile started in 1995 (same author).
+Developing site:  https://fex.rus.uni-stuttgart.de/ 
   
 *Ullrich Horlacher*  
   
 ### Bio  
-0  
+1985-1991  Study of chemistry at University of Ulm (Vordiplom ~ bachelor)
+1991-1993  Study of mathematisch-technischer Assistent at University of Stuttgart (math-technical assistent, bachelor)
+1993-2008  UNIX and abuse admin at BelWue (Baden-Wuerttemberg's education and research network)
+2008-      UNIX admin at computing centre University of Stuttgart (RUS/TIK)
   
 ### Slides:
 

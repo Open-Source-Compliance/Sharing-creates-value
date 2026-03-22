@@ -27,7 +27,7 @@ Click [here to register](https://teilnehmen.e-mobilbw.de/) for the OpenChain and
 Please note: This event is also **open to other interested women**. Please **feel free to share** this invitation within your network.
   
 Also please note: we will use for communication and community building the matrix chat. Join discussions in this dedicated space for the networking event:
-https://app.element.io/#/room/#womeninopensource:matrix.org.
+https://matrix.to/#/#womeninopensource:matrix.org.
   
 Whether you are deeply involved in Open Source or just starting your journey: you are very welcome to join the networking session. Let´s all meet up together to connect, to share experiences and to talk about our future in Open Source!
 

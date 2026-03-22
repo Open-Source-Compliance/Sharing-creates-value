@@ -176,7 +176,7 @@ No worries, check out our regular OpenChain sessions in the OpenChain Calendar a
 https://openchainproject.org/participate
 
 You can reach the stream-org team via this matrix channel:
-https://app.element.io/#/room/#linuxsupplychain:matrix.org
+https://matrix.to/#/#linuxsupplychain:matrix.org
 
 For OpenChain webinars, please check our webinar library [Webinars](https://openchainproject.org/webinars)  
 The OpenChain project informs about upcoming webinars in the ["News"](https://openchainproject.org/news)-section and via the respective [mailing lists](https://openchainproject.org/participate).

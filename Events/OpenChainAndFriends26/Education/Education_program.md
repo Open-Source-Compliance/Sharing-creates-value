@@ -385,7 +385,7 @@ No worries, check out our regular OpenChain Specification and Education Work Gro
 https://openchainproject.org/participate
 
 You can reach the stream-org team via this matrix channel:
-https://app.element.io/#/room/#educationinopensource:matrix.org
+https://matrix.to/#/#educationinopensource:matrix.org
 
 For OpenChain webinars about Education, please check our webinar library [Webinars](https://openchainproject.org/webinars)  
 The OpenChain project informs about upcoming webinars in the ["News"](https://openchainproject.org/news)-section and via the respective [mailing lists](https://openchainproject.org/participate).

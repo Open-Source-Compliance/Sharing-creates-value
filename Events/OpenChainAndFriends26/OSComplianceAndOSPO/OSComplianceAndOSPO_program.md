@@ -406,7 +406,7 @@ No worries, check out our regular OpenChain Tooling Work Group sessions in the O
 https://openchainproject.org/participate
 
 You can reach the stream-org team via this matrix channel:
-https://app.element.io/#/room/#osscomplianceandospo:matrix.org
+https://matrix.to/#/#osscomplianceandospo:matrix.org
 
 For OpenChain webinars about Automation, Open Source Compliance and OSPO, please check our webinar library [Webinars](https://openchainproject.org/webinars)  
 The OpenChain project informs about upcoming webinars in the ["News"](https://openchainproject.org/news)-section and via the respective [mailing lists](https://openchainproject.org/participate).

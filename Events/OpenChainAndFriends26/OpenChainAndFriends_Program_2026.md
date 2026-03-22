@@ -182,7 +182,7 @@ The preliminary Linux OS and beyond-stream program is [HERE](Linux/Linux_program
 
 <sub>[go to schedule Day2](#t2_4)</sub>
 
-*If you want to contribute or help, please reach out to our Matrix-Channel: https://app.element.io/#/room/!wnvjfjiSAPyWkhAHQP:matrix.org*  
+*If you want to contribute or help, please reach out to our Matrix-Channel: https://matrix.to/#/!wnvjfjiSAPyWkhAHQP:matrix.org*  
 *Every helping hand is welcome!*
 
 # Communities collaborating

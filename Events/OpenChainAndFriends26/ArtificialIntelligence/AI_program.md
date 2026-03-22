@@ -6,7 +6,8 @@
 - [Potential Follow-ups](#potential-follow-ups)
 
 This Artificial Intelligence topic stream is part of the OpenChain and Friends Event in Stuttgart 2026.   
-For Event-Details and registration please check out the [OpenChain and Friends Event Website](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026)
+For Event-Details and registration please check out the [OpenChain and Friends Event Website](https://openchainproject.org/news/2025/12/09/openchain-and-friends-2026).
+The event is subject to the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule), the [Event Code of Conduct](https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/openchain_and_friends_2026_prep/Events/OpenChainAndFriends26/event_code_of_conduct.md) and the [LF Antitrust Policy](https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/openchain_and_friends_2026_prep/Presentations/Antitrust_Policy_Notice.pptx) have to be followed.
 
 # Keynotes
 |![Thomas Usländer](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/2025_Portrait_Usl-e1771016789961-300x287.jpg)|![Prof. Dr. Ingo Weber](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/Weber-Ingo_3837-300x200.jpg)|![Dr. Ingo Simonis](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/ingo_simonis-300x300.jpg)|

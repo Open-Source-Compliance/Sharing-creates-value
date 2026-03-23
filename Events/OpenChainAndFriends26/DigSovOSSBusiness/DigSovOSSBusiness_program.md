@@ -13,11 +13,11 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 |![Bjoern Schiessle Nextcloud](https://openchainproject.org/wp-content/uploads/sites/30/2025/12/bjoern-300x300.webp)|
 |-------------------|
 |Bjoern Schiessle (Nextcloud)|
-|[Keynote, *Björn Schiessle (NextCloud)*](#K1)|
+|[Keynote "Digital Sovereignty or Digital Dependency - Europe’s Tech Moment of Truth", *Björn Schiessle (NextCloud)*](#K1)|
 
 # Agenda
 - ***DAY1 TUESDAY 24.3.2026 [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)***
-- TUESDAY SCC ROOM1 10:20-10:40 **K1** [Keynote, *Björn Schiessle (NextCloud)*](#K1)<a name="K1m">  
+- TUESDAY SCC ROOM1 10:20-10:40 **K1** [Keynote "Digital Sovereignty or Digital Dependency - Europe’s Tech Moment of Truth", *Björn Schiessle (NextCloud)*](#K1)<a name="K1m">  
 - TUESDAY SCC ROOM1 11:00-11:30 **Panel** [Panel Discussion - Digital Sovereignty & Open Source in Business in the context of Supply Chain (Chances and) Risk Management, *Moderator: Lothar Becker (OSBA)*](#Panel)<a name="Panelm">
 - ***Afternoon Track***
 - TUESDAY SCC ROOM3 14:00-15:35 **T1.3-Moderator** [Lothar Becker (OSBA)](#T1.3-Moderator)<a name="T1.3-Moderatorm">  
@@ -30,10 +30,13 @@ OLF member (iteratec) onmigration to an oss solution offering / Practice, *Rüdi
 # Details
 
 <a name="K1"></a>  
-## Keynote 
+## Keynote "Digital Sovereignty or Digital Dependency - Europe’s Tech Moment of Truth"
   
 ### Abstract:  
-0  
+Digital sovereignty has moved from theory to a strategic imperative for Europe’s public sector, education, and enterprises, as dependence on a few non European hyperscalers increasingly threatens democratic resilience, competitiveness, and security. This keynote argues that Europe not only must act, but finally can act, and it sketches a pragmatic, positive vision for sovereign content collaboration platforms.
+Yet despite this urgency, many organizations remain stuck in theoretical debates about what would be required to gain more independence, overlooking the fact that most of the necessary building blocks already exist. The spectrum of arguments ranges from “we already made a sovereign decision” to “we first need European hyperscalers before we can move,” and too often this serves as a convenient excuse to stay within our comfort zone instead of changing course.
+Right now, however, we have a unique window of opportunity. If we consciously steer our decisions — and the money attached to them — in the right direction, digital sovereignty becomes not just an aspiration, but a practical reality, as the federal state of Schleswig Holstein in Germany is already demonstrating.
+
   
 *Björn Schiessle (NextCloud)*  
   

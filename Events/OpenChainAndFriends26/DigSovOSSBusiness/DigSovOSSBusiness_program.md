@@ -23,7 +23,7 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 - TUESDAY SCC ROOM3 14:00-15:35 **T1.3-Moderator** [Lothar Becker (OSBA)](#T1.3-Moderator)<a name="T1.3-Moderatorm">  
 - TUESDAY SCC ROOM3 14:00-14:20 **T1.3-1** [Open Source Business Chances for KMU Practice 
 OLF member (iteratec) onmigration to an oss solution offering / Practice, *Rüdiger Heins (iteratec)*](#T1.3-1)<a name="T1.3-1m">
-- TUESDAY SCC ROOM3 14:25-14:45 **T1.3-2** [Methodology for switching to Open Source solutions / Theory, *Wolfgang Gehring (Mercedes-Benz Tech Innovations)*](#T1.3-2)<a name="T1.3-2m">  
+- TUESDAY SCC ROOM3 14:25-14:45 **T1.3-2** [Digital Sovereignty and Open Source in Business, *Wolfgang Gehring (Mercedes-Benz Tech Innovations)*](#T1.3-2)<a name="T1.3-2m">  
 - TUESDAY SCC ROOM3 14:50-15:10 **T1.3-3** [openDesk, openCode and container.gov.de, *Julian Schauder (Zendis)*](#T1.3-3)<a name="T1.3-3m">  
 - TUESDAY SCC ROOM3 15:15-15:35 **T1.3-4** [How Non-Software Companies Use Open Source to Build Strategic Advantages, *Emily Omier (The Business of Open Source)*](#T1.3-4)<a name="T1.3-4m">  
 
@@ -110,7 +110,7 @@ Panelists:
 
 <sub>[go to schedule](#T1.3-1m)</sub>
 <a name="T1.3-2"></a>  
-## Methodology for switching to Open Source solutions / Theory 
+## Digital Sovereignty and Open Source in Business
   
 ### Abstract:  
 Digital Sovereignty is a thing, and it’s not going away. With good reason, this is not just discussed at the highest levels of European politics, but in particular also within corporations like Mercedes-Benz. Achieving greater digital sovereignty is, in fact, mandatory for our future: Without it, Europe will be left behind, and this is already imminent in the fast growing field of AI. 

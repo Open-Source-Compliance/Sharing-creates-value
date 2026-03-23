@@ -105,3 +105,8 @@ Once the program reaches a stable stage, each speaker will receive an Outlook ca
 
 Accommodation in Stuttgart may be limited during the event period. We recommend considering hotel options in the greater Stuttgart area 
 north of the city (e.g. Ludwigsburg), which offer a good range of accommodation and are easily accessible via public transport from the venue.
+
+## **Q: If I come by car to Feuerbach, where can I park it?**
+
+Please consider using the public transport as there are a lot of construction sites. If you have to come by car, please plan enough time. You will also need approximately 10 min to go to the venue. The parking for visitors is in Kruppstraße 2C , 70469 Stuttgart 
+https://www.google.com/maps/place/Robert+Bosch+Parkhaus+Mitarbeiter/@48.8142229,9.1711742,16z/data=!3m1!4b1!4m6!3m5!1s0x4799dac1bde56647:0x561e20ebfcf16707!8m2!3d48.8142229!4d9.1711742!16s%2Fg%2F11g9px0dyh?entry=ttu&g_ep=EgoyMDI2MDMxOC4xIKXMDSoASAFQAw%3D%3D 

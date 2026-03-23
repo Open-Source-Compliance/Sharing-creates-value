@@ -41,7 +41,10 @@ Right now, however, we have a unique window of opportunity. If we consciously st
 *Björn Schiessle (NextCloud)*  
   
 ### Bio  
-0  
+Björn Schießle is Co-founder and Director of Sales Engineering at Nextcloud, where he leads a global team supporting enterprises and public sector organizations in adopting Nextcloud — the industry-leading, fully open-source platform for secure, on-premises collaboration.
+
+With more than twenty years of experience in the Open Source software industry and community, Björn combines deep technical expertise with a strategic understanding of complex IT environments. Drawing on his background in software development, consulting, and project management, he helps organizations advance their digital sovereignty by implementing Open Source solutions that keep them in full control of their data and and digital workspace.
+ 
   
 ### Slides:
 

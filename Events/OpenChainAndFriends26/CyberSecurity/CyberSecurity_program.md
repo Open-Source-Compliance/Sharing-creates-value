@@ -32,7 +32,7 @@ Dirk Targoni (ASRG-S)*](#T3.1-2)<a name="T3.1-2m">
 - THURSDAY SCC ROOM1 09:40-10:10 **T3.1-3** [GVIP - Global Vulnerability Intelligence Platform, *Vladimir Slavov (Robert Bosch GmbH)*](#T3.1-3)<a name="T3.1-3m">  
 - THURSDAY SCC ROOM1 10:10-10:40 **T3.1-4** [Seamless Software Security: OCaaS, VulnerableCode & Dependency Track in Action, *Sonnenholzer Kerstin (Robert Bosch GmbH),
 Krzysztof Nalej (Robert Bosch GmbH)*](#T3.1-4)<a name="T3.1-4m">
-- THURSDAY SCC ROOM1 10:55-11:25 **T3.1-5** [Automotive CTI and OSYNTH, *Mirko Ross (asvin.io)*](#T3.1-5)<a name="T3.1-5m">  
+- THURSDAY SCC ROOM1 10:55-11:25 **T3.1-5** [Automotive CTI and OSINT, *Mirko Ross (asvin.io)*](#T3.1-5)<a name="T3.1-5m">  
 - THURSDAY SCC ROOM1 11:25-11:55 **T3.1-6** [Supply Chain Security for the 99%: FOSS for trust and verifiability, *Thomas Steenbergen (AboutCode)*](#T3.1-6)<a name="T3.1-6m">  
 - THURSDAY SCC ROOM1 11:55-12:25 **T3.1-7** [The Good, The Bad, and The Breached: A View into Supply Chain Security from a PSIRT perspective, *Daniel Mihajlov (Robert Bosch GmbH)*](#T3.1-7)<a name="T3.1-7m">  
 - THURSDAY SCC ROOM1 13:45-14:15 **T3.1-8** [Autonomous Cyberattacks Driven by Artificial Intelligence, *Frank Reichart (Robert Bosch GmbH)*](#T3.1-8)<a name="T3.1-8m">  
@@ -142,8 +142,11 @@ Topics include:
 •        Preparing the necessary technical documentation for conformity assessment
   
 ### Bio  
-tba  
-  
+Dr. Liedtke is a cybersecurity and functional safety expert with more than 25 years of experience in the automotive and software industry. His work focuses on cybersecurity, functional safety, Automotive SPICE®, and the implementation of security management systems, with a strong emphasis on risk management and process improvement.
+He has held senior positions at companies such as Magility Cyber Security, Vector Consulting Services, Kugler Maag Cie, ICS AG, and Alcatel-Lucent, and currently works as an independent consultant and author.
+Dr. Liedtke is actively involved in shaping industry standards and best practices. He serves on the advisory board of intacs, leads the Cybersecurity SPICE working group, and contributes to VDA, ISO and ZVEI cybersecurity initiatives.
+He is a certified Automotive Cybersecurity Manager, Automotive SPICE Provisional Assessor, ISO/IEC 27001 ISMS Auditor, and Professional Scrum Master. He holds a PhD in Computer Science/Mathematics from the University of Stuttgart.
+
 ### Slides:
 
 *link to slide of the talk*
@@ -193,7 +196,7 @@ tba
 ## GVIP - Global Vulnerability Intelligence Platform 
   
 ### Abstract:  
-GVIP is a project consisting of organisations that want to build a global platform for vulnerability intelligence. We are currently in phase one where we have defined some of the requirements on the organisation level and the global system, without discussing technical details.  
+GVIP is a project consisting of organisations that want to build a global platform for vulnerability intelligence. We are currently in phase one where we have defined some of the requirements on the organisation level and the global system, without discussing technical details.
 
 ### Bio
 Vladimir is a lawyer and a programmer. He works at Bosch's Open Source Program Office, focusing on open source management and compliance. He is an AWS Certified Solutions Architect Associate, an AWS Certified AI Practitioner, and an AWS Certified Cloud Practitioner.

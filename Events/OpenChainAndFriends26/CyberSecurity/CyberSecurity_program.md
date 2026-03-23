@@ -193,9 +193,11 @@ tba
 ## GVIP - Global Vulnerability Intelligence Platform 
   
 ### Abstract:  
-tba  
+GVIP is a project consisting of organisations that want to build a global platform for vulnerability intelligence. We are currently in phase one where we have defined some of the requirements on the organisation level and the global system, without discussing technical details.  
 
 ### Bio
+Vladimir is a lawyer and a programmer. He works at Bosch's Open Source Program Office, focusing on open source management and compliance. He is an AWS Certified Solutions Architect Associate, an AWS Certified AI Practitioner, and an AWS Certified Cloud Practitioner.
+He co-chairs the OpenChain Meridian 22 Work Group. He is also a committer on the Eclipse Apoapsis Project.
 
 ### Slides:
 

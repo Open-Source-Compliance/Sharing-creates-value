@@ -208,7 +208,8 @@ Dr. Till Riedel is Lab Leader at TECO and lecturer at the Karlsruhe Institute of
   
 ### Slides:
 
-*link to slide of the talk*
+[Link to my slides](20250325_KIAllianz_Dataplatform_OpenSource_Release/Generated_Presentation_edited.pdf)
+[Sources](20250325_KIAllianz_Dataplatform_OpenSource_Release/)
 
 ### Webinar/Recording: 
 

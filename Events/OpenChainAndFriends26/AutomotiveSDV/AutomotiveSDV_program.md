@@ -30,13 +30,13 @@ For Event-Details and registration please check out the [OpenChain and Friends E
 - THURSDAY ThinkTank 09:30-10:00 **T3.3-2** [SDV Landscape and beyond ..., *Christian Heissenberger (Eclipse)*](#T3.3-2)<a name="T3.3-2m">  
 - THURSDAY ThinkTank 10:00-10:30 **T3.3-3** [COVESA, *Andreas Achtzehn (Robert Bosch GmbH)*](#T3.3-3)<a name="T3.3-3m">  
 - THURSDAY ThinkTank 10:45-11:15 **T3.3-4** [ISO5230 - OpenChain as a Negotiation Boost, *Christian von Drathen (Robert Bosch GmbH)*](#T3.3-4)<a name="T3.3-4m">  
-- THURSDAY ThinkTank 11:15-11:45 **T3.3-5** [CATENA-X / TRACTUS-X, *Alexander Denk (BMW)*](#T3.3-5)<a name="T3.3-5m">  
+- THURSDAY ThinkTank 11:15-11:45 **T3.3-5** [ASF NuttX RTOS - introduction and benefits, *Alin Jerpela (Sony)*](#T3.3-5)<a name="T3.3-5m">  
 - THURSDAY ThinkTank 13:00-13:30 **T3.3-6** [AGL SoDeV status and roadmap, *Walt Miner (AGL)*](#T3.3-6)<a name="T3.3-6m">  
 - THURSDAY ThinkTank 13:30-14:00 **T3.3-7** [Eclipse Safe Open Vehicle Core: Open by Choice. Safe by Design.
 Introduction to Eclipse S-CORE, Current Momentum, and Outlook 2026, *Björn Reistel (ETAS)*](#T3.3-7)<a name="T3.3-7m">
 - THURSDAY ThinkTank 14:15-15:00 **T3.3-8** [BOF session (45min), *0*](#T3.3-8)<a name="T3.3-8m">  
 - THURSDAY ThinkTank 15:15-15:45 **T3.3-9** [Your first steps in Open Source - working with Open Source Communities, *Sven Erik Jeroschewski (Robert Bosch GmbH)*](#T3.3-9)<a name="T3.3-9m">  
-- THURSDAY ThinkTank 15:45-16:15 **T3.3-10** [ASF NuttX RTOS - introduction and benefits, *Alin Jerpela (Sony)*](#T3.3-10)<a name="T3.3-10m">  
+- THURSDAY ThinkTank 15:45-16:15 **T3.3-10** [CATENA-X / TRACTUS-X, *Alexander Denk (BMW)*](#T3.3-10)<a name="T3.3-10m">  
 - THURSDAY ThinkTank 16:15-16:30 **T3.3-11** [Abschluss / Ende / Closing Remarks / END, *Jan-Simon Möller (AGL)*](#T3.3-11)<a name="T3.3-11m">  
 
 # Details
@@ -256,15 +256,24 @@ My first contact with Open Source Software (OSS) in the legal field was the case
 
 <sub>[go to schedule](#T3.3-4m)</sub>
 <a name="T3.3-5"></a>  
-## CATENA-X / TRACTUS-X 
+## ASF NuttX RTOS - introduction and benefits 
   
 ### Abstract:  
-tba  
+NuttX RTOS is a stable RTOS under the Apache Software Foundation and became a lead project in 2019. 
+The project supports all major architectures and over 500 boards which provides a wide implementation coverage 
+Multiple companies are using the RTOS to develop products that are close to us (ex fitness trackers, IOT), drive 
+around us (Xiaomi car), fly around (PX4 drones, rockets) or event walk the moon (JAXAs moon robot LEM 1) 
+The NuttX RTOS is built around POSIX compliance and provides easy portability for applications build for Linux. 
+During the talk I will present the NuttX history, applications, portability and compliance which can make it 
+attractive for your use-case 
   
-*Alexander Denk (BMW)*  
+  
+*Alin Jerpela (Sony)*  
   
 ### Bio  
-tba  
+Alin Jerpelea is a senior software architect and a local OSPO member at Sony, located in Lund, Sweden. 
+He has been part of Sony since 2010 when he joined Sony Mobile as a community manager for the Xperia Open Source initiative and has since worked in numerous projects and Open Source collaboration. 
+Currently he is working together with the Apache NuttX community serving as Project Management Committee member, TODO Group as an Ambassador and Linux Open Chain working groups.  
   
 ### Slides:
 
@@ -273,6 +282,8 @@ tba
 ### Webinar/Recording: 
 
 *link to webinar announcement / recording*
+
+ 
 
  
 
@@ -380,24 +391,15 @@ Sven Erik Jeroschewski is a software engineer with Bosch Digital. As member of t
 
 <sub>[go to schedule](#T3.3-9m)</sub>
 <a name="T3.3-10"></a>  
-## ASF NuttX RTOS - introduction and benefits 
+## CATENA-X / TRACTUS-X 
   
 ### Abstract:  
-NuttX RTOS is a stable RTOS under the Apache Software Foundation and became a lead project in 2019. 
-The project supports all major architectures and over 500 boards which provides a wide implementation coverage 
-Multiple companies are using the RTOS to develop products that are close to us (ex fitness trackers, IOT), drive 
-around us (Xiaomi car), fly around (PX4 drones, rockets) or event walk the moon (JAXAs moon robot LEM 1) 
-The NuttX RTOS is built around POSIX compliance and provides easy portability for applications build for Linux. 
-During the talk I will present the NuttX history, applications, portability and compliance which can make it 
-attractive for your use-case 
+tba  
   
-  
-*Alin Jerpela (Sony)*  
+*Alexander Denk (BMW)*  
   
 ### Bio  
-Alin Jerpelea is a senior software architect and a local OSPO member at Sony, located in Lund, Sweden. 
-He has been part of Sony since 2010 when he joined Sony Mobile as a community manager for the Xperia Open Source initiative and has since worked in numerous projects and Open Source collaboration. 
-Currently he is working together with the Apache NuttX community serving as Project Management Committee member, TODO Group as an Ambassador and Linux Open Chain working groups.  
+tba  
   
 ### Slides:
 
@@ -407,7 +409,7 @@ Currently he is working together with the Apache NuttX community serving as Proj
 
 *link to webinar announcement / recording*
 
- 
+
 
 <sub>[go to schedule](#T3.3-10m)</sub>
 <a name="T3.3-11"></a>  

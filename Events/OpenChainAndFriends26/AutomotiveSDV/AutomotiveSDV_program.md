@@ -128,7 +128,7 @@ Since 2018 he is with 100% Bosch daughter ETAS GmbH and is responsible for Engin
   
 ### Slides:
 
-*link to slide of the talk*
+[20260324-FEDERATE_Open_Chain_Vortrag.pdf](20260324-FEDERATE_Open_Chain_Vortrag.pdf)
 
 ### Webinar/Recording: 
 

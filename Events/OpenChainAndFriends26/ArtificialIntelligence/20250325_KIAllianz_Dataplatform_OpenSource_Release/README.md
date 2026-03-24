@@ -1,4 +1,6 @@
-Those are the sources for the presentation I generated using Googles NotebookLM based on the opensource release files (snapshotted in sources) and a prompt (sources/prompt.txt). 
+This is mostly AI generated content. Take it with a grain of salt: it may contain halucinations despite any checking by me (Till Riedel, KIT). I personally do not claim any copyright beyond my legal obligations on any of the content here (see below).
+
+These are the sources for the presentation I generated using Googles NotebookLM based on the opensource release files (snapshotted in sources) and a prompt (sources/prompt.txt). 
 
 ## Automated Slideshow Generator
 
@@ -47,7 +49,11 @@ You can modify these constants in `main.py`:
 | `ARTIFACT_TIMEOUT` | 1800 | Max wait for generation (seconds) |
 | `OUTPUT_PDF` | `./Generated_Presentation.pdf` | Output file path |
 
-## LICENSE 
-The sources from the AI Alliance project are Apache 2.0 Licensed (or compatible). The AI Alliance Logo is trademarked by the AI Alliance. The NotebookLM Logo is a Google trademark.
+## LICENSES AND COPYRIGHT 
+Both the presentation pdf as well as the main.py are AI generated and thus should not bear any copyright.
 
-My Prompt is CC-0 licenced and according to Google's TOS the generated content should also thus be CC-0 licenced.
+The sources directory with snapshots from the AI Alliance project are Apache 2.0 Licensed (or compatible)
+
+The AI Alliance Logo and NotebookLM Logo are trademarks (and thus could be protected).
+
+My prompt.txt and this README (which also contains AI generated content) is CC-0 licenced (if you would consider it creative enough).

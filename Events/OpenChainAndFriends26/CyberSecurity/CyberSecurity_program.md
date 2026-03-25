@@ -27,22 +27,23 @@ For full Event-Details and registration please check out the [OpenChain and Frie
 - ***DAY3 THURSDAY 26.3.2026 [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)***
 - THURSDAY SCC ROOM1 09:00-16:30 **T3.1-Moderator** [Sven Schran (ETAS GmbH)](#T3.1-Moderator)<a name="T3.1-Moderatorm">  
 - THURSDAY SCC ROOM1 09:00-09:10 **T3.1-1** [Welcome and introduction, *Sven Schran (ETAS GmbH), Christian Zimmermann (Robert Bosch gmbH)*](#T3.1-1)<a name="T3.1-1m">  
-- THURSDAY SCC ROOM1 09:10-09:40 **T3.1-2** [Stronger Together: Networking for Cybersecurity Impact, *Christian Billmann (asvin.io), 
+- THURSDAY SCC ROOM1 09:10-09:35 **T3.1-2** [Stronger Together: Networking for Cybersecurity Impact, *Christian Billmann (asvin.io), 
 Dirk Targoni (ASRG-S)*](#T3.1-2)<a name="T3.1-2m">
-- THURSDAY SCC ROOM1 09:40-10:10 **T3.1-3** [GVIP - Global Vulnerability Intelligence Platform, *Vladimir Slavov (Robert Bosch GmbH)*](#T3.1-3)<a name="T3.1-3m">  
-- THURSDAY SCC ROOM1 10:10-10:40 **T3.1-4** [Seamless Software Security: OCaaS, VulnerableCode & Dependency Track in Action, *Sonnenholzer Kerstin (Robert Bosch GmbH),
+- THURSDAY SCC ROOM1 09:35-10:00 **T3.1-3** [GVIP - Global Vulnerability Intelligence Platform, *Vladimir Slavov (Robert Bosch GmbH)*](#T3.1-3)<a name="T3.1-3m">  
+- THURSDAY SCC ROOM1 10:00-10:25 **T3.1-4** [Seamless Software Security: OCaaS, VulnerableCode & Dependency Track in Action, *Sonnenholzer Kerstin (Robert Bosch GmbH),
 Krzysztof Nalej (Robert Bosch GmbH)*](#T3.1-4)<a name="T3.1-4m">
-- THURSDAY SCC ROOM1 10:55-11:25 **T3.1-5** [Automotive CTI and OSINT, *Mirko Ross (asvin.io)*](#T3.1-5)<a name="T3.1-5m">  
-- THURSDAY SCC ROOM1 11:25-11:55 **T3.1-6** [Supply Chain Security for the 99%: FOSS for trust and verifiability, *Thomas Steenbergen (AboutCode)*](#T3.1-6)<a name="T3.1-6m">  
-- THURSDAY SCC ROOM1 11:55-12:25 **T3.1-7** [The Good, The Bad, and The Breached: A View into Supply Chain Security from a PSIRT perspective, *Daniel Mihajlov (Robert Bosch GmbH)*](#T3.1-7)<a name="T3.1-7m">  
-- THURSDAY SCC ROOM1 13:45-14:15 **T3.1-8** [Autonomous Cyberattacks Driven by Artificial Intelligence, *Frank Reichart (Robert Bosch GmbH)*](#T3.1-8)<a name="T3.1-8m">  
-- THURSDAY SCC ROOM1 14:15-14:35 **T3.1-9** [Towards Effective LLM-based Vulnerability Detection Systems - State of Research, *Sabrina Kaniewski (Hochschule Esslingen)*](#T3.1-9)<a name="T3.1-9m">  
-- THURSDAY SCC ROOM1 14:35-14:55 **T3.1-10** [A practical view on the upcoming CRA, *Nico Peper (Schunk GmbH)*](#T3.1-10)<a name="T3.1-10m">  
-- THURSDAY SCC ROOM1 14:55-15:20 **T3.1-11** [Introduction to CRAIG - Your Cyber Resilience Act Community, *Dirk Leopold (itemis AG)*](#T3.1-11)<a name="T3.1-11m">  
-- THURSDAY SCC ROOM1 15:20-15:40 **T3.1-12** [Understanding CVSS4.0, *Dirk Targoni (Robert Bosch GmbH)*](#T3.1-12)<a name="T3.1-12m">  
-- THURSDAY SCC ROOM1 15:40-16:00 **T3.1-13** [TBD](#T3.1-13)<a name="T3.1-13m">  
-- THURSDAY SCC ROOM1 16:00-16:20 **T3.1-14** [DEMO: Operational Cryptography Detection in Open Source, *Andrei Sacal (SCANOSS)*](#T3.1-14)<a name="T3.1-14m">  
-- THURSDAY SCC ROOM1 16:20-16:30 **T3.1-15** [TBD](#T3.1-15)<a name="T3.1-15m">  
+- THURSDAY SCC ROOM1 10:35-11:00 **T3.1-5** [Automotive CTI and OSINT, *Mirko Ross (asvin.io)*](#T3.1-5)<a name="T3.1-5m">  
+- THURSDAY SCC ROOM1 11:00-11:25 **T3.1-6** [Supply Chain Security for the 99%: FOSS for trust and verifiability, *Thomas Steenbergen (AboutCode)*](#T3.1-6)<a name="T3.1-6m">  
+- THURSDAY SCC ROOM1 11:25-11:50 **T3.1-7** [The Good, The Bad, and The Breached: A View into Supply Chain Security from a PSIRT perspective, *Daniel Mihajlov (Robert Bosch GmbH)*](#T3.1-7)<a name="T3.1-7m">  
+- THURSDAY SCC ROOM1 11:50-12:15 **T3.1-8** [Autonomous Cyberattacks Driven by Artificial Intelligence, *Frank Reichart (Robert Bosch GmbH)*](#T3.1-8)<a name="T3.1-8m">  
+- THURSDAY SCC ROOM1 12:15-12:40 **T3.1-9** [Towards Effective LLM-based Vulnerability Detection Systems - State of Research, *Sabrina Kaniewski (Hochschule Esslingen)*](#T3.1-9)<a name="T3.1-9m">  
+- THURSDAY SCC ROOM1 13:40-14:10 **T3.1-10** [A practical view on the upcoming CRA, *Nico Peper (Schunk GmbH)*](#T3.1-10)<a name="T3.1-10m">  
+- THURSDAY SCC ROOM1 14:10-14:35 **T3.1-11** [Introduction to CRAIG - Your Cyber Resilience Act Community, *Dirk Leopold (itemis AG)*](#T3.1-11)<a name="T3.1-11m">  
+- THURSDAY SCC ROOM1 14:35-15:05 **T3.1-12** [Understanding CVSS4.0, *Dirk Targoni (Robert Bosch GmbH)*](#T3.1-12)<a name="T3.1-12m">  
+- THURSDAY SCC ROOM1 15:05-15:30 **T3.1-13** [TBD](#T3.1-13)<a name="T3.1-13m">  
+- THURSDAY SCC ROOM1 15:30-16:00 **T3.1-14** [Reliable Automatic SBOM Generation for Embedded and Proprietary Software, *Martin Ring (Robert Bosch GmbH)*](#T3.1-15)<a name="T3.1-15m">
+- THURSDAY SCC ROOM1 16:00-16:30 **T3.1-15** [DEMO: Operational Cryptography Detection in Open Source, *Andrei Sacal (SCANOSS)*](#T3.1-14)<a name="T3.1-14m">
+
 
 # Details
 

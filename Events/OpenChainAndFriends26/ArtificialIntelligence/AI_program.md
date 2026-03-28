@@ -28,7 +28,7 @@ Daniel Wolf (Robert Bosch GmbH)*](#T1.4-3)<a name="T1.4-3m">
 - WEDNESDAY SCC ROOM2 10:00-10:10 **T2.1-1** [AI Topic Stream - Overview and Introduction, *Dr. Thomas Usländer (Fraunhofer IOSB)*](#T2.1-1)<a name="T2.1-1m">  
 - **OPEN SOURCE AI INFRASTRUCTURES**
 - WEDNESDAY SCC ROOM2 10:10-10:25 **T2.1-2** [Open and Sovereign Data Infrastructures for AI: The Open Source Release of the KI-Allianz Data Platform, *Dr. Till Riedel (KIT)*](#T2.1-2)<a name="T2.1-2m">  
-- WEDNESDAY SCC ROOM2 10:25-10:40 **T2.1-3** [Industrial LLM - who provides the data?, *Axel Rogaischus (IBM)*](#T2.1-3)<a name="T2.1-3m">  
+- WEDNESDAY SCC ROOM2 10:25-10:40 **T2.1-3** [From OpenAI to Opensource AI: Navigating Between Commercial Ownership and Collaborative Openness, *Raphaël Semeteys (Worldline)*](#T2.1-3)<a name="T2.1-3m">  
 - WEDNESDAY SCC ROOM2 10:40-10:55 **T2.1-4** [The HammerHAI AI factory - FOSS on AI-optimised HPC, *Dr. Andreas Wierse (SICOS BW)*](#T2.1-4)<a name="T2.1-4m">  
 -  **AI AND OPEN SOURCE**
 - WEDNESDAY SCC ROOM2 11:25-11:50 **T2.1-5** [**Keynote**: Engineering with and for Open Source in the AI Era, *Prof. Dr. Ingo Weber (Fraunhofer/TU Munich)*](#T2.1-5)<a name="T2.1-5m">  
@@ -218,19 +218,29 @@ Dr. Till Riedel is Lab Leader at TECO and lecturer at the Karlsruhe Institute of
 
 <sub>[go to schedule](#T2.1-2m)</sub>
 <a name="T2.1-3"></a>  
-## Industrial LLM - who provides the data? 
+## From OpenAI to Opensource AI: Navigating Between Commercial Ownership and Collaborative Openness
   
 ### Abstract:  
-tba  
+This presentation explores the evolving landscape of generative AI, moving beyond the simple "open vs. closed" binary to analyze the critical nuances of the Open-Weight Era. While flagship models like GPT and Gemini remain "Black Box" API-only services, a new spectrum of openness has emerged that is redefining AI research and commercialization.
+ 
+We provide a rigorous framework for categorizing modern LLMs based on three distinct pillars: Open Weights, Open Data, and Open Source. Through this lens, we examine four key tiers of the current ecosystem:
+ 
+- Closed API-Only: The proprietary "Black Box" flagships.
+- Restricted Open-Weight: Models like LLaMA and Qwen, where weights are accessible but governed by MAU caps or RAIL licenses.
+- Permissive Open-Weight: The "Shovel Sellers" like Mistral and Falcon that offer commercial freedom but keep training data private.
+- Truly Open: Projects like OLMo and LLM360 that prioritize full reproducibility, scientific auditability, and trust.
+ 
+By evaluating the (de)centralization of computing power alongside these licensing dynamics, we illustrate how "True Reproducibility" remains a rare but vital goal. Attendees will gain a deeper understanding of how intellectual property, commercial interests, and the ethics of open collaboration are shaping the next generation of AI development.  
   
-*Axel Rogaischus (IBM)*  
+*Raphaël Semeteys (Worldline)*  
   
 ### Bio  
-tba  
+25+ years of IT experience across multiple business domains and roles (dev, run, business analyst, project manager, architect, consulting, presales… and now Tech Advocate).
+Strong expertise in Free and Open Source Software (9 years in a dedicated skill center, driving communities, giving talks, and writing articles…). Creator and leader of the QSOS project, an open-source method and community-based process and tooling to evaluate and select open-source solutions.
   
 ### Slides:
 
-*link to slide of the talk*
+[OpenChain - From OpenAI to Open Source AI.pdf](OpenChain-FromOpenAItoOpenSourceAI.pdf)
 
 ### Webinar/Recording: 
 

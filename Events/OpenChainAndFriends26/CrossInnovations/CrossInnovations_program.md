@@ -128,8 +128,8 @@ Martin Hovekamp studied at RWTH Aachen and worked over 30 years at Hewlett-Packa
   
 ### Abstract:  
 ROS 2 is an open source robotics middleware framework that has been evolving for over a decade, driven by a global community of developers, researchers, and companies under the stewardship of Open Robotics. In the first part of the talk, we’ll look at what makes ROS 2 more than just a messaging layer: a modular architecture built around nodes, a well-defined communication model, a large ecosystem of reusable packages, and the ability to run the same system across microcontrollers, on-robot computers, and cloud services. We’ll also show how these design choices help structure complex systems and keep them maintainable over time.
+
 In the second part, I will focus on the ROS 2 community and how it supports development through shared tools, common interfaces, and collaboration between companies and individuals. Concrete examples from small and medium-sized enterprises (SMEs) will illustrate how ROS 2 can shorten development time and avoid reinventing common building blocks. I will present real-world deployments of ROS 2 both in robotic cells and in mobile robotics, highlighting how it is used to integrate robots, sensors, and control systems in different industrial contexts. Finally, I’ll cover practical tools and workflows for automation, including simulation, automated testing, and reproducible deployment, showing how teams can move from prototype to production in a controlled and efficient way using ROS 2.<img width="1110" height="350" alt="image" src="https://github.com/user-attachments/assets/f13e6b1f-581c-4d96-93f5-90b99d39de28" />
- 
   
 *Yasmine Makkaoui (Fraunhofer)*  
   

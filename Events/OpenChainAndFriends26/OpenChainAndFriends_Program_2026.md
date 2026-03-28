@@ -42,49 +42,74 @@ Next to the streams we will have a [Community Marketplace](#communities-collabor
 
 *	09:00 AM CET Opening and Badge Pickup
 * 10:00 AM CET Welcome and Keynotes
-  * Keynote and Panel on Open Source Opportunities and [Digital Sovereignty & Open Source in Business](#digital-sovereignty-and-open-source-in-business) <a name="t1_k1">
-  * Keynote on [Embedded and Open Source Hardware](#embedded-and-open-source-hardware) <a name="t1_k2">
+  * Keynote and Panel on Open Source Opportunities and [Digital Sovereignty & Open Source in Business](#digital-sovereignty-and-open-source-in-business) <a name="t1_k1"></a>
+  * Keynote on [Embedded and Open Source Hardware](#embedded-and-open-source-hardware) <a name="t1_k2"></a>
 * 11:30 Event Overview and Marketplace Opening
 *	02:00 PM CET Afternoon Tracks
-    *	**T1.1**	[Education](#education) <a name="t1_1">
-    *	**T1.2** [Open Source Compliance and OSPO Topics](#open-source-compliance-and-ospo-topics) <a name="t1_2">
-    *	**T1.3** [Digital Sovereignty & Open Source in Business](#digital-sovereignty-and-open-source-in-business) <a name="t1_3">
+    *	**T1.1**	[Education](#education) <a name="t1_1"></a>  
+		Blog by Alexander Dais: tba
+    *	**T1.2** [Open Source Compliance and OSPO Topics](#open-source-compliance-and-ospo-topics) <a name="t1_2"></a>  
+		Blog by Dobrin Gochev:  
+			- https://openchainproject.org/news/2026/03/25/basics-and-background-an-introduction-to-open-source-compliance  
+			- https://openchainproject.org/news/2026/03/26/open-source-based-supplychain-management-at-scale  
+			- https://openchainproject.org/news/2026/03/26/navigating-the-open-road-an-enterprise-approach-to-foss-compliance-and-collaboration  
+			- https://openchainproject.org/news/2026/03/26/the-last-mile-problem-turning-executive-support-into-real-open-repo-contributions  
+    *	**T1.3** [Digital Sovereignty & Open Source in Business](#digital-sovereignty-and-open-source-in-business) <a name="t1_3"></a>  
+		Blog by Daniel Pisanu: tba
 * 04:00 PM CET Afternoon Tracks
-  * **T1.4** [Artificial Intelligence](#artificial-intelligence) <a name="t1_4">
-  * **T1.5** [CyberSecurity](#cybersecurity) <a name="t1_5">
-  * **T1.6** [Automotive / SDV](#automotive--sdv) <a name="t1_6">
+  * **T1.4** [Artificial Intelligence](#artificial-intelligence) <a name="t1_4"></a>  
+  	Blog by Dobrin Gochev:  
+			- https://openchainproject.org/news/2026/03/26/ai-systems-engineering-the-new-discipline-to-rescue-ai-from-the-valley-of-death  
+    		- https://openchainproject.org/news/2026/03/26/using-apache-airflow-to-automate-autonomous-driving-tests  
+  * **T1.5** [CyberSecurity](#cybersecurity) <a name="t1_5"></a>  
+  	Blog by Flora Erdosi and Vladimir Slavov: tba
+  * **T1.6** [Automotive / SDV](#automotive--sdv) <a name="t1_6"></a>  
+  	Blog by Alexander Dais: tba
 *	06:30 PM CET socializing event in the evening
    
 ### Wednesday, march 25th 2026
 
 **Stuttgart Feuerbach**
 
-*	 10:00 AM CET **T2.1** [Artificial Intelligence](#artificial-intelligence) Full-Day Track <a name="t2_1">
-*	 09:00 AM CET **T2.2** [Embedded and Open Source Hardware](#embedded-and-open-source-hardware) Full-Day Track <a name="t2_2">
-*	 05:00 PM CET [Women in Open Source](#women-in-open-source) Network Meeting <a name="t2women">
+*	 10:00 AM CET **T2.1** [Artificial Intelligence](#artificial-intelligence) Full-Day Track <a name="t2_1"></a>  
+	Blog by Vladimir Slavov: tba
+*	 09:00 AM CET **T2.2** [Embedded and Open Source Hardware](#embedded-and-open-source-hardware) Full-Day Track <a name="t2_2"></a>  
+	Blog by Daniel Pisanu: tba
+*	 05:00 PM CET [Women in Open Source](#women-in-open-source) Network Meeting <a name="t2women"></a>  
+	Blog by Flora Erdosi: tba
 
 **Ludwigsburg**
 
-*	09:00 AM CET **T2.3**  [Open Source Compliance and OSPO Topics](#open-source-compliance-and-ospo-topics) Full-Day Track <a name="t2_3">
+*	09:00 AM CET **T2.3**  [Open Source Compliance and OSPO Topics](#open-source-compliance-and-ospo-topics) Full-Day Track <a name="t2_3"></a>  
+	Blog by Dobrin Gochev:  
+		- https://openchainproject.org/news/2026/03/26/cra-tooling-for-smes-by-the-occtet-project  
+ 		- https://openchainproject.org/news/2026/03/26/agl-assessment-automation-overview-and-insights  
+ 		- https://openchainproject.org/news/2026/03/26/ort-server-at-bosch-used-in-one-pipeline-service-for-your-compliance-ocaas  
+ 		- https://openchainproject.org/news/2026/03/26/how-to-distribute-containers-foss-compliantly  
 
 **Vaihingen**
 
-* 09:00 AM CET **T2.4** [Linux OS and beyond](#linux-os-and-beyond) <a name="t2_4">
+* 09:00 AM CET **T2.4** [Linux OS and beyond](#linux-os-and-beyond) <a name="t2_4">  
+	Blog by Alexander Dais: tba
 
 ### Thursday, march 26th 2026
 
 **Stuttgart Feuerbach**
 
-*	09:00 AM CET **T3.1** [CyberSecurity](#cybersecurity) Full-Day Track <a name="t3_1">
-*	09:00 AM CET **T3.2** [Cross-Innovation and Innovation Practices](#cross-innovation-and-innovation-practices) <a name="t3_2">
+*	09:00 AM CET **T3.1** [CyberSecurity](#cybersecurity) Full-Day Track <a name="t3_1">  
+	Blog by Flora Erdosi and Vladimir Slavov: tba
+*	09:00 AM CET **T3.2** [Cross-Innovation and Innovation Practices](#cross-innovation-and-innovation-practices) <a name="t3_2">  
+	Blog by Daniel Pisanu: tba
 	
 **Ludwigsburg**
 
-*	09:00 AM CET **T3.3** [Automotive / SDV](#automotive--sdv) Full-Day Track <a name="t3_3">
+*	09:00 AM CET **T3.3** [Automotive / SDV](#automotive--sdv) Full-Day Track <a name="t3_3">  
+	Blog by Alin Jerpela: tba
 
 **Vaihingen**
 
-*	09:00 AM CET **T3.4** [Education](#education) Full-Day Track <a name="t3_4">
+*	09:00 AM CET **T3.4** [Education](#education) Full-Day Track <a name="t3_4">  
+	Blog by Dobrin Gochev: tba
 
 *Please note: as with everything in the OpenChain Project, this event belongs to the community. Our schedule is created in collaboration with the people who will attend, and therefore you should feel free to make suggestions:
 [Topic_backlog.md](Topic_backlog.md)*

@@ -75,20 +75,6 @@ Particular useful for complex assembled applications.
 Binary Analysis Next Generation, or BANG, is a tool for analyzing binary files. Currently its main goal is to very quickly find out the contents of binary files, such as firmware updates, and making information extracted from the contents available for further analysis, such as license compliance, security research or composition analysis. It has support for around 130 different file formats, which can be detected, unpacked and labeled.
 
 
-## Barista
-**Website:**        [Barista  Open Source License and Vulnerability Management Tool](https://optum.github.io/barista/)<br>
-**Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>
-**Summary:**<br>
-_Developer Focused_<br>
-Barista is fundamentally a scanning tool to detect open source components, licenses and potential vulnerabilities. Automatically create and maintain an open source bill of materials including multi-level dependencies.
-
-_Customize Business Rules_<br>
-Barista admins determine which obligation(s) are associated with each license detected, and assign project approval status based on deployment model, applicable license(s), and documented vulnerabilities for detected dependencies.
-
-_Cloud Native Architecture_<br>
-Barista is designed for cloud native deployment environments allowing hosting flexibility and scalability on demand.
-
-
 ## Bubbly
 **Website:**        [Bubbly](https://github.com/valocode/bubbly/)<br>
 **Main License:**   [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/)<br>
@@ -531,9 +517,27 @@ Tern is a software package inspection tool for containers written in Python. Ter
 The VEX Tooling Project is an Alpha-Omega Fund initiative providing open-source tooling for analyzing the impact of vulnerabilities in third-party dependencies and generating VEX (Vulnerability Exploitability eXchange) documents.
 These tools support the entire lifecycle of VEX document creation, from the disclosure of a vulnerability in a dependency to the automated generation of accurate VEX statements. The goal is to help organizations determine which vulnerabilities are truly exploitable in their software and communicate that information clearly and efficiently.
 
+# Not Anymore Maintained Tools
 
-## Vulnerability Assessment Tool
-**Website:**        [Vulnerability Assessment Tool](https://github.com/SAP/vulnerability-assessment-tool)<br>
+## Barista
+**Website:**        [Barista  Open Source License and Vulnerability Management Tool](https://optum.github.io/barista/)<br>
 **Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>
 **Summary:**<br>
-The open-source vulnerability assessment tool supports software development organizations in regards to the secure use of open-source components during application development. The tool analyzes Java and Python applications in order to detect whether they depend on open-source components with known vulnerabilities, collect evidence regarding the execution of vulnerable code in a given application context (through the combination of static and dynamic analysis techniques), and support developers in the mitigation of such dependencies. As such, it addresses the OWASP Top 10 security risk A9, Using Components with Known Vulnerabilities, which is often the root cause of data breaches.
+_Developer Focused_<br>
+Barista is fundamentally a scanning tool to detect open source components, licenses and potential vulnerabilities. Automatically create and maintain an open source bill of materials including multi-level dependencies.
+
+_Customize Business Rules_<br>
+Barista admins determine which obligation(s) are associated with each license detected, and assign project approval status based on deployment model, applicable license(s), and documented vulnerabilities for detected dependencies.
+
+_Cloud Native Architecture_<br>
+Barista is designed for cloud native deployment environments allowing hosting flexibility and scalability on demand.
+
+## Vulnerability Assessment Tool
+**Website:**        [Vulnerability Assessment Tool](https://github.com/eclipse-steady/steady))<br>
+**Main License:**   [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)<br>
+**Summary:**<br>
+Eclipse Steady supports software development organizations in regards to the secure use of open-source components during application development. The tool analyzes Java applications in order to:
+
+* detect whether they depend on open-source components with known vulnerabilities,
+* collect evidence regarding the execution of vulnerable code in a given application context (through the combination of static and dynamic analysis techniques), and
+* support developers in the mitigation of such dependencies.

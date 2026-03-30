@@ -165,7 +165,7 @@ Michael is a passionate developer of open source software with a decade-long tra
   
 ### Slides:
 
-*link to slide of the talk*
+[2026-03-XWiki-OpenChain-and-Friends.pdf](2026-03-XWiki-OpenChain-and-Friends.pdf)
 
 ### Webinar/Recording: 
 

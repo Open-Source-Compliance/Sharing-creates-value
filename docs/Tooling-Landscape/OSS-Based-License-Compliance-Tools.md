@@ -287,6 +287,13 @@ LicenseLynx is a project focused on deterministically map unknown or ambiguous l
 Licensee.js is a command line utility to check npm package dependency license metadata against rules. It uses SPDX license expression and whitelisted data to capture packages that are under different license than whitelisted. 
 Please note that the last commit to this project happened two years ago.
 
+## OPA
+**Website:**
+[opa](https://www.openpolicyagent.org/)<br>
+**Main License:**
+[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
+**Summary:**<br>
+Open Policy Agent (OPA) is an open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack. It streamlines policy management across your stack for improved development, security and audit capability.
 
 ## Opossum Tool
 **Website:**

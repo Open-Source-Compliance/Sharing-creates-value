@@ -412,6 +412,16 @@ SBOMQS is your primary tool to assess an SBOM's quality and compliance. The high
 **Summary:**<br>
 A benchmarking initiative for evaluating open source Software Composition Analysis (SCA) tools and their SBOM (Software Bill of Materials) outputs.
 
+## SBOM-sg-SEPIA
+**Website:**        [SBOM-sg-SEPIA](https://github.com/OpenChain-Project/SBOM-sg-SEPIA)<br>
+**Main License:**   [CC-BY-4.0](https://github.com/OpenChain-Project/SBOM-sg-SEPIA/blob/main/LICENSE)<br>
+**Summary:**<br>
+SEPIA is a project which focuses on validating SBOMs by using standard SBOM schemas.
+
+Additionally, we would like to curate an Open SBOM schema library by collecting schemas used across industry.
+
+It also provides a tooling which helps to validate SBOM schemas and perform operations such as Edit the metadata, Insert missing fields and Merge multiple SBOMs.
+
 
 ## ScanCode.io and ScanPipe
 **Website:**

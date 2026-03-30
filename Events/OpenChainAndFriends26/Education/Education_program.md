@@ -113,7 +113,7 @@ Anna Maria Ewerlin is an expert in Free and Open Source Software and a member of
   
 ### Slides:
 
-*link to slide of the talk*
+[OpenChain Education Working Group](./OCandFriends2026_session_day1_Yagi.pdf)
 
 ### Webinar/Recording: 
 

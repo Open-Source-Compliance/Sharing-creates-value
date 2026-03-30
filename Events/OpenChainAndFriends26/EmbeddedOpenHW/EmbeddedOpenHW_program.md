@@ -64,7 +64,7 @@ Charley Mann is a technical communicator and recovering journalist, helping engi
   
 ### Slides:
 
-*link to slide of the talk*
+[OpenHW_Keynote_OpenChain_Friends.pdf](OpenHW_Keynote_OpenChain_Friends.pdf)
 
 ### Webinar/Recording: 
 

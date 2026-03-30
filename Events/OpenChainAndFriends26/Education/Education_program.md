@@ -340,7 +340,7 @@ Nikola is a member of the Center of Excellence Open Source and Inner Source at B
   
 ### Slides:
 
-[Training-as-Code: Scaling Open Source Literacy with Eclipse OSILK](./OpenChainAndFriends26_Eclipse_OSILK)
+[Training-as-Code: Scaling Open Source Literacy with Eclipse OSILK](./OpenChainAndFriends26_Eclipse_OSILK.pdf)
 
 
 ### Webinar/Recording: 
@@ -369,7 +369,7 @@ Martin Yagi is the IP manager at First Light Fusion and is the current chair of 
   
 ### Slides:
 
-*link to slide of the talk*
+[OpenChain Education Working Group – Creating Open Source Tooling Training](./OCandFriends2026_session_day3_Yagi.pdf)
 
 ### Webinar/Recording: 
 

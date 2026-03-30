@@ -267,9 +267,9 @@ Caren Kresse(OSADL): Caren Kresse holds a Master degree in Physics and an LLM in
   
 ### Slides:
 
-[Stream Introduction and FOSS license scanning: The why, the how and the community approach (Siemens)](./OpenChain-Friends-Fossology-2026​.pdf)
+[Stream Introduction and FOSS license scanning: The why, the how and the community approach (Siemens)](./OpenChain-Friends-Fossology-2026.pdf)
 
-[FOSS license scanning:The why, the how and the community approach (OSADL)](./FOSS-license-scanning-The-community-approach​.pdf)
+[FOSS license scanning:The why, the how and the community approach (OSADL)](./FOSS-license-scanning-The-community-approach.pdf)
 
 
 ### Webinar/Recording: 

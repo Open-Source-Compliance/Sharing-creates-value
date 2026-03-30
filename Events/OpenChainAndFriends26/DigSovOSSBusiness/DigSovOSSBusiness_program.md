@@ -48,7 +48,7 @@ With more than twenty years of experience in the Open Source software industry a
   
 ### Slides:
 
-*link to slide of the talk*
+https://cloud.nextcloud.com/s/qfkFb2JeCdF8WBn
 
 ### Webinar/Recording: 
 
@@ -147,7 +147,7 @@ Prior to this he was part of pwc's open source and openchain practice.
   
 ### Slides:
 
-*link to slide of the talk*
+[zendis_oc_and_friends-Slidev_Dienstag.pdf](zendis_oc_and_friends-Slidev_Dienstag.pdf)
 
 ### Webinar/Recording: 
 

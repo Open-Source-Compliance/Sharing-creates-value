@@ -322,7 +322,7 @@ Frank is an Engineer, Economist, Computer Scientist and have more than thirty ye
 
 ### Slides:
 
-*link to slide of the talk*
+[Reichart_OpenChain_autonomous_penetration_testing.pdf](Reichart_OpenChain_autonomous_penetration_testing.pdf)
 
 ### Webinar/Recording: 
 

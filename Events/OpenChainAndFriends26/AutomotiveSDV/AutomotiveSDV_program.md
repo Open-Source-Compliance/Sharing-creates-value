@@ -231,10 +231,10 @@ Andreas Achtzehn is a Chief Expert at Bosch’s Cross-Domain Computing Solutions
 
 <sub>[go to schedule](#T3.3-3m)</sub>
 <a name="T3.3-4"></a>  
-## ISO5230 - OpenChain as a Negotiation Boost 
+## FOSS Licenses–non-fulfillmentin theSupply Chain 
   
 ### Abstract:  
-The presentation, "OpenChain as a Negotiation Boost," explores the gap between OpenChain's promise of streamlined OSS license compliance and security and the practical realities of negotiation. It highlights how a lack of awareness among negotiators, insufficient promotional materials, and missing of exemplary legal templates hinder OpenChain's adoption in negotiations and how this can be solved. We will also look at the customer perceptions and expectations beyond OpenChain's scope and the influence of external factors. It ends with an open discussion.  
+tba  
   
 *Christian von Drathen (Robert Bosch GmbH)*  
   
@@ -246,7 +246,7 @@ My first contact with Open Source Software (OSS) in the legal field was the case
   
 ### Slides:
 
-*link to slide of the talk*
+[von_Drathen_2026-03-21_EN_OpenChainAndFriends.pdf](von_Drathen_2026-03-21_EN_OpenChainAndFriends.pdf)
 
 ### Webinar/Recording: 
 

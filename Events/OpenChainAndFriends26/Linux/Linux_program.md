@@ -110,7 +110,7 @@ Prior to this he was part of pwc's open source and openchain practice.
   
 ### Slides:
 
-*link to slide of the talk*
+[zendis_oc_and_friends-Slidev_Mittwoch.pdf](zendis_oc_and_friends-Slidev_Mittwoch.pdf)
 
 ### Webinar/Recording: 
 

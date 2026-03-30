@@ -76,7 +76,10 @@ Through his book "FreeCAD Beginner's Handbook", that he published together with 
   
 ### Slides:
 
-*link to slide of the talk*
+[Inventors Handbook - Guide to the product development process using open source software](https://github.com/ALSADO-Inh-Aleksander-Sadowski/alsado-documents/blob/main/Inventor%E2%80%99s%20Handbook%20-%20Guide%20to%20the%20product%20development%20process%20using%20open%20source%20software-low-res.pdf)
+
+
+![Inventor’s Handbook - Guide to the product development process using open source software](https://raw.githubusercontent.com/ALSADO-Inh-Aleksander-Sadowski/alsado-documents/refs/heads/main/Inventors_Handbook_-_Guide_to_the_product_development_process_using_open_source_software.png)
 
 ### Webinar/Recording: 
 

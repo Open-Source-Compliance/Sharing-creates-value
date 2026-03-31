@@ -18,7 +18,6 @@ The event is subject to the [Chatham House Rule](https://www.chathamhouse.org/ab
 - ***DAY1 TUESDAY 24.3.2026 [Stuttgart-Feuerbach SCC Bregenzer Str. 26A, 70469 Stuttgart](https://www.google.com/maps/place//data=!4m2!3m1!1s0x4799dbd374e9c621:0xcad9aaa4488db0b?sa=X&ved=1t:8290&ictx=111)***
 - TUESDAY SCC ROOM1 15:45-17:20 **T1.4-Moderator** [Robert Hansel (Robert Bosch GmbH)](#T1.4-Moderator)<a name="T1.4-Moderatorm">  
 - TUESDAY SCC ROOM1 15:45-16:05 **T1.4-1** [**Keynote**: AI Systems Engineering - a new engineering discipline?, *Dr. Thomas Usländer (Fraunhofer IOSB)*](#T1.4-1)<a name="T1.4-1m">  
-- TUESDAY SCC ROOM1 16:10-16:30 **T1.4-2** [N.N., *N.N.*](#T1.4-2)<a name="T1.4-2m">  
 - TUESDAY SCC ROOM1 16:35-16:55 **T1.4-3** [Beyond Data Pipelines: Using Apache Airflow to Automate Autonomous Driving Tests, *Marco Küttelwesch (Robert Bosch GmbH), 
 Jens Scheffler (Robert Bosch GmbH), 
 Daniel Wolf (Robert Bosch GmbH)*](#T1.4-3)<a name="T1.4-3m">
@@ -80,28 +79,7 @@ LinkedIn: https://www.linkedin.com/in/tuslaender Research Gate: https://www.rese
  
 
 <sub>[go to schedule](#T1.4-1m)</sub>
-<a name="T1.4-2"></a>  
-## N.N. 
-  
-### Abstract:  
-tba  
-  
-*N.N.*  
-  
-### Bio  
-tba  
-  
-### Slides:
 
-*link to slide of the talk*
-
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
- 
-
-<sub>[go to schedule](#T1.4-2m)</sub>
 <a name="T1.4-3"></a>  
 ## Beyond Data Pipelines: Using Apache Airflow to Automate Autonomous Driving Tests 
   

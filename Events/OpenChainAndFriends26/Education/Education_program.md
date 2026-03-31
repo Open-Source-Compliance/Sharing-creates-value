@@ -113,7 +113,8 @@ Anna Maria Ewerlin is an expert in Free and Open Source Software and a member of
   
 ### Slides:
 
-*link to slide of the talk*
+[OpenChain Education Working Group](./OCandFriends2026_session_day1_Yagi.pdf)
+
 
 ### Webinar/Recording: 
 
@@ -155,7 +156,9 @@ Anna Maria Ewerlin is an expert in Free and Open Source Software and a member of
   
 ### Slides:
 
-*link to slide of the talk*
+
+[Open source and Inner Source Education (Bosch)](./Open-Source-and-InnerSource-Education-Bosch​.pdf)
+
 
 ### Webinar/Recording: 
 
@@ -238,9 +241,6 @@ This workshop will be led by Thomas Steenbergen, based on his 10+ years of exper
 ### Bio  
 Thomas Steenbergen specializes in strategic open source management, helping organizations align their open source practices with their objectives. An expert in open source adoption, community building, and compliance – including Software Bill of Materials (SBOMs). Currently he is the executive director at the AboutCode foundation and advisor to the Open Source Program Office at SIVON (ICT co-op of Dutch schools). He previously led OSPO at EPAM and HERE. He is a OSS Review Toolkit, SPDX, TODO group maintainer and a regular contributor to FINOS’s Open Source Readiness and OpenChain. Thomas welcomes discussions on open source topics. For more information about the projects he is involved in and his contact details, visit github.com/tsteenbe.  
   
-### Slides:
-
-*link to slide of the talk*
 
 ### Webinar/Recording: 
 
@@ -267,7 +267,10 @@ Caren Kresse(OSADL): Caren Kresse holds a Master degree in Physics and an LLM in
   
 ### Slides:
 
-*link to slide of the talk*
+[Stream Introduction and FOSS license scanning: The why, the how and the community approach (Siemens)](./OpenChain-Friends-Fossology-2026.pdf)
+
+[FOSS license scanning:The why, the how and the community approach (OSADL)](./FOSS-license-scanning-The-community-approach.pdf)
+
 
 ### Webinar/Recording: 
 
@@ -300,7 +303,8 @@ I bring a deep background in FOSS, having co-led a dedicated Open Source skill c
   
 ### Slides:
 
-*link to slide of the talk*
+[Surviving the "AI Slopageddon": How AI shakes the foundations of Open Source](https://www.slideshare.net/slideshow/openchain-friends-2006-surviving-the-ai-slopaggedon/286700476)
+
 
 ### Webinar/Recording: 
 
@@ -314,19 +318,8 @@ I bring a deep background in FOSS, having co-led a dedicated Open Source skill c
   
 ### Abstract:  
 Mercedes-Benz Car Experience and Q&A  
-  
-### Bio  
-  
-  
-### Slides:
 
-*link to slide of the talk*
 
-### Webinar/Recording: 
-
-*link to webinar announcement / recording*
-
- 
 
 <sub>[go to schedule](#T3.4-5m)</sub>
 
@@ -338,7 +331,7 @@ Mercedes-Benz Car Experience and Q&A
 ### Abstract:  
 Organisations increasingly depend on open-source software, and the challenge often shifts from "how to use it" to "how to sustain it." Bridging the knowledge gap across a large workforce and mutualising efforts between organisations requires more than just a few slide decks; it requires a scalable, maintainable, and community-driven approach to education.
 
-*Nikola Babadzhanov (Bosch)*
+*Nikola Babadzhanov (Bosch) / Florent Zara (Eclipse)*
   
 ### Bio  
 Nikola Babadzhanov joined Bosch Digital in 2022. He is an Open Source Consultant and a member of the Open Source Program Office. He provides Bosch-internal Open Source Services as a member of the Open Source Consulting team.
@@ -347,7 +340,8 @@ Nikola is a member of the Center of Excellence Open Source and Inner Source at B
   
 ### Slides:
 
-*link to slide of the talk*
+[Training-as-Code: Scaling Open Source Literacy with Eclipse OSILK](./OpenChainAndFriends26_Eclipse_OSILK.pdf)
+
 
 ### Webinar/Recording: 
 
@@ -375,7 +369,7 @@ Martin Yagi is the IP manager at First Light Fusion and is the current chair of 
   
 ### Slides:
 
-*link to slide of the talk*
+[OpenChain Education Working Group – Creating Open Source Tooling Training](./OCandFriends2026_session_day3_Yagi.pdf)
 
 ### Webinar/Recording: 
 

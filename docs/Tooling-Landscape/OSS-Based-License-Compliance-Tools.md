@@ -265,15 +265,6 @@ Hipcheck is a command line interface (CLI) tool for analyzing open source softwa
 **Summary:**<br>
 A small application which collects oss-license metadata and combines it.
 
-## License Compatibility Checker (seems not to be maintained anymore)
-**Website:**
-[license-compatibility-checker](https://github.com/HansHammel/license-compatibility-checker#readme)<br>
-**Main License:**
-[MIT](https://opensource.org/licenses/MIT)<br>
-**Summary:**<br>
-Check npm dependencies' package.json for license compatibility based on SPDX standards. Claimed to be a work in progress, but gives a simple comparison of the licenses in the package with an explanation to how permissive the license is (Permissive > Weakly Protective > Strongly Protective > Network Protective). Shows potential incompatibilities with a colorful scheme.
-
-
 ## LicenseLynx 
 **Website:**
 [LicenseLynx](https://licenselynx.org/)<br>
@@ -563,3 +554,11 @@ Eclipse Steady supports software development organizations in regards to the sec
 * detect whether they depend on open-source components with known vulnerabilities,
 * collect evidence regarding the execution of vulnerable code in a given application context (through the combination of static and dynamic analysis techniques), and
 * support developers in the mitigation of such dependencies.
+
+## License Compatibility Checker
+**Website:**
+[license-compatibility-checker](https://github.com/HansHammel/license-compatibility-checker#readme)<br>
+**Main License:**
+[MIT](https://opensource.org/licenses/MIT)<br>
+**Summary:**<br>
+Check npm dependencies' package.json for license compatibility based on SPDX standards. Claimed to be a work in progress, but gives a simple comparison of the licenses in the package with an explanation to how permissive the license is (Permissive > Weakly Protective > Strongly Protective > Network Protective). Shows potential incompatibilities with a colorful scheme.

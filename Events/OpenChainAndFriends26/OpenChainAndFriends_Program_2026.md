@@ -59,10 +59,13 @@ Next to the streams we will have a [Community Marketplace](#communities-collabor
 * 04:00 PM CET Afternoon Tracks
   * **T1.4** [Artificial Intelligence](#artificial-intelligence) <a name="t1_4"></a>  
   	Blog by Dobrin Gochev:  
-			- https://openchainproject.org/news/2026/03/26/ai-systems-engineering-the-new-discipline-to-rescue-ai-from-the-valley-of-death  
-    		- https://openchainproject.org/news/2026/03/26/using-apache-airflow-to-automate-autonomous-driving-tests  
-  * **T1.5** [CyberSecurity](#cybersecurity) <a name="t1_5"></a>  
-  	Blog by Flora Erdosi and Vladimir Slavov: tba
+			- https://openchainproject.org/news/2026/03/26/ai-systems-engineering-the-new-discipline-to-rescue-ai-from-the-valley-of-death    
+    		- https://openchainproject.org/news/2026/03/26/using-apache-airflow-to-automate-autonomous-driving-tests    
+  * **T1.5** [CyberSecurity](#cybersecurity) <a name="t1_5"></a>    
+  	Blog by Flora Erdosi and Vladimir Slavov:  
+			- https://openchainproject.org/news/2026/03/30/keynote-the-role-of-cybersecurity-in-supply-chain-and-ai  
+    		- https://openchainproject.org/news/2026/03/30/secure-ai-systems-regulations-threats-defense-mechanisms  
+    		- https://openchainproject.org/news/2026/03/30/the-cyber-resilience-act-cra-is-coming-what-developers-and-open-source-users-need-to-do-now  
   * **T1.6** [Automotive / SDV](#automotive--sdv) <a name="t1_6"></a>  
   	Blog by Alexander Dais: tba
 *	06:30 PM CET socializing event in the evening
@@ -72,11 +75,13 @@ Next to the streams we will have a [Community Marketplace](#communities-collabor
 **Stuttgart Feuerbach**
 
 *	 10:00 AM CET **T2.1** [Artificial Intelligence](#artificial-intelligence) Full-Day Track <a name="t2_1"></a>  
-	Blog by Vladimir Slavov: tba
+	Blog by Vladimir Slavov:  
+			- https://openchainproject.org/news/2026/03/30/the-primacy-of-trust  
 *	 09:00 AM CET **T2.2** [Embedded and Open Source Hardware](#embedded-and-open-source-hardware) Full-Day Track <a name="t2_2"></a>  
 	Blog by Daniel Pisanu: tba
-*	 05:00 PM CET [Women in Open Source](#women-in-open-source) Network Meeting <a name="t2women"></a>  
-	Blog by Flora Erdosi: tba
+*	 05:00 PM CET [Women in Open Source](#women-in-open-source) Network Meeting <a name="t2women"></a>     
+	Blog by Flora Erdosi:  
+			- https://openchainproject.org/news/2026/03/30/beyond-the-code-fostering-connection-and-collaboration-at-the-women-in-open-source-networking-event  
 
 **Ludwigsburg**
 
@@ -97,7 +102,8 @@ Next to the streams we will have a [Community Marketplace](#communities-collabor
 **Stuttgart Feuerbach**
 
 *	09:00 AM CET **T3.1** [CyberSecurity](#cybersecurity) Full-Day Track <a name="t3_1">  
-	Blog by Flora Erdosi and Vladimir Slavov: tba
+	Blog by Flora Erdosi and Vladimir Slavov:
+		- https://openchainproject.org/news/2026/03/30/stronger-together-networking-for-cybersecurity-impact
 *	09:00 AM CET **T3.2** [Cross-Innovation and Innovation Practices](#cross-innovation-and-innovation-practices) <a name="t3_2">  
 	Blog by Daniel Pisanu: tba
 	

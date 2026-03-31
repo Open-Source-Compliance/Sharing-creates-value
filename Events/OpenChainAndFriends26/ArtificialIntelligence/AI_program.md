@@ -285,7 +285,7 @@ Director for AI & Innovation at the Fraunhofer Gesellschaft, Full Professor and 
   
 ### Slides:
 
-*link to slide of the talk*
+[Engineering_with_and_for_Open_Source_in_the_AI_Era-Ingo_Weber.pdf](Engineering_with_and_for_Open_Source_in_the_AI_Era-Ingo_Weber.pdf)
 
 ### Webinar/Recording: 
 
@@ -425,7 +425,7 @@ tba
   
 ### Slides:
 
-*link to slide of the talk*
+[2026-03-25_Data_Spaces_and_AI_Challange_IDSA_Christoph_Mertens_Stuttgart.pdf](2026-03-25_Data_Spaces_and_AI_Challange_IDSA_Christoph_Mertens_Stuttgart.pdf)
 
 ### Webinar/Recording: 
 
@@ -447,7 +447,7 @@ David Görzig is the Coordinator of Data Ecosystems activities at ARENA2036, whe
   
 ### Slides:
 
-*link to slide of the talk*
+[From_Catena-X_to_Cross-Industry_Adoption.pdf](From_Catena-X_to_Cross-Industry_Adoption.pdf)
 
 ### Webinar/Recording: 
 

@@ -182,6 +182,11 @@ DOS utilizes ScanCode Toolkit for scanning the files and is designed to work wit
 **Summary:**<br>
 OWASP dep-scan is a next-generation security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies. Both local repositories and container images are supported as the input, and the tool is ideal for integration with ASPM/VM platforms and in CI environments.
 
+## Eclipse Disuko
+**Website:**        [Disuko](https://projects.eclipse.org/projects/technology.disuko)<br>
+**Main License:**   [Apach-2.0](https://projects.eclipse.org/license/apache-software-license-2.0)<br>
+**Summary:**<br>
+Eclipse Disuko focuses on consuming SBOMs and the resulting actions based on their assessment. It is not meant to produce SBOMs from source code since that is well-supported already by other projects. SBOMs might be created by combining imported SBOMs though. Eclipse Disuko comes with a license and policy database that helps a project owner to assess FOSS licenses based on self-configured use cases and understand the resulting license obligations. The content of this license and policy database is out of scope of Eclipse Disuko (hence it will be empty except for some examples) since this relies on the local legal interpretation of FOSS licenses.
 
 ## Eclipse SW360
 **Website:**

@@ -115,6 +115,8 @@ Anna Maria Ewerlin is an expert in Free and Open Source Software and a member of
 
 [OpenChain Education Working Group](./OCandFriends2026_session_day1_Yagi.pdf)
 
+[FOSS Trainings at MERCEDES-BENZ](./OpenChainAndFriendsMercedesBenz_2026.pdf)
+
 
 ### Webinar/Recording: 
 

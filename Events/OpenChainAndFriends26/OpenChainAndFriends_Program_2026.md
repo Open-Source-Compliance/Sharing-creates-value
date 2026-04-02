@@ -102,7 +102,7 @@ Next to the streams we will have a [Community Marketplace](#communities-collabor
 **Stuttgart Feuerbach**
 
 *	09:00 AM CET **T3.1** [CyberSecurity](#cybersecurity) Full-Day Track <a name="t3_1">  
-	Blog by Flora Erdosi and Vladimir Slavov:
+	Blog by Flora Erdosi and Vladimir Slavov:  
 		- https://openchainproject.org/news/2026/03/30/stronger-together-networking-for-cybersecurity-impact
 *	09:00 AM CET **T3.2** [Cross-Innovation and Innovation Practices](#cross-innovation-and-innovation-practices) <a name="t3_2">  
 	Blog by Daniel Pisanu: tba
@@ -115,7 +115,9 @@ Next to the streams we will have a [Community Marketplace](#communities-collabor
 **Vaihingen**
 
 *	09:00 AM CET **T3.4** [Education](#education) Full-Day Track <a name="t3_4">  
-	Blog by Dobrin Gochev: tba
+	Blog by Dobrin Gochev:  
+		- https://openchainproject.org/featured/2026/04/01/stream-introduction-and-foss-license-scanning-the-why-the-how-and-the-community-approach  
+
 
 *Please note: as with everything in the OpenChain Project, this event belongs to the community. Our schedule is created in collaboration with the people who will attend, and therefore you should feel free to make suggestions:
 [Topic_backlog.md](Topic_backlog.md)*

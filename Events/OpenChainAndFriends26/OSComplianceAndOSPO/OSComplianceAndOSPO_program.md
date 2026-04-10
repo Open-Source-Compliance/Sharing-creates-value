@@ -381,7 +381,7 @@ As part of Deloitte’s Extended Enterprise practice, Ummo helps organizations i
 
 ### Slides:
 
-*link to slide of the talk*
+[*link to slide of the talk*](260325_SPDX_Operations_Profile_v1.0.pdf)
 
 ### Webinar/Recording: 
 

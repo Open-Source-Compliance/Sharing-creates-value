@@ -84,7 +84,7 @@ and Inner Source at Bosch Digital and active member of the OpenChain SBOM Study 
   
 ### Slides:
 
-*link to slide of the talk*
+[*link to slide of the talk*](OpenSourceBasedOSMToolingAtScale_OcaF26.pdf)
 
 ### Webinar/Recording: 
 

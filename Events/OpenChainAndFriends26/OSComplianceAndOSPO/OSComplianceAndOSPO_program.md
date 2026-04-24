@@ -52,7 +52,7 @@ including the OSADL Open Source Policy project, the OSADL License Obligations Ch
   
 ### Slides:
 
-*link to slide of the talk*
+[*link to slide of the talk*](Caren-Kresse-OSADL_Basics-and-Background-Open-Source-Compliance.pdf)
 
 ### Webinar/Recording: 
 
@@ -135,7 +135,7 @@ management experience in the automotive, mobile phone, and defense industries.  
 
 ### Slides:
 
-*link to slide of the talk*
+[*link to slide of the talk*](Open_and_Friends_Last_Mile_OSPO_Miner_v1.pdf)
 
 ### Webinar/Recording: 
 
@@ -173,7 +173,7 @@ Hans-Jürgen Schumacher, COO, has been with Bitsea GmbH since 2021, where he ove
 
 ### Slides:
 
-*link to slide of the talk*
+[*link to slide of the talk*](OCCTET_generic_for_OpenChain&Friends.pdf)
 
 ### Webinar/Recording: 
 
@@ -202,7 +202,7 @@ as a member of the Steering Committee and the System Architect team. More recent
   
 ### Slides:
 
-*link to slide of the talk*
+[*link to slide of the talk*](260322_OpenChain_AAA_HiroyukiIshii.pdf)
 
 ### Webinar/Recording: 
 
@@ -309,7 +309,7 @@ including the OSADL Open Source Policy project, the OSADL License Obligations Ch
   
 ### Slides:
 
-*link to slide of the talk*
+[*link to slide of the talk*](Caren-Kresse-OSADL_How-to-distribute-containers-compliantly.pdf)
 
 ### Webinar/Recording: 
 
@@ -335,7 +335,7 @@ developing documentation, demos, and integrations that help users adopt and exte
   
 ### Slides:
 
-*link to slide of the talk*
+[*link to slide of the talk*](SCANOSS_ORT_DEMO_PRESENTATION.pdf)
 
 ### Webinar/Recording: 
 

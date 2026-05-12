@@ -1,0 +1,127 @@
+{
+  "notebook_id": "aae19d44-5505-4439-a5b3-2421dc111f6a",
+  "notebook_title": "Piveau Next.js: Modern Data Portal Implementation",
+  "sources": [
+    {
+      "index": 1,
+      "id": "0263099c-aff5-4ad0-bca4-f49878a099b9",
+      "title": "AAS2DCAT Tool: Mapping Industry 4.0 Data to Piveau Hub",
+      "type": "SourceType.MARKDOWN",
+      "url": null,
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2025-11-19T20:31:03"
+    },
+    {
+      "index": 2,
+      "id": "d0f988e6-9cbd-404f-9528-5e2e6c7a7cdb",
+      "title": "AI data platform 2025 - KI-Allianz Baden-W\u00fcrttemberg",
+      "type": "SourceType.WEB_PAGE",
+      "url": "https://ki-allianz.de/en/unsere-projekte/ki-datenplattform/",
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2025-11-19T20:29:40"
+    },
+    {
+      "index": 3,
+      "id": "b2558082-5619-48a8-9b7f-01ae01de6469",
+      "title": "DCAT-metadata-assistant/README.md at main \u00b7 KI-Allianz/DCAT-metadata-assistant \u00b7 GitHub",
+      "type": "SourceType.WEB_PAGE",
+      "url": "https://github.com/KI-Allianz/DCAT-metadata-assistant/blob/main/README.md",
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2025-11-21T05:43:18"
+    },
+    {
+      "index": 4,
+      "id": "3f6052dc-6d79-4c6a-8f74-0dcafc398856",
+      "title": "KI-Allianz \u00b7 GitHub",
+      "type": "SourceType.WEB_PAGE",
+      "url": "https://github.com/KI-Allianz",
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2025-11-21T05:59:31"
+    },
+    {
+      "index": 5,
+      "id": "916cf758-1777-498b-af83-7fbf7dee1412",
+      "title": "Sharing-creates-value/Events/OpenChainAndFriends26/ArtificialIntelligence/AI_program.md at openchain_and_friends_2026_prep \u00b7 Open-Source-Compliance/Sharing-creates-value \u00b7 GitHub",
+      "type": "SourceType.WEB_PAGE",
+      "url": "https://github.com/Open-Source-Compliance/Sharing-creates-value/blob/openchain_and_friends_2026_prep/Events/OpenChainAndFriends26/ArtificialIntelligence/AI_program.md",
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2026-03-23T10:33:11"
+    },
+    {
+      "index": 6,
+      "id": "31f33231-0085-4aca-b064-341acfcd999d",
+      "title": "hf2dcat/README.md at hf2dcat \u00b7 KI-Allianz/hf2dcat \u00b7 GitHub",
+      "type": "SourceType.WEB_PAGE",
+      "url": "https://github.com/KI-Allianz/hf2dcat/blob/hf2dcat/README.md",
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2025-11-21T05:38:33"
+    },
+    {
+      "index": 7,
+      "id": "8a07aa12-b547-4273-9f70-04baceb6165c",
+      "title": "https://raw.githubusercontent.com/FraunhoferIOSB/FROST-Server/refs/heads/develop-dcat-doc/docs/extensions/DataModel-DCAT.md",
+      "type": "SourceType.PASTED_TEXT",
+      "url": "https://raw.githubusercontent.com/FraunhoferIOSB/FROST-Server/refs/heads/develop-dcat-doc/docs/extensions/DataModel-DCAT.md",
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2025-11-19T20:32:06"
+    },
+    {
+      "index": 8,
+      "id": "b41e0c8c-5080-47b9-912c-608061d71644",
+      "title": "https://raw.githubusercontent.com/KI-Allianz/DataQualityServices/refs/heads/main/README.md",
+      "type": "SourceType.PASTED_TEXT",
+      "url": "https://raw.githubusercontent.com/KI-Allianz/DataQualityServices/refs/heads/main/README.md",
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2025-11-19T20:28:36"
+    },
+    {
+      "index": 9,
+      "id": "e309acd6-5256-4879-99f4-addf7ba783e3",
+      "title": "https://raw.githubusercontent.com/KI-Allianz/mds2hdcat/refs/heads/main/README.md",
+      "type": "SourceType.PASTED_TEXT",
+      "url": "https://raw.githubusercontent.com/KI-Allianz/mds2hdcat/refs/heads/main/README.md",
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2025-11-19T20:18:50"
+    },
+    {
+      "index": 10,
+      "id": "745f5acf-de6e-44e4-bd06-e8a45c740a8e",
+      "title": "https://raw.githubusercontent.com/KI-Allianz/piveau.nextjs/refs/heads/main/README.md",
+      "type": "SourceType.PASTED_TEXT",
+      "url": "https://raw.githubusercontent.com/KI-Allianz/piveau.nextjs/refs/heads/main/README.md",
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2025-11-19T20:16:48"
+    },
+    {
+      "index": 11,
+      "id": "4f4f476d-1ada-408f-b743-648ad97d8310",
+      "title": "https://raw.githubusercontent.com/KI-Allianz/python-dcat-ap-hub/refs/heads/main/README.md",
+      "type": "SourceType.PASTED_TEXT",
+      "url": "https://raw.githubusercontent.com/KI-Allianz/python-dcat-ap-hub/refs/heads/main/README.md",
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2025-11-19T20:25:28"
+    },
+    {
+      "index": 12,
+      "id": "699ca4e5-f228-4ee3-9bfb-980e957ff804",
+      "title": "semantic-hub-search/README.md at main \u00b7 KI-Allianz/semantic-hub-search \u00b7 GitHub",
+      "type": "SourceType.WEB_PAGE",
+      "url": "https://github.com/KI-Allianz/semantic-hub-search/blob/main/README.md",
+      "status": "ready",
+      "status_id": 2,
+      "created_at": "2025-11-21T05:44:33"
+    }
+  ],
+  "count": 12
+}

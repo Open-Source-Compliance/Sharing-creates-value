@@ -1,9 +1,9 @@
 # Existing OSS licensed OSS license compliance tools
 ## Credits
 
-The overview of the tools is a derived work from [doubleOpen's Overview](https://github.com/doubleopen-project/doubleopen-publications) . DoubleOpen's Overview is copyrighted by [doubleOpen](https://www.doubleopen.org/) and available under the terms of [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). The doubleOpen overview and this list will be syncronized. If you miss any OSS based compliance tool please add it either at the [doubleOpen repo](https://github.com/doubleopen-project/doubleopen-publications) or in [our Github repo](https://github.com/Open-Source-Compliance/Sharing-creates-value/tree/master/docs/Tooling-Landscape). Help us to improve and to complete the information about the current existing OSS tools available for license compliance.
+The overview of the tools is a derived work from [Double Open's Overview](https://github.com/doubleopen-io/doubleopen-publications) from 2019. This list is now the home for the up to date listing of OSS licensed OSS license compliance tool. If you miss any OSS based compliance tool please add it in [our Github repo](https://github.com/Open-Source-Compliance/Sharing-creates-value/tree/master/docs/Tooling-Landscape). Help us to improve and to complete the information about the current existing OSS tools available for license compliance.
 
-
+Double Open's work is copyrighted by [Double Open](https://www.doubleopen.io/) and available under the terms of [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). 
 
 ## Introduction
 
@@ -170,11 +170,10 @@ Dependency-Track is an intelligent Component Analysis platform that allows organ
 Dependency-Track monitors component usage across all versions of every application in its portfolio in order to proactively identify risk across an organization. The platform has an API-first design and is ideal for use in CI/CD environments.
 
 ## Double Open Server (DOS)
-**Website:**        [Double Open Server (DOS)](https://github.com/doubleopen-project/dos)<br>
+**Website:**        [Double Open Server (DOS)](https://github.com/doubleopen-io/dos)<br>
 **Main License:**   [MIT](https://opensource.org/licenses/MIT)<br>
 **Summary:**<br>
-Double Open Server (DOS) is a server application that scans the source code of open source components for license findings, stores the scan results for use in license compliance pipelines and provides a graphical interface for manually curating the license findings. DOS is currently in early development.
-DOS utilizes ScanCode Toolkit for scanning the files and is designed to work with OSS Review Toolkit as a part of its pipeline.
+Double Open Server (DOS) is designed to work with OSS Review Toolkit as a part of its pipeline. DOS is a server application that scans the source code of open source components for license findings and stores the scan results per file. DOS further provides a graphical interface for manually curating the license findings. The stored scan and curation results are reused every time the same file appears in other packages, typically in new package versions. The file identity is SHA256 anchored. DOS uses the ScanCode toolkit for license scanning.
 
 ## Dep-Scan
 **Website:**        [Dep-Scan](https://github.com/owasp-dep-scan/dep-scan)<br>

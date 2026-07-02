@@ -1,9 +1,9 @@
 # Existing OSS licensed OSS license compliance tools
 ## Credits
 
-The overview of the tools is a derived work from [doubleOpen's Overview](https://github.com/doubleopen-project/doubleopen-publications) . DoubleOpen's Overview is copyrighted by [doubleOpen](https://www.doubleopen.org/) and available under the terms of [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). The doubleOpen overview and this list will be syncronized. If you miss any OSS based compliance tool please add it either at the [doubleOpen repo](https://github.com/doubleopen-project/doubleopen-publications) or in [our Github repo](https://github.com/Open-Source-Compliance/Sharing-creates-value/tree/master/docs/Tooling-Landscape). Help us to improve and to complete the information about the current existing OSS tools available for license compliance.
+The overview of the tools is a derived work from [Double Open's Overview](https://github.com/doubleopen-io/doubleopen-publications) from 2019. This list is now the home for the up to date listing of OSS licensed OSS license compliance tool. If you miss any OSS based compliance tool please add it in [our Github repo](https://github.com/Open-Source-Compliance/Sharing-creates-value/tree/master/docs/Tooling-Landscape). Help us to improve and to complete the information about the current existing OSS tools available for license compliance.
 
-
+Double Open's work is copyrighted by [Double Open](https://www.doubleopen.io/) and available under the terms of [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). 
 
 ## Introduction
 

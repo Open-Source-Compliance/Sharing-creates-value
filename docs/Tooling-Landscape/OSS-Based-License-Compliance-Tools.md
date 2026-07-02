@@ -170,11 +170,10 @@ Dependency-Track is an intelligent Component Analysis platform that allows organ
 Dependency-Track monitors component usage across all versions of every application in its portfolio in order to proactively identify risk across an organization. The platform has an API-first design and is ideal for use in CI/CD environments.
 
 ## Double Open Server (DOS)
-**Website:**        [Double Open Server (DOS)](https://github.com/doubleopen-project/dos)<br>
+**Website:**        [Double Open Server (DOS)](https://github.com/doubleopen-io/dos)<br>
 **Main License:**   [MIT](https://opensource.org/licenses/MIT)<br>
 **Summary:**<br>
-Double Open Server (DOS) is a server application that scans the source code of open source components for license findings, stores the scan results for use in license compliance pipelines and provides a graphical interface for manually curating the license findings. DOS is currently in early development.
-DOS utilizes ScanCode Toolkit for scanning the files and is designed to work with OSS Review Toolkit as a part of its pipeline.
+Double Open Server (DOS) is designed to work with OSS Review Toolkit as a part of its pipeline. DOS is a server application that scans the source code of open source components for license findings and stores the scan results per file. DOS further provides a graphical interface for manually curating the license findings. The stored scan and curation results are reused every time the same file appears in other packages, typically in new package versions. The file identity is SHA256 anchored. DOS uses the ScanCode toolkit for license scanning.
 
 ## Dep-Scan
 **Website:**        [Dep-Scan](https://github.com/owasp-dep-scan/dep-scan)<br>

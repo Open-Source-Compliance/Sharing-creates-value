@@ -75,6 +75,17 @@ Particular useful for complex assembled applications.
 Binary Analysis Next Generation, or BANG, is a tool for analyzing binary files. Currently its main goal is to very quickly find out the contents of binary files, such as firmware updates, and making information extracted from the contents available for further analysis, such as license compliance, security research or composition analysis. It has support for around 130 different file formats, which can be detected, unpacked and labeled.
 
 
+## BomLens
+**Website:**[BomLens](https://sktelecom.github.io/sbom-tools/)<br>
+**Main License:**
+[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
+**Summary:**<br>
+BomLens is a local-first SBOM generator and open source risk assessor from SK Telecom. It provides:
+* SBOM generation: CycloneDX SBOMs from source, containers, binaries, firmware, and HuggingFace AI models (ML-BOM with G7 minimum-elements conformance checks).
+* License compliance: open source NOTICE files and license risk reporting.
+* Risk assessment: security and license risk reports for generated or supplier-submitted SBOMs (CycloneDX/SPDX), via CLI, web UI, or desktop app. No SaaS — data stays local.
+
+
 ## Bubbly
 **Website:**        [Bubbly](https://github.com/valocode/bubbly/)<br>
 **Main License:**   [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/)<br>

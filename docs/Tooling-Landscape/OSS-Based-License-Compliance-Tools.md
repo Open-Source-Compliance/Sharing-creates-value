@@ -76,7 +76,7 @@ Binary Analysis Next Generation, or BANG, is a tool for analyzing binary files. 
 
 
 ## BomLens
-**Website:**[BomLens](https://sktelecom.github.io/sbom-tools/)<br>
+**Website:**[BomLens](https://sktelecom.github.io/bomlens/)<br>
 **Main License:**
 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<br>
 **Summary:**<br>
